@@ -1,0 +1,150 @@
+{
+  "study_id": 3,
+  "pdf_filename": "A case study of the in-class use of a video game for teaching high school history.pdf",
+  "bibtex_key": "3Watson2011466",
+  "bibliographic": {
+    "title": "A case study of the in-class use of a video game for teaching high school history",
+    "authors": [
+      "William R. Watson",
+      "Christopher J. Mong",
+      "Constance A. Harris"
+    ],
+    "year": 2011,
+    "publication_type": "journal_article",
+    "venue": "Computers & Education",
+    "doi": "10.1016/j.compedu.2010.09.007",
+    "volume": "56",
+    "pages": "466-474",
+    "publisher": "Elsevier"
+  },
+  "study_characteristics": {
+    "countries": [
+      "United States"
+    ],
+    "country_of_application": "United States",
+    "education_level": "secondary",
+    "sample_size": 98,
+    "sample_description": "Approximately 98 sophomore high school students across four class periods (each approximately 25 students) in a rural school in a small town in the Midwestern United States. About 40 students participated in focus group interviews. The teacher (Mr. Irvine) had been using the game for four years at the time of the study.",
+    "study_design": "case_study",
+    "game_type": "digital_commercial",
+    "game_name": "Making History",
+    "aim": "To understand teacher and student experiences with and perspectives on the in-class use of an educational video game (Making History) for teaching World War II in a sophomore high school history class.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study is qualitative only, with no quantitative outcome measures of learning. However, it provides rich descriptive data on the use of a video game in history education.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study does not provide an explicit definition of gamification. It conceptualizes the use of video games in education as a form of game-based learning where a commercial off-the-shelf (COTS) video game designed with educational purposes is integrated into classroom instruction. The game (Making History) is a strategy/simulation game where student groups control countries in a World War II scenario. The study frames the game as a tool for shifting from teacher-centered to student-centered learning, promoting engagement, and enabling experiential/situated learning.",
+    "theoretical_frameworks": [
+      "Constructivist grounded theory (Charmaz, 2000)",
+      "Qualitative case study approach (Stake, 1994)",
+      "Gee's theory on video games and learning (Gee, 2003/2007)",
+      "Learner-centered education (McCombs & Whisler, 1997)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": "Qualitative comparison between traditional teacher-centered classroom sessions (observed one day before game use) and game-based sessions (observed over three days). No formal experimental control group or statistical comparison.",
+    "key_outcomes": "Two major themes emerged: (1) Student engagement - students were significantly more active and engaged during game sessions compared to traditional lectures; students discussed game content outside of class; students described the experience as fun, hands-on, and challenging; even self-described non-gamers found the game enjoyable. (2) Teaching strategies and classroom integration - the teacher evolved his implementation over four years, developing strategies including teachable moments, goal orientation/reflection/position taking, and scaffolding for learning to play the game. The classroom shifted from a traditional teacher-centered environment to a learner-centered one where the teacher became a facilitator/guide rather than lecturer. However, the game did not guarantee learning - some students still had incomplete understanding on post-game quizzes.",
+    "engagement_results": "Strongly positive engagement results across all four class sections. Students were visibly more active and engaged during game play compared to traditional lecture. Specific evidence: students discussed the game outside of class (at lunch, between classes); students described the experience as fun, hands-on, and challenging; one student noted 'no one was asleep because everyone was into the game'; the game extended engagement beyond class boundaries with students seen standing outside the computer lab windows observing gameplay; even non-gamers reported enjoyment."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Team-based gameplay (teams of 2-4 students each controlling a country)",
+      "Turn-based strategy simulation (each country has different historically-based goals)",
+      "In-game line charts tracking goal progress per turn",
+      "Historical scenario (pre-WWII period leading to war)",
+      "Country-specific resource management (economics, military, civil unrest)",
+      "In-game messaging system for diplomacy between teams",
+      "Historically accurate rule-sets and resource/ally lists",
+      "Game map showing geography and country relationships"
+    ],
+    "technological_platforms": [
+      "Making History (commercial educational video game for PC, played in school computer lab)"
+    ],
+    "instructional_strategies": [
+      "Teachable moments - teacher stops gameplay to connect game events to real historical events",
+      "Goal orientation - students graded on in-game goal achievement to maintain learning focus",
+      "Reflection and position taking - students reflect on choices made by historical counterparts",
+      "Mouse rotation policy - team members take turns controlling the computer each round",
+      "Face-to-face communication allowed outside the game for group strategy",
+      "Pre-game traditional lecture to establish context before game unit",
+      "Post-game debriefing class with discussion and essay questions",
+      "Geography map quiz and short answer/essay assignments as assessments",
+      "Teacher circulates room during gameplay providing guidance and asking probing questions",
+      "No formal training demo - students learn by playing (evolved from initial approach)"
+    ],
+    "content_integration": "The game was integrated into a one-week World War II unit in a sophomore history class. The teacher spent one day on traditional lecture before the unit, followed by three days of in-class gameplay, and one day of post-game debriefing. The teacher selected a specific game module focusing on treaties between countries and causes of the war (rather than warfare itself) to align with learning objectives. The teacher used the game to promote higher-order thinking (reasoning and analysis over facts), asking essay questions such as whether the war could have been avoided. The teacher connected game events to real historical content through teachable moments and required students to reflect on decisions made by their historical counterparts."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Technical problems in the computer lab (forced larger team sizes than preferred, from 2 to 3-4 students)",
+      "Scheduling challenges - reserving computer labs for three consecutive days",
+      "Limited total class time for gameplay (approximately 3.5 hours over three days)",
+      "Noise level in classroom during gameplay made audio recording difficult for researchers and potentially affects learning",
+      "Time restraints within traditional classroom periods",
+      "Concerns about games not being taken seriously by parents and administrators",
+      "Need for teacher to find acceptable content that fits prescribed curriculum",
+      "Need for various types of support from school administration (hardware, software, scheduling)",
+      "Teacher needs thorough knowledge of the game to justify its usage"
+    ],
+    "methodology_limitations": [
+      "Single case study - limited generalizability to other situations",
+      "No quantitative measurement of learning outcomes from the game's implementation",
+      "Focus group participants limited to those who completed IRB consent forms (about 40 of 98 students)",
+      "Classroom noise made audio/video recording difficult; classroom recordings were not fully transcribed",
+      "Observation period limited to one school week (5 days)",
+      "Study focused on capturing experience rather than evaluating learning effectiveness"
+    ],
+    "negative_effects": [
+      "Some students experienced frustration and disorientation when first learning the game",
+      "Not all students demonstrated learning - some had incomplete and unanswered questions on post-game quizzes",
+      "Some off-task interactions and discussions observed during group work",
+      "At least one student appeared disengaged (sitting back, staring into space)",
+      "The game did not guarantee that learning would take place - some students still differed in understanding"
+    ],
+    "mitigation_strategies": [
+      "Teacher evolved implementation over four years based on experience and student feedback",
+      "Changed from large groups to smaller teams (ideally 2 per team) to increase hands-on time",
+      "Implemented mouse rotation policy so all team members get hands-on experience",
+      "Allowed face-to-face communication outside the game (initially restricted to in-game messaging)",
+      "Eliminated formal training demo based on student feedback that it was unnecessary",
+      "Teacher tried to turn frustrating experiences into situated learning opportunities",
+      "Introduced grading based on in-game goal achievement to keep focus on learning",
+      "Teacher actively circulated room to guide students and create teachable moments"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "yes",
+      "q1_evidence": "The study clearly identifies its case: a sophomore high school history class in a rural Midwestern US school where the teacher (Mr. Irvine) had been using Making History for four years. Four class periods of approximately 25 students each (total ~98) were observed. The rationale for case selection is implicit but reasonable - studying an experienced teacher's established practice with the game.",
+      "q2_representativeness": "no",
+      "q2_evidence": "The sample is a single teacher in a single rural high school. Only about 40 of 98 students participated in focus group interviews (limited by IRB consent forms). The case represents one experienced teacher's practice and cannot be considered representative of how video games are typically used in history classrooms.",
+      "judgment": "Moderate"
+    },
+    "domain2": {
+      "q3_valid_tools": "yes",
+      "q3_evidence": "Multiple qualitative data collection methods were used: observation (20 class sections over five days with video recording), focus group interviews (semi-structured, 10-15 minutes each, video recorded), individual teacher interview (approximately one hour, video recorded), and document analysis (assignments, geography map quiz, short answer/essay questions). These are well-established qualitative research methods. Constructivist grounded theory guided the methodology.",
+      "q4_analysis_methods": "yes",
+      "q4_evidence": "Data analysis followed grounded theory procedures (Glaser & Strauss, 1967). Researchers individually performed open-coding, then met to discuss and consolidate codes. Findings were triangulated through multiple data sources (observations, interviews, focus groups, class recordings, assignments), multiple data collectors, and multiple coders. Each researcher individually coded data before reviewing resultant codes as a group to reach consensus on final themes.",
+      "judgment": "Low"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The findings are consistently interpreted and well-supported by direct quotes from students and the teacher. The two major themes (student engagement and teaching strategies/classroom integration) are thoroughly developed with observational evidence and participant voices. The authors acknowledge that engagement did not guarantee learning and note instances where learning was incomplete.",
+      "q6_limitations_discussed": "yes",
+      "q6_evidence": "The authors explicitly discuss limitations in the Conclusions section: limited generalizability as a case study, noise level affecting data collection, focus group participation limited to consenting students, and the study's focus on experience rather than learning outcomes. They recommend future studies measuring learning outcomes and identifying best practices.",
+      "judgment": "Low"
+    },
+    "overall": "Moderate",
+    "overall_justification": "The study demonstrates strong qualitative methodology with triangulated data collection and rigorous grounded theory analysis (Domain 2: Low risk) and transparent, well-supported interpretation with openly discussed limitations (Domain 3: Low risk). However, it has moderate risk in Domain 1 due to the inherently limited representativeness of a single case study with one teacher at one school and incomplete student participation in interviews. The absence of any quantitative learning outcome measures means effectiveness claims rest entirely on qualitative observations and self-reports. Overall risk is Moderate, primarily due to the single-case design and lack of formal learning outcome assessment."
+  }
+}

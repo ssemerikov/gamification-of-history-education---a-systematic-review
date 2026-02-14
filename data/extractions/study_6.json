@@ -1,0 +1,140 @@
+{
+  "study_id": 6,
+  "pdf_filename": "Acquiring the History of the City with Collaborative Game Based Learning.pdf",
+  "bibtex_key": "6Czerwinski2018",
+  "bibliographic": {
+    "title": "Acquiring the History of the City with Collaborative Game Based Learning",
+    "authors": [
+      "Dariusz Czerwinski",
+      "Marek Milosz",
+      "Patryk Karczmarczyk",
+      "Mateusz Kutera",
+      "Marcin Najda"
+    ],
+    "year": 2018,
+    "publication_type": "book_chapter",
+    "venue": "Teaching and Learning in a Digital World, Advances in Intelligent Systems and Computing",
+    "doi": "10.1007/978-3-319-73210-7_13",
+    "volume": "715",
+    "pages": "106-115",
+    "publisher": "Springer International Publishing AG"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Poland"
+    ],
+    "country_of_application": "Poland",
+    "education_level": "higher",
+    "sample_size": 30,
+    "sample_description": "30 postgraduate computer science students (21 male, 9 female, aged 21-23) from Lublin University of Technology who had completed secondary-level history education. 17 considered themselves game players; the rest preferred other types of amusement.",
+    "study_design": "descriptive",
+    "game_type": "digital_custom",
+    "game_name": "3D Maze Collaborative Game (custom-built web-based 3D maze game for learning the history of Lublin)",
+    "aim": "To study the influence of collaborative gameplay in a 3D maze game on acquiring historical facts about the home city (Lublin), including examining student gaming preferences, motivations, and attitudes toward collaborative game-based learning.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study uses a descriptive design with no control group and relies on self-reported survey data and interviews rather than pre/post knowledge tests. The sample consists of computer science students rather than history students, which may limit generalizability to typical history education contexts.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The paper conceptualizes game-based learning as learning through fun, where games motivate, accelerate user response time, and simulate real situations. Cooperative/collaborative games are described as focusing on promoting collaboration, learning work in a team, and making common decisions, combining elements of teaching, training, communication and information with entertainment elements. The hidden educational objective is embedded within the game mechanics (solving history riddles/quests to progress through the maze).",
+    "theoretical_frameworks": [
+      "Game-based learning",
+      "Collaborative/cooperative gaming",
+      "Serious games"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Knowledge retention measured by quest type: Set colours - 70% memorised proper order; Set date - 27% memorised; Set order (historical facts) - 17% remembered proper order; Set order (other subtypes) - average over 51%; Answer select - 40% acquired new knowledge. Motivation: 73% positively motivated, 17% not motivated, 10% negatively motivated. Gaming habits: 40% played collaborative games often, 53% regularly, 7% never. Prior game-based learning experience: only 34%.",
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "Students can acquire home town historical facts through collaborative gameplay, though retention varies significantly by quest type (visual/colour tasks best retained at 70%, date-based tasks worst at 27%). Over 73% of students were positively motivated by the collaborative game-based learning experience. 23 out of 30 students found acquiring historical knowledge through the 3D maze game interesting. Students showed greater willingness to cooperate in groups during gameplay compared to their general learning preferences (54% prefer independent learning normally, but collaborative gaming shifted preference).",
+    "engagement_results": "Over 73% were positively motivated by the collaborative game-based learning; almost 17% were not motivated; 10% were negatively motivated. 23 out of 30 students said acquiring historical knowledge with the 3D maze game could be interesting. Primary motivations among game players were mental challenge and social experience."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "3D maze environment with first-person navigation",
+      "Riddles/quests embedded on maze walls (four types: set order, set date, set colours, answer select)",
+      "Collaborative roles (Lost player navigates, Helpmates advise)",
+      "Time-limited gameplay (5, 10, or 15 minutes)",
+      "Trophy cup as win condition (appears after all quests solved)",
+      "Random maze generation per game session",
+      "Difficulty levels for quests",
+      "Communication system via text messages (limited to max 50 messages per game)",
+      "Reward for correct answers; quest reappears for incorrect answers",
+      "Player statistics and leaderboard"
+    ],
+    "technological_platforms": [
+      "Web-based application (browser: Chrome 30+, Firefox 30+, IE 11, Opera 12.10+)",
+      "Server-side: PHP 5.5+",
+      "Database: PostgreSQL 9.3+",
+      "JavaScript for client-side 3D rendering"
+    ],
+    "instructional_strategies": [
+      "Collaborative/cooperative learning through designated player roles (Lost and Helpmates)",
+      "Problem-based learning through historical riddles/quests",
+      "Learning by doing (embedded knowledge acquisition during gameplay)",
+      "Peer consultation and group problem-solving via chat communication",
+      "Randomized quest selection from database to provide varied content"
+    ],
+    "content_integration": "Historical content about the city of Lublin is integrated as riddles/quests placed on the walls of the 3D maze. Four quest types cover different historical knowledge: ordering events (universities, districts, historical facts, annexations), entering dates (city history, WWII), identifying colours (city coat, voivodeship), and selecting correct answers (monuments, local authorities). The game was developed in context of Lublin's 700th anniversary. Quests are stored in a database and randomly drawn per game session with assigned difficulty levels."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Only 34% of students had prior experience with game-based learning, suggesting low awareness/adoption",
+      "10% of students were negatively motivated by the game-based learning approach",
+      "54% of students prefer to learn independently, which may conflict with the mandatory collaborative nature of the game",
+      "Technical requirements (specific browser versions, server infrastructure) may limit deployment"
+    ],
+    "methodology_limitations": [
+      "Small sample size (n=30) limits generalizability",
+      "No control group or pre/post test design to measure actual knowledge gain",
+      "Participants were computer science postgraduate students known to researchers, introducing potential selection and social desirability bias",
+      "Self-reported data on knowledge retention rather than objective assessment",
+      "No validated measurement instruments; simple three-point motivation scale acknowledged as limited",
+      "Homogeneous sample (computer science students aged 21-23) may not represent typical history learners"
+    ],
+    "negative_effects": [
+      "10% of participants were negatively motivated by the experience",
+      "Low retention for date-based quests (only 27%) and historical facts ordering (only 17%)",
+      "Some quest types showed poor knowledge retention suggesting the game design may not be equally effective for all types of historical content"
+    ],
+    "mitigation_strategies": [
+      "Use of multiple quest types to address different learning modalities",
+      "Adjustable difficulty levels for quests",
+      "Flexible game duration options (5, 10, 15 minutes)",
+      "Quest reappearance mechanism when wrong answers are given, reinforcing learning"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "no",
+      "q1_evidence": "No formal inclusion/exclusion criteria for participant selection. Participants were 'students who were known to the researchers' - a convenience sample from a single university department (computer science). No justification for sample size or selection method provided.",
+      "q2_representativeness": "no",
+      "q2_evidence": "Sample consists entirely of postgraduate computer science students aged 21-23 from Lublin University of Technology (21 male, 9 female). This is a highly homogeneous group not representative of typical history education learners. The gender imbalance (70% male) and the fact they were known to the researchers further limits representativeness.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "no",
+      "q3_evidence": "The study used an unvalidated 10-question survey and informal interviews. The motivation measurement used only a three-point scale (positively motivated, not motivated, negatively motivated), which the authors themselves acknowledged as limited: 'At this stage of the research this three-point scale was sufficient to differentiate between positive and negative perceptions.' Knowledge retention was assessed by self-report on quest recall, not validated knowledge tests.",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "Analysis is purely descriptive with simple percentages. No statistical tests were applied. No pre-test/post-test comparison. No control group. No inferential statistics to support claims about knowledge acquisition effectiveness. The conclusion that 'students can acquire the home town historical facts much faster when they are playing collaborative game' is not supported by the study design.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "no",
+      "q5_evidence": "The conclusion states 'the results of the research clearly showed that the students can acquire the home town historical facts much faster when they are playing collaborative game' but the study had no comparison condition or baseline measurement to support 'much faster' claims. The study only measured recall of game content after playing, not comparative speed or effectiveness vs. any alternative.",
+      "q6_limitations_discussed": "partial",
+      "q6_evidence": "The authors acknowledge that the three-point motivation scale was limited ('At this stage of the research this three-point scale was sufficient'). They also note that some participants were negatively motivated. However, they do not discuss the lack of a control group, the convenience sampling, the absence of validated instruments, or the small sample size as limitations.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high risk of bias across all three domains. The sample is a small (n=30) convenience sample of computer science students known to the researchers, with no formal selection criteria. Data collection used unvalidated instruments (simple survey and informal interviews) with no pre/post design or control group. The analysis is purely descriptive with no statistical tests. Most critically, the conclusions overstate what the data can support - claiming collaborative gaming leads to faster knowledge acquisition when no comparative condition existed. The study functions primarily as a design description and preliminary user feedback report rather than a rigorous evaluation of learning outcomes."
+  }
+}

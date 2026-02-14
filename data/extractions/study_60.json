@@ -1,0 +1,149 @@
+{
+  "study_id": 60,
+  "pdf_filename": "Teaching History With Custom-Built Board Games.pdf",
+  "bibtex_key": "60Hoy2018",
+  "bibliographic": {
+    "title": "Teaching History With Custom-Built Board Games",
+    "authors": [
+      "Benjamin Hoy"
+    ],
+    "year": 2018,
+    "publication_type": "journal article",
+    "venue": "Simulation & Gaming",
+    "doi": "10.1177/1046878118763624",
+    "volume": null,
+    "pages": "1-19",
+    "publisher": "SAGE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Canada"
+    ],
+    "country_of_application": "Canada",
+    "education_level": "undergraduate and graduate (university)",
+    "sample_size": 88,
+    "sample_description": "88 participants from History and Indigenous Studies: 61 undergraduate students (from two second-year American History survey courses and one fourth-year Aboriginal History seminar) and 18 M.A. students (from Indigenous Studies and History programs across two iterations of a Methods in Historical Research course) plus 9 undergraduate students from a fourth-year seminar, at the University of Saskatchewan",
+    "study_design": "qualitative pilot study with mixed-methods data collection (anonymous feedback forms with Likert-scale ratings, facilitator observation, and external observation)",
+    "game_type": "custom-built non-digital board game",
+    "game_name": "POLICING THE SOUND",
+    "aim": "To investigate the potential of a custom-built board game as a means to teach historical empathy, improve class participation, and improve student understanding of the limitations of archival collections",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study is a pilot with primarily qualitative and descriptive survey data; no control group or formal experimental design is used.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes gamification through custom-built board games as controlled, immersive, and interactive environments that allow players to make decisions within a constrained historical setting. Games are distinguished from simulations by being non-obligatory, pleasure-providing activities bound by rules with meaningful choices. The author frames custom-built games as distinct from commercial off-the-shelf games because they can model disciplinary approaches, theoretical concepts, and structural limitations in evidence directly from archival research.",
+    "theoretical_frameworks": [
+      "Historical empathy",
+      "Game-based learning",
+      "Experiential learning through simulation",
+      "Research methodology pedagogy"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Anonymous feedback forms (n=88) using 1-5 Likert scales on three questions: enjoyability (mean 4.7/5), whether the game made clear historical arguments (mean 4.5/5), and effectiveness compared to traditional means (lecture). The vast majority rated the game at least 4 out of 5 on both enjoyment and historical argument clarity.",
+    "statistical_results": "Descriptive statistics only. Mean enjoyability rating: 4.7 out of 5. Mean historical argument clarity rating: 4.5 out of 5. No inferential statistics or significance testing was conducted.",
+    "comparative_methodology": "Comparison between graduate (n=7 from one observed session, n=18 total) and undergraduate (n=28 from one observed session, n=70 total) student responses. Also a survey question comparing game effectiveness to traditional lecture. No formal control group.",
+    "key_outcomes": "Student participation and understanding of historical context improved during the game. Custom-built board games increase student participation and teach not only historical content (facts, names, dates) but also complex ideas such as research methodologies and historical empathy. Groups resolved confusion more efficiently than individuals. Time-constrained decision-making helped maintain engagement. Inability to win did not cause disengagement in short games. Structured debriefing was essential for achieving educational goals.",
+    "engagement_results": "External observers noted that by the second round, every student appeared engaged; only one student did not engage during the first round. High levels of engagement in the debrief after the game exceeded other activities attempted in the course (primary source readings, short movie clips). Increased participation during the game did not last beyond the game session itself. Graduate and undergraduate students showed similar enjoyment and belief in historical argument quality, but curricular differences influenced how each group approached the game."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Asymmetric gameplay (eight community teams vs. one customs inspector team)",
+      "Bluffing/risk assessment mechanic (adapted from Sheriff of Nottingham)",
+      "Custom-made cards and components based on archival records",
+      "Time-constrained decision-making (3-4 minutes per round for team discussion)",
+      "Five rounds progressing from 1879 to 1892 in three-year intervals",
+      "Wealth accumulation as victory condition",
+      "Card-based resource management (community-specific product decks)",
+      "Uneven resource distribution across communities to reflect historical inequalities",
+      "Semi-structured debriefing questions (7 questions in Appendix A)",
+      "Facilitator-led map introduction and backstory"
+    ],
+    "technological_platforms": [
+      "Non-digital tabletop board game (cardstock and illustration board, later printed cards from Printer Studio, CowCow, ArtsCow)"
+    ],
+    "instructional_strategies": [
+      "Game-based learning with custom-built board game",
+      "Structured post-game debriefing session (approximately 40 minutes)",
+      "Small group collaborative decision-making (teams of varying sizes)",
+      "Whole-class discussion during debriefing",
+      "Informal surveys interspersed with debriefing discussion (show of hands)",
+      "Asymmetric roles to foster multiple historical perspectives",
+      "Archival research integration into game mechanics",
+      "Facilitator observation and anonymous written feedback"
+    ],
+    "content_integration": "The game POLICING THE SOUND is built directly from archival records from the Customs and Immigration records at the National Archive in Seattle (U.S. Customs Service, 1886-1912) and U.S. District Courts Western District Washington. The game models smuggling along the BC-Washington border in the nineteenth century, with cargo values changing over time to reflect historical progression. Communities represent real West Coast locations (New Westminster, Point Roberts, Port Townsend, Neah Bay, Bellingham Bay/Lummi Island, Victoria, Colville, and Metlahatla/Haida Gwaii). The game models both the historical content and the limitations and biases of archival sources, prompting students to interpret how accurately the archival collection represents the past."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "The term 'instructional game' is considered an oxymoron since game play is voluntary while instruction is nonvoluntary",
+      "Good game design (meaningful decisions) conflicts with the historical profession's emphasis on studying what actually happened rather than counterfactuals",
+      "Commercial off-the-shelf games often use ahistorical timelines, counterfactual narratives, or supernatural overtones",
+      "Variable class duration, changing numbers of students, and limited access to equipment",
+      "In-game bookkeeping and rule enforcement must be handled manually in board games (no computer automation)",
+      "Detailed rule explanations require additional setup time",
+      "Board games do not allow saving game state, requiring reserved physical space or single-session completion",
+      "High learning curve and time investment required to develop custom interactive activities",
+      "Participation increased during the game but returned to pre-game levels by the next class session",
+      "Commercial off-the-shelf games focus on military conquest and civilization building, with few games covering social and cultural history topics taught at university level"
+    ],
+    "methodology_limitations": [
+      "Pilot study with no control group or formal experimental design",
+      "Primarily qualitative and descriptive survey data without inferential statistics",
+      "Small graduate student sample (n=7 in some analyses, n=18 total)",
+      "Feedback forms were anonymous, limiting ability to track individual student changes",
+      "External observation was conducted for only one session (a forty-person undergraduate class)",
+      "No pre-test/post-test design to measure learning gains",
+      "Self-reported enjoyment and perceived learning may not reflect actual knowledge acquisition",
+      "Engagement effects did not persist beyond the game session"
+    ],
+    "negative_effects": [
+      "Occasional student confusion about rules, especially when playing individually rather than in groups",
+      "Disengagement during first round as some students finished turns before others",
+      "Uneven distribution of resources made winning difficult or impossible for some communities, recognized by mid-game",
+      "Students skipped over in-game text and content to reach gameplay goals faster",
+      "Increased participation during the game did not last beyond the session"
+    ],
+    "mitigation_strategies": [
+      "Grouping players into small teams to resolve rule confusion more efficiently than individual play",
+      "Time-constrained decision-making to maintain engagement and reduce waiting",
+      "Structured debriefing session to ensure learning objectives were met even when game mechanics were simplified",
+      "Debriefing questions designed in tandem with game design to address omissions from streamlined gameplay",
+      "Using the inability-to-win situation as a debriefing discussion opportunity about aggregate vs. per capita wealth and misleading depictions of historic communities",
+      "Cutting complex mechanics (e.g., bribery) during playtesting and replacing them with debriefing questions to maintain educational goals"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly describes the target population: 88 participants across five undergraduate and graduate classes at the University of Saskatchewan. The inclusion of both undergraduate and graduate students is explicitly stated and justified.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample is drawn entirely from one university (University of Saskatchewan, Canada) and from specific history and indigenous studies courses. The convenience sample of classes taught or associated with the author limits generalizability. No randomization or systematic sampling was employed.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "Data were collected via anonymous feedback forms with three Likert-scale questions (1-5), facilitator observation by the author, and external observation by two colleagues for one session. The feedback instrument was not validated, and the Likert items were custom-designed without reported psychometric properties.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Analysis is primarily descriptive (means reported) and qualitative (observation narratives, student comments). No inferential statistics, no pre-/post-test design, and no systematic qualitative analysis method (e.g., thematic coding) is described. The author served as both game designer, facilitator, and primary data analyst, introducing potential bias.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Low concern",
+      "q5_evidence": "The findings are presented as seven practical lessons supported by participant feedback and observation data. The interpretations are generally consistent with the data presented, and the author acknowledges limitations and alternative explanations (e.g., engagement not persisting beyond the session).",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The author openly discusses limitations including the pilot nature of the study, the lack of persistent engagement effects, the challenge of the 'instructional game' oxymoron, and the high learning curve for developing custom games. The conclusion appropriately frames findings as suggestive rather than definitive.",
+      "judgment": "Low"
+    },
+    "overall": "High",
+    "overall_justification": "While the study provides valuable qualitative insights into the use of custom-built board games in history education, the overall risk of bias is high due to: (1) a convenience sample from a single institution with the researcher as facilitator, (2) unvalidated measurement instruments, (3) absence of inferential statistics or a control group, (4) the author serving in multiple roles (designer, facilitator, analyst) without independent verification, and (5) reliance on self-reported data. The transparent discussion of limitations partially mitigates these concerns but does not eliminate the fundamental methodological weaknesses."
+  }
+}

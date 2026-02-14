@@ -1,0 +1,156 @@
+{
+  "study_id": 22,
+  "pdf_filename": "Development of Educational Game for Indonesian History Lesson Focusing on Indonesia Pre-Literacy Relics 'Prehistoria' for Grade X High School Student.pdf",
+  "bibtex_key": "22Nugroho2020149",
+  "bibliographic": {
+    "title": "Development of Educational Game for Indonesian History Lesson Focusing on Indonesia Pre-Literacy Relics 'Prehistoria' for Grade X High School Student",
+    "authors": [
+      "Supeno Mardi Susiki Nugroho",
+      "Muhammad Daffa Abiyyu Rahman",
+      "Mochamad Hariadi",
+      "Muhammad Arief"
+    ],
+    "year": 2020,
+    "publication_type": "conference paper",
+    "venue": "2020 International Conference on Computer Engineering, Network and Intelligent Multimedia (CENIM 2020)",
+    "doi": null,
+    "volume": null,
+    "pages": "149-154",
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Indonesia",
+      "Japan"
+    ],
+    "country_of_application": "Indonesia",
+    "education_level": "High school (Grade X / 10th grade)",
+    "sample_size": 5,
+    "sample_description": "5 respondents who completed the survey (4 from 10th grade, 1 from 12th grade); additional users played the game and contributed playtime data recorded on the server",
+    "study_design": "Design and development research with post-play survey using 5-point Likert scale questionnaire",
+    "game_type": "Puzzle-adventure digital educational game (2D, WebGL browser-based)",
+    "game_name": "Prehistoria",
+    "aim": "To create a puzzle-adventure type digital game that can help educate Grade X high school students about the Indonesian pre-literacy period, developed with Unity and deployed via WebGL, aligned with Indonesia's revised 2013 national curriculum",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Very small sample size (n=5 respondents); no pre-post test of learning outcomes; primarily a game development study with limited evaluation of educational effectiveness; COVID-19 pandemic prevented controlled face-to-face testing",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study frames the work as gamification of Indonesian History education, conceptualizing it as using educational games (a subset of serious games) as a medium of education alongside existing methods. Educational games are defined as serious games used in education, while serious games are games designed, developed, and used outside of entertainment purposes. The gamification approach involves creating a curriculum-aligned digital game (puzzle-adventure) that integrates historical content from the pre-literacy period into gameplay mechanics.",
+    "theoretical_frameworks": [
+      "Serious games framework (games designed outside entertainment purposes)",
+      "Curriculum-aligned game design (Indonesia's revised 2013 national curriculum)",
+      "Game-based learning as supplementary educational medium"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Object recognition rates by respondents (e.g., Cave Painting recognized by all 5, Trilobites by only 1); Age recognition rates (Megalithic by 3, Paleozoic by only 1, one respondent recognized no ages); Average gameplay completion time of 254.36 seconds across 5 levels",
+    "statistical_results": "Descriptive statistics only (frequency counts and averages). Average play time per level: Level 1 = 38.96s, Level 2 = 63.2s, Level 3 = 60s, Level 4 = 64.1s, Level 5 = 28.1s. Total average game time = 254.36 seconds. 60% recognized puzzle genre, 40% recognized adventure genre. No inferential statistics reported.",
+    "comparative_methodology": null,
+    "key_outcomes": "The game was successfully developed and is playable in approximately 4-5 minutes. Many ancient objects were well-recognized by respondents (e.g., Cave Painting by all 5 respondents, Menhir and Planting by 4). However, some objects (Trilobites, Cephalaptis, Ax, Moko) were recognized by only 1 respondent. Age recognition was problematic, with one respondent not recognizing any historical age. The survey identified multiple usability issues including difficult-to-use arrow movement controls, disruptive UI, hard-to-understand health and toggle status features, and a strong need for a tutorial.",
+    "engagement_results": "Enemy challenge was rated as adequate (3 of 5 respondents rated it 'Good'). Difficulty perception varied widely among respondents. 4 of 5 respondents said a tutorial would benefit the game. UI was perceived as disruptive by 3 of 5 respondents. Arrow movement was perceived as very difficult to use by 3 of 5 respondents."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Level progression across 5 historical periods (Paleozoic, Mesolithic, Neolithic, Megalithic, present day)",
+      "Photo capture mechanic (photographing historical objects at target spots)",
+      "Health system (HP bar decreasing upon enemy contact)",
+      "Inventory system (collecting photographed objects)",
+      "Two enemy types (patrolling ancient humans and chasing assassins)",
+      "Fog of war map system (areas revealed as player explores)",
+      "Arrow movement controls (directional navigation)",
+      "Toggle status HUD visibility",
+      "Puzzle elements (finding objects, navigating maps)",
+      "Adventure elements (time travel narrative, exploration)",
+      "Level-based difficulty scaling"
+    ],
+    "technological_platforms": [
+      "Unity 2018 game engine",
+      "WebGL (browser-based deployment)",
+      "2D art style",
+      "Web server deployment (ruangilusiteknologi.com/prehistoria/)"
+    ],
+    "instructional_strategies": [
+      "Curriculum synergy with Indonesia's revised 2013 national curriculum (Erlangga 10th Grade Indonesian History textbook)",
+      "Experiential learning through time travel narrative (exploring historical periods firsthand)",
+      "Object discovery and identification (photographing ancient relics and artifacts)",
+      "Progressive historical period exploration (Paleozoic through Megalithic)",
+      "Contextual learning through map environments designed to represent different historical ages",
+      "Information display when photographing objects (showing object name and details)"
+    ],
+    "content_integration": "Historical content from the pre-literacy period of Indonesian history is directly integrated into the gameplay. Each of the five game levels corresponds to a specific historical age (Paleozoic, Mesolithic, Neolithic, Megalithic, and present day). Players collect photographs of period-specific artifacts and relics (e.g., Trilobites and Cephalaptis for Paleozoic; hunting tools, Kjokkenmoddinger, cave paintings for Mesolithic; axes, pickaxes for Neolithic; Menhir, Nekara, Moko, Sarcophagus for Megalithic). Content was selected directly from the Erlangga 10th Grade Indonesian History textbook to align with the national curriculum."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "COVID-19 pandemic prevented face-to-face controlled testing environment due to government restrictions",
+      "Very small sample size (only 5 respondents) limiting generalizability",
+      "Performance/loading speed issues with WebGL deployment",
+      "UI perceived as disruptive by majority of respondents",
+      "Arrow movement controls found very difficult to use by majority",
+      "Several game features (Health, Toggle Status) poorly understood by respondents",
+      "Adventure elements not well-recognized by respondents (only 40%)",
+      "Map coloring did not effectively indicate which historical age/period the player was in",
+      "Some historical objects and ages not well-recognized despite being in-game"
+    ],
+    "methodology_limitations": [
+      "Very small sample size (n=5 respondents) with no power analysis",
+      "No control group or pre-post test design to measure actual learning outcomes",
+      "No validated assessment instrument for measuring historical knowledge acquisition",
+      "Convenience sampling (4 students from 10th grade, 1 from 12th grade)",
+      "Survey-based evaluation only with 5-point Likert scale; no objective learning measures",
+      "COVID-19 restrictions prevented controlled experimental conditions",
+      "Limited to a single textbook as curriculum reference (Erlangga publisher)",
+      "No comparison with other teaching methods or tools",
+      "Descriptive statistics only; no inferential statistical analysis"
+    ],
+    "negative_effects": [
+      "One respondent could not recognize any historical age from the game",
+      "Several historical objects recognized by only 1 of 5 respondents (Trilobites, Cephalaptis, Ax, Moko)",
+      "UI disruption during gameplay reported by majority of respondents",
+      "Arrow movement controls perceived as very difficult, potentially hindering learning experience",
+      "Toggle Status feature almost unrecognized (only 1 of 5 respondents)",
+      "Health feature difficult to understand despite being a core mechanic"
+    ],
+    "mitigation_strategies": [
+      "Authors recommend adding a tutorial to help players understand game features and mechanics",
+      "Recommend improving adventure elements to increase recognition",
+      "Suggest optimizing game loading performance",
+      "Propose improving clarity of historical objects in the game",
+      "Recommend making features easier to understand",
+      "Suggest adding more content within the pre-literacy period",
+      "Propose future full human-machine interaction and content testing"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "No clear inclusion/exclusion criteria for participant selection. Only 5 respondents were used (4 from 10th grade, 1 from 12th grade), with no explanation of how they were selected or recruited. The 12th-grade student is outside the target population (10th grade).",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Sample of 5 respondents is extremely small and unlikely to be representative of the target population (Grade X high school students in Indonesia). No demographic information beyond grade level is provided. COVID-19 restrictions prevented proper controlled testing.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "The survey questionnaire was custom-designed with no reported validation. It uses a mix of binary yes/no questions, 5-point Likert scales, and open recognition questions. No reliability or validity metrics are reported for the instrument. The 5-point Likert scale is referenced but the questionnaire itself was not validated.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Only descriptive statistics (frequency counts and simple averages) are reported. No inferential statistics, no effect sizes, no confidence intervals. The average formula is presented but applied only to gameplay time data. No validated analysis framework for educational effectiveness is used.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Moderate concern",
+      "q5_evidence": "The authors present results that are broadly consistent with the data shown in their tables. They acknowledge negative findings (poor object/age recognition, UI problems, control difficulties). However, the claim of 'potential for educational use' in the abstract is not strongly supported by the survey data, which shows significant recognition failures.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The authors include a dedicated 'Limitation and Future Works' section acknowledging COVID-19 constraints, limited scope (Indonesian History only), tool limitations, and identifying specific areas for improvement. They also discuss limitations within the Discussion section, noting problems with object recognition, age recognition, UI, and controls.",
+      "judgment": "Moderate"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high overall risk of bias primarily due to: (1) extremely small sample size of only 5 respondents with no justification or power analysis; (2) no validated measurement instruments; (3) no control group or pre-post design to assess actual learning outcomes; (4) only descriptive statistics with no inferential analysis; (5) convenience sampling with one participant outside the target population; and (6) COVID-19 preventing proper controlled testing conditions. The study is primarily a game development and usability report rather than a rigorous evaluation of educational effectiveness."
+  }
+}

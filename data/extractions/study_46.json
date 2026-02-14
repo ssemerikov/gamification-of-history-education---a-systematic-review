@@ -1,0 +1,152 @@
+{
+  "study_id": 46,
+  "pdf_filename": "Learning About the Past Through Digital Play History Students and Video Games.pdf",
+  "bibtex_key": "46Stirling2022",
+  "bibliographic": {
+    "title": "Learning About the Past Through Digital Play: History Students and Video Games",
+    "authors": [
+      "Eve Stirling",
+      "Jamie Wood"
+    ],
+    "year": 2022,
+    "publication_type": "book chapter",
+    "venue": "Handbook of Digital Public History (De Gruyter)",
+    "doi": "10.1515/9783110712032-002",
+    "volume": null,
+    "pages": "29-43",
+    "publisher": "De Gruyter"
+  },
+  "study_characteristics": {
+    "countries": [
+      "United Kingdom"
+    ],
+    "country_of_application": "United Kingdom",
+    "education_level": "higher education (university)",
+    "sample_size": 213,
+    "sample_description": "Over 200 history students who responded to a survey about their perceptions of learning about history through playing video games; respondents were self-selecting student gamers",
+    "study_design": "qualitative survey with speculative design fiction",
+    "game_type": "commercial historical video games (various genres including strategy, RPG, action-adventure)",
+    "game_name": "Various (Assassin's Creed series mentioned prominently; also strategy games set in medieval periods)",
+    "aim": "To examine history students' perceptions of their learning about the past through playing video games, and to understand students' roles as active agents in learning about the past through virtual play rather than as passive consumers of digital products",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses on informal/leisure gameplay of commercial historical video games rather than formal classroom gamification interventions; it is a survey-based qualitative study about perceptions of learning rather than a controlled experiment measuring learning outcomes",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study does not provide an explicit definition of gamification. Instead, it conceptualizes the use of historical video games as a form of digital play through which students learn about history. The authors frame historical gaming as active engagement with the past through ludic structures, narrative, and agency within simulated historical environments. They also describe a university module (MD 348211 - Playing the Past: making history in digital spaces 01) that incorporates historical game-based learning including RPG elements, strategy gameplay, VR, game design/modding, and collaborative play.",
+    "theoretical_frameworks": [
+      "Player agency and subjectivity in digital games (Charles 2009)",
+      "Historical game accuracy and authenticity (Copplestone 2017; Stirling and Wood 2021)",
+      "Self-Determination Theory / motivational model of video game engagement (Przybylski, Rigby, and Ryan 2010)",
+      "Games as historical simulations (Uricchio 2005; Chapman 2016)",
+      "Speculative design fiction / design fiction prototyping (Sterling; Dunne and Raby 2013)",
+      "Narrative approaches to qualitative data analysis (Atkinson and Delamont 2005; Clandinin and Connelly 2000; Bold 2011)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Table 2.1 presents frequency data from survey responses (n=213): Learn something (154), Try to find out more (148), Play another game (124), Talk to someone (93), Change the way you play the game (85), Visit a forum (47), Visit a place (43), Other (10). Follow-up on how gamers tried to find out more: online research (149), books (87), Wikipedia (86). 40% of respondents said they changed the way they played the game.",
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "Students perceived historical video games as powerful tools for learning about history. Key findings: (1) Motivation - students reported intrinsic motivation through agency, empowerment, and immersion in historical settings; interest in specific historical periods was sparked or deepened. (2) Experience - aesthetics, social interaction, choice/agency, and challenge were vital factors for positive gaming experience; games encouraged collaborative and social learning. (3) Learning - students reported learning historical information, engaging in historical/counterfactual thinking, understanding systemic contexts, and being motivated to conduct additional research outside the game. Gameplay extended beyond information acquisition to engagement in processes of historical thinking.",
+    "engagement_results": "Students reported high engagement through: sense of agency and empowerment ('The plot arc gives a real sense of empowerment'), deep engagement with historical characters/polities, immersion in authentic historical environments, social/collaborative gameplay, replay value through different historical scenarios, and motivation to research topics beyond the game world (online research, books, Wikipedia, visiting places)"
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Player agency and choice in historical scenarios",
+      "Counterfactual/alternative history pathways",
+      "Historical accuracy and authenticity in game environments",
+      "High-quality visual aesthetics and graphics",
+      "Music and atmospheric elements",
+      "In-game encyclopaedias for historical information",
+      "Narrative and storyline set in historical periods",
+      "Strategy and resource management mechanics",
+      "RPG role-playing as historical characters",
+      "Re-playability with different outcomes",
+      "Game modding capabilities",
+      "Side quests with historical content",
+      "Collaborative/multiplayer elements",
+      "Challenge and difficulty progression"
+    ],
+    "technological_platforms": [
+      "Commercial video game platforms (PC, console)",
+      "VR rooms (mentioned in context of university module)"
+    ],
+    "instructional_strategies": [
+      "Speculative design fiction as pedagogical framing",
+      "University module combining gameplay with reflective learning (learning diaries, blog posts, quick voice memos)",
+      "Game design/modding as learning activity",
+      "Collaborative and team-based gameplay",
+      "Encouraging students to research historical topics beyond the game",
+      "Assessment based on engagement and reflection rather than traditional exams",
+      "Using student survey responses to inform module design"
+    ],
+    "content_integration": "Historical content is integrated through authentic historical settings, characters, events, and processes embedded within game narratives and mechanics. Games simulate historical environments (e.g., medieval Italy, Ancient Rome) allowing students to experience and interact with historical contexts. The university module described uses a week-long gameplay experience across different game types (first-person, strategy, collaborative) combined with reflective writing and game design activities. Students engage with historical content through active play, decision-making within historical scenarios, and counterfactual exploration."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Self-selecting sample - respondents were already enthusiastic gamers and positive about gaming",
+      "Student perception that gaming modules are not 'proper' History",
+      "Limited capacity on module (cap of 40 students)",
+      "Tension between games as entertainment vs. educational tools",
+      "Games create an 'illusion of agency' rather than true historical understanding",
+      "Historical accuracy concerns - games are 'not very accurate' representations of the past",
+      "Pathways in games are often restricted and can reinforce established or hegemonic interpretations",
+      "Need for institutional support (e.g., 24-hour learning center access, VR equipment, game engine partnerships)"
+    ],
+    "methodology_limitations": [
+      "Self-selecting survey sample leads to overwhelmingly positive responses about gaming",
+      "Qualitative survey data limits generalizability",
+      "No control group or comparative condition",
+      "No direct measurement of actual learning outcomes - relies on self-reported perceptions",
+      "The speculative design fiction methodology is exploratory and generative rather than conclusive",
+      "Fiction was 80% participant voices and 20% narrative voice, introducing authorial interpretation",
+      "Study focuses on perceptions rather than objectively measured knowledge gains"
+    ],
+    "negative_effects": [
+      "Risk of reinforcing colonialist and hegemonic ideologies through game narratives",
+      "Games can direct gamers toward specific interpretations of the past, particularly in strategy games",
+      "Potential for games to create illusion of agency rather than genuine historical understanding",
+      "Some students may view gaming modules as not academically rigorous"
+    ],
+    "mitigation_strategies": [
+      "Using speculative design fiction to imagine alternative futures for history education",
+      "Combining gameplay with reflective activities (learning journals, voice memos, blog posts)",
+      "Including game design/modding to develop critical understanding of game construction",
+      "Incorporating multiple game types and collaborative activities",
+      "Drawing on user-centered approaches to understand student perspectives",
+      "Assessment designed around engagement and reflection"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "The study uses a self-selecting convenience sample of student gamers who chose to respond to the survey. The authors explicitly acknowledge that 'respondents to our survey were self-selecting and, as such, were unsurprisingly positive about the experience of playing video games.' No formal inclusion/exclusion criteria for participants are described beyond being history students who play video games.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample of 213 respondents represents only students who are already enthusiastic gamers. The authors acknowledge this limitation. The sample is drawn from a single university context in the UK, limiting representativeness. No demographic breakdown is provided beyond being history students.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Unclear",
+      "q3_evidence": "The survey instrument is not described in detail. The study mentions survey questions with predefined response options (Table 2.1) and free-text responses, but no information is provided about instrument validation, piloting, or reliability. The speculative design fiction approach is a creative methodology but lacks standardized evaluation criteria.",
+      "q4_analysis_methods": "Low concern",
+      "q4_evidence": "The authors describe their thematic analysis approach: they separately coded the dataset, identified themes, came together to review and cross-check codes and emerging themes, and extracted representative quotes. They were transparent about the fiction being 80% participant voices and 20% narrative voice. The analytical approach follows established qualitative methods (Atkinson and Delamont; Clandinin and Connelly).",
+      "judgment": "Unclear"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Low concern",
+      "q5_evidence": "The findings are consistently presented across three themes (motivation, experience, learning) that align with the research aims. Survey data (Table 2.1) and qualitative quotes support the interpretations made. The speculative design fiction is clearly distinguished from the analytical discussion.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The authors explicitly acknowledge the self-selecting nature of their sample and the overwhelmingly positive responses this produced. They discuss the paradox of gamers being 'tightly constrained in their ability to experience the past' while still finding gaming valuable. Limitations of the speculative design fiction approach are partially acknowledged through its framing as exploratory and generative.",
+      "judgment": "Low"
+    },
+    "overall": "High",
+    "overall_justification": "While the qualitative analysis and interpretation are conducted with reasonable methodological rigor, the study has significant limitations in its sampling approach (self-selecting enthusiastic gamers), lack of validated instruments, absence of direct learning outcome measurement, and limited generalizability from a single UK university context. The speculative design fiction methodology is innovative but makes it difficult to separate empirical findings from creative interpretation. The study provides valuable qualitative insights into student perceptions but cannot support strong causal claims about the effectiveness of historical video games for learning."
+  }
+}

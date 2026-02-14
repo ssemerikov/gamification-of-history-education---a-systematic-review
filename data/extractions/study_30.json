@@ -1,0 +1,149 @@
+{
+  "study_id": 30,
+  "pdf_filename": "Game Based Learning Model for History Courseware A Preliminary Analysis.pdf",
+  "bibtex_key": "30Zin2008",
+  "bibliographic": {
+    "title": "Game Based Learning Model for History Courseware: A Preliminary Analysis",
+    "authors": [
+      "Nor Azan Mat Zin",
+      "Wong Seng Yue"
+    ],
+    "year": 2008,
+    "publication_type": "conference paper",
+    "venue": "IEEE Conference (International Symposium on Information Technology, ITSim 2008)",
+    "doi": "10.1109/ITSIM.2008.4631565",
+    "volume": null,
+    "pages": null,
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Malaysia"
+    ],
+    "country_of_application": "Malaysia",
+    "education_level": "Secondary school (Form Four, equivalent to 10th grade)",
+    "sample_size": 597,
+    "sample_description": "582 Form Four students and 15 history teachers from five secondary schools in Kajang, Selangor, Malaysia. Additionally, SPM performance reports from 2002 to 2005 were analyzed as document analysis.",
+    "study_design": "Mixed methods: document analysis of SPM performance reports (2002-2005), questionnaire survey, and teacher interviews; followed by a design proposal (GBL Model)",
+    "game_type": "Game-based learning courseware (proposed model, not yet implemented)",
+    "game_name": "No specific game developed; references Civilization III and EVE museum online game as examples from literature",
+    "aim": "To conduct a preliminary analysis of problems in history learning at secondary school level, assess students' readiness for digital game-based learning, and propose a Game Based Learning (GBL) Model for history courseware design",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is primarily a needs analysis and design model proposal rather than an evaluation of an implemented game-based intervention. No game was actually developed or tested with students. The study proposes a GBL model but does not measure learning outcomes from any game intervention.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "Game Based Learning (GBL) is defined as: (1) a paradigm which utilizes the game as a medium for conveying the learning contents (citing Tan et al.); (2) leveraging the power of computer games to captivate and engage end users for a specific purpose, such as to develop new knowledge and skills (citing Corti); (3) an application which uses the characteristics of video and computer games to create engaging and immersive learning experiences for delivering specified learning goals, outcomes and experiences (citing Freitas).",
+    "has_explicit_definition": true,
+    "conceptualization": "GBL is conceptualized as an educational paradigm integrating digital game design elements with pedagogy to create interactive courseware for history education. The authors see GBL as a way to make history learning more engaging and to overcome problems of memorization-heavy, boring instruction. Their proposed model has two main pillars: Pedagogy (learning goal setting, learning theory setting, educational psychology, country curriculum needs, patriotism and moral value, memorization and forgetting theory) and Digital Games (game story background, rules, immersive, enjoyment, feedback, multimedia technology, challenge and competition, reward/award), leading to student engagement and cooperation.",
+    "theoretical_frameworks": [
+      "Game Based Learning (GBL) frameworks from Tan et al. (pedagogical and game design components)",
+      "Clark's GBL principles (Design Specification and Engagement)",
+      "Garzotto's four factors for educational effectiveness of multiplayer e-gaming (usability, content, enjoyment, social interaction)",
+      "Memorization and forgetting theory (Davidovitch et al.)",
+      "Educational psychology",
+      "Malaysian National Education Philosophy and KBSM curriculum framework"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Descriptive statistics (percentages) from student and teacher surveys: 79% of students have problems learning history; 70.6% find it difficult to memorize historical facts; 44.5% have no interest due to boring text books; 92% of students have experience playing digital games; 83.6% like playing games; 69.5% stated playing games brings advantages.",
+    "statistical_results": "No inferential statistics reported. Only descriptive percentages from the survey. SPM history failing percentage was 25.6% in 2005 and rose to 34.3% in 2006. STPM history failing percentage was 45.11% in 2005.",
+    "comparative_methodology": null,
+    "key_outcomes": "Key findings: (1) History is perceived as boring and difficult due to memorization demands; (2) Students are ready for digital game-based learning as most already play digital games regularly; (3) Main requirements for GBL history courseware are: illustrate history facts clearly (70.6%), increase students' interest (66.7%), and learn history via entertained experience (65.5%); (4) A GBL Model for history courseware design was proposed with pedagogy and digital games as main components.",
+    "engagement_results": "83.6% of students like playing digital/electronic games. Students play games primarily for fun (72.9%), to fill free time (62.7%), and enthusiasm with fantasy world (45.2%). Students see advantages of gaming as fun (53.7%), filling free time (50.8%), calming thoughts (49.2%), and increasing creativity (47.5%). Teachers agreed that GBL can help increase students' interest and performance in history and reduce boredom."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Game story background (historical events with date, location, time)",
+      "Rules (clear instructions and guidelines)",
+      "Immersive experience",
+      "Enjoyment",
+      "Feedback (learning response in the game)",
+      "Multimedia technology (2D/3D animations, immersive graphical environment, imitative sound)",
+      "Challenge and competition (matching learner skill level, difficulty settings, game levels)",
+      "Reward/Award (motivation to continue and overcome difficulties)",
+      "Student engagement",
+      "Cooperation among students"
+    ],
+    "technological_platforms": [
+      "PC-based (DVD-ROM or CD-ROM)",
+      "Television-based game systems (mentioned in survey context)",
+      "Handheld devices (mobile phones, PDAs)",
+      "Games-specific handheld consoles"
+    ],
+    "instructional_strategies": [
+      "Integration with national curriculum (KBSM - Integrated Curriculum for Secondary Schools)",
+      "Clear learning goal setting aligned with history syllabus",
+      "Application of learning theories appropriate for history learning",
+      "Educational psychology considerations for individual differences",
+      "Embedding patriotism and moral values",
+      "Addressing memorization and forgetting theory for effective retention",
+      "Visualizing historical events through animation and virtual environments",
+      "Role playing to visualize historical personalities and events",
+      "Adaptive learning based on individual ability"
+    ],
+    "content_integration": "The proposed GBL Model integrates history content through two main components: Pedagogy and Digital Games. The pedagogy side ensures alignment with the Malaysian KBSM curriculum, incorporates patriotism and moral values central to history education, applies learning theories and educational psychology, and addresses memorization/forgetting processes. The digital games side provides the interactive engagement through story backgrounds based on actual historical events (with accurate dates, locations, and timelines), rules, immersion, enjoyment, feedback, multimedia technology, challenge/competition, and rewards. Students specifically requested animated historical personalities (61.6%), animated historical events (54.8%), 3D animation (58.2%), video elements (58.8%), and adventure elements (53.1%) for history courseware."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "No history courseware currently used in Malaysian secondary schools at the time of the study",
+      "History perceived as boring and a 'dead' subject by students and society",
+      "Society presumes history has no commercial value",
+      "Students have no interest in studying history",
+      "Lack of teaching aids and materials used by teachers",
+      "Lack of creativity in history teaching methods",
+      "Teachers use boring teaching methods (15.8% of students cited this)",
+      "Students not proficient in Malay Language (the medium of instruction)"
+    ],
+    "methodology_limitations": [
+      "This is a preliminary analysis and proposed model only; no game was actually developed or tested",
+      "No experimental or quasi-experimental design to measure GBL effectiveness",
+      "Survey limited to five secondary schools in Kajang, Selangor - limited geographical representativeness",
+      "Only descriptive statistics (percentages) reported, no inferential analysis",
+      "No validation or evaluation of the proposed GBL model",
+      "Teacher interview data cited from individual interviews (references 12, 24, 25, 28, 30) but no systematic qualitative analysis described",
+      "Document analysis of SPM reports is secondary data without detailed methodology"
+    ],
+    "negative_effects": [
+      "No negative effects measured as no intervention was implemented"
+    ],
+    "mitigation_strategies": [
+      "Proposed GBL Model integrates pedagogy with game design to address disengagement",
+      "Embedding curriculum alignment (KBSM) to ensure educational value",
+      "Including memorization and forgetting theory to address the core challenge of fact retention",
+      "Using multimedia (3D animation, video, audio) to make history 'alive' and illustrate facts clearly",
+      "Challenge and competition settings matched to learner skill levels to avoid boredom or frustration",
+      "Reward/award systems to motivate continued engagement"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly describes the target population: 582 Form Four students and 15 history teachers from five secondary schools in Kajang, Selangor, Malaysia. The document analysis covers SPM performance reports from 2002-2005. However, no explicit inclusion/exclusion criteria for school or participant selection are stated.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample is limited to five schools in a single district (Kajang, Selangor) and cannot be considered representative of all Malaysian secondary school students. No sampling strategy is described. The generalizability to other contexts or countries is very limited.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "The questionnaire and interview instruments are not described in detail. No information is provided about the validity or reliability of the survey instrument. No psychometric properties are reported. The interview protocol is not described.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Only descriptive percentages are reported. No inferential statistics, no tests of significance. No qualitative analysis framework is described for interview data. The proposed GBL model is derived from literature review and survey findings but the process of synthesis is not transparent.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "High concern",
+      "q5_evidence": "The paper presents survey percentages and concludes that GBL is a promising approach, but no GBL intervention was actually implemented or tested. The leap from identifying problems in history learning and students' gaming habits to proposing a specific GBL model is not fully supported by the empirical data collected. The model is presented as a preliminary proposal.",
+      "q6_limitations_discussed": "High concern",
+      "q6_evidence": "The paper does not explicitly discuss limitations of the study. No limitations section is included. The preliminary nature is acknowledged in the title and introduction but specific methodological limitations, sampling constraints, and threats to validity are not discussed.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "High overall risk of bias due to: (1) limited and non-representative sample from a single district; (2) no description of instrument validity or reliability; (3) only descriptive statistics with no inferential analysis; (4) no actual GBL intervention implemented or evaluated - the study is a needs analysis and design proposal only; (5) no discussion of study limitations; (6) the proposed GBL model is not validated. The study provides useful preliminary data on problems in history learning and student readiness for GBL but does not constitute strong evidence for the effectiveness of game-based learning in history education."
+  }
+}

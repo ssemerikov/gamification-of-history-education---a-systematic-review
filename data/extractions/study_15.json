@@ -1,0 +1,140 @@
+{
+  "study_id": 15,
+  "pdf_filename": "Changing Students' Perceptions of a History Exploration Game Using Different Scripts.pdf",
+  "bibtex_key": "15Slater2022",
+  "bibliographic": {
+    "title": "Changing Students' Perceptions of a History Exploration Game Using Different Scripts",
+    "authors": [
+      "Stefan Slater",
+      "Ryan S. Baker",
+      "David Gagnon",
+      "Erik Harpstead",
+      "Juliana Ma",
+      "Alexandra L. Andres",
+      "Luke Swanson"
+    ],
+    "year": 2022,
+    "publication_type": "conference paper",
+    "venue": "Proceedings of the 30th International Conference on Computers in Education (ICCE 2022), Asia-Pacific Society for Computers in Education",
+    "doi": null,
+    "volume": null,
+    "pages": null,
+    "publisher": "Asia-Pacific Society for Computers in Education"
+  },
+  "study_characteristics": {
+    "countries": [
+      "United States"
+    ],
+    "country_of_application": "United States",
+    "education_level": "Elementary and middle school (K-8)",
+    "sample_size": 2417,
+    "sample_description": "A large sample of elementary and middle school learners playing the history game Jo Wilder and the Capitol Case. The total sample across all five latent classes was N=2417 (184+546+489+665+533). Students played the game in a variety of contexts.",
+    "study_design": "Quasi-experimental with latent class analysis",
+    "game_type": "Point-and-click history adventure game (digital, narrative-driven exploration game)",
+    "game_name": "Jo Wilder and the Capitol Case",
+    "aim": "To explore different profiles of engagement among students playing a history game and to examine whether minor game dialogue changes (different scripts varying in humor and snark) affect learners' perceptions of game elements such as character likeability, humor, and enjoyment of history",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses on engagement profiles and perceptions rather than direct learning outcomes. It examines gamification elements (narrative scripts, character dialogue) within a history education game, which aligns with the review scope.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes games as powerful tools for learning in formal and informal educational contexts. It frames engagement through the lens of engagement profiles -- typologies of learner groups based on their goals, motivations, and preferences when playing digital games. The study does not provide an explicit definition of gamification but treats the history game as a complete game-based learning environment, emphasizing how game design elements (dialogue scripts, character traits, humor, narrative tone) shape learner engagement and attitudes toward history.",
+    "theoretical_frameworks": [
+      "Engagement profiles / player typology (Latent Class Analysis)",
+      "E-Game Flow Scale (Fu, Su, & Yu, 2009) for measuring immersion",
+      "Reysen Likability Scale (Reysen, 2005) for character likeability",
+      "Multidimensional Sense of Humor Scale (Thorson & Powell, 1993) for perceived humor",
+      "Three-Dimensions of Student Attitude Towards Science (TDSAS; Zhang & Campbell, 2011) adapted for attitudes toward history",
+      "Player states vs. player traits debate"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "16-item Likert survey measuring four constructs: (1) immersion, (2) character likeability, (3) perceived humor, (4) attitudes toward history. Latent Class Analysis (LCA) with model fit statistics (AIC, BIC, VLMR, BLRT, Entropy). Odds ratios for script effects and reading level effects on class membership.",
+    "statistical_results": "K=5 LCA model selected (AIC=97602, BIC=98181, VLMR=0.048, BLRT<0.01, Entropy=0.861). Script effects: Humor No Snark script -- players more likely in 'Liked It All' vs 'Didn't Like Jo' (OR=1.519); Snark No Humor script -- 'Didn't Like Jo' vs 'Didn't Like History' (OR=1.660), 'Didn't Like Jo' vs 'Liked It All' (OR=1.820), 'Liked It All' vs 'Not Very Funny' (OR=1.506). Reading level effects: strong readers more likely in 'Liked It All' vs 'Didn't Like Any' (OR=2.362), and other comparisons ranging from OR=1.377 to OR=1.715. Benjamini & Hochberg post-hoc correction applied.",
+    "comparative_methodology": "Four script conditions compared: (1) Initial Design (Snark + Humor), (2) No Snark (Humor only), (3) No Humor (Snark only), (4) No Humor No Snark. Latent class membership proportions compared across conditions using 3-step procedure in MPlus. Reading level included as a covariate.",
+    "key_outcomes": "Five distinct player engagement profiles identified: 'Didn't Like Anything' (N=184, 7%), 'Didn't Like Jo' (N=546), 'Didn't Like History' (N=489), 'Liked It All' (N=665, 28%), and 'Not Very Funny' (N=533). Removing humor or snark from the game script shifted some students' engagement profiles. Removing either humor or snark from the base script made players more open to positive evaluations of history learning, though at the cost of worsened attitudes toward the main character Jo. Higher reading level was associated with greater overall game enjoyment across all groups.",
+    "engagement_results": "Students generally enjoyed the game, with 'Liked It All' being the largest group (28%) and 'Didn't Like Any' the smallest (7%). Script changes primarily affected the malleable middle groups ('Not Very Funny', 'Didn't Like History', 'Didn't Like Jo') rather than extreme groups ('Liked It All' and 'Didn't Like Anything'). The Snark No Humor script produced the most significant shifts in group membership."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Narrative dialogue scripts (varying snark/sarcasm and humor/wordplay)",
+      "Character personality traits (reluctant/snarky vs. enthusiastic/positive protagonist)",
+      "Humor and jokes in character dialogue",
+      "Point-and-click exploration mechanics",
+      "Historical artifact investigation",
+      "Linear narrative structure with free exploration of locations",
+      "Inspectable items and character conversations",
+      "Embedded Likert survey at four gameplay checkpoints"
+    ],
+    "technological_platforms": [
+      "Jo Wilder and the Capitol Case (2019) -- digital point-and-click adventure game",
+      "MPlus statistical software for Latent Class Analysis"
+    ],
+    "instructional_strategies": [
+      "Narrative-driven history exploration through a child protagonist",
+      "Historical inquiry through artifact investigation",
+      "Character-driven engagement with history content",
+      "Adaptive game design through modifiable dialogue scripts",
+      "Self-report survey embedded within gameplay to measure engagement"
+    ],
+    "content_integration": "History content is integrated through a narrative in which the player character Jo helps her historian grandfather determine the story of two artifacts for a Capitol exhibit. Players investigate historical artifacts, explore locations, and engage in character conversations that reveal historical clues. The game's dialogue scripts serve as the primary vehicle for both history content delivery and engagement, with the tone of the dialogue (snarky/humorous vs. serious/neutral) directly affecting students' attitudes toward history as a subject."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Text-heavy game nature may disadvantage weaker readers, reducing accessibility and enjoyment",
+      "Changing character traits (removing humor/snark) to improve history attitudes came at the cost of worsened player attitudes toward the main character",
+      "Players with pre-existing negative attitudes toward educational games or history ('Didn't Like Anything' group) were not affected by script changes, suggesting some engagement barriers are trait-based rather than state-based",
+      "Reading comprehension level significantly affects game engagement, making the game less effective for lower-level readers"
+    ],
+    "methodology_limitations": [
+      "Self-report survey data may not fully capture actual engagement or learning",
+      "Exploratory study -- some trends did not hold up after Benjamini & Hochberg post-hoc correction for multiple comparisons",
+      "The study examines perceptions and engagement profiles but does not measure actual history learning outcomes",
+      "Cannot definitively determine whether engagement profiles represent player states (context-dependent) or traits (persistent dispositions)",
+      "Script changes altered 20-40% of total game dialogue, making it difficult to isolate which specific dialogue changes drove the effects"
+    ],
+    "negative_effects": [
+      "Removing humor or snark improved history attitudes but worsened player attitudes toward Jo as a character -- the 'snarky' Jo was perceived as mean by some players",
+      "In the Initial Design script (with both humor and snark), Jo's character traits may have reinforced players' existing negative attitudes toward history learning",
+      "Lower reading level students were disproportionately placed in the 'Didn't Like Anything' group, indicating the text-heavy game may alienate struggling readers"
+    ],
+    "mitigation_strategies": [
+      "Personalized and adaptive game design that modifies dialogue, character traits, and tone based on individual player profiles",
+      "Ensuring game content is worded at appropriate reading levels and is culturally responsive to the target student population",
+      "Using engagement profiles as a tool for adaptive learning systems to optimize individual engagement",
+      "Modifying salient game qualities (character appearances, mannerisms, humor) to suit individual players"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study uses a large sample of elementary and middle school students (N=2417) playing the game in a variety of contexts. Students were assigned to different script conditions. Selection criteria for participants are implicitly defined by who played the game, though explicit inclusion/exclusion criteria are not detailed.",
+      "q2_representativeness": "Moderate concern",
+      "q2_evidence": "The sample is large, but details about how participants were recruited, demographic breakdown, school types, and whether the sample is representative of the broader population of elementary/middle school students are not provided. The 'variety of contexts' is mentioned but not specified.",
+      "judgment": "Moderate"
+    },
+    "domain2": {
+      "q3_valid_tools": "Low concern",
+      "q3_evidence": "The 16-item Likert survey was developed and piloted, drawing items from established validated scales: E-Game Flow Scale (Fu et al., 2009), Reysen Likability Scale (Reysen, 2005), Multidimensional Sense of Humor Scale (Thorson & Powell, 1993), and TDSAS (Zhang & Campbell, 2011). The LCA methodology follows established guidelines (Samuelsen & Raczynski, 2013; Nylund-Gibson & Choi, 2018).",
+      "q4_analysis_methods": "Low concern",
+      "q4_evidence": "Latent Class Analysis with systematic model selection (K=2 through K=6) using multiple fit statistics (AIC, BIC, VLMR, BLRT, Entropy). The 3-step procedure in MPlus was used appropriately to include covariates without influencing model structure. Benjamini & Hochberg post-hoc correction was applied for multiple comparisons. The authors transparently report trends that did not survive post-hoc correction.",
+      "judgment": "Low"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Low concern",
+      "q5_evidence": "Findings are interpreted consistently with the data. The authors carefully distinguish between effects that survived post-hoc correction and those that did not. The discussion of player states vs. traits is balanced, acknowledging evidence for both interpretations.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The authors discuss the trade-off between improved history attitudes and worsened character perceptions, the importance of reading level, and the implications for adaptive design. The exploratory nature of the study is acknowledged. However, the lack of direct learning outcome measures is not explicitly flagged as a limitation.",
+      "judgment": "Low"
+    },
+    "overall": "Low",
+    "overall_justification": "The study employs a large sample, validated survey instruments adapted from established scales, rigorous latent class analysis methodology with systematic model selection and appropriate statistical corrections. The authors are transparent about non-significant trends and thoughtful in their interpretation. Main concerns are the lack of detailed participant demographics/recruitment information and the absence of direct learning outcome measures, but overall methodological quality is sound for an exploratory engagement study."
+  }
+}

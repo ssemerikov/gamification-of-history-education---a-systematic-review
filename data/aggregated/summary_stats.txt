@@ -1,0 +1,65 @@
+Total studies in extraction: 80
+Eligible studies: 74
+Ineligible studies: 6
+
+Ineligible studies:
+  Study 26: "Ethics against Chemistry": Solving a Crime Using Chemistry Concepts and Storytelling in a History of Science-Based Interactive Game for Middle School Students
+    is_history_education=False, is_primary_study=True, has_gamification=True
+    Concerns: This study is fundamentally about chemistry/science education that uses a historical narrative (a 19th century Portuguese forensic case) as a storytelling device. The primary educational goals are chemistry curricular objectives (precipitation reactions, oxidation-reduction, acid-base classification, catalysis, etc.) and science ethics, NOT history education. The 'history of science' component serves as a narrative wrapper to make chemistry learning engaging, not as a subject being taught. Students are not assessed on historical knowledge or historical thinking skills. The learning outcomes measured are chemistry content knowledge, scientific reasoning, ethical judgment, and activity satisfaction -- not historical understanding.
+  Study 27: Experiences of Game-Based Learning and Reviewing History of the Experience Using Player's Emotions
+    is_history_education=False, is_primary_study=True, has_gamification=True
+    Concerns: This study is NOT about history education. The word 'history' in the title refers to the operational/action history (log of player actions and emotions over time) during a game-based learning experience, not to history as a school subject. The game involves using a 'magical tool' to extract objects from a desk and vending machine in a virtual office environment. There is no historical content, no history curriculum, and no history learning objectives. The study focuses on experiential learning review through emotion-annotated action logs, which is a general game-based learning / affective computing study.
+  Study 33: Games for Teaching and Learning History: a Systematic Literature Review
+    is_history_education=True, is_primary_study=False, has_gamification=True
+    Concerns: This is a systematic literature review, not a primary empirical study. It synthesizes 78 studies on games for teaching geography and history in secondary education. It does not involve direct implementation or empirical data collection with learners. Additionally, it covers geography and history combined, not exclusively history education. The review explicitly excludes literature reviews from its own included studies.
+  Study 57: Student-Made Games to Learn the History of Mathematics
+    is_history_education=False, is_primary_study=True, has_gamification=True
+    Concerns: This study is about using games to teach the HISTORY OF MATHEMATICS (a mathematics education course), NOT about teaching history as a subject/discipline. The subject matter is mathematical content (fractions, numeration systems, negative numbers, cubic equations, linear equations, algebraic symbolism) viewed through a historical lens. The games are used within a mathematics course, not a history course. The students are prospective mathematics teachers, not history students. The 'history' component is the history of mathematical concepts and methods, which falls under mathematics education rather than history education as defined in the systematic review's scope.
+  Study 68: The End Game in Kuhlthau's ISP Model: Knowledge Construction for Grade 8 Students Researching an Inquiry-Based History Project
+    is_history_education=True, is_primary_study=True, has_gamification=False
+    Concerns: CRITICAL: This study does NOT involve gamification or game-based learning in any form. The term 'End Game' in the title is a metaphorical/theoretical concept referring to the final outcome or culmination of knowledge construction within Kuhlthau's Information Search Process (ISP) model. The 'end game' is defined by the authors as 'the addition to or modification of the students' belief system as a result of completing the class assignment' and 'the students' actualization of their belief system through the new topic information they seek, find, and use over the course of completing the assignment.' The study is a qualitative field study of information-seeking behavior using grounded theory analysis of student interviews -- there are no games, no game elements, no gamification mechanics, no digital games, and no game-based learning interventions whatsoever. This is an information science study about how students construct knowledge while doing a history research assignment. It was likely included in the review's candidate set due to the word 'Game' appearing in the title, which is a false positive.
+  Study 7: Age of Computers: An Innovative Combination of History and Computer Game Elements for Teaching Computer Fundamentals
+    is_history_education=False, is_primary_study=True, has_gamification=True
+    Concerns: This study is NOT about history education. It is about computer science education (computer fundamentals: computer architecture, digital logic, ALU operations, addressing modes, assembler coding). Computer history is used merely as a narrative framing device and organizational structure for the game levels (Mechanical Age, Vacuum Tube Age, Transistor Age, etc.), not as the subject matter being taught or assessed. The learning outcomes measured relate to computer science knowledge, not historical understanding. The authors explicitly state the goal is 'to teach computer fundamentals using history as a governing idea' -- history is the thematic wrapper, not the educational target.
+
+Year range: 2004-2024
+
+Countries represented: 27
+  Taiwan: 13
+  United States: 11
+  Malaysia: 9
+  Indonesia: 8
+  Canada: 6
+  Greece: 5
+  Spain: 4
+  United Kingdom: 3
+  Sweden: 3
+  Italy: 3
+  Poland: 3
+  Peru: 2
+  Netherlands: 2
+  Pakistan: 1
+  Japan: 1
+  Tunisia: 1
+  Saudi Arabia: 1
+  Chile: 1
+  Portugal: 1
+  Turkey: 1
+  Denmark: 1
+  Australia: 1
+  China (Hong Kong): 1
+  Ireland: 1
+  Austria: 1
+  Germany: 1
+  China: 1
+
+Risk of bias (overall) distribution:
+  High: 62
+  Moderate: 9
+  Unclear: 2
+  Low: 1
+
+Studies with explicit gamification definition: 11/74 (14.9%)
+
+Sample sizes reported: 62/74
+  Min: 4, Max: 2417, Median: 34

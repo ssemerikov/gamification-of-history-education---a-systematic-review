@@ -1,0 +1,135 @@
+{
+  "study_id": 69,
+  "pdf_filename": "The Evaluation Study of Gamification Approach in Malaysian History Learning via Mobile Game Application.pdf",
+  "bibtex_key": "69Wong2017150",
+  "bibliographic": {
+    "title": "The Evaluation Study of Gamification Approach in Malaysian History Learning via Mobile Game Application",
+    "authors": [
+      "Wong Seng Yue",
+      "Chong Yee Ying"
+    ],
+    "year": 2017,
+    "publication_type": "conference_paper",
+    "venue": "2017 IEEE 17th International Conference on Advanced Learning Technologies (ICALT)",
+    "doi": "10.1109/ICALT.2017.69",
+    "volume": null,
+    "pages": "150-152",
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Malaysia"
+    ],
+    "country_of_application": "Malaysia",
+    "education_level": "secondary",
+    "sample_size": 5,
+    "sample_description": "Five students who have playing games experience participated in the focus group evaluation to determine the effectiveness and impact of HLMG on history learning.",
+    "study_design": "qualitative",
+    "game_type": "mobile_game",
+    "game_name": "History Learning Mobile Game (HLMG)",
+    "aim": "To evaluate and analyze gamification approach in Malaysian History Learning via a mobile game application (HLMG), including verification of game components, validation of game functions, and evaluation of effectiveness via a focus group study on user experience (UX), story, gameplay complexity, estimated average play session, engagement, and historical content delivered.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Very small sample size (n=5) with only qualitative focus group evaluation. No quantitative learning outcome measures or statistical analysis. The study is essentially a prototype evaluation rather than a rigorous empirical study of gamification effectiveness. The evaluation criteria are descriptive (qualitative judgments like 'excellent', 'sufficient', 'needs improvement') rather than measured with validated instruments. The 9-item questionnaire used is not described in detail, and no reliability or validity information is provided.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes gamification broadly in terms of game-based learning (GBL) applied to history education via mobile game applications. Gamification is framed as the use of gamified elements in educational settings to achieve learning outcomes, with emphasis on careful design: 'the gamified solutions need to be designed carefully so that it can be successfully sustain longer and help to achieve the learning outcomes in education field.' The study treats gamification and GBL somewhat interchangeably, discussing how 'GBL is efficient to use in history learning, which use action despite of narration, develop personal satisfaction and motivation, suite for divergent learning styles and skills, reinforce mastery skills and cater an interactive context.' The approach centers on creating a custom mobile game application (HLMG) that delivers Malaysian history syllabus content through narrative-driven gameplay with chapters, challenges, quizzes, and an arena mode.",
+    "theoretical_frameworks": []
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": "Focus group evaluation with 5 students using a 9-item questionnaire assessing six criteria: user experience (UX), story, gameplay complexity, estimated average play session, engagement, and historical content delivered. Results were qualitative descriptive judgments rather than quantitative measures. The game's final prototype was also compared to similar games (though details of comparison games are not provided).",
+    "key_outcomes": "Qualitative evaluation results from focus group: User Experience (UX) -- 'The UX is rather lackluster, due to lack of animations and disjointed graphics and themes' (needs improvement); Story -- 'The story is consistent with the syllabus, and follows a narrative flow. Each chapter has its own unique narrative' (excellent); Gameplay Complexity -- 'Simple, using only touch inputs. Challenges are easy to comprehend and overcome' (sufficient); Estimated Average Play Session -- '8-20 minutes, depending on familiarity of the chapter' (excellent); Engagement -- 'High engagement. Supported by natural flow of story and challenges' (sufficient); Historical Content Delivered -- 'Very high. Due to the game designed around delivering the content of history syllabus to the student' (excellent). Game validation confirmed all five research objectives were met (all passed).",
+    "engagement_results": "Engagement was rated as 'High engagement. Supported by natural flow of story and challenges' and deemed 'sufficient for the effectiveness level of HLMG.' However, the authors note that 'HLMG has obvious flaws and short comings in graphics which in turns it influences the level of engagement.' The implicit engagement and motivation triggered by learning contents and gamification features were identified as vital for maximising thinking skills during the history learning process."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Narrative/storyline (chapter-based historical narrative consistent with syllabus)",
+      "Challenges (arena-based challenges within each chapter)",
+      "Quizzes (post-chapter quiz for assessing comprehension)",
+      "Player progress tracking",
+      "Menu navigation system",
+      "Game manager (overarching game logic)",
+      "Touch-based input controls",
+      "Chapter-based content structure",
+      "Introductory scene with objectives display"
+    ],
+    "technological_platforms": [
+      "Android mobile platform (Android 4.0 and above)",
+      "APK file distribution",
+      "Mobile game application"
+    ],
+    "instructional_strategies": [
+      "Game-based learning (GBL) for history education",
+      "Narrative-driven learning with chapter-based historical storylines",
+      "Interactive learning as alternative to traditional textbook method",
+      "Portable and ubiquitous learning via mobile devices",
+      "Quiz-based assessment after chapter completion for comprehension review",
+      "Repetitive chapter play for revision and fact refreshment",
+      "Story-driven content delivery aligned with Malaysian history syllabus (SPM)",
+      "Collaborative or individual play modes (can be played by oneself or with a group)"
+    ],
+    "content_integration": "Historical content was tightly integrated with game mechanics by designing the game around the Malaysian secondary school history syllabus (SPM). Each chapter corresponds to a historical period with its own unique narrative that follows the syllabus content. The game restricts content to one historical period per chapter due to time constraints. Historical facts are delivered through the narrative flow, with challenges and quizzes embedded within chapters to reinforce learning. The introductory scene presents objectives, and the player progress scene tracks actions and behaviors during gameplay. The game was validated as meeting the objective to 'Increase a student's comprehension on their syllabus' through repetitive chapter play and quiz-based evaluation."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Lackluster user experience (UX) due to lack of animations and disjointed graphics and themes",
+      "Content restricted to one historical period due to time constraints in development",
+      "Graphics shortcomings that influence the level of engagement",
+      "Limited visual and audio assets reducing immersion"
+    ],
+    "methodology_limitations": [
+      "Very small sample size (n=5) for focus group evaluation",
+      "No quantitative learning outcome measures or statistical analysis",
+      "9-item questionnaire not described in detail; no reliability or validity information provided",
+      "No control group or comparison condition",
+      "Qualitative descriptive evaluations rather than systematic measurement",
+      "No pre-test/post-test design to measure actual learning gains",
+      "Criteria for determining 'excellent', 'sufficient', and 'needs improvement' not explicitly defined",
+      "Selection criteria for the 5 focus group participants not clearly specified beyond 'students who have playing games experience'"
+    ],
+    "negative_effects": [
+      "User experience rated as needing improvement due to poor visual design",
+      "Graphics shortcomings may negatively influence engagement levels"
+    ],
+    "mitigation_strategies": [
+      "Redesign mini-games and chapter storylines to provide a more effective learning tool",
+      "Improve UX design with better animations, graphics, and thematic consistency",
+      "Add visual and audio elements to increase level of immersion",
+      "Future versions should address UX to enhance player's experience and effectiveness for SPM history exam preparation"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "no",
+      "q1_evidence": "The selection criteria for participants are minimally described. The only information provided is: 'Five students who have playing games experience have participated this evaluation to determine its effectiveness and impact on history learning among students.' No details are given about age, grade level, recruitment process, inclusion/exclusion criteria, school, or how 'playing games experience' was defined or verified. The education level (secondary) is inferred from the context that the game targets Malaysian SPM history curriculum, but participant demographics are not explicitly reported.",
+      "q2_representativeness": "no",
+      "q2_evidence": "With only 5 participants selected based on the vague criterion of 'playing games experience,' the sample cannot be considered representative of the target population (Malaysian secondary school students studying history). The sample size is extremely small for any generalization. No demographic information is provided (gender, age, academic performance, history subject attitudes). The institutional affiliation of authors is Taylor's University (a private university), but it is unclear whether participants were secondary school students or university students, further undermining representativeness.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "no",
+      "q3_evidence": "The study mentions 'They need to fill up the questionnaire which contains 9 items to evaluate the effectiveness level of the HLMG,' but the questionnaire itself is not presented, described in detail, or referenced. No information about the source, development, validation, or reliability of the 9-item instrument is provided. The evaluation criteria (UX, story, gameplay complexity, estimated average play session, engagement, historical content delivered) are presented in Table 2 with descriptive qualitative judgments, but how these were derived from the 9-item questionnaire responses is not explained. No scoring rubric or rating scale is described.",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "No data analysis methods are described or justified. The results in Table 2 are presented as qualitative summative judgments (e.g., 'excellent', 'sufficient', 'needs improvement') without any explanation of how raw questionnaire data was analyzed or aggregated to arrive at these conclusions. There is no description of coding procedures, thematic analysis, or any systematic approach to synthesizing the focus group feedback. The verification and validation process (Table 1) uses simple Passed/Failed judgments with justifications but no systematic evaluation methodology.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "unclear",
+      "q5_evidence": "The interpretations in the abstract and conclusion are broadly consistent with the results presented in Table 2 -- the authors correctly report that UX needs improvement while story, historical content delivered, and estimated play session are excellent, and gameplay complexity and engagement are sufficient. However, the basis for these judgments is unclear since the underlying data (questionnaire responses) are not presented. The conclusion that 'the implicit engagement and motivation which triggered by the learning contents and gamification features were vital for maximising thinking skills while in the history learning process' goes beyond what the reported evaluation data can support, as no thinking skills were measured.",
+      "q6_limitations_discussed": "no",
+      "q6_evidence": "No formal limitations section is included. While the conclusion acknowledges that 'HLMG has obvious flaws and short comings in graphics' and suggests improvements, there is no discussion of methodological limitations such as the very small sample size, lack of quantitative measures, absence of a control group, or limitations of the focus group approach. The authors present recommendations for future improvement of the game (redesign mini-games, improve UX, add visual and audio) but do not acknowledge limitations of the research design itself.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "All three domains are rated High risk of bias. Domain 1 (selection) is High because participant selection criteria are vaguely described and the sample of 5 participants with no demographic information is not representative. Domain 2 (data collection/analysis) is High because the 9-item questionnaire is neither described nor validated, and no data analysis methods are reported -- results are presented as qualitative summary judgments without transparent methodology. Domain 3 (interpretation) is High because while surface-level interpretations match the reported results, the absence of a limitations discussion and claims that go beyond the evidence (e.g., about thinking skills) are concerning. The study essentially constitutes a brief prototype evaluation with minimal methodological rigor rather than a systematic empirical evaluation of gamification effectiveness."
+  }
+}

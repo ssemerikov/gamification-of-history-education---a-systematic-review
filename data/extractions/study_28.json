@@ -1,0 +1,134 @@
+{
+  "study_id": 28,
+  "pdf_filename": "Exploration on the Effectiveness of Learning, Interest, and Attitude of the Integration of Review System of History Based on Mobile Game and Forgetting Curve.pdf",
+  "bibtex_key": "28Chao201734",
+  "bibliographic": {
+    "title": "Exploration on the Effectiveness of Learning, Interest, and Attitude of the Integration of Review System of History Based on Mobile Game and Forgetting Curve",
+    "authors": [
+      "Chih Wei Chao",
+      "Lei Chang",
+      "An-Chi Cheng",
+      "Ting-Ting Wu"
+    ],
+    "year": 2017,
+    "publication_type": "conference_paper",
+    "venue": "Emerging Technologies for Education (SETE 2016), Lecture Notes in Computer Science, vol 10108",
+    "doi": "10.1007/978-3-319-52836-6_5",
+    "volume": "10108",
+    "pages": "34-42",
+    "publisher": "Springer International Publishing AG"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Taiwan"
+    ],
+    "country_of_application": "Taiwan",
+    "education_level": "Primary school (4th grade, age ~10)",
+    "sample_size": 44,
+    "sample_description": "Two classes of fourth-grade primary school students: 21 students in the experimental group and 23 students in the control group. Average student age was 10. Both classes were taught by the same teacher with 10 years of experience teaching social studies.",
+    "study_design": "Quasi-experimental (non-equivalent control group design with pre-test and post-test)",
+    "game_type": "Mobile game-based review system (digital game-based learning on tablet)",
+    "game_name": "Rescue the Princess",
+    "aim": "To enhance student learning effectiveness, attitude, and interest in history by constructing a mobile game-based review system integrated with Ebbinghaus' forgetting curve theory, providing review within 20 minutes after the history lesson.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses on social studies/history at the primary school level in Taiwan. The game is specifically a review system rather than a primary instructional tool. The history content is from fourth-grade Taiwanese curriculum.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes digital game-based learning as introducing game and software into a learning environment to help students gain knowledge and enhance ability, where problem solving and challenges within games provide learners with context and atmosphere to facilitate the achievement of goals. The game-based review system is framed as a tool that combines gaming elements with review questions on a tablet device to replace traditional review methods. Design elements include goals, conditions and rules, outcomes, and impact on the player.",
+    "theoretical_frameworks": [
+      "Ebbinghaus' Forgetting Curve Theory",
+      "Digital Game-Based Learning"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Learning achievement measured via three tests (first pretest, second pretest, posttest); learning attitude measured via 8-item questionnaire (Cronbach's alpha = 0.817); learning interest measured via 4-item questionnaire (Cronbach's alpha = 0.875). Independent sample t-tests used with significance at p < 0.05.",
+    "statistical_results": "Learning achievement: First pretest - Experimental M=61.43 SD=28.202, Control M=64.78 SD=27.858, t=-0.397, p=0.374 (not significant). Second pretest - Experimental M=60.48 SD=23.817, Control M=58.26 SD=28.492, t=0.329, p=0.372 (not significant). Posttest - Experimental M=75.62 SD=17.107, Control M=72.78 SD=16.368, t=0.562, p=0.2885 (not significant). Learning attitude: Pretest p=0.202 (not significant); Posttest - Experimental M=4.95 SD=0.736, Control M=4.46 SD=0.88, t=1.996, p=0.026 (significant). Learning interest: Pretest p=0.54 (not significant); Posttest - Experimental M=4.75 SD=1.092, Control M=4.05 SD=1.081, t=2.12, p=0.02 (significant).",
+    "comparative_methodology": "Quasi-experimental design comparing an experimental group (game-based review system on tablet within 20 minutes after lesson) versus a control group (traditional teacher-led oral review). Both groups received the same history instruction from the same teacher.",
+    "key_outcomes": "No statistically significant differences in learning achievement scores between groups across all three tests, though the experimental group's mean scores were higher in the second pretest and posttest. Significant improvement in learning attitude (p=0.026) and learning interest (p=0.02) for the experimental group compared to the control group after the intervention.",
+    "engagement_results": "The game-based review system significantly improved student learning attitude and interest. Students expressed desire to learn content to advance in the game, enhancing their awareness of goals and initiative. Multimedia features of the game improved learning interest, and students exhibited enthusiasm and devoted time to the course."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Multiple levels (5 levels with different game mechanics)",
+      "Narrative/storyline (prince rescuing a princess)",
+      "Progressive difficulty and step-by-step advancement",
+      "Real-time feedback",
+      "Review/remediation mechanism for incorrect answers",
+      "Manual circling of keywords for memory reinforcement",
+      "Time-limited challenges",
+      "Boss battles",
+      "Diverse question types (pipeline jigsaw, card matching, guest interaction, balloon shooting, boss duel)",
+      "Personalized pacing",
+      "System log tracking of student learning records"
+    ],
+    "technological_platforms": [
+      "Tablet device (mobile game-based review system)"
+    ],
+    "instructional_strategies": [
+      "Spaced review based on Ebbinghaus' forgetting curve (review within 20 minutes after learning)",
+      "Immediate review after instruction to combat memory decay",
+      "Remediation through additional content display and manual keyword circling after incorrect answers",
+      "Integration of game levels with course review questions",
+      "Student-centered education module with personalized progression"
+    ],
+    "content_integration": "The game directly embedded fourth-grade history course content into five distinct game levels. Each level contained review questions corresponding to the lesson taught. Two lessons were covered, each with its own game containing three levels. When students answered incorrectly, additional content related to the question was displayed, and students manually circled relevant answers to reinforce memory. The game questions included choice questions, matching questions, and linking games, all designed by the history teacher."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Students in the experimental group initially exhibited lower first pretest scores due to different behavior patterns and greater change in learning model compared to control group",
+      "Less employment of relevant devices (tablets) in the regular teaching environment posed an adjustment challenge",
+      "The novelty of the game and tablet in the teaching environment may have affected initial results"
+    ],
+    "methodology_limitations": [
+      "Small sample size (N=44, with only 21 and 23 per group)",
+      "Non-random assignment (intact classroom groups)",
+      "No significant differences in learning achievement scores, only trends in means",
+      "Short duration of experiment (9 weeks with only 2 lessons)",
+      "Lack of delayed post-test for long-term retention effects",
+      "Did not examine behavior and motivation in depth",
+      "Questionnaires adapted from another study (Hwang and Chang 2011) rather than specifically validated for this context"
+    ],
+    "negative_effects": [
+      "Experimental group scored lower than control group on the first pretest, possibly due to adjustment to the new learning model"
+    ],
+    "mitigation_strategies": [
+      "Teacher and programmer were available throughout the experiment to provide timely assistance to students",
+      "Game operations were explained to the experimental group before the first unit",
+      "The game included remediation features (displaying additional content and manual circling for incorrect answers)",
+      "Authors suggest future studies should examine behavior and motivation for more in-depth research"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly states participants are two classes of fourth-grade primary school students (N=44), with 21 in the experimental group and 23 in the control group. Inclusion criteria are implicitly defined by class membership. The study context (fourth-grade history in Taiwan) is clearly described.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample is very small (N=44) and drawn from only two intact classrooms at a single school. No random assignment was used; groups were assigned by classroom. This limits generalizability. No information on school selection or demographic characteristics beyond age is provided.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Low concern",
+      "q3_evidence": "Learning achievement was measured through three teacher-designed multiple-choice tests. Learning attitude and interest questionnaires were adapted from Hwang and Chang (2011), a published source. Cronbach's alpha values were reported: 0.817 for attitude (8 items) and 0.875 for interest (4 items), indicating acceptable internal consistency.",
+      "q4_analysis_methods": "Some concern",
+      "q4_evidence": "Independent sample t-tests were used with p < 0.05 significance level. However, no effect sizes were reported. The study does not address potential confounds such as novelty effects. The analysis is relatively basic with no ANCOVA to control for pretest differences. The first pretest result (experimental group scoring lower) is explained post-hoc without rigorous analysis.",
+      "judgment": "Moderate"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Some concern",
+      "q5_evidence": "The authors claim the tablet game 'significantly improved student academic performance' despite none of the three achievement tests showing statistically significant differences. This overstates the findings. The interpretation of attitude and interest results is more consistent with the statistical evidence. The post-hoc explanation for the first pretest results (different behavior patterns) is speculative.",
+      "q6_limitations_discussed": "High concern",
+      "q6_evidence": "The paper does not include a dedicated limitations section. The small sample size, non-random assignment, short duration, and potential novelty effects are not discussed as limitations. Future directions mention examining behavior and motivation but do not acknowledge methodological weaknesses.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has a high overall risk of bias primarily due to: (1) very small sample size (N=44) with non-random, intact-group assignment; (2) inconsistent interpretation where non-significant achievement results are described as showing the game 'significantly improved' performance; (3) absence of a limitations discussion; (4) basic statistical analysis without effect sizes or covariates; and (5) potential novelty effects not addressed. While the instruments have acceptable reliability, the overall methodological rigor is limited."
+  }
+}

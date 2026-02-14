@@ -1,0 +1,144 @@
+{
+  "study_id": 35,
+  "pdf_filename": "Gamification, Pandemic and Learning the History of Ideas. Experiments in the Context of Core Curriculum.pdf",
+  "bibtex_key": "35Fernandez2023",
+  "bibliographic": {
+    "title": "Gamification, Pandemic and Learning the History of Ideas. Experiments in the Context of Core Curriculum",
+    "authors": [
+      "Gonzalo Andr\u00e9s Garc\u00eda Fern\u00e1ndez",
+      "Rodrigo Escribano Roca"
+    ],
+    "year": 2023,
+    "publication_type": "journal article",
+    "venue": "RIED-Revista Iberoamericana de Educaci\u00f3n a Distancia",
+    "doi": "https://doi.org/10.5944/ried.26.2.36246",
+    "volume": "26",
+    "pages": "69-87",
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "Chile",
+      "Spain"
+    ],
+    "country_of_application": "Chile",
+    "education_level": "Higher education (university)",
+    "sample_size": 23,
+    "sample_description": "23 students across four courses of the Core Curriculum subject 'Contemporary Civilization' (a history of Western philosophy from Plato to Freud) at Universidad Adolfo Ib\u00e1\u00f1ez in Chile. First-year students from law, psychology, journalism, commercial engineering, and civil engineering programs.",
+    "study_design": "Qualitative autoethnographic research (teacher-researcher autoethnography with ethnographic recording of student interventions)",
+    "game_type": "Serious games (custom-designed tabletop/role-playing games conducted via Zoom)",
+    "game_name": "Multiple serious games: El Juego de Giges, El Juego de la Caverna, El Juego del Concilio, El Juego de Urticario Crudelis, El Juego del Colono, El Juego de los Sue\u00f1os, El Juego del Contrato, El Juego del Manifiesto, El Juego de los Espectros, Decisi\u00f3n Final",
+    "aim": "To examine the rationale and results of a gamification experiment based on serious games in the context of teaching the history of ideas (Western philosophy from Plato to Freud) during the COVID-19 pandemic, investigating how games develop essential skills for critical comprehension of the history of ideas including hermeneutic and intersubjective reasoning, historical imagination, sense of contingency, and contextualization ability.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses on the history of ideas/philosophy rather than history in the strict disciplinary sense, though it is framed within humanities education and involves historical thinking skills. The study is qualitative with no control group or quantitative measures.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The authors conceptualize gamification through the lens of serious games drawing on classical play theory. They reference Huizinga (2005), Bally (1973), and Fink (2016) to understand games as creating fictional worlds based on imagination with internal logical coherence and aesthetic harmony. Games involve the creation of a para-identity where the player assumes a role distinct from ordinary social identities, engaging in a self-conscious fictional activity. The game is characterized as essentially a ritual \u2014 a dramatized action socializing a universe of symbols and norms \u2014 that creates a bounded playground space and a suspension of ordinary chronological time. The authors use the term 'serious games' (juegos serios) following L\u00f3pez Ravent\u00f3s (2016), distinguishing their approach from mere gamification elements, and emphasize the cognitive and epistemological powers of play.",
+    "theoretical_frameworks": [
+      "Huizinga's theory of play (Homo Ludens)",
+      "Bally's theory of play as expression of freedom",
+      "Fink's philosophy of play as symbol of the world",
+      "L\u00f3pez Ravent\u00f3s (2016) on serious games",
+      "Hermeneutic tradition (fusion of horizons, historical consciousness)",
+      "Seixas (2017) on historical consciousness and historical thinking",
+      "Froeyman (2016) on ethical turn in historiography",
+      "Autoethnographic methodology (Adams, Ellis, Holman Jones, Bochner)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "The study reports qualitative outcomes from autoethnographic field notes across 10 serious games played over 80 sessions. Key findings include: (1) Games developed 'historical consciousness' \u2014 the ability to reflect critically on historical time and understand the otherness of past societies. (2) Students developed hermeneutic and intersubjective reasoning by establishing conceptual mediations with historical characters. (3) Games fostered historical imagination \u2014 the ability to construct abstract concepts and fictional scenarios from diverse experiences. (4) Students developed a sense of contingency \u2014 understanding that philosophical ideas are not universal truths but mental constructions within specific spatiotemporal coordinates. (5) Games promoted contextualization ability \u2014 students learned to situate authors' thought in precise spatiotemporal coordinates. (6) The fictional para-identity of gameplay created a 'radical otherness' that allowed students to think beyond their usual values and worldviews. (7) Games served as epistemic rituals breaking pandemic monotony and the productivist time of virtual education. (8) Group identifications formed during games translated into real friendships, overcoming pandemic isolation.",
+    "engagement_results": "Students became highly engaged with the game activities. In the Juego de los Sue\u00f1os, after the first session students spontaneously requested a winner be declared and asked for explanations about which team's solution best reflected Descartes' philosophy, showing that victory and quality of reflection mattered equally. Students broke the solipsism of the pandemic through game-based group identification. The games functioned as 'pure events' that disrupted the cadence of quarantines and virtual deliveries, adding narrativity to the courses."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Decision-making by groups (toma de decisiones por grupos)",
+      "Dilemma games (juego de dilemas)",
+      "Role-playing (juego de rol)",
+      "Tribunal/trial simulation (juego de tribunal)",
+      "Team debate (juego de equipos de debate)",
+      "Imagination and guessing games with uchronic thinking (juego de imaginaci\u00f3n y adivinanza; pensamiento ucr\u00f3nico)",
+      "Vital decisions by teams (juego de decisiones vitales por equipos)",
+      "Team competition",
+      "Para-identity/character assumption",
+      "Fictional scenarios connected to contemporary issues"
+    ],
+    "technological_platforms": [
+      "Zoom (video conferencing platform for all sessions)"
+    ],
+    "instructional_strategies": [
+      "Autoethnographic teaching and research methodology",
+      "Pre-assigned readings from philosophical canon texts (one book every week and a half)",
+      "Three participatory sessions per book with professor as coordinator",
+      "Connection of philosophical texts to contemporary everyday dilemmas and current affairs in Chile, Latin America, and the world",
+      "Group-based collaborative gameplay (teams of 5-6 students)",
+      "Hermeneutic strategies for game development in class",
+      "Post-game reflection and evaluation",
+      "Recording of spoken interventions (sounds) and written interventions (chats/texts) in each session",
+      "Final game (Decisi\u00f3n Final) as summative assessment comparing all 21 philosophers studied"
+    ],
+    "content_integration": "Each serious game was directly tied to specific philosophical texts from the syllabus covering Western philosophy from Plato to Freud. Games required students to apply the ideas from the assigned readings to fictional scenarios that connected historical philosophical concepts to contemporary issues. For example, El Juego de Giges required applying Plato's concept of justice to a modern dilemma about Ukrainian refugees; El Juego de la Caverna used Plato and Aristotle's theories to reorganize society in a post-apocalyptic future; El Juego del Contrato placed students as French Revolution characters negotiating a constitution based on Rousseau's Social Contract. The content integration was deep \u2014 game evaluation criteria assessed mastery of the philosophical texts and the ability to apply historical ideas to present-day contexts."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "COVID-19 pandemic forced all sessions online via Zoom, creating distance that disincentivized student intervention and interest",
+      "Virtualization of teaching posed challenges for highly participatory Core Curriculum sessions",
+      "Students' faces were rarely visible during Zoom sessions (cameras off), making interaction more difficult",
+      "The pandemic eliminated physical meeting spaces, created a destabilized sense of time, and increased neoliberal academic productivism pressures",
+      "Humanities teaching was particularly harmed by the pandemic context"
+    ],
+    "methodology_limitations": [
+      "Autoethnographic method limits findings to the teacher-researcher's professional experience perspective",
+      "No quantitative data or control group \u2014 findings are purely qualitative",
+      "Limitations are tied to the pedagogical-didactic interest of the research, as objectives included provoking new teaching-learning formats",
+      "Results are based on field diary notes and recordings, subject to researcher interpretation",
+      "Small sample size (23 students across 4 course sections)"
+    ],
+    "negative_effects": [
+      "In El Juego del Contrato, many teams could not reach agreements when reconciling their characters' particular objectives with a general will, discarding solutions from Rousseauian theory of popular sovereignty",
+      "Some students were implicitly confronted with choosing between uncomfortable complex truths and comfortable self-serving virtual reality of social media 'likes' and safe spaces"
+    ],
+    "mitigation_strategies": [
+      "Gamification was adopted specifically as a response to the challenges of virtualized teaching during the pandemic",
+      "Games were designed to create engagement and break the monotony of pandemic distance learning",
+      "The serious game format created ritual-like 'pure events' that disrupted the alienating cadence of quarantine",
+      "Group-based gameplay fostered social connections that helped overcome pandemic isolation",
+      "Authors argue the approach should be systematized for use in post-pandemic contexts as well"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study focuses on a specific, well-defined context: four courses of Contemporary Civilization at Universidad Adolfo Ib\u00e1\u00f1ez, Chile, with 23 students over 80 sessions from March 2020 to December 2021. The selection is clearly defined by the institutional context.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample of 23 students is from a single university in Chile, taking a specific Core Curriculum course. There is no discussion of how representative this sample is of broader student populations. The unique pandemic context and the specific institutional setting (Core Curriculum model adopted from Columbia University) limits generalizability.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "Data collection relies entirely on autoethnographic field notes and ethnographic recordings (spoken and written student interventions). While the authors reference established autoethnographic methodologies (Adams, Ellis, Holman Jones, Bochner), no validated instruments or standardized assessment tools were used. The evaluation of game outcomes is based on the teacher-researcher's subjective interpretation of field diary notes.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Analysis is qualitative, based on the construction of a chronological narrative from field notes organized around four objectives. There is no systematic coding methodology described, no inter-rater reliability, and no triangulation with other data sources beyond the teacher-researcher's perspective. The authors acknowledge their limitations are tied to the autoethnographic approach.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Moderate concern",
+      "q5_evidence": "The findings are consistently interpreted within the theoretical framework of play theory (Huizinga, Bally, Fink) and hermeneutic tradition. The authors present rich qualitative descriptions of each game's outcomes. However, the interpretation is uniformly positive with limited critical examination of potential negative outcomes or failures.",
+      "q6_limitations_discussed": "Moderate concern",
+      "q6_evidence": "The authors briefly acknowledge limitations of the autoethnographic method (findings tied to teacher-researcher perspective, pedagogical-didactic interest). However, the discussion of limitations is relatively thin \u2014 there is no discussion of confirmation bias, observer effect, or the inherent limitations of the teacher evaluating their own pedagogical intervention.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study presents a rich qualitative autoethnographic account of gamification in history of ideas education during the pandemic. However, several factors contribute to high risk of bias: (1) the teacher-researcher is both the designer/implementer of the games and the sole evaluator of outcomes, with no independent assessment; (2) no validated measurement instruments were used; (3) analysis lacks systematic methodology (no coding scheme, no inter-rater reliability); (4) findings are uniformly positive with minimal critical self-examination; (5) small, non-representative sample from a single institution; (6) no comparison group or pre-post measures. While the autoethnographic approach is methodologically legitimate, the lack of triangulation and the dual role of the researcher as both participant and evaluator create substantial risk of bias."
+  }
+}

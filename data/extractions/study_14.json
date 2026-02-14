@@ -1,0 +1,148 @@
+{
+  "study_id": 14,
+  "pdf_filename": "Building a virtual Roman city teaching history through video game design.pdf",
+  "bibtex_key": "14Forsyth2023",
+  "bibliographic": {
+    "title": "Building a virtual Roman city: teaching history through video game design",
+    "authors": [
+      "Harrison Forsyth"
+    ],
+    "year": 2023,
+    "publication_type": "journal article",
+    "venue": "Journal of Classics Teaching",
+    "doi": "10.1017/S2058631022000277",
+    "volume": "24",
+    "pages": "16-25",
+    "publisher": "Cambridge University Press"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Canada"
+    ],
+    "country_of_application": "Canada",
+    "education_level": "higher education (third-year university)",
+    "sample_size": 45,
+    "sample_description": "45 third-year university students enrolled in a History course about the city in the Roman world at York University, Toronto, Canada. 17 out of 45 authorised their response papers for use in the study; 30 out of 45 provided course evaluation feedback, of which 22 commented on the Virtual City Project.",
+    "study_design": "qualitative case study",
+    "game_type": "student-designed 3D virtual environment / VR simulation using game engine",
+    "game_name": "Virtual City Project (custom project built in Unity 3D with Rome Fantasy Pack asset package)",
+    "aim": "To assess the pedagogical efficacy of constructionist approaches to teaching students about Roman architecture using VR and video game design technology, and to address the technical and pedagogical challenges of using game design software in the classroom.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses on constructionist game design (students designing/building in a game engine) rather than playing a pre-made educational game. It is a qualitative case study with no control group or quantitative outcome measures. The gamification element is through the use of game design technology (Unity 3D) and VR rather than traditional gamification mechanics like points or badges.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study frames the approach through Seymour Papert's constructionism -- 'learning-by-making' -- where students actively design and construct digital artifacts (3D Roman buildings) using video game design software (Unity 3D) rather than passively consuming instructional material. The approach uses game design technology as a pedagogical tool for constructionist learning in history education, specifically combining VR presentation with the design process. The author distinguishes constructionism from instructionism and positions game design as a medium for building knowledge through experience.",
+    "theoretical_frameworks": [
+      "Constructionism (Seymour Papert)",
+      "Constructivism (Jean Piaget)",
+      "Design-based learning"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "Qualitative findings based on student response papers (17/45), course evaluations (22/30 commented on the project), classroom observations, and analysis of the 3D buildings produced. Most groups (9 out of 10) successfully integrated research content into their 3D building designs. All groups were able to use Unity 3D without catastrophic failures. Students showed incremental improvement in technical proficiency over the six-hour design sessions. Course evaluation feedback was overwhelmingly positive: students described the project as 'stimulating', 'interesting', 'fun', 'engaging', and 'creative'. One student called it 'probably the most fun assignment I have done during my time at university'. Multiple students recommended keeping the project as a permanent course component. Only one student found it 'not fleshed out enough to be worthwhile'. Some groups exceeded expectations by creating custom objects and importing external textures beyond the prefabricated asset package.",
+    "engagement_results": "Strongly positive student engagement. Of the 22 course evaluation comments about the Virtual City Project, nearly all were positive. Students reported high levels of enjoyment, found the combination of technology and history stimulating, and multiple students recommended the project be continued in future iterations. Students reported that the hands-on design process helped them learn more about their assigned structures than traditional methods would have."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "3D environment construction using prefabricated architectural components",
+      "Virtual reality (VR) immersive presentation and navigation",
+      "Collaborative group-based design",
+      "Research-informed design decisions",
+      "Asset manipulation (textures, materials, lighting, primitive objects)",
+      "Constructionist learning-by-making approach"
+    ],
+    "technological_platforms": [
+      "Unity 3D game engine",
+      "SteamVR SDK",
+      "Rome Fantasy Pack asset package (by Quantum Theory)",
+      "VR headset (consumer-grade, for in-class presentations)",
+      "2D projection for class viewing"
+    ],
+    "instructional_strategies": [
+      "Constructionist learning-by-making",
+      "Group-based collaborative research and design (10 groups of ~4-5 students)",
+      "Three-week research phase followed by design phase",
+      "Four-hour crash course tutorial on Unity 3D",
+      "Six hours of in-class design sessions over three weeks",
+      "Individual student response papers reflecting on design decisions and challenges",
+      "VR group presentations with class discussion",
+      "Contextualised fictional scenario (Roman frontier city in North West Europe with local conditions)"
+    ],
+    "content_integration": "Students researched specific Roman public building types (temple, portico, triumphal arch, aqueduct, bath complex, basilica, macellum, elite house, brothel, tavern), then constructed 3D digital reconstructions based on their research. The research phase was specifically designed to ensure content integration before design began. Buildings were then assembled into a coherent Roman city centre with appropriate urban planning (two main roads meeting at a public square). The fictional scenario required buildings to be appropriate to local climate and political conditions of a frontier town, adding historical reasoning to design choices."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Steep learning curve of professional-grade Unity 3D game engine for history students with no prior technical experience",
+      "Limited asset package: key architectural elements (e.g., apsidal pieces, specific Roman features) were missing from the Rome Fantasy Pack",
+      "Insufficient in-class time devoted to design sessions (only six hours over three weeks); 16 of 17 respondents requested more time",
+      "Difficulty aligning and connecting architectural pieces seamlessly",
+      "Group work logistics: only one computer per group, limiting individual hands-on participation",
+      "Instructor needed specialized technical knowledge in both game design and coding",
+      "Instructor had to perform all computer coding for the final VR program personally",
+      "VR presentation limited to one headset at a time with the rest of class viewing via 2D projection"
+    ],
+    "methodology_limitations": [
+      "Small qualitative sample: only 17 of 45 student response papers were authorised for use",
+      "No control group or comparative condition with traditional teaching methods",
+      "No quantitative outcome measures or pre/post testing of knowledge retention",
+      "Essay-based assessment regime did not lend itself to quantification of learning outcomes",
+      "Cannot determine whether this approach is better for knowledge retention than traditional research-based projects",
+      "Single case study at one institution with one cohort",
+      "Self-selection bias in response papers and course evaluations",
+      "The generic nature of the asset package prevented students from building specific historical structures, limiting specificity of historical learning"
+    ],
+    "negative_effects": [
+      "One group (portico) completely ignored the research component and built a structure that did not match their assignment",
+      "Some groups produced historically inaccurate hybridised architectural elements (e.g., tetrastyle instead of hexastyle temple)",
+      "One group incorporated anachronistic historical rationale for their triumphal arch design",
+      "Design element came at the expense of time for case-specific historical research",
+      "Students could only build generic representations rather than specific historical structures",
+      "Technical focus potentially distracted from historical content learning"
+    ],
+    "mitigation_strategies": [
+      "Allocate more in-class time for design sessions in future iterations",
+      "Provide more comprehensive Unity 3D tutorials (e.g., include vertex snapping function)",
+      "Assess the research component before students begin designing to ensure content integration",
+      "Consider using simpler design platforms like Minecraft: Education Edition to reduce technical barriers",
+      "Add more accessible tutorial material or longer instructional sessions",
+      "Include computer programming and coding elements as coding literacy grows among students",
+      "Retain Unity 3D despite steep learning curve for its benefits in transferable technical skills and interdisciplinary learning"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "The study used a convenience sample of students enrolled in a specific third-year history course at York University. There were no explicit inclusion/exclusion criteria for participant selection. Only 17 of 45 students authorised their response papers for research use, creating potential self-selection bias. Course evaluation responses (30/45) were also voluntary.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Single institution (York University, Toronto), single course, single cohort (Fall 2018). The sample of 45 students in a Roman history course at a Canadian university is not representative of broader higher education populations. The author was also the instructor/designer of the experiment, introducing potential bias.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "Data collection relied on qualitative sources: anonymised student response papers, course evaluation comments, classroom observations, and analysis of 3D buildings. No validated instruments, rubrics, or standardised assessments were used. No pre/post knowledge tests were administered. The assessment was essay-based and not designed for quantification.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Analysis was primarily descriptive and interpretive, with no systematic qualitative coding methodology described. The author selected specific buildings and student quotes to discuss without describing a systematic analytical framework. No inter-rater reliability or member checking was reported. The author was both the instructor and researcher, creating potential conflicts of interest in interpretation.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Low concern",
+      "q5_evidence": "The author presents both positive and negative findings, including the group that completely failed to integrate research content (portico group), anachronisms in the triumphal arch group's rationale, and one student's negative evaluation. The conclusions are measured and acknowledge that it is hard to determine whether the approach is better for knowledge retention than traditional methods.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The author explicitly discusses multiple limitations: the steep learning curve of Unity 3D, the generic nature of the asset package preventing specificity, the trade-off between design time and content-focused research time, the inability to quantify learning outcomes, and the challenge of determining whether the approach is superior to traditional methods. Future improvements are proposed.",
+      "judgment": "Low"
+    },
+    "overall": "High",
+    "overall_justification": "While the study is transparent about its limitations and presents balanced findings, the overall risk of bias is high due to the absence of validated measurement instruments, lack of a control group, small and self-selected qualitative sample (17/45 authorised papers), no systematic analytical methodology, and the dual role of the author as both instructor/designer and researcher. The study provides valuable descriptive insights but limited evidence for causal claims about pedagogical efficacy."
+  }
+}

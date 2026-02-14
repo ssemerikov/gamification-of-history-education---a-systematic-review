@@ -1,0 +1,147 @@
+{
+  "study_id": 73,
+  "pdf_filename": "Towards an Online Multiplayer Serious Game Providing a Joyful Experience in Learning Art History.pdf",
+  "bibtex_key": "73Wolfartsberger2011160",
+  "bibliographic": {
+    "title": "Towards an Online Multiplayer Serious Game Providing a Joyful Experience in Learning Art History",
+    "authors": [
+      "Josef Froschauer",
+      "Max Arends",
+      "Doron Goldfarb",
+      "Dieter Merkl"
+    ],
+    "year": 2011,
+    "publication_type": "conference_paper",
+    "venue": "2011 Third International Conference on Games and Virtual Worlds for Serious Applications (VS-GAMES)",
+    "doi": "10.1109/VS-GAMES.2011.47",
+    "volume": null,
+    "pages": "160-163",
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Austria"
+    ],
+    "country_of_application": "Austria",
+    "education_level": "secondary",
+    "sample_size": 4,
+    "sample_description": "A usability test session with two adults and two juveniles; no further demographic details provided",
+    "study_design": "descriptive",
+    "game_type": "web_based",
+    "game_name": "ThIATRO (The Immersive Art Training Online)",
+    "aim": "To introduce the design and prototype of the online multiplayer Serious Game ThIATRO that helps students learn art history by combining aspects of learning and fun in an immersive 3D environment, fostering collaborative learning, and raising interest in art history, contemporary culture and cultural heritage",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The paper is primarily a design/prototype description paper rather than a full empirical evaluation. The only empirical component is a minimal usability test with 4 participants (2 adults, 2 juveniles). The focus is on art history specifically, not general history education. No formal learning outcomes or quantitative evaluation data are reported. The paper describes a planned future evaluation but has not yet conducted it. The study is borderline as a primary study since it is largely a system description with only informal usability feedback.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "The term Serious Game describes a game designed for a primary purpose other than pure entertainment.",
+    "has_explicit_definition": false,
+    "conceptualization": "The study does not provide an explicit definition of gamification per se, but conceptualizes their approach through the lens of Serious Games. The game-based learning approach is conceptualized as combining entertainment with educational objectives, where learning occurs as 'collateral learning' (citing Zyda) or 'stealth learning' -- i.e., learning that happens incidentally as a consequence of game activity rather than formal teaching. The paper frames ThIATRO as a tool that 'not only increases the motivation to learn but also compels the player to think about, organize and use information in ways that encourage active construction of knowledge.'",
+    "theoretical_frameworks": [
+      "Constructivism (knowledge is constructed, not transmitted; learners play an active role)",
+      "Collateral learning (Zyda 2005) - learning that happens by mechanisms other than formal teaching",
+      "Stealth learning (Johnson et al. 2007) - learning occurs as an incidental consequence of game activity",
+      "Motivation guidelines (Greitzer et al. 2007) - leveling-up, clear goals, interaction with other players, shared experience"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": "The paper describes a planned future evaluation: 'We will split up the test group into an experimental group that plays the game, and a control group that is taught using prevalent methods such as classroom teaching. In the end, both results will be compared to get an insight in the learning success of ThIATRO.' However, this evaluation had not yet been conducted at the time of publication.",
+    "key_outcomes": "Only informal usability feedback from a test session with 4 participants is reported. The test 'showed first positive results concerning the style of the game level and the presentation of the learning content.' No formal learning outcomes were measured.",
+    "engagement_results": "The usability test showed 'first positive results concerning the style of the game level and the presentation of the learning content.' Players provided qualitative feedback about navigation difficulties due to limited house textures and HUD obstructing the view of paintings."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Capture the Flag game mechanic (two teams compete to find and capture artwork)",
+      "Team-based multiplayer competition",
+      "Power-ups (upgrade player abilities such as 'increase speed', provide location hints, or complicate opponent's search)",
+      "Leveling-up through power-up collection",
+      "Scoring system (team scores compared after every round; winner team receives an award)",
+      "Mission/quest system (assignments displayed in HUD at all times)",
+      "Three assignment types of increasing difficulty (find any painting by artist; find specific artwork; identify painting from thumbnail only)",
+      "Time-limited rounds",
+      "First-person 3D exploration",
+      "Head-Up Display (HUD) with current mission tasks",
+      "Role-playing element (player assumes role of art thief)",
+      "Avatar with first-person view control (mouse and WASD keys)"
+    ],
+    "technological_platforms": [
+      "Unity Game Engine (3D multiplayer game engine, web-based deployment)",
+      "Google SketchUp (3D modeling)",
+      "Google 3D Warehouse (source of existing 3D building models)",
+      "Web browser (game runs in browser window)",
+      "Web Gallery of Art (data source for ~18,000 artworks by ~2,200 European artists, 1100-1850)",
+      "Getty Union List of Artist Names (ULAN) (contextual information on artists and their relations)"
+    ],
+    "instructional_strategies": [
+      "Constructivist learning through active exploration and manipulation of virtual environment",
+      "Stealth/collateral learning - learning occurs incidentally through game activity",
+      "Collaborative learning through team-based gameplay and multiplayer interaction",
+      "Contextual embedding of learning content (art movements linked to architectural building styles)",
+      "Scaffolded difficulty through three types of assignments (artist recognition, specific artwork identification, visual memory)",
+      "Chunking of information - material organized into small comprehensible units (one artifact/era per game turn)",
+      "Competitive motivation through team-vs-team gameplay"
+    ],
+    "content_integration": "Art historical content is deeply integrated with the game mechanics. The game world is a fictitious town resembling inner districts of Vienna, containing different buildings that act as virtual museums. Each museum building architecturally represents a specific era in art history (e.g., a virtual replica of a baroque church holds paintings by baroque artists like Caravaggio or Rubens), with banners indicating the era. Players must apply knowledge of art movements, artists, and their works to locate and 'capture' the correct paintings. The Web Gallery of Art provides ~18,000 artworks covering 1100-1850, and the Getty ULAN provides relational context between artists (e.g., 'Caravaggio was influenced by Angelo Caroselli'). Three assignment types progressively test different aspects: painting style recognition, artist-artwork association, and visual memory."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Limited number of house textures causing players to get lost in the 3D world",
+      "HUD blocking players' view of paintings in the galleries",
+      "Need to keep polygon count low for browser-based performance without lags",
+      "Need to scale down from 18,000 paintings to a manageable subset for evaluation",
+      "Game logic implementation was incomplete at time of publication"
+    ],
+    "methodology_limitations": [
+      "Only an informal usability test with 4 participants (2 adults, 2 juveniles) was conducted",
+      "No formal evaluation of learning outcomes",
+      "No control group comparison",
+      "No pre-test/post-test design",
+      "No quantitative data collected or reported",
+      "Game logic and data integration were not yet complete at time of publication",
+      "The paper is primarily a design description, not a completed empirical study"
+    ],
+    "negative_effects": [
+      "Risk of players getting lost in the 3D world due to limited environmental variety",
+      "HUD obstructing view of paintings during gallery exploration"
+    ],
+    "mitigation_strategies": [
+      "Planned integration of a mini-map into the HUD to help navigation",
+      "Planned placement of guideposts in the game level",
+      "Planned functionality to hide/unhide the HUD at the push of a button",
+      "Planned future evaluation with experimental and control groups to assess learning effectiveness"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "no",
+      "q1_evidence": "No selection criteria are described for the test session participants. The paper states only: 'A usability test session with two adults and two juveniles showed first positive results.' No recruitment method, inclusion/exclusion criteria, or demographic details are provided.",
+      "q2_representativeness": "no",
+      "q2_evidence": "The sample consists of only 4 participants (2 adults and 2 juveniles) with no description of their background, prior gaming experience, or art history knowledge. This is not representative of the target population (grammar school students in Austria). The paper targets students until 6th grade in grammar schools (about 16 years), but the test group composition and representativeness are unknown.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "no",
+      "q3_evidence": "No validated data collection instruments were used. The usability test is described in a single paragraph with no mention of questionnaires, observation protocols, or any structured data collection method. Only informal qualitative feedback is reported.",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "No data analysis methods are described. The results of the usability test are reported as brief qualitative observations ('showed first positive results concerning the style of the game level and the presentation of the learning content') without any systematic analysis, coding, or quantitative measures.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "unclear",
+      "q5_evidence": "The paper does not overstate its findings -- it appropriately frames the usability test as showing 'first positive results' and acknowledges the need for future formal evaluation. The authors state: 'As soon as ThIATRO is finished, it will be crucial to evaluate the game with respect to playability, level of fun and the learning effect.' However, the evidence base is so thin that any interpretation is essentially unsupported.",
+      "q6_limitations_discussed": "yes",
+      "q6_evidence": "The paper implicitly acknowledges limitations by framing the work as a prototype and describing planned future evaluation: 'As soon as ThIATRO is finished, it will be crucial to evaluate the game with respect to playability, level of fun and the learning effect. We plan to conduct the evaluation together with a group of students.' The paper also acknowledges specific design limitations identified in the test session (navigation difficulties, HUD issues).",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high overall risk of bias because it is fundamentally a prototype design description, not an empirical evaluation. The only empirical component is an informal usability test with 4 participants, with no structured data collection instruments, no formal analysis methods, and no learning outcome measures. There is no control group, no pre-test/post-test design, and no quantitative results. The participant selection is entirely undocumented. While the authors appropriately acknowledge the preliminary nature of their work and plan for future formal evaluation, the current evidence base is insufficient for drawing any conclusions about the effectiveness of the game for learning art history."
+  }
+}

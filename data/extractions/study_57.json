@@ -1,0 +1,135 @@
+{
+  "study_id": 57,
+  "pdf_filename": "Student-Made Games to Learn the History of Mathematics.pdf",
+  "bibtex_key": "57Huntley2011567",
+  "bibliographic": {
+    "title": "Student-Made Games to Learn the History of Mathematics",
+    "authors": [
+      "Mary Ann Huntley",
+      "Alfinio Flores"
+    ],
+    "year": 2011,
+    "publication_type": "journal article",
+    "venue": "PRIMUS: Problems, Resources, and Issues in Mathematics Undergraduate Studies",
+    "doi": "10.1080/10511970903521651",
+    "volume": "21",
+    "pages": "567-576",
+    "publisher": "Taylor & Francis"
+  },
+  "study_characteristics": {
+    "countries": [
+      "United States"
+    ],
+    "country_of_application": "United States",
+    "education_level": "undergraduate (college)",
+    "sample_size": null,
+    "sample_description": "Prospective secondary mathematics teachers enrolled in a history of mathematics course at the University of Delaware during Spring 2008 and Spring 2009. Most were undergraduate secondary mathematics education majors; approximately one-third chose to incorporate games into their 45-minute lessons.",
+    "study_design": "descriptive case study / practitioner report (no formal evaluation)",
+    "game_type": "student-designed board games and computer-based adaptations of popular games (BINGO, Integer Flash, Jeopardy, team competitions)",
+    "game_name": "Multiple student-created games: Math BINGO, numeration system team competition, Integer Flash adaptation, Computer Jeopardy (multiple variants), and others",
+    "aim": "To describe how college students (prospective secondary math teachers) designed and used their own adaptations of popular board and computer games to learn the history of mathematics, and to identify factors for successful use of games in this context.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": false,
+    "concerns": "This study is about using games to teach the HISTORY OF MATHEMATICS (a mathematics education course), NOT about teaching history as a subject/discipline. The subject matter is mathematical content (fractions, numeration systems, negative numbers, cubic equations, linear equations, algebraic symbolism) viewed through a historical lens. The games are used within a mathematics course, not a history course. The students are prospective mathematics teachers, not history students. The 'history' component is the history of mathematical concepts and methods, which falls under mathematics education rather than history education as defined in the systematic review's scope.",
+    "is_history_education": false,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Games are conceptualized as student-designed adaptations of popular commercially available board games and television game shows (e.g., BINGO, Jeopardy, card games) used as a mechanism for incorporating history of mathematics content into peer-taught lessons. The emphasis is on student creation and adaptation of games rather than instructor-designed gamification.",
+    "theoretical_frameworks": [
+      "No explicit theoretical framework cited; draws on general principles of game-based learning in mathematics education (Johnson & Rising 1972; Bright, Harvey & Wheeler 1985; Randel et al. 1992)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "No formal evaluation was conducted. The authors report qualitative observations: students actively and enthusiastically participated in games during class; students made best efforts to get correct answers; games contributed to students learning history of mathematics facts and ideas more effectively than rote memorization; students felt motivated and interested in the history of mathematics; students felt better prepared for future teaching. The instructors informally evaluated game success in promoting desired learning.",
+    "engagement_results": "Students actively and enthusiastically participated in the games. All students actively participated in team-based activities. Students sometimes got 'overly enthusiastic.' Students enjoyed competing individually or in teams. The competition strategy was seen as a great way to engage students."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Competition (team-based and individual)",
+      "Rewards (candy, verbal praise, points)",
+      "Punishments for wrong answers (e.g., being voted off team)",
+      "Elements of chance (dice rolls, card draws)",
+      "Point systems (Jeopardy-style point values)",
+      "Clear rules and instructions",
+      "Attractive physical materials",
+      "Time constraints (games kept short to maintain interest)"
+    ],
+    "technological_platforms": [
+      "Physical board games and card games",
+      "PowerPoint-based Jeopardy",
+      "Computer-projected Jeopardy program",
+      "Downloaded BINGO templates from the Internet"
+    ],
+    "instructional_strategies": [
+      "Student-designed games (learners as game creators)",
+      "Peer teaching (45-minute lessons presented to classmates)",
+      "Content review before gameplay",
+      "Post-game discussion and comments",
+      "Group work and team competition",
+      "Integration of game into a broader lesson with presentation and practice problems",
+      "Written self-reflection papers after lessons"
+    ],
+    "content_integration": "Games were integrated as part of student-led 45-minute lessons on assigned mathematical topics viewed through a historical lens. Content included: fractions (BINGO), ancient numeration systems (team competition), negative numbers (Integer Flash), electronic computers and binary arithmetic (Jeopardy), cubic equations and Chinese/Indian methods (Jeopardy), history of linear equations and methods of false position (Jeopardy), and historical algebraic notation (Jeopardy). Questions blended mathematical problem-solving with historical facts about mathematicians and mathematical methods."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Class presentations were not formally evaluated, making it difficult to measure learning outcomes rigorously",
+      "Time constraints of 45-minute lessons limited game duration",
+      "Some games risked becoming too loud or excited, requiring ground rules",
+      "Difficulty of historical mathematical language required group work to manage complexity"
+    ],
+    "methodology_limitations": [
+      "No formal evaluation of learning outcomes was conducted",
+      "Purely descriptive account based on instructor observations and student reflections",
+      "No control group or comparison condition",
+      "No pre/post assessment of knowledge gains",
+      "Sample limited to two semesters at one university",
+      "Approximate one-third participation rate in game design (self-selected, not randomized)"
+    ],
+    "negative_effects": [
+      "Risk of excessive noise and excitement disrupting learning environment",
+      "Some students included slightly embarrassing punishments for wrong answers (e.g., being voted off team)"
+    ],
+    "mitigation_strategies": [
+      "Ground rules established before each game",
+      "Loss of points for breaking rules or getting too loud",
+      "Games kept relatively short to maintain interest",
+      "Post-game discussion to reinforce learning",
+      "Follow-up activities such as additional readings to emphasize learning responsibility"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "high",
+      "q1_evidence": "No explicit selection criteria for study participants. The study describes students in a specific course at one university during two semesters (Spring 2008 and Spring 2009). Only approximately one-third of students chose to use games, representing a self-selected subset with no formal inclusion/exclusion criteria.",
+      "q2_representativeness": "high",
+      "q2_evidence": "Sample is limited to prospective secondary mathematics teachers at the University of Delaware. No discussion of representativeness or generalizability to other populations. All student names are pseudonyms, and examples are selectively presented.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "high",
+      "q3_evidence": "No validated measurement instruments were used. Data consists entirely of instructor observations and student self-reflection papers. The authors explicitly acknowledge that 'the class presentations were not formally evaluated.'",
+      "q4_analysis_methods": "high",
+      "q4_evidence": "No systematic data analysis methods described. The paper is a descriptive practitioner report presenting selected examples of student-designed games. No coding scheme, no systematic analysis of reflections, no quantitative measures.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "high",
+      "q5_evidence": "Conclusions about effectiveness ('games contribute to students' learning history of mathematics facts and ideas in ways more effective than those using other approaches') are not supported by any formal evidence or comparison. The interpretation goes beyond what the descriptive evidence can support.",
+      "q6_limitations_discussed": "low",
+      "q6_evidence": "The authors do acknowledge that 'the class presentations were not formally evaluated' and use hedging language ('we think the design and use... had several benefits'). However, limitations are not systematically discussed.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "This is a descriptive practitioner report with no formal research design, no validated measures, no systematic data collection or analysis, and no control conditions. Claims about effectiveness are not supported by empirical evidence. The study provides useful pedagogical descriptions but carries high risk of bias for drawing conclusions about game effectiveness."
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "study_id": 56,
+  "pdf_filename": "Stori\ufb01cation in History education A mobile game in and about medieval Amsterdam.pdf",
+  "bibtex_key": "56Akkerman2009449",
+  "bibliographic": {
+    "title": "Storification in History education: A mobile game in and about medieval Amsterdam",
+    "authors": [
+      "Sanne Akkerman",
+      "Wilfried Admiraal",
+      "Jantina Huizenga"
+    ],
+    "year": 2009,
+    "publication_type": "journal article",
+    "venue": "Computers & Education",
+    "doi": "10.1016/j.compedu.2008.09.014",
+    "volume": "52",
+    "issue": "2",
+    "pages": "449-459",
+    "publisher": "Elsevier"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Netherlands"
+    ],
+    "country_of_application": "Netherlands",
+    "education_level": "secondary education",
+    "sample_size": 216,
+    "sample_description": "216 students aged 12-16 years (most 13 years old) from 5 different secondary schools, spread over 10 school classes, ranging from lower secondary professional education to pre-university education. Divided into 54 groups of 4-5 students each.",
+    "study_design": "qualitative case study with mixed methods (content analysis of game design, observations, coach observation forms with Likert scales, group interviews, media box/log analysis)",
+    "game_type": "mobile location-based game",
+    "game_name": "Frequentie 1550",
+    "aim": "To evaluate how narrative (storification) was designed and applied in a mobile History game, analyzing three types of storification (receiving, constructing, participating in a story) and their effects on student engagement.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses more on narrative/storification processes than gamification per se, but the game-based learning approach with points, competition, and collaborative game mechanics qualifies it as gamification in history education.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes game-based learning through the lens of 'storification' \u2014 narrative organization that transforms human experience into story lines by making sense via narrative organization. Three types are identified: receiving a story (spectator), constructing a story (director), and participating in a story (actor). Games are viewed as narrative learning environments that help students link characters, tools, and causation through meaningful temporal and sequential connections.",
+    "theoretical_frameworks": [
+      "Storification theory (Aylett, 2006)",
+      "Narrative organization framework (characters, tools, causation)",
+      "Constructivist approaches to learning",
+      "Spatial games / narrative architecture (Jenkins, 2004)",
+      "Vygotsky's instrumental method (mediation by tools)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Coach observation forms used 5-point Likert scales: average score 3.52 for HQT engagement in Internet surfing; average score 4.23 for HQT engagement in solving assignments. Multiple-choice questions answered correctly on first attempt 75% of cases, requiring max 3 attempts in only 5%. Open-text questions answered correctly in one attempt 81% of cases (60% if considering typing/grammar errors). HQT-CT collaboration question: 48.3% answered 'regularly' (4 on 5-point scale). 60% of students recorded Montelbaanstower from wrong perspective. 100% of students enacted sayings; 30% combined literal enactment with symbolic meaning.",
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "The game evoked a mixture of three types of storification that differently affected students' engagement. Participating in the story evoked high activity but less awareness of the whole story. Constructing the story triggered awareness of the whole story. Receiving the story was least engaged with by students (they often skipped background texts). Both constructing and participating positively affected engagement compared to receiving. HQTs (directors/constructors) were more motivated and concentrated throughout gameplay than CTs (actors/participants). Students generally focused more on completing assignments than understanding the broader narrative.",
+    "engagement_results": "Students were very active and motivated in making video recordings and enacting sayings. HQTs were more busy, motivated, and concentrated throughout game play compared to CTs. CTs experienced loss of control and overview of the game. Students paid more attention to procedures and technology than to the story line during introductions. Students generally did not read background texts carefully, scrolling to assignments instead."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Narrative/story-based structure (back story, area introductions, diary entries)",
+      "Location-based assignments (orientation, imagination, symbolic)",
+      "Role differentiation (City Team walkers and Head Quarter Team coordinators)",
+      "Team competition (collecting 'days' as points; team with most days wins)",
+      "Collaborative group structure (4-5 students per group)",
+      "Medieval map as navigation tool",
+      "Video and text messages as narrative delivery",
+      "Media box as story board / coordination tool",
+      "Three assignment types per area (orientation, imagination, symbolic)",
+      "Six thematic areas (labor, trade, religion, rules and government, knowledge, defense)",
+      "Perspective-taking tasks (walking pilgrim route, enacting historical sayings)",
+      "Photo and video creation tasks"
+    ],
+    "technological_platforms": [
+      "UMTS/GPS mobile phones (for City Teams)",
+      "Video phones for communication and media capture",
+      "Computers with Internet connection (for Head Quarter Teams)",
+      "Digital media box environment (website for collecting materials)",
+      "Medieval and modern Amsterdam maps (digital)"
+    ],
+    "instructional_strategies": [
+      "Storification (narrative organization as learning mechanism)",
+      "Location-based learning (walking through actual medieval Amsterdam sites)",
+      "Collaborative learning (CT and HQT interdependency)",
+      "Perspective-taking (acting as historical characters)",
+      "Constructivist approach (students as story authors/directors/actors)",
+      "Role-playing (becoming a Burgher of medieval Amsterdam)",
+      "Multimedia creation (photos, videos of historical reenactments)",
+      "Information seeking tasks (Internet research for historical context)"
+    ],
+    "content_integration": "The game 'Frequentie 1550' was designed around the history of medieval Amsterdam (late medieval era). Students explored six thematic areas of the old city (labor, trade, religion, rules and government, knowledge, defense), each with location-specific historical content delivered through video diary entries, text messages with background information, and assignments requiring interaction with actual historical sites, buildings, and artifacts. The narrative connected students to a Burgher character trying to become a citizen by staying 366 days."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Students often did not pay attention to background texts and story elements, focusing instead on completing assignments",
+      "Technical problems with video phones: small screens, sun glare making reading difficult",
+      "GPS/map issues: dots not appearing correctly, CTs appearing at wrong locations on maps",
+      "Medieval map did not represent current Amsterdam accurately (missing streets, water), causing navigation confusion",
+      "Map orientation was inverted (north-south reversed), causing additional confusion",
+      "Communication difficulties between HQT and CT teams (18 coaches reported explicit difficulties)",
+      "Timing conflicts: phone ringing during video recording tasks",
+      "Some students unfamiliar with Internet search strategies (Wikipedia, keyword searching)",
+      "CTs had limited overview of overall game narrative compared to HQTs",
+      "Distractions in the city environment (people, traffic, shops) broke narrative immersion for CTs"
+    ],
+    "methodology_limitations": [
+      "Qualitative case study design limits generalizability",
+      "No control group or pre-post measurement of learning outcomes",
+      "No formal assessment of historical knowledge acquisition",
+      "Reliance on observation notes and coach reports (subjective)",
+      "Analysis based on content analysis of game design and process, not standardized measures",
+      "Interrater agreement procedure described but specific reliability statistics not reported",
+      "Single game played on single day per school - limited exposure",
+      "Differences between game days (10 days across different schools) not systematically analyzed"
+    ],
+    "negative_effects": [
+      "CTs experienced loss of control and limited narrative overview during gameplay",
+      "Students mixed historical back story with fictional elements, suggesting shallow historical understanding",
+      "Perspective-taking was not always understood or successfully executed by students",
+      "Historically relevant narrative was sometimes lost due to city distractions and focus on task completion",
+      "Flow experience was disrupted for CTs by long walking and waiting times between assignments"
+    ],
+    "mitigation_strategies": [
+      "Teams switched roles (CT/HQT) in the second half of the day so all students experienced both perspectives",
+      "Two different roles (CT and HQT) were created to maintain both involvement in the whole story and meaningful experience of narrative elements",
+      "Introductory video clips were sent when entering each new area to orient students",
+      "Both medieval and modern Amsterdam maps were provided to HQTs for navigation",
+      "Closing group presentation allowed students to share and reflect on collected media"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly defines the case: 216 students from 5 secondary schools, 10 school classes, playing the Frequentie 1550 game. The inclusion context is well described.",
+      "q2_representativeness": "Moderate concern",
+      "q2_evidence": "Students ranged from lower secondary professional to pre-university education across 5 schools, providing some diversity. However, all schools were in Amsterdam and selection criteria for schools are not described. Convenience sampling is implied.",
+      "judgment": "Moderate"
+    },
+    "domain2": {
+      "q3_valid_tools": "Moderate concern",
+      "q3_evidence": "Multiple data sources were used (researcher observations, coach observation forms with Likert scales, group interviews, media box logs). However, the observation instruments were not validated instruments; they were designed for this study. The Likert-scale items are described but psychometric properties are not reported.",
+      "q4_analysis_methods": "Low concern",
+      "q4_evidence": "Content analysis followed grounded theory approach (Strauss & Corbin, 1998). Three researchers performed analysis and negotiated until agreement. Interrater agreement procedure was followed. Quantitative data from observation forms reported as frequencies and averages.",
+      "judgment": "Moderate"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Low concern",
+      "q5_evidence": "Results are systematically presented according to the three storification types (receiving, constructing, participating) with clear tables summarizing design vs. actual play. Interpretations are well-supported by multiple data sources.",
+      "q6_limitations_discussed": "Moderate concern",
+      "q6_evidence": "The conclusion discusses the tension between participation and overview but does not include a formal limitations section. Methodological limitations such as lack of control group, no formal learning assessment, and generalizability issues are not explicitly addressed.",
+      "judgment": "Moderate"
+    },
+    "overall": "Moderate",
+    "overall_justification": "The study provides rich qualitative data from multiple sources and follows systematic analytical procedures. However, it lacks validated measurement instruments, has no control group, does not formally assess learning outcomes, and does not include a limitations section. The study design is appropriate for its exploratory aims but limits the strength of conclusions about educational effectiveness."
+  }
+}

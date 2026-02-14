@@ -1,0 +1,145 @@
+{
+  "study_id": 12,
+  "pdf_filename": "Assassin\u2019s Creed reminds us that history is human experience Students\u2019 senses of empathy while playing a narrative video game.pdf",
+  "bibtex_key": "12Gilbert2019108",
+  "bibliographic": {
+    "title": "\"Assassin's Creed reminds us that history is human experience\": Students' senses of empathy while playing a narrative video game",
+    "authors": [
+      "Lisa Gilbert"
+    ],
+    "year": 2019,
+    "publication_type": "journal article",
+    "venue": "Theory & Research in Social Education",
+    "doi": "10.1080/00933104.2018.1560713",
+    "volume": "47",
+    "pages": "108-137",
+    "publisher": "College and University Faculty Assembly of National Council for the Social Studies"
+  },
+  "study_characteristics": {
+    "countries": [
+      "United States"
+    ],
+    "country_of_application": "United States",
+    "education_level": "secondary (high school, grades 9-12)",
+    "sample_size": 14,
+    "sample_description": "14 male high school students (grades 9-12) enrolled at a private Catholic boys' preparatory school in a mid-size Midwestern U.S. city; all had completed Assassin's Creed III and most had beaten multiple titles in the franchise; 3 identified as Latino and the rest as White; purposive sampling of avid players from a survey of ~1,000 students (54 respondents)",
+    "study_design": "qualitative interview study (semistructured interviews, narrative inquiry, inductive thematic analysis following Creswell's data analysis spiral)",
+    "game_type": "commercial off-the-shelf (COTS) narrative action-adventure video game",
+    "game_name": "Assassin's Creed (franchise, primarily Assassin's Creed III)",
+    "aim": "To examine how students' perceptions of historical peoples and time periods may be influenced by the depictions they encounter in the narrative video game Assassin's Creed, with particular attention to describing the ways students received and processed historical characters and stories in the games",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study examines out-of-classroom gameplay without formal instructional integration; it focuses on unmediated student engagement with a commercial game rather than a designed educational gamification intervention. The game was not used in a classroom setting but rather studied for its influence on students' historical perceptions.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study does not define gamification explicitly. Instead, it conceptualizes the use of a commercial narrative video game (Assassin's Creed) as a medium through which students independently engage with historical content. The focus is on how the game's narrative structure, character embodiment, immersive historical settings, and interactive storytelling foster historical empathy and perspective-taking. The game is treated as a site of informal historical learning rather than a formal gamification intervention.",
+    "theoretical_frameworks": [
+      "Barton and Levstik's (2004) two-part definition of historical empathy as perspective recognition and care",
+      "Narrative inquiry (Chase, 2011; Connelly & Clandinin, 2006)",
+      "Creswell's (2009) data analysis spiral",
+      "Gee's (2011) theory of narrative video games as tools for sense making, perspective taking, and empathy",
+      "Wolf's (2001) linear and branching narrative structures in video games",
+      "Rosenzweig and Thelen's (1998) framework on popular uses of history"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "Students described (1) a sense of immediate access to history contrasting with school-based memorization learning; (2) a sense of human connection to people in the past through both fictional and historical characters; (3) increased perception of multiple perspectives in history (e.g., British Loyalist perspective, Native American perspective during American Revolution); (4) willingness to allow the games to rewrite their beliefs about history and reshape their identities (e.g., revised views of George Washington, the Crusades, slavery, and Catholic Church history); (5) theorizing about historical accuracy with high trust in game designers. However, students tended to miss opportunities for critical engagement, evidencing uncritical trust in Ubisoft's portrayals and risk of presentism.",
+    "engagement_results": "Students demonstrated high affective engagement with the game. They contrasted positive emotional associations from gameplay with disengagement from memorization-based school history. Students described visceral feelings of being 'put into' history, feeling terror during the Boston Massacre scene, developing empathy for enslaved people through character embodiment, and experiencing emotional connections that prompted identity reflection. 11 of 14 participants reported conducting online searches inspired by the games."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Narrative/storyline (linear and branching structures combined)",
+      "Character embodiment/avatar (playing as historical and fictional characters)",
+      "Immersive historical environments (visually and aurally detailed settings)",
+      "Cutscenes (cinematic interludes advancing the plot)",
+      "Missions (required and optional 'side quests')",
+      "Role-playing (first-person perspective taking)",
+      "Historical figures as NPCs (non-player characters)",
+      "Open world exploration of historical settings",
+      "Multiple perspectives embedded in narrative"
+    ],
+    "technological_platforms": [
+      "Console and PC video game (Assassin's Creed franchise by Ubisoft, 2007-2018)"
+    ],
+    "instructional_strategies": [
+      "No formal instructional integration; study examined unmediated out-of-classroom gameplay",
+      "Semistructured interviews used as reflective tools post-gameplay",
+      "Comparison of game-based and school-based learning experiences",
+      "Students independently conducted online searches to verify game content"
+    ],
+    "content_integration": "The Assassin's Creed series is set in various historical time periods (primarily the American Revolution in Assassin's Creed III, but also the Crusades, Renaissance Italy, French Revolution, and others). Historical content is integrated through narrative plotlines intertwining fictional characters with real historical events and figures (e.g., George Washington, Benjamin Franklin, Samuel Adams, Pope Alexander VI). The game presents alternate perspectives (e.g., Native American viewpoint via Connor/Ratonhnhake:ton) and depicts everyday life alongside major historical events. A 'discovery tour' educational mode was also announced for later titles."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "School administrator reluctance to allow video game research due to negative perceptions of gaming and concerns about violence (particularly given school shooting context)",
+      "Franchise name 'Assassin's Creed' connoting gratuitous violence to adults",
+      "M for Mature (17+) rating limiting classroom applicability",
+      "Time constraints (each major title takes 30-60 hours to complete)",
+      "Financial expense of game hardware and software",
+      "Access difficulties: researcher was denied access to public mixed-gender schools",
+      "Gender imbalance: study limited to all-male private school sample"
+    ],
+    "methodology_limitations": [
+      "Convenience sample limited to one private Catholic boys' school in the Midwest",
+      "All-male participant group; no female perspectives captured",
+      "Single interview per participant (school-imposed limitation)",
+      "Purposive sampling of avid players only; results do not reflect students with more cursory engagement",
+      "Self-reported data relying on retrospective accounts of gameplay experiences",
+      "No classroom observation or assessment of actual historical knowledge gains",
+      "Qualitative design without control or comparison group",
+      "Limited racial/ethnic diversity (3 Latino, 11 White participants)"
+    ],
+    "negative_effects": [
+      "Students tended to miss opportunities for critical engagement with their visceral sense of immersive experience",
+      "Risk of presentism: students felt seamless connection to the past without problematizing the gap between their emotions and those of historical people",
+      "Uncritical trust in game designers' historical accuracy and neutrality",
+      "Students allowed the game to rewrite their historical beliefs without seeking outside corroborating evidence",
+      "Blurring of boundaries between game characters and actual historical figures",
+      "Entertainment-driven narrative may amplify or occlude certain aspects of history based on market demands",
+      "Students who dismissed games as non-educational (like Adam) missed opportunities for robust critical engagement"
+    ],
+    "mitigation_strategies": [
+      "Author recommends fostering critical investigation into gameplay experiences",
+      "Author recommends teacher-guided debrief and critical analysis of game portrayals",
+      "Author suggests developing ways to help students recognize constructed nature of game media",
+      "Author recommends integrating affective engagement (care) with cognitive perspective-taking in history instruction",
+      "Author recommends teaching historical empathy as both perspective recognition and care to bridge school and out-of-school historical experiences",
+      "Author notes the importance of making students aware that historians have techniques for investigating the ambiguities raised by multiple perspectives"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "The study used a convenience sample from a single private Catholic boys' school due to access difficulties. The researcher was denied access to public mixed-gender schools. Purposive sampling was then employed, selecting only avid Assassin's Creed players who had completed the game. Selection criteria were clearly described but inherently biased toward enthusiastic male players at one specific institution.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample is not representative of a broader student population: all 14 participants were male, from one private Catholic school in the Midwest, predominantly White (11 White, 3 Latino), and were self-selected avid gamers. The author acknowledges these limitations and notes results do not reflect students with more cursory engagement.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Low concern",
+      "q3_evidence": "The study used established qualitative methods: semistructured interviews (Kvale, 1996; Weiss, 1994), narrative inquiry (Chase, 2011), and Creswell's (2009) data analysis spiral. Triangulation was achieved through researcher gameplay memos, supplemental Ubisoft materials, and online fan-created materials. The interview protocol is provided as an appendix, enabling transparency and replication.",
+      "q4_analysis_methods": "Low concern",
+      "q4_evidence": "Analysis followed a rigorous inductive approach: individual coding per transcript, Josselson's hermeneutic approach, open coding (Charmaz, 2010), constant-comparative coding, and axial coding collapsed into themes. The analytical process was well-documented and aligned with established qualitative research methods.",
+      "judgment": "Low"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Some concern",
+      "q5_evidence": "The findings are well-supported by rich, detailed participant quotes and are consistently interpreted through Barton and Levstik's theoretical framework. However, the author is clearly sympathetic to the educational potential of the games, which may have influenced interpretation. The author does acknowledge negative aspects (lack of critical engagement, presentism risk) alongside positive ones.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The author explicitly discusses limitations including the all-male convenience sample, single-school setting, purposive sampling of avid players only, school-imposed single-interview restriction, and inability to generalize. The discussion section addresses both benefits and dangers of the game's influence on historical understanding.",
+      "judgment": "Moderate"
+    },
+    "overall": "Moderate",
+    "overall_justification": "The study employs rigorous qualitative methods with a well-documented analytical process and strong theoretical framework. The main risk of bias stems from the highly non-representative sample (14 male students from one private Catholic school, all avid gamers) and the inherent limitations of convenience sampling driven by access constraints. Data collection tools and analysis methods are sound, and limitations are transparently discussed. The interpretive lens is generally balanced, acknowledging both positive empathetic outcomes and concerns about uncritical engagement."
+  }
+}

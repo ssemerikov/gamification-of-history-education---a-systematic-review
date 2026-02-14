@@ -1,0 +1,136 @@
+{
+  "study_id": 53,
+  "pdf_filename": "Playhist Play and learn history Learning with a historical game vs an interactive film.pdf",
+  "bibtex_key": "53Perez2014",
+  "bibliographic": {
+    "title": "Playhist: Play and Learn History. Learning with a Historical Game vs An Interactive Film",
+    "authors": [
+      "Ainhoa Perez-Valle",
+      "Pablo Aguirrezabal",
+      "Sara Sillaurren"
+    ],
+    "year": 2014,
+    "publication_type": "conference paper",
+    "venue": "Conference Paper (associated with FP7 EXPERIMEDIA Project)",
+    "doi": "10.1007/978-3-319-13695-0_54",
+    "volume": null,
+    "pages": null,
+    "publisher": "Springer"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Spain",
+      "Greece"
+    ],
+    "country_of_application": "Greece",
+    "education_level": "Informal education (museum/cultural center visitors)",
+    "sample_size": null,
+    "sample_description": "Visitors to the Foundation of the Hellenic World (FHW) in Athens, Greece, randomly assigned to two groups (Group A: control, interactive film; Group B: experimental, serious game). Exact sample size not reported in this paper as it describes the experimental design prior to full data collection.",
+    "study_design": "Randomized controlled experiment (two-group comparison: control group watching interactive film vs experimental group playing serious game)",
+    "game_type": "3D collaborative serious game",
+    "game_name": "PLAYHIST",
+    "aim": "To investigate whether 'learning by playing' concept is valid for history museums and cultural centers by comparing a 3D interactive and collaborative serious game about Ancient Greece with an interactive film, measuring Quality of Experience (QoE) and Quality of Learning (QoL)",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This paper primarily describes the experimental design and system architecture of PLAYHIST rather than reporting final empirical results. It is a design-and-protocol paper with planned metrics but without reported quantitative outcome data.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The authors conceptualize gamification through the lens of 'learning by playing' \u2014 transforming traditional interactive cultural heritage films into interactive and collaborative serious games within a museum/virtual reality environment. They frame it as introducing gamification concepts into historical content to improve visitor learning in museums and cultural centers. The game uses missions, mini-games, scenarios, points/punctuation, ranking, competition, avatar customization, and collaborative tasks to engage learners with historical content.",
+    "theoretical_frameworks": [
+      "Game-based learning / serious games for cultural heritage",
+      "Learning by playing concept",
+      "Cognitive and motivational effects of serious games (referencing Wouters et al. 2013 meta-analysis)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Planned metrics include: Quality of Experience (QoE) measured via user satisfaction questionnaires and automatic ECC module data; Quality of Learning (QoL) measured via questionnaires about historical content (historical dates reflected in the interactive film or serious game); Quality of Service (QoS) measured via system performance metrics (rendered virtual scenes per second, delay between real-time motion capture and character animation). No final quantitative results are reported in this paper.",
+    "statistical_results": null,
+    "comparative_methodology": "Two-group randomized comparison: Group A (control) watches the existing interactive film at FHW; Group B (experimental) plays the 3D serious game developed with Unity3D. Both groups are assessed using the same QoE and QoL questionnaires for direct comparison.",
+    "key_outcomes": "The paper describes the planned experimental design but does not report final outcome data. The authors conclude theoretically that serious games for cultural heritage are particularly suited to the affective domain, that empathy with game characters helps understanding of historical events, cultures, and heritage, and that 3D Virtual Worlds have the potential to expand knowledge of foreign cultures by presenting information in a visual context.",
+    "engagement_results": "Not reported (planned to be measured via QoE questionnaires and ECC module automatic data collection)"
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Missions and objectives (main goal: erect a votive stele along the Sacred Way)",
+      "Mini-games with educational objectives per scenario",
+      "Three progressive scenarios/levels (Lion Harbour, North Agora, Sacred Way)",
+      "Points/punctuation system with ranking",
+      "Competition (winner has most points in least time)",
+      "Avatar customization (using webcam to personalize character)",
+      "Collaborative multiplayer interaction (up to 4 players)",
+      "Expert role (museum person interacts via Kinect motion capture as in-game character)",
+      "Time-based challenges",
+      "Feedback tools"
+    ],
+    "technological_platforms": [
+      "Unity3D game engine",
+      "Tholos (3D dome-shaped Virtual Reality theatre/museum with 130 seats at FHW)",
+      "Android tablets (visitor environment)",
+      "Kinect (motion capture for expert avatar)",
+      "EXPERIMEDIA platform components (ECC, SCC, AVCC, PCC, 3DCC)",
+      "FHW 3D Model Repository"
+    ],
+    "instructional_strategies": [
+      "Learning by playing in cultural heritage context",
+      "Scenario-based learning with historical educational objectives per mini-game",
+      "Collaborative group activities with assigned roles",
+      "Expert-guided learning (museum expert interacts in real-time as game character to advise players)",
+      "Immersive virtual reality environment recreating ancient city of Miletus",
+      "Task-based learning (players complete tasks to progress and learn historical content)"
+    ],
+    "content_integration": "The game is directly aligned with existing FHW interactive film content about Ancient Miletus. Historical content is integrated through three scenarios with specific educational objectives: Lion Harbour (learn about types of goods sold in the Agora), North Agora (learn about the exchange and buy/sell system in the Agora of Miletus), and Sacred Way (learn about annual festivities in honour of Apollo and votive steles). Players travel to the virtual city of Miletus as it was two thousand years ago, exploring buildings and completing historically-grounded missions."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Technical challenges with Tholos render machines (Linux version too old for Unity3D, requiring architecture redesign to single main machine with three graphic outputs)",
+      "Achieving correct curved-surface projection in Tholos dome required creating a 3-virtual-camera structure in Unity3D with matrix transformations",
+      "Integration of broad range of EXPERIMEDIA software components across five areas (experiment, social, audio visual, pervasive, 3D content)",
+      "Development and integration across three different environments (visitor's Android environment, expert's desktop, Playhist core)"
+    ],
+    "methodology_limitations": [
+      "Paper describes experimental design but does not report empirical results \u2014 outcomes are planned but not yet measured at time of publication",
+      "No sample size specified",
+      "No details on participant demographics or selection criteria beyond 'visitors to FHW'",
+      "Validation metrics (QoE, QoL) described at high level without detailed instrument specifications or psychometric properties",
+      "No power analysis or statistical analysis plan described"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Architecture redesign from Tholos render machines to single main machine to overcome OS compatibility issues",
+      "Custom 3-virtual-camera structure with matrix transformation to handle Tholos dome curved surface projection",
+      "Use of established EXPERIMEDIA project infrastructure and components to support experimentation"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "No explicit inclusion/exclusion criteria for participants. The study mentions 'visitors to the FHW' will be randomly assigned to two groups, but no selection criteria, recruitment methods, or eligibility requirements are described.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "No sample size is specified. No demographic information about participants is provided. Museum visitors may not be representative of any defined target population. No information on how many visitors were recruited or what the expected sample size would be.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "Two questionnaires (Q1 for QoE, Q2 for QoL) are mentioned but not described in detail. No validated instruments are referenced. No information on reliability or validity of the measurement tools. The ECC module will collect automatic data but the specific metrics are not clearly defined.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "No statistical analysis methods are described. The paper describes planned metrics (QoE, QoL, QoS) but provides no information on how data will be analyzed or what statistical tests will be used.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "High concern",
+      "q5_evidence": "No empirical results are reported, so interpretation cannot be assessed. The conclusions are theoretical assertions about serious games for cultural heritage rather than evidence-based findings from the described experiment.",
+      "q6_limitations_discussed": "High concern",
+      "q6_evidence": "No limitations are discussed. The paper does not acknowledge that it presents a design/protocol without results, nor does it discuss potential threats to validity of the planned experiment.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The paper is fundamentally a system design and experimental protocol description rather than a completed empirical study. No empirical data or results are reported. Participant selection criteria, sample size, measurement instruments, and analysis methods are all inadequately described. No limitations are discussed. The conclusions drawn are theoretical rather than evidence-based. All three domains present high risk of bias due to the absence of reported empirical findings."
+  }
+}

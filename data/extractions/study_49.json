@@ -1,0 +1,157 @@
+{
+  "study_id": 49,
+  "pdf_filename": "Learning History by Playing a Mobile City Game.pdf",
+  "bibtex_key": "49Huizenga2007127",
+  "bibliographic": {
+    "title": "Learning History by Playing a Mobile City Game",
+    "authors": [
+      "Jantina Huizenga",
+      "Wilfried Admiraal",
+      "Sanne Akkerman",
+      "Geert ten Dam"
+    ],
+    "year": 2007,
+    "publication_type": "conference paper",
+    "venue": "DaI",
+    "doi": null,
+    "volume": null,
+    "pages": null,
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "Netherlands"
+    ],
+    "country_of_application": "Netherlands",
+    "education_level": "Secondary education",
+    "sample_size": 500,
+    "sample_description": "Approximately 500 pupils from 3 secondary schools in Amsterdam. Twenty classes of about 25 pupils each participated in Pilot 2. Ten classes played the mobile history game (experimental condition) and ten classes followed regular project-based lessons (control condition). Pupils were aged 13 or 14 years, from both pre-university education and vocational secondary education tracks.",
+    "study_design": "Quasi-experimental with mixed methods (quantitative and qualitative)",
+    "game_type": "Mobile city game / location-based game",
+    "game_name": "Frequency 1550",
+    "aim": "To generate insights into the practicalities and the effects of mobile game-based learning in secondary education on the development of pupils' engagement in learning (motivation for history), historical knowledge, and collaborative skills.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The paper reports primarily preliminary results from Pilot 2; most quantitative data had not yet been analyzed at the time of publication. Pilot 1 had only one class and was primarily usability-focused.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes game-based learning through Gee's (2005) principles of digital pedagogy for game-based learning, organized into three sections: empowerment of the learner (co-design, customize, identity, distributed knowledge), the learning task as a problem-solving task (well-order problems, pleasantly frustrating, cycles of expertise, information on demand and just-in-time, fish tanks, sandboxes, skills as strategies), and the learning process as a process of understanding (system thinking, meaning as action image). The game Frequency 1550 is framed as a mobile city game supporting situated learning where knowledge is unbound from a specific context to foster transfer to new problems and domains.",
+    "theoretical_frameworks": [
+      "Gee's principles of game-based learning (2005)",
+      "Shaffer's epistemic frames and professional practice approach (2004, 2006a, 2006b)",
+      "Situated learning",
+      "Narrative framework for structuring learning contents (Hug 2005)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Pre- and post-tests for motivation for history, historical knowledge of medieval Amsterdam, attitude towards collaborative learning, and ability/credits in history. Quantitative data planned to be analyzed using multilevel multivariate regression analyses. However, at the time of publication, knowledge tests had not been analyzed yet.",
+    "statistical_results": "No statistical results reported; results are described as preliminary. The quantitative data from Pilot 2 had not yet been fully analyzed at the time of writing.",
+    "comparative_methodology": "Quasi-experimental design with experimental condition (10 classes playing Frequency 1550) and control condition (10 classes receiving regular project-based lessons on the medieval history of Amsterdam). Measures taken before intervention, during intervention, immediately after, after 1 week, and after 2 months.",
+    "key_outcomes": "Preliminary results show high pupil motivation and active engagement in playing and learning about medieval Amsterdam. Pupils were on-task most of the day despite normally having short attention spans. Pupils reported the game was more fun than regular history lessons. Guides reported small knowledge gains (e.g., pupils realizing not every tower is a church). Pupils from pre-university education performed better than those from vocational secondary education. Collaborative skills were developed through the game's team-based structure requiring communication between city teams and HQ teams.",
+    "engagement_results": "Pupils were very enthusiastic about the game, both at HQ and in the city. Children who normally could not focus for more than 10 minutes were now working concentrated for hours. Most pupils were engaged to complete assignments and on-task most of the day. Qualitative data showed that technical problems caused motivation to decrease, but not always. Pupils at HQ reported they liked HQ even more than walking in the city, as they had a better overview and more control."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Points system (366 Days of Burghership to earn citizenship)",
+      "Competition between teams (confrontations to take away points)",
+      "Team-based collaboration (teams of four pupils with two roles: city team and HQ)",
+      "Narrative/storyline (medieval bailiff contacting present via UMTS network)",
+      "Role-playing (pupils take on identities as beggars or merchants)",
+      "Location-based assignments (18 assignments across 6 sectors)",
+      "Virtual bombs/rats (to disrupt other teams' communication)",
+      "Power-ups (monk's habit for invisibility)",
+      "Video clips from medieval characters at specific locations",
+      "Sector-based progression (must complete assignments to unlock new sectors)",
+      "Win condition (first team to acquire burghership keeps the Holy Host)"
+    ],
+    "technological_platforms": [
+      "Mobile gamephones with GPS receiver",
+      "UMTS videophones",
+      "Laptops with Internet connection at HQ",
+      "Game server at the Waag Society's lab",
+      "GPS-based medieval map of Amsterdam displayed on gamephone"
+    ],
+    "instructional_strategies": [
+      "Situated learning in authentic historical locations in Amsterdam",
+      "Collaborative learning with distributed team roles (city team and HQ team)",
+      "Location-based media assignments requiring research and historical reenactment",
+      "Introductory video clips providing historical context for each assignment",
+      "Plenary reflection sessions after game days",
+      "Integration of out-of-school (city) and in-school (HQ) learning",
+      "Multimodal content delivery (video clips, maps, text assignments)"
+    ],
+    "content_integration": "Historical content about medieval Amsterdam is deeply integrated into the game. The city of Amsterdam is divided into six thematic sectors (labour, trade, religion, rules and government, knowledge, defence). Pupils explore real historical locations while receiving video clips from medieval characters providing historical information. Assignments require pupils to demonstrate knowledge of medieval Amsterdam through location-based media tasks, answering specific history questions, and researching and reenacting historical situations. The game transforms the modern city into a medieval playground where students learn by physically visiting and interacting with historically significant sites."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Technical problems with GPS not sending correct position information",
+      "Videophone connection loss requiring frequent restarts (10 minutes each time)",
+      "Slow transfer of video clips and pictures causing delays",
+      "Small screen of gamephone was difficult to read in sunlight",
+      "Game had already been delayed due to technical and organizational problems before the pilot started",
+      "Assignment difficulty level did not always match pupil ability levels across different education tracks",
+      "Some teachers could not administer post-tests due to scheduling near summer vacation",
+      "Miscommunication about test administration procedures between researchers and teachers",
+      "The paper-based version of the game had to be used on the first day because the technical version was not finished yet"
+    ],
+    "methodology_limitations": [
+      "Pilot 2 data mostly not analyzed at the time of publication; only preliminary qualitative results reported",
+      "No comparison with control condition presented in the paper",
+      "Knowledge tests not analyzed yet",
+      "Incomplete data collection: some classes did not receive all planned tests",
+      "Pilot 1 involved only one class from one school, limiting generalizability",
+      "Self-reported motivation data not yet available"
+    ],
+    "negative_effects": [
+      "Technical problems diminished motivation of pupils, especially on the first day of Pilot 1",
+      "Some pupils had difficulty differentiating between fictional story elements and real historical source material",
+      "Some pupils thought there was too much emphasis on the learning part, which spoiled the fun",
+      "Scenario complexity made it difficult for some pupils to understand the game's goal and mission",
+      "Virtual rats/bombs cutting off communication for 10 minutes was overly demotivating",
+      "Pupils from vocational secondary education needed additional teacher/guide support and struggled more with assignments",
+      "Environmental factors (hot weather, noisy locations like Dam Square) interfered with gameplay"
+    ],
+    "mitigation_strategies": [
+      "Game was redesigned between Pilot 1 and Pilot 2 based on evaluation feedback",
+      "Back-story was simplified and narrative framework about the Miracle of Amsterdam was removed",
+      "Game duration reduced from two days to one day based on feedback",
+      "Assignments content and difficulty levels were adjusted",
+      "Sectors were explicitly labeled with thematic names for clearer structure",
+      "Suggestion to change virtual rats from cutting connection to reducing points instead",
+      "Suggestion to improve screen visibility and reduce technical difficulties",
+      "Suggestion to better match assignments to pupil levels"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly describes two pilots. Pilot 2 uses a quasi-experimental design with 20 classes from 3 schools in Amsterdam, with 10 classes in experimental and 10 in control condition. Inclusion criteria are implicitly defined by school/class selection.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample is limited to 3 secondary schools in Amsterdam. Pupils are aged 13-14. No information on how schools were selected or whether they are representative. The diversity of the sample (pre-university vs. vocational tracks) is noted but creates uneven assignment difficulty matching.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "The paper describes planned data collection instruments (tests, observation forms, logbooks, evaluation meetings, essays, track & tracing) but does not report on validity or reliability of any measures. Knowledge tests and motivation tests are mentioned but not described in detail. Most quantitative data were not yet analyzed at publication time.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "The paper mentions planned multilevel multivariate regression analyses and thick descriptions for qualitative data, but actual analyses presented are limited to preliminary qualitative observations and impressions from evaluation meetings. No statistical analyses are reported. The narrative method of inquiry from Pilot 1 is described but its application is brief.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Unclear",
+      "q5_evidence": "The authors present generally positive conclusions about pupil motivation and engagement but acknowledge these are preliminary. They note uncertainty about learning effects and motivation changes. However, strong positive conclusions about the game's potential are drawn despite limited analyzed data. The paper concludes the game supports Gee's game-based learning principles without fully testing this claim.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The authors openly discuss technical problems, data collection failures (missing tests in some classes), scheduling issues, assignment-pupil level mismatches, and the fact that most data have not been analyzed. They acknowledge that Pilot 1 had limitations and detail specific needed improvements.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study presents primarily preliminary qualitative results from a quasi-experimental design where the quantitative data had not been analyzed at the time of publication. No statistical results are reported, validity and reliability of instruments are not discussed, the sample is limited to three schools in one city, and data collection was incomplete due to logistical and organizational problems. While the study design is appropriate and limitations are transparently discussed, the lack of completed analysis and reported outcomes represents a high risk of bias for drawing conclusions about learning effects."
+  }
+}

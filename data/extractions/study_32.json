@@ -1,0 +1,148 @@
+{
+  "study_id": 32,
+  "pdf_filename": "Game-based augmented reality learning of Sarawak history in enhancing cultural heritage preservation.pdf",
+  "bibtex_key": "32Cheng20241718",
+  "bibliographic": {
+    "title": "Game-based augmented reality learning of Sarawak history in enhancing cultural heritage preservation",
+    "authors": [
+      "Clive Lai Yi Cheng",
+      "Goh Eg Su",
+      "Johanna Binti Ahmad",
+      "Tole Sutikno"
+    ],
+    "year": 2024,
+    "publication_type": "journal article",
+    "venue": "Indonesian Journal of Electrical Engineering and Computer Science",
+    "doi": "10.11591/ijeecs.v34.i3.pp1718-1729",
+    "volume": "34",
+    "pages": "1718-1729",
+    "publisher": "IAES (Institute of Advanced Engineering and Science)"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Malaysia",
+      "Indonesia"
+    ],
+    "country_of_application": "Malaysia",
+    "education_level": "Not specified (general participants, no restriction on age or job position)",
+    "sample_size": 20,
+    "sample_description": "Twenty participants invited to evaluate the game-based AR features through dedicated gameplay durations and answering a distributed questionnaire; no restriction on job position or age, but required basic understanding of English",
+    "study_design": "Prototype development and evaluation using questionnaire-based usability and functional testing with GameFlow scale analysis",
+    "game_type": "Augmented reality game-based learning (location-based, multiplayer, collaborative treasure hunt)",
+    "game_name": "Brooke History AR",
+    "aim": "To enhance AR technology in game-based cultural heritage and history preservation in Sarawak, supplement gamified experiences in learning James Brooke's history, design an AR game prototype, develop it with collaborative learning elements, and evaluate it for enhancing cultural heritage preservation",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses on cultural heritage preservation through history learning rather than formal history education in a classroom setting; sample is general participants rather than students in a history course; no control group or pre-post comparison",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Game-based AR is conceptualized as a gamified approach to history learning where AR technology is combined with game elements (treasure hunt, hints/clues, quiz challenges, scoreboards, collaborative multiplayer) to create engaging and interactive experiences for cultural heritage preservation. The game-based AR is designed in the form of gamified features that disclose fun elements and increase AR learning experiences.",
+    "theoretical_frameworks": [
+      "Collaborative learning theory",
+      "GameFlow model (Kiili)",
+      "Flow theory (flow antecedents and flow experiences)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "GameFlow Scale measuring flow dimensions: Challenge (mean 3.85-4.50, SD .7609-.8751), Feedback (mean 4.10-4.20, SD .7182-.7678), Playability (mean 4.35-4.40, SD .5871-.6806), Concentration (mean 3.95-4.15, SD .8870-.9333), Control (mean 4.05-4.55, SD .5130-.8256), Knowledge (mean 4.45-4.75, SD .4442-.6048). Flow antecedents reliability alpha = .0286; Flow experiences reliability alpha = .6527; Control reliability alpha = .6471; Knowledge reliability alpha = .4590",
+    "statistical_results": "Cronbach's alpha reliability estimates: Flow antecedents = .0286 (low/poor); Challenge = .1428 (poor); Feedback = .4631; Playability = .4456; Flow experiences = .6527 (generally good reliability); Concentration = .5616; Control = .6471 (reasonable); Knowledge = .4590. Mean scores ranged from 3.85 to 4.75 on a 5-point scale.",
+    "comparative_methodology": null,
+    "key_outcomes": "Participants felt mediocre about the challenge and knowledge factors of the prototype. The GameFlow scale found that challenge and knowledge factors have low reliability. The design of game challenge is the major factor improving flow experience, but flow antecedents show poor reliability. Knowledge factor has room for improvement and is more relatable to the study objective. The study highlights enhancement of cultural heritage preservation through AR game-based experiences learned from James Brooke's history in Sarawak.",
+    "engagement_results": "Usability testing measured five factors: Knowledge (items about improving history knowledge, understanding hints, wanting to learn more), Autonomy (understanding game walkthrough, distance indicator use, sense of control), Immersion (not noticing time passing, emotional investment in scores/titles, game absorption), Challenge (hints helping with quizzes, increasing difficulty, suitable difficulty), and Social Interaction (cooperating with teammates, ease of joining, collaboration improving skills). Mean scores generally above 4.0 on a 5-point scale suggest positive engagement."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "AR markers/tracking (hint cards, quiz cards)",
+      "Location-based GPS distance indicator",
+      "Multiplayer collaborative mode (Photon PUN networking)",
+      "Treasure hunt exploration mechanic",
+      "Hints and clues system",
+      "Quiz challenge (multiple-choice questions via AR)",
+      "Scoreboard system (records top 4 players)",
+      "Navigation system (splash screen, main menu, lobby selection)",
+      "Popup tutorial",
+      "Player titles and rankings based on quiz percentage",
+      "Lobby system (host creates, guest joins with room ID)"
+    ],
+    "technological_platforms": [
+      "Unity 3D (2D and 3D modes)",
+      "Vuforia AR SDK (marker tracking and database)",
+      "Photon PUN (multiplayer networking)",
+      "GPS locating service (geographical distance system)",
+      "Mobile devices (smartphones/tablets with camera)",
+      "Android platform"
+    ],
+    "instructional_strategies": [
+      "Collaborative learning through multiplayer interaction",
+      "Location-based exploration of historical landmarks",
+      "Gamified treasure hunt to discover historical facts about James Brooke",
+      "Progressive hint unlocking tied to historical content",
+      "Quiz-based knowledge assessment integrated into gameplay",
+      "Associative, cognitive, and situational learning methods"
+    ],
+    "content_integration": "Historical content about James Brooke (White Rajah of Sarawak, reigned 1841-1868) is integrated through AR hint cards containing historical facts scattered across physical locations. Each hint relates to different historical facts about Sarawak's James Brooke, including extra information presented as hint sentences. Players explore the field to find hidden hint cards using GPS distance indicators, scan them with AR to reveal superimposed 3D historical content, and then complete quiz challenges to assess their learning about Sarawak history and cultural heritage."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "GPS locating service accuracy and range errors between device and target",
+      "AR marker scanning requires bright environment and appropriate marker surface size",
+      "Multiplayer networking requires both players to stay within the same lobby for data synchronization",
+      "Participants need basic understanding of English to use the prototype",
+      "Static hint card content limits replayability and knowledge depth",
+      "Game difficulty distribution needs improvement for reasonable assessment"
+    ],
+    "methodology_limitations": [
+      "Small sample size (n=20) with no restriction on job position or age",
+      "No control group or pre-post experimental comparison",
+      "Low Cronbach's alpha reliability for flow antecedents (.0286) and challenge (.1428) dimensions",
+      "Knowledge factor reliability is low (.4590)",
+      "No demographic stratification in analysis",
+      "Evaluation based on self-reported questionnaire data only"
+    ],
+    "negative_effects": [
+      "Participants felt mediocre about the challenge and knowledge factors",
+      "Challenge factor has the lowest and most considerable gap between reliability dimensions",
+      "Flow antecedents show poor reliability value, making the assumption about game challenge improving flow experience doubtful"
+    ],
+    "mitigation_strategies": [
+      "Design hint cards in more interactive ways with more informative knowledge content",
+      "Implement multiple AR tracking targets to provide more hint options during scene exploration",
+      "Design cards with interactive minigames that grant rewards or achievements",
+      "Retrieve question bank and hints from database rather than static content for varied gameplay",
+      "Distribute questions and hints with more reasonable difficulties for each game phase",
+      "Reconsider a more reasonable assessment of game difficulties"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "No clear inclusion/exclusion criteria for participants beyond basic English proficiency. The study states the collection of results was not based on respondents' job position or age, suggesting convenience sampling without defined eligibility criteria.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Only 20 participants with no demographic restrictions or stratification. No information about how participants were recruited or whether they represent any target population. The sample may not be representative of intended users of history education games.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "The GameFlow Scale from Kiili's model was used, which is an established instrument. However, the Cronbach's alpha values were very poor for several dimensions: flow antecedents (.0286), challenge (.1428), feedback (.4631), playability (.4456), and knowledge (.4590). These values fall well below acceptable reliability thresholds (typically >.70), questioning the validity of measurements in this specific application.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Analysis is limited to descriptive statistics (means, standard deviations) and Cronbach's alpha reliability estimates. No inferential statistics, no significance testing, and no effect sizes are reported. The authors acknowledge low reliability but still draw conclusions from these unreliable measurements.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Some concerns",
+      "q5_evidence": "The authors acknowledge that flow antecedents show poor reliability and that the assumption about game challenge improving flow experience is 'doubtful.' However, they still conclude the study highlights enhancement of cultural heritage preservation without sufficient empirical evidence to support this claim given the measurement limitations.",
+      "q6_limitations_discussed": "Some concerns",
+      "q6_evidence": "Some limitations are discussed implicitly (low reliability scores, mediocre participant feelings about challenge/knowledge). The conclusion section proposes improvements, acknowledging areas of weakness. However, there is no formal limitations section, and the small sample size and lack of experimental design are not explicitly discussed as limitations.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high risk of bias due to: (1) convenience sampling of only 20 participants with no clear selection criteria or demographic controls; (2) extremely poor reliability scores for key measurement dimensions (flow antecedents alpha = .0286, challenge alpha = .1428), questioning the validity of the evaluation instrument as applied; (3) no experimental design (no control group, no pre-post comparison); (4) only descriptive statistics with no inferential analysis; (5) conclusions about cultural heritage preservation enhancement are not well-supported by the empirical evidence presented. The study is primarily a prototype development and initial usability evaluation rather than a rigorous empirical assessment of learning outcomes."
+  }
+}

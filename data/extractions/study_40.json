@@ -1,0 +1,160 @@
+{
+  "study_id": 40,
+  "pdf_filename": "History-Themed Games in History Education Experiences on a Blended World History Course.pdf",
+  "bibtex_key": "40Kuran2018",
+  "bibliographic": {
+    "title": "History-Themed Games in History Education: Experiences on a Blended World History Course",
+    "authors": [
+      "Mehmet \u015e\u00fckr\u00fc Kuran",
+      "Ahmet Erdem Tozo\u011flu",
+      "Cinzia Tavernari"
+    ],
+    "year": 2018,
+    "publication_type": "preprint",
+    "venue": "ResearchGate Preprint",
+    "doi": null,
+    "volume": null,
+    "pages": null,
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "Turkey",
+      "Italy"
+    ],
+    "country_of_application": "Turkey",
+    "education_level": "undergraduate",
+    "sample_size": null,
+    "sample_description": "Undergraduate students enrolled in a 5 ECTS free elective course (ARCD301 - Playing with The Past) at Abdullah Gul University, Kayseri, Turkey, whose major program is not a history program. The course ran four times between 2015 and 2018.",
+    "study_design": "qualitative observational study",
+    "game_type": "commercial off-the-shelf strategy video games (grand strategy)",
+    "game_name": "Crusader Kings II, Europa Universalis IV, Hearts of Iron IV (also Civilization IV and Empire Total War in early iterations)",
+    "aim": "To experiment on how to integrate history-themed strategy video games into a blended world history course to achieve higher understanding of the contemporary social, political, economical, and technological context of historical eras, and to report observations on student experiences and learning outcomes.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is primarily a descriptive course design paper with qualitative observations rather than a rigorous empirical study. No formal sample size is reported, no control group, and no standardized outcome measures. Assessment is based on instructor observations of blog posts, in-class discussions, and a survey (details not provided).",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes history-themed games as strategy video games with detailed historical models that can serve as supportive tools in history courses. Following a 'history as a process' philosophy, the games allow students to experiment with social, political, economical, and technological norms of historical eras, providing an 'immersion process' (citing Radetich et al.) that improves understanding of historical settings. The approach is blended learning combining classical lecture and discussion (L&D) sessions with game experience sessions.",
+    "theoretical_frameworks": [
+      "History as a process philosophy",
+      "Blended learning",
+      "Immersion process (Radetich et al.)",
+      "Experiential learning through emergent gameplay",
+      "Periodization concept (Koebel 2017)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": "The authors compared three game series over multiple course iterations (2015-2018): Civilization series, Total War series, and Paradox Grand Strategy series. In the first two years they used one game from each series (Civilization IV, Crusader Kings II, Empire Total War). Based on observations, Grand Strategy games provided the most comprehensive experience due to level of detail, high historical accuracy, and versatility, leading them to switch entirely to Grand Strategy games in later iterations.",
+    "key_outcomes": "Five key qualitative learning outcomes were observed: (1) In-depth geographical knowledge - students internalized concepts of strategic and economic importance through interactive world maps; (2) Increased awareness of interaction between various societal issues - students became aware of complex interactions between economic, religious, technological, political, and cultural elements; (3) Experience-based immersive learning - students reported a critical immersive component with trial-and-error methodology allowing internalization of historical interactions; (4) Discussion over modeling decisions - students critically engaged with and debated the game's modeling choices (e.g., Eurocentric trade networks, westernization mechanic); (5) Contextualizing key events and major developments - students shifted from modern viewpoints to historical perspectives, understanding events as part of greater processes.",
+    "engagement_results": "Students who could not achieve assigned goals in game-based assignments self-incentivized to try again with different tactics and decisions, even though success or failure was explicitly stated as unimportant. This self-motivated repetition created high personal motivation and further increased immersiveness. Students also spontaneously initiated critical discussions about game modeling decisions."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Interactive world map with geopolitical components",
+      "Character-driven feudal system simulation (CK2)",
+      "Title and dynasty hierarchical system",
+      "Vassal-liege opinion mechanics (-100 to 100 scale)",
+      "Casus belli requirement for war declaration",
+      "Religious mechanics (Catholic-Pope relations, Sunni Islam decadence)",
+      "Westphalian nation-state simulation (EU4)",
+      "Standing army system replacing levy system",
+      "Technology tree with three categories (administrative, diplomatic, militaristic) and 32 levels",
+      "Institutions mechanic (Feudalism, Renaissance, Colonization, Printing Press, Global Trade, Manufactories, Enlightenment)",
+      "Fixed unidirectional trade network system",
+      "Country-specific historical events and mission trees",
+      "Political ideology system (democratic, fascist, communist, non-aligned) in HoI4",
+      "World tension mechanic",
+      "Strategic resources trade system (oil, aluminum, tungsten, rubber, chromium, steel)",
+      "Logistics and naval convoy system",
+      "Emergent gameplay from interacting mechanics"
+    ],
+    "technological_platforms": [
+      "Crusader Kings II (Paradox Interactive) - medieval ages (869-1453)",
+      "Europa Universalis IV (Paradox Interactive) - early modern to industrial age (1444-1812)",
+      "Hearts of Iron IV (Paradox Interactive) - early to mid 20th century (1910-1948 with Great War mod)",
+      "Sid Meier's Civilization IV (Firaxis Games) - used in early iterations",
+      "Empire Total War (Creative Assembly) - used in early iterations",
+      "The Great War mod for HoI4 (extends period to 1910)",
+      "Course blog (playingwithpast.wordpress.com)"
+    ],
+    "instructional_strategies": [
+      "Blended learning with classical lecture and discussion (L&D) sessions combined with game experience sessions",
+      "Modular course structure covering three historical ages: middle ages, early modern age, modern age",
+      "Two-week modules: one week L&D, one week game experience",
+      "Guided game sessions (3-5 hours) with specific nation/scenario options and goals",
+      "Weekly 300-500 word blog post reflections comparing game experiences with lecture content",
+      "Term project: 2000-3000 word article based on 15-20 hour extended gameplay as a chosen nation/dynasty with historical research",
+      "Midterm exam with counterfactual history 'what if' scenarios",
+      "Progressive game introduction across three Grand Strategy titles following historical periodization",
+      "In-class discussions over game modeling decisions and historical accuracy"
+    ],
+    "content_integration": "The course integrates world history content across three ages: Middle Ages (Christian and Islamic worlds, feudal vs. Iqta systems, crusades, Great Schism, Sunni-Shia split), Early Modern Age (Mongol aftermath, three Muslim empires, Renaissance, Reformation, colonization, Enlightenment, imperialism), and Modern Age (Industrial Revolution, WWI, interwar period, WWII). Each historical period is paired with a corresponding Grand Strategy game whose mechanics model the specific socio-political systems of that era. Students compare and contrast game experiences with historical sources in written assignments."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Requires effort to set up the blended course structure",
+      "Some games have steep learning curves (e.g., Victoria II was excluded due to complicated mechanics and unpolished UI)",
+      "Course schedule constraints limited the number of games that could be used",
+      "Games may contain Eurocentric design biases (e.g., EU4 institutions mechanic, fixed trade network favoring Western Europe)",
+      "Students whose major is not history may have varying baseline knowledge"
+    ],
+    "methodology_limitations": [
+      "No formal sample size reported",
+      "No control group or comparison condition",
+      "No standardized quantitative outcome measures",
+      "Observations are based on qualitative assessment of blog posts, in-class discussions, and a survey whose details are not provided",
+      "Assessment of learning outcomes relies primarily on instructor observations and essay quality",
+      "The study is descriptive and experiential rather than rigorously empirical",
+      "Preprint not published in a peer-reviewed venue"
+    ],
+    "negative_effects": [
+      "Games contain Eurocentric modeling choices (institutions appear in Europe first, trade routes flow toward Western Europe, former 'westernization' mechanic)",
+      "Some game modeling decisions are only partially successful emulations of historical systems (e.g., Islamic bishopric/mosque representation)",
+      "Risk that students may internalize game biases as historical facts if not critically discussed",
+      "Success/failure dynamics in game-based assignments can create pressure despite being explicitly stated as unimportant"
+    ],
+    "mitigation_strategies": [
+      "Critical in-class discussions about game modeling decisions and their historical accuracy",
+      "Switching from the overtly Eurocentric 'westernization' mechanic to the improved 'institutions' mechanic",
+      "Comparing game experiences with primary and secondary historical sources in written assignments",
+      "Explicitly stating that success or failure in game assignments is not graded",
+      "Iterative course improvement over four years by testing different game series and selecting the most suitable ones",
+      "Using multiple games with different modeling foci to provide more comprehensive perspectives"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "high",
+      "q1_evidence": "No clear inclusion/exclusion criteria for participant selection. The course is a 5 ECTS free elective targeted at non-history majors, but no details on how many students enrolled, demographic characteristics, or whether any selection criteria were applied. The study ran four times (2015-2018) but does not specify which iterations are being reported on or how students were recruited.",
+      "q2_representativeness": "high",
+      "q2_evidence": "The sample consists only of students at a single Turkish university (Abdullah Gul University) who self-selected into an elective course, which limits generalizability. No information on sample size, demographics, or representativeness is provided.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "high",
+      "q3_evidence": "Learning outcomes are assessed through blog posts (300-500 words), a term project (2000-3000 words), and a midterm exam with counterfactual history questions. A survey is mentioned but no details are provided about its design, validation, or results. No standardized assessment instruments were used. The quality of written essays is subjectively evaluated by instructors.",
+      "q4_analysis_methods": "high",
+      "q4_evidence": "No formal data analysis methods are described. The findings section ('Observations of the Student Experiences') presents qualitative observations organized thematically but without systematic coding, inter-rater reliability, or any quantitative analysis. No survey results are reported despite mentioning a survey was conducted.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "high",
+      "q5_evidence": "The authors present only positive observations without any negative or null findings. The interpretation appears to be strongly influenced by the authors' role as course designers and instructors, creating potential confirmation bias. Claims about learning outcomes are not supported by systematic evidence.",
+      "q6_limitations_discussed": "high",
+      "q6_evidence": "The paper does not contain a dedicated limitations section. The conclusion briefly acknowledges that 'it requires some effort to set up such a blended world history course' but does not discuss methodological limitations, threats to validity, or limitations of the observational approach.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study presents a descriptive account of a blended history course using strategy video games but lacks methodological rigor. There is no defined sample size, no control group, no standardized measures, no formal data analysis, and no discussion of limitations. The findings are based entirely on informal instructor observations without systematic data collection or analysis. While the course design and game mechanic descriptions are detailed and informative, the evidence for learning effectiveness claims is weak. The publication is a preprint without peer review."
+  }
+}

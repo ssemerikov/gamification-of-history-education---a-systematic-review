@@ -1,0 +1,141 @@
+{
+  "study_id": 9,
+  "pdf_filename": "An Investigation of the Influence of Learning Effectiveness and Motivations in a Taiwan History Digital Game \u2013 Govern Formosa.pdf",
+  "bibtex_key": "9Lin2018",
+  "bibliographic": {
+    "title": "An Investigation of the Influence of Learning Effectiveness and Motivations in a Taiwan History Digital Game \u2013 Govern Formosa",
+    "authors": [
+      "Chang-Hsin Lin",
+      "Chien-Ming Chen",
+      "Ju-Ling Shih",
+      "Shu-Hsien Huang",
+      "Chia-Chun Tseng"
+    ],
+    "year": 2018,
+    "publication_type": "conference_paper",
+    "venue": "Proceedings of the 26th International Conference on Computers in Education (ICCE 2018)",
+    "doi": null,
+    "volume": null,
+    "pages": "601-606",
+    "publisher": "Asia-Pacific Society for Computers in Education"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Taiwan"
+    ],
+    "country_of_application": "Taiwan",
+    "education_level": "Primary school (5th grade)",
+    "sample_size": 27,
+    "sample_description": "Twenty-seven 5th grade students (13 boys and 14 girls) in a primary school in southern part of Taiwan",
+    "study_design": "Pre-experimental (one-group pretest-posttest design)",
+    "game_type": "Digital puzzle game (2D/3D hybrid)",
+    "game_name": "Govern Formosa",
+    "aim": "To investigate how the digital game Govern Formosa influences primary school students' learning effectiveness and motivations in history content about Taiwan in the late Qing dynasty",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "No control group; small sample size (N=27); single class from one school",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes digital game-based learning as using educational digital games to integrate learning content (Taiwan history of late Qing dynasty) into gameplay. The game allows students to actively explore, observe, participate, and manipulate things in the digital game, learning through texts, graphics, and multimedia to retrieve relevant knowledge content. The game combines simulation, entertainment, and challenge with history content.",
+    "theoretical_frameworks": [
+      "Digital game-based learning",
+      "Game integrated courses (formal education integration)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Learning effectiveness measured via 20-item pretest/posttest (total score 100); Game questionnaire (24 items, 6-point Likert scale) measuring four aspects: motivation (5 items), system (5 items), content (5 items), and memory (9 items). Cronbach's alpha: pretest=0.843, posttest=0.963.",
+    "statistical_results": "Learning effectiveness: pretest M=26.48 (SD=17.640) to posttest M=60.00 (SD=16.350), t=8.196***, p<.001. Motivation: pretest M=23.07 (SD=4.739) to posttest M=27.52 (SD=3.130), t=5.064***, p<.001. System: pretest M=24.41 (SD=3.703) to posttest M=26.81 (SD=4.161), t=3.314*, p=.003. Content: pretest M=24.63 (SD=3.477) to posttest M=27.37 (SD=3.564), t=3.635**, p=.001. Memory: pretest M=43.33 (SD=6.127) to posttest M=49.15 (SD=5.953), t=4.786***, p<.001.",
+    "comparative_methodology": "Paired Samples t-test comparing pretest and posttest scores for learning effectiveness and all four questionnaire aspects (motivation, system, content, memory)",
+    "key_outcomes": "All measures showed statistically significant improvements from pretest to posttest. Learning effectiveness scores more than doubled. Students' learning motivations significantly improved. The game was found to be feasible and effective for game-based learning in history courses. Students felt satisfied about the game and were willing to continue self-learning after school. A postponed test showed history knowledge memory was retained over time.",
+    "engagement_results": "Students found the game intriguing and it attracted them to continue self-learning after school. Students were willing to play again. Memory aspect results showed students believed the game helped them memorize history content and connect to questions in assessments."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Role-playing (students play as Taiwan governor)",
+      "Three progressive historical stages (Treaty Ports 1860s, SHEN Bao-Zhen 1874-1875, LIU Ming-Chuan 1885-1891)",
+      "Resource management (money, labor, crops: tea, sugar, camphor, rice)",
+      "Trade mechanics (exporting to different countries)",
+      "3D scene exploration (Tamsui, Kaohsiung, Keelung, mountain area)",
+      "NPC interactions",
+      "Task-based progression following real historical sequence",
+      "Strategy elements (choosing actions: trade, raise funds, reclamation, exploration)",
+      "2D map interface with color-coded administrative regions",
+      "Global map with country-specific crop trading values"
+    ],
+    "technological_platforms": [
+      "Unity game engine",
+      "2D and 3D mixed presentation",
+      "Google Maps reference for location scenes",
+      "Computer classroom deployment"
+    ],
+    "instructional_strategies": [
+      "Integration with formal 5th grade history curriculum (Ministry of Education Taiwan)",
+      "Historical content aligned with textbook and mid-term evaluation",
+      "Game used in conjunction with formal education history class",
+      "Two 40-minute sessions: 15 min pretest, 45 min gameplay, 15 min posttest, 5 min reflection",
+      "Experiential learning through historical simulation",
+      "Content based on documentary books and historical references"
+    ],
+    "content_integration": "The game content is directly based on the primary schools history curriculum defined by Ministry of Education in Taiwan, covering Taiwan history in the late Qing dynasty. Three game stages correspond to three historical periods and events. Game events are ordered in real historical sequence. Learning assessment questions are adopted from history textbook, learning sheets, and mid-term evaluations. The 3D scenes are built based on history, documentary books, and Google Maps location references."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Need for more hints and information in the game to help students proceed",
+      "Need for more careful and detailed descriptions and clues as options",
+      "Balancing game play hours with lecture time ratio for effective learning",
+      "Game content must appropriately correspond to course content"
+    ],
+    "methodology_limitations": [
+      "No control group (single group pre-experimental design)",
+      "Small sample size (N=27)",
+      "Single class from one school limits generalizability",
+      "Self-reported questionnaire for motivation and satisfaction",
+      "Short intervention period (two 40-minute sessions)",
+      "Experiment conducted before students had formal lessons on the topic"
+    ],
+    "negative_effects": [
+      "Students suggested the game needs more hints to give more information to proceed",
+      "System aspect showed smallest improvement among questionnaire dimensions"
+    ],
+    "mitigation_strategies": [
+      "Add a play-again button to allow students to revisit the game",
+      "Increase hints with more careful and detailed descriptions and clues",
+      "Implement more presentation modes in the game",
+      "Design game content to require more complicated thinking and reflections for deeper immersion",
+      "Future integration of three game stages into formal education courses separately",
+      "More qualitative analysis recommended to examine long-term vs short-term memory relationship"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "The study focused specifically on 5th grade students studying Taiwan history in the late Qing dynasty, but inclusion/exclusion criteria for study selection are not detailed beyond the target population. One randomly selected class was used.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Only 27 students from a single randomly selected class in one primary school in southern Taiwan participated. This is a convenience sample with very limited representativeness. No discussion of how this sample represents the broader population of 5th graders.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Low concern",
+      "q3_evidence": "The pretest/posttest items were adopted from history textbooks, learning sheets, and mid-term evaluations, reviewed and validated by history teachers. The questionnaire had good reliability with Cronbach's alpha of 0.843 (pretest) and 0.963 (posttest).",
+      "q4_analysis_methods": "Some concerns",
+      "q4_evidence": "Paired samples t-tests were used appropriately for pre-post comparisons. However, there is no reporting of effect sizes, no checking of normality assumptions with the small sample (N=27), and no correction for multiple comparisons across five separate t-tests.",
+      "judgment": "Low"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Some concerns",
+      "q5_evidence": "Results are generally interpreted consistently with the data. However, causal claims about the game's effectiveness are made without a control group, and the authors do not sufficiently acknowledge that the pre-post design cannot rule out alternative explanations (e.g., learning effects from simply engaging with the content, testing effects).",
+      "q6_limitations_discussed": "High concern",
+      "q6_evidence": "The study does not include a formal limitations section. While recommendations for future research are mentioned (more qualitative analysis, integrating stages into formal courses), the fundamental methodological limitations (no control group, small sample, lack of generalizability) are not explicitly discussed.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has significant methodological limitations: no control group (pre-experimental design), very small sample (N=27) from a single school, no formal discussion of limitations, multiple statistical tests without correction, and causal claims unsupported by the research design. While the measurement instruments show adequate reliability, the overall design provides weak evidence for the effectiveness claims made."
+  }
+}

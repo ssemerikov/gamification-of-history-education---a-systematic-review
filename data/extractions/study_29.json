@@ -1,0 +1,147 @@
+{
+  "study_id": 29,
+  "pdf_filename": "Fostering Perspective-Taking in History Students Through Board Games.pdf",
+  "bibtex_key": "29Stiso20201165",
+  "bibliographic": {
+    "title": "Fostering Perspective-Taking in History Students Through Board Games",
+    "authors": [
+      "Christina Stiso",
+      "Zachary Ryan",
+      "Joshua Danish",
+      "Eric Robinson"
+    ],
+    "year": 2020,
+    "publication_type": "conference paper",
+    "venue": "ICLS 2020 Proceedings (International Conference of the Learning Sciences)",
+    "doi": null,
+    "volume": null,
+    "pages": "1165-1172",
+    "publisher": "ISLS (International Society of the Learning Sciences)"
+  },
+  "study_characteristics": {
+    "countries": [
+      "United States"
+    ],
+    "country_of_application": "United States",
+    "education_level": "undergraduate",
+    "sample_size": 29,
+    "sample_description": "29 undergraduate students enrolled in an experimental history course ('Greek History Through Games') at a large university in the mid-western United States, divided into 11 groups (nine pairs playing smaller city-states and two larger groups of 5-6 students playing Athens and Sparta)",
+    "study_design": "qualitative case study with interaction analysis and qualitative coding of written artifacts and video data",
+    "game_type": "analog strategy role-playing board game",
+    "game_name": "Cities on the Edge of War",
+    "aim": "To investigate how the design elements of an instructor-designed semester-long strategy board game foster historical perspective-taking in undergraduate history students studying the Peloponnesian War period of Ancient Greece",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study is qualitative with no control group or standardized outcome measures; analysis is illustrative rather than representative. However, it is a primary empirical study on game-based history education.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes game-based learning as using a strategy role-playing board game to engage students in historical perspective-taking. The game is framed as an extension of 'Reacting to the Past' pedagogy, combining role-playing elements (character roles, diplomacy seasons, Greek Freedom Index) with strategy elements (map, tokens, prestige meter, situated strategy). The focus is on fostering five types of perspective-taking: (1) personal response to events, (2) political faction leader, (3) city-state member, (4) Greek at the time, and (5) historian/history student.",
+    "theoretical_frameworks": [
+      "Game-based learning (Squire, 2010)",
+      "Historical thinking and perspective-taking (Wineburg, 2001)",
+      "Historical practices including inquiry, comprehension, analysis, and argument construction (Craig, 2017; Monte-Sano, 2011; Shopkow et al., 2012)",
+      "Reacting to the Past pedagogy (Stroessner, Beckerman, & Whittaker, 2009)",
+      "Storification in history education (Akkerman, Admiraal, & Huizenga, 2009)",
+      "Complex reasoning in strategy board games (Berland & Lee, 2011)",
+      "Interaction Analysis (Jordan & Henderson, 1995)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": "Informal comparison by the instructor: students developed deeper insights into the intricacies of Greek motivations compared to other classes run by the same professor, but lacked the breadth of knowledge evident in students from lecture-based courses. No formal statistical comparison was conducted.",
+    "key_outcomes": "Analysis of 71 written commentaries from 29 students showed evidence of all five targeted perspectives in every document. Perspective-taking was demonstrated through classroom interactions and written reflections. Over time (Commentary 1 to Commentary 9), students showed increasing adoption of 'Greek at the Time' and 'Responding to Events' perspectives, while 'City-State' perspective and 'Situated Strategy' references decreased, suggesting internalization of the game world. Strategy: Situated (72 total code counts) and RP: Role (61 total code counts) were the most frequently coded design elements. Students unanimously reported this was one of their favorite history classes ever, with several calling it the best class they had ever taken.",
+    "engagement_results": "Students unanimously reported high engagement and enjoyment; the course was described as one of their favorite history classes and by some as the best class ever taken. All 71 coded documents showed evidence of at least one of the five perspective types."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Role-playing: Assigned historical character roles (e.g., Alcibiades of Athens, Lysander of Sparta) with summary cards indicating motivations",
+      "Role-playing: Diplomacy Seasons (winter and high summer phases for free inter-group negotiation)",
+      "Role-playing: Greek Freedom Index (a -5 to +5 scale tracking collective Greek freedom based on city-state decisions)",
+      "Strategy: Physical map with geographic representation of Greek city-states",
+      "Strategy: Tokens/figures representing military forces placed on the map",
+      "Strategy: Role cards for strategic decision-making",
+      "Strategy: Prestige meter measuring overall dominance of Athens or Sparta",
+      "Strategy: Realities of Time (communication restrictions simulating historical messenger travel times)",
+      "Strategy: Situated Strategy (emergent element where students justify strategic thinking using non-presentist reasoning)",
+      "Team-based competitive structure (11 groups representing different city-states)",
+      "Long-term continuous play (11 of 15 class days, two full game sessions across the semester)",
+      "Non-player characters (NPC city-states and figures enacted by the instructor)",
+      "After-action written reflection assignments connecting gameplay to historical readings"
+    ],
+    "technological_platforms": [
+      "Analog/physical board game (no digital technology)"
+    ],
+    "instructional_strategies": [
+      "Extended semester-long game-based learning (two full multi-week game sessions)",
+      "Role-playing as historical figures with individual goals and motivations",
+      "Team-based collaborative and competitive gameplay",
+      "Diplomacy phases enabling free inter-group negotiation",
+      "After-class written reflections connecting gameplay events to historical readings and primary sources",
+      "Game mechanics enforcing historical realities (e.g., communication constraints, seasonal turn structure)",
+      "Instructor as facilitator and NPC controller",
+      "Historical readings assigned alongside gameplay for contextualization"
+    ],
+    "content_integration": "The game was set during the period leading up to the Peloponnesian War (430 BCE) and directly embedded historical content into gameplay. Students played as historical figures or faction leaders of actual Greek city-states. Game mechanics reflected historical realities (communication delays, seasonal military campaigns, diplomacy). Students were required to connect gameplay events to assigned historical readings (including Thucydides) in written reflections. The game structure organically surfaced themes of Greek political dynamics, hegemonic power, democratic vs. oligarchic tensions, and inter-state relations."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Requires significant time, expertise, and flexibility from instructors to develop and support a semester-long board game",
+      "11 of 15 class days devoted to gameplay leaves limited time for traditional instruction",
+      "Not all history faculty have the resources to develop such a course",
+      "The approach is unique and difficult to replicate at scale"
+    ],
+    "methodology_limitations": [
+      "Qualitative analysis only; no quantitative outcome measures or standardized assessments",
+      "No control group for formal comparison",
+      "Video episode analysis was illustrative and not representative of the full data corpus",
+      "Small sample size (n=29) from a single course offering",
+      "Authors were present during implementation, introducing potential researcher bias",
+      "The informal comparison to lecture-based courses by the same professor lacks methodological rigor",
+      "Written commentary analysis covered only 3 of the multiple commentary weeks"
+    ],
+    "negative_effects": [
+      "Students lacked breadth of historical knowledge compared to students from lecture-based courses taught by the same professor",
+      "Some students reported wanting a stronger grasp of historical realities such as specific dates and outcomes",
+      "Communication restrictions in the game caused student frustration (though this was also seen as pedagogically productive)"
+    ],
+    "mitigation_strategies": [
+      "Plans to revise the game for future implementations to include more opportunities to make connections to the broader historical context",
+      "After-action written reflections served as a mechanism to connect gameplay to historical readings and primary sources",
+      "Two separate game sessions with new group/faction assignments in the second game provided varied perspectives",
+      "A reflection week between the two game sessions provided time for consolidation"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study includes all 29 students enrolled in the course with clear description of the educational context (undergraduate history course at a large mid-western US university). The inclusion is the natural class enrollment.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample is a single class of 29 students self-selected into an experimental game-based history course. This is not representative of typical history students. No demographic information is provided. The course is described as unique and experimental.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "Perspective-taking was assessed through qualitative coding of written commentaries and interaction analysis of video episodes. While a coding scheme based on 9 design elements and 5 perspectives was developed, no inter-rater reliability is reported. The video episodes were selected because they showed evidence of the five perspectives, creating selection bias. No validated instruments were used.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Analysis relied on qualitative coding using Atlas.ti and interaction analysis. Code counts are reported but no statistical analysis was performed. The video episode analysis is explicitly described as 'illustrative and not representative.' The comparison to lecture-based courses is informal and anecdotal (instructor impression).",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Moderate concern",
+      "q5_evidence": "The authors present evidence of perspective-taking supported by direct quotes from student work and transcribed interactions. The interpretation generally follows from the data presented. However, the selected episodes were chosen specifically to illustrate perspective-taking, which may overstate the prevalence of these outcomes across the full dataset.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The authors acknowledge several limitations: the unique and hard-to-replicate nature of the course, the lack of breadth of knowledge compared to lecture courses, student desires for more factual grounding, and the illustrative (not representative) nature of the video analysis. They also note plans for revision.",
+      "judgment": "Moderate"
+    },
+    "overall": "High",
+    "overall_justification": "The study presents a qualitative exploration of a single unique course implementation with no control group, no validated instruments, no inter-rater reliability, and no statistical analysis. The sample is small (n=29) and self-selected. While the qualitative evidence of perspective-taking is rich and the authors are transparent about limitations, the study design does not support strong causal claims about the effectiveness of the game-based approach. The comparison to other courses is entirely anecdotal."
+  }
+}

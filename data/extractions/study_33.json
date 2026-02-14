@@ -1,0 +1,164 @@
+{
+  "study_id": 33,
+  "pdf_filename": "Games for Teaching and Learning History A Systematic Literature Review.pdf",
+  "bibtex_key": "33Oceja2022419",
+  "bibliographic": {
+    "title": "Games for Teaching and Learning History: a Systematic Literature Review",
+    "authors": [
+      "Jorge Oceja",
+      "David Abi\u00e1n-Cubillo",
+      "Marina Torres-Trimallez"
+    ],
+    "year": 2022,
+    "publication_type": "conference paper",
+    "venue": "CEUR Workshop Proceedings",
+    "doi": null,
+    "volume": null,
+    "pages": "419-430",
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "Spain",
+      "Belgium"
+    ],
+    "country_of_application": "Not applicable (systematic literature review with no specific country of application)",
+    "education_level": "Secondary education",
+    "sample_size": 78,
+    "sample_description": "78 studies for RQ1-3 (narrowed to 11 COTS-focused studies for RQ4) identified from Scopus database search conducted in March 2022. Initial search yielded 255 records, screened to 125, then refined to 78 after applying inclusion and exclusion criteria. Studies document game-based educational projects for teaching geography and/or history in secondary education.",
+    "study_design": "Systematic literature review",
+    "game_type": "Multiple types reviewed: educational games designed ad hoc (63 projects), Commercial Off-the-Shelf games (COTS, 11 projects), and student-designed games (4 projects)",
+    "game_name": "Not applicable (review covers multiple games including Sim City, Minecraft, Age of Empires, Civilization, Pokemon Go, Spore, Valiant Hearts, Dominations, Second Life, Kodu, and many ad hoc educational games)",
+    "aim": "To identify educational projects where games have been used to teach geography and history in secondary education, examining: (RQ1) what kind of academic works document these projects, (RQ2) what kind of games are used, (RQ3) main methodological approaches, and (RQ4) the extent to which impact of COTS-based projects is measured.",
+    "databases": [
+      "Scopus"
+    ]
+  },
+  "eligibility": {
+    "meets_criteria": false,
+    "concerns": "This is a systematic literature review, not a primary empirical study. It synthesizes 78 studies on games for teaching geography and history in secondary education. It does not involve direct implementation or empirical data collection with learners. Additionally, it covers geography and history combined, not exclusively history education. The review explicitly excludes literature reviews from its own included studies.",
+    "is_history_education": true,
+    "is_primary_study": false,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The authors define video games as 'artistic products, created with a ludic intention, which provide an artificial system accepted by the players who interact with it in a new complex experience that depends mainly on the emotional dimension' (citing Oceja, 2020). They distinguish between educational games (created ad hoc), Commercial Off-the-Shelf games (COTS), and student-designed games. The paper does not provide an explicit definition of gamification per se, but frames its scope around game-based learning in history/geography education.",
+    "theoretical_frameworks": [
+      "Behaviorism (games as opportunity for reward-based responses)",
+      "Cognitivism (Malone and Lepper, 1987 - intrinsic motivations for learning)",
+      "Constructivism (players building knowledge through interaction with digital environments and other players)",
+      "Constructionism (Papert, 1993 - students designing their own games)",
+      "Sociocultural approaches (Gee, 2014 - emphasizing activities around the game, teacher role, conversations, context over explicit educational content)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Descriptive statistics on included studies: 43 conference papers vs 35 journal articles; 63 projects used educational games, 11 used COTS, 4 involved students designing games. For COTS projects (n=11), most measured educational impact: 3 quantitative, 3 qualitative, 4 mixed methods, 1 not measured.",
+    "statistical_results": "No meta-analytic statistics performed. The review presents frequency counts and descriptive summaries. For individual COTS studies reviewed: Sim City improved spatial intelligence (quasi-experimental, T-test); Minecraft increased motivation significantly (ANOVA) and improved content knowledge (pre-post assessments); Age of Empires showed greater learning achievement (mixed methods pretest/posttest); Civilization increased motivation (ANOVAs and inferential statistics) but conceptual maps showed lower motivation; Pokemon Go enhanced learning attitudes (qualitative observations); Spore/Valiant Hearts improved perceived topic knowledge, learning motivation, acceptance towards video games (mixed methods, one-group pre-post).",
+    "comparative_methodology": "Comparison between academic journals (n=35) and conference proceedings (n=43). Comparison between three approaches: educational games (n=63), COTS (n=11), and student-designed games (n=4). Table 2 compares 11 COTS-based projects across COTS game used, whether impact was measured, variables assessed, methodology, and results.",
+    "key_outcomes": "Most projects use educational games created ad hoc rather than COTS. Conference proceedings outnumber journal articles (43 vs 35). Very few projects (n=11) use COTS despite evidence of their benefits. Student-designed game projects are particularly scarce (n=4). Most COTS projects attempted to measure educational impact with diverse methodologies and generally positive results. Educational games are often not rigorously evaluated for their educational impact.",
+    "engagement_results": "Several individual COTS studies reported increased motivation and positive attitudes: Minecraft studies showed increased motivation significantly and most students enjoyed the experience; Age of Empires found boys were significantly more motivated; Civilization study found increased motivation when using games vs. traditional class but lower motivation when using conceptual maps; Pokemon Go effectively enhanced students' attitudes toward learning; Spore/Valiant Hearts improved perceived topic knowledge, learning motivation, and acceptance towards video games; Second Life showed teachers perceived children acquired new skills."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Educational games designed ad hoc (63 of 78 projects)",
+      "Commercial Off-the-Shelf (COTS) games (11 projects)",
+      "Student-designed games (4 projects)",
+      "Pre-game and post-game activities as critical design elements",
+      "Concept maps integrated with game use",
+      "Dialogic mediation by teachers",
+      "Rubrics and didactic instruments for assessment"
+    ],
+    "technological_platforms": [
+      "Minecraft (3 projects)",
+      "Sim City",
+      "Age of Empires",
+      "Kodu",
+      "Pokemon Go",
+      "Pokemon",
+      "Civilization",
+      "Spore",
+      "Valiant Hearts",
+      "Dominations",
+      "Second Life",
+      "Mobile platforms",
+      "3D virtual environments",
+      "Various ad hoc educational games"
+    ],
+    "instructional_strategies": [
+      "Game-based learning (GBL) with educational games",
+      "Problem-based learning (PBL) combined with games (e.g., Minecraft and Kodu)",
+      "Sociocultural approaches emphasizing teacher role and surrounding activities over explicit game content",
+      "Constructionist approaches (students designing their own games)",
+      "Edutainment approaches using educational games for content/skill practice",
+      "Design-based research",
+      "Mixed methods combining quantitative and qualitative assessment",
+      "Interpretive-type research structured in phases (search, preparation, design, implementation, evaluation)"
+    ],
+    "content_integration": "Games are used to teach history and geography content in secondary education. Most projects (63 of 78) use educational games designed specifically to deliver curriculum content. COTS games are used less frequently (11 of 78) but leverage existing commercial titles with historical/geographical settings. The review notes from the sociocultural perspective that the explicit educational content of COTS is not the most important element; rather, conversations, activities, teacher mediation, and pre/post-game activities around the game experience are critical for learning outcomes."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Shortage of teachers using COTS despite evidence of educational benefits",
+      "Most educational games are created ad hoc and rarely implemented or rigorously evaluated",
+      "Educational impact is rarely measured rigorously in game-based education projects",
+      "Gap between educational research and real educational practice ('failure of educational research' per Miller, 1999)",
+      "Dominance of conference proceedings over journal articles may limit visibility and impact",
+      "Lack of quality assessment tools applied to game-based learning studies",
+      "Very few projects allow students to design their own games (only 4 of 78)",
+      "Educational games (edutainment) are often superficial and far from games students normally play",
+      "Explicit educational content in games can contaminate student experience, making it feel artificial"
+    ],
+    "methodology_limitations": [
+      "Single database search (Scopus only); Web of Science and other databases not included",
+      "Search limited to English-language publications",
+      "Combined geography and history as single subject, which may miss discipline-specific nuances",
+      "No quality appraisal of individual studies included in the review",
+      "No meta-analysis performed; only descriptive statistics",
+      "PRISMA methodology adapted with modifications (no duplicate removal since single database, two different sample sizes for different RQs)",
+      "Grey literature not systematically searched",
+      "No inter-rater reliability reported for screening decisions",
+      "No PROSPERO registration mentioned"
+    ],
+    "negative_effects": [
+      "Using conceptual maps with Civilization showed lower motivation compared to traditional class",
+      "Educational games often perceived as artificial rather than playful by learners (edutainment critique)",
+      "Superficial quality of many educational games compared to commercial games students normally play"
+    ],
+    "mitigation_strategies": [
+      "Authors recommend applying quality scales such as PEDro to assess rigor of future studies",
+      "Suggest expanding reviews to search for specific games and grey literature for a more detailed picture",
+      "Recommend exploring constructionist approaches where students design their own games using free tools (Scratch, Unity)",
+      "Emphasize importance of teacher training and professionalization for game-based learning (teacher efficacy, pedagogical issues, school culture)",
+      "Highlight need for design-based research approaches (Reeves, 2000)",
+      "Suggest both digital and physical game design as accessible options for teachers",
+      "Advocate for greater use of COTS games with teacher mediation following sociocultural approaches"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "Clear inclusion and exclusion criteria are stated. Inclusion: works documenting game-based educational projects, focusing on teaching/learning history/geography, focusing on secondary education. Exclusion criteria explicitly listed: book chapters, model design, books, not secondary education, not geography/history, not focusing on games, not implemented, not in English, teacher perceptions on GBL, critical reviews, literature reviews. Boolean search string provided. PRISMA-style flow diagram (Figure 1) shows numbers at each stage (255 -> 125 -> 78 -> 11).",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Only Scopus was searched; no other databases (WOS, ERIC, etc.) were used. Authors themselves acknowledge Scopus can be outscored by Web of Science in coverage. Search limited to English publications only. Grey literature not included. Single search timepoint (March 2022). Authors note that many more projects exist than are captured in academic literature, suggesting significant coverage gaps.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "No quality appraisal or risk of bias assessment was conducted on included studies. Authors explicitly note this limitation and recommend applying quality scales such as PEDro in future research. Data extraction appears limited to basic categorization (publication type, game type, measurement approach) without a formal coding framework or extraction form.",
+      "q4_analysis_methods": "Moderate concern",
+      "q4_evidence": "Analysis is purely descriptive (frequency counts, bar charts, tables). No meta-analysis, vote counting with statistical weighting, or formal synthesis method is applied. Table 1 lists all 78 included studies; Table 2 systematically summarizes the 11 COTS studies across key dimensions (game, measurement, variables, methodology, results). The synthesis approach is appropriate for a scoping/mapping review but limited for drawing robust conclusions.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Low concern",
+      "q5_evidence": "Findings are presented clearly and consistently with the data shown in tables and figures. The four research questions are addressed systematically. Discussion appropriately contextualizes findings within broader literature on game-based learning, referencing sociocultural theory, edutainment critique, and constructionism.",
+      "q6_limitations_discussed": "Moderate concern",
+      "q6_evidence": "Some limitations are acknowledged (single database, suggestion for quality appraisal in future work, need to search grey literature). However, there is no formal limitations section; limitations are dispersed across the conclusion/discussion. Important limitations not explicitly discussed include: lack of inter-rater reliability for screening, no PROSPERO registration, potential language bias, and implications of combining geography and history as a single unit.",
+      "judgment": "Moderate"
+    },
+    "overall": "High",
+    "overall_justification": "This systematic literature review has significant methodological limitations: reliance on a single database (Scopus), no quality appraisal of included studies, purely descriptive analysis without meta-analysis, and limited discussion of limitations. While the search strategy and inclusion/exclusion criteria are clearly stated with a PRISMA-style flow diagram, the narrow search scope and absence of critical appraisal substantially limit the reliability and comprehensiveness of the findings. As a secondary study (literature review), it does not meet eligibility criteria for inclusion as a primary empirical study."
+  }
+}

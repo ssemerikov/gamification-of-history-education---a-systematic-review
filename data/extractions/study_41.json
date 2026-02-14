@@ -1,0 +1,139 @@
+{
+  "study_id": 41,
+  "pdf_filename": "How a Serious Game Supports Elementary School History Classes in Teaching About the Bombardment of Copenhagen in 1807.pdf",
+  "bibtex_key": "41Petersen2023301",
+  "bibliographic": {
+    "title": "How a Serious Game Supports Elementary School History Classes in Teaching About the Bombardment of Copenhagen in 1807",
+    "authors": [
+      "Mads Stromberg Petersen",
+      "Thomas Bjorner",
+      "Christian Tobias Arndt",
+      "Omar Safi"
+    ],
+    "year": 2023,
+    "publication_type": "conference_paper",
+    "venue": "Joint International Conference on Serious Games (JCSG 2023), Lecture Notes in Computer Science (LNCS 14309)",
+    "doi": "10.1007/978-3-031-44751-8_23",
+    "volume": "14309",
+    "pages": "301-313",
+    "publisher": "Springer Nature Switzerland"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Denmark"
+    ],
+    "country_of_application": "Denmark",
+    "education_level": "primary",
+    "sample_size": 22,
+    "sample_description": "22 pupils aged 13-14 from a Danish elementary school, split into two classes: experimental group (11 pupils, 4 male and 7 female) and control group (11 pupils, 6 male and 5 female)",
+    "study_design": "quasi_experimental",
+    "game_type": "digital_custom",
+    "game_name": "Bombardment of Copenhagen 1807 (custom serious game built in Unity Engine 2021)",
+    "aim": "To investigate whether a serious game can be engaging and improve learning outcomes about the history of the Copenhagen Bombardment in 1807 for Danish elementary school pupils in the 7th grade",
+    "databases": [
+      "scopus"
+    ]
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": null,
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "Previous definitions have emphasized that serious games are applications that are not designed exclusively for fun or that are intended to be more than entertainment.",
+    "has_explicit_definition": true,
+    "conceptualization": "The study conceptualizes serious games as educational tools that use narrative engagement, clear goals, and intuitiveness to communicate learning objectives tied to the school curriculum. The game transforms historical textbook content into an interactive 3D environment with NPCs providing historical information.",
+    "theoretical_frameworks": [
+      "Narrative engagement",
+      "Intrinsic motivation",
+      "Flow theory",
+      "Cognitive theory of multimedia learning"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Knowledge test with 6 curriculum-aligned questions; user-engagement questionnaire (8 items on 5-point Likert scale) covering focused attention, perceived usability, and aesthetic appeal",
+    "statistical_results": "Experimental group answered questions correctly to a much higher degree than control group. Q1: Exp 82% vs Con 9% (diff 73%); Q5: Exp 90% vs Con 20% (diff 70%); Q6: Exp 60% vs Con 0% (diff 60%). However Q2: Exp 0% vs Con 20% (diff -20%). Engagement questionnaire: highest mean score Q2.2 (intuitiveness, Mean: 4.00, SD: 0.943); Q2.3 narrative clarity (Mean: 3.60, SD: 1.174); Q1.2 purpose clarity (Mean: 3.45, SD: 0.820).",
+    "comparative_methodology": "Quasi-experimental comparison between experimental (gaming) group and control (analogue textbook reading) group, with both groups taking the same 6-question knowledge test",
+    "key_outcomes": "The experimental gaming group showed substantially higher understanding of specific learning objectives compared to the control group on most questions (73%, 70%, and 60% advantages on Q1, Q5, Q6 respectively). The game was perceived as intuitive and the narrative was clear.",
+    "engagement_results": "Interviews revealed mainly positive perceptions across feedback, immersion, teaching, and motivation themes. 8 positive vs 3 negative statements for feedback; 6 positive vs 5 negative for immersion; 8 positive vs 3 negative for teaching. Students found it 'more fun than the traditional teaching in history class' but some felt 'the game was overloaded with information.'"
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Narrative engagement",
+      "NPC-guided storytelling",
+      "Collectible notes (4 notes to collect)",
+      "Visual feedback on progress",
+      "3D exploration environment",
+      "Clear goals tied to curriculum",
+      "Historical reconstruction of Copenhagen"
+    ],
+    "technological_platforms": [
+      "Unity Engine version 2021",
+      "Unity Store asset packs for 3D models"
+    ],
+    "instructional_strategies": [
+      "Curriculum-aligned content co-designed with history teacher",
+      "Teacher involvement in game development",
+      "Same textual content as analogue textbook embedded in game",
+      "Post-game knowledge testing",
+      "Semi-structured interviews for qualitative feedback"
+    ],
+    "content_integration": "The game takes place in a 3D reconstruction of Copenhagen with canals, bridges, harbors, buildings, and a church tower. Players follow NPC guidance to collect and read four notes containing the exact same text as the analogue textbook used by the control group. Historical information about the Bombardment is delivered through NPC interactions and collectible notes."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Difficulty conducting perfect research evaluation with pupils aged 13-14 in elementary school due to logistics, time constraints, gatekeepers, legislation",
+      "Lack of a proper post-test and baseline assessment",
+      "Technical issues and resource constraints",
+      "Voiceover-only information delivery proved ineffective for Q2"
+    ],
+    "methodology_limitations": [
+      "Small sample size (only 22 pupils, 11 per group)",
+      "Uncertain whether early teens could cope cognitively with a 5-point Likert scale",
+      "Randomization was impractical in fieldwork context",
+      "No pre-test to establish baseline knowledge",
+      "Individual variation in responses to the computer game not accounted for",
+      "Could be unethical to randomize pupils in the same class"
+    ],
+    "negative_effects": [
+      "Some pupils found the game overloaded with information making it hard to remember",
+      "Some pupils missed the traditional way of reading and answering questions",
+      "Engagement challenges from balancing clear goals vs discoverability and difficulty",
+      "Information conveyed only through voiceover (Q2) was not effectively learned"
+    ],
+    "mitigation_strategies": [
+      "Include improved multimedia learning framework combining words, voiceover, narrative, and sound effects",
+      "Include more emphasis on minimizing cognitive overload",
+      "Make the game purpose clearer at the beginning",
+      "Include a list of tasks for players to reference while playing",
+      "Need much higher number of participants and baseline/control groups in future research"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "yes",
+      "q1_evidence": "The participants in this study were pupils from a Danish elementary school aged 13 or 14. One class functioned as a control group... The control group consisted of 11 pupils (six male and five female). The other class (experimental group) also consisted of 11 pupils (four male and seven female).",
+      "q2_representativeness": "no",
+      "q2_evidence": "Very small sample of only 22 pupils from a single school, not randomized. Both classes are from the same school, with the same curriculum, but had each a different history teacher. The sample is a convenience sample with no randomization.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "The questionnaire was inspired by the user-engagement scale (UES) short form and consisted of eight items on a 5-point Likert scale. The knowledge test was made in collaboration with the teacher and had six questions. However, no reliability or validity metrics are reported for any instruments. Authors acknowledge uncertainty about whether early teens could cope cognitively with a 5-point Likert scale.",
+      "q4_analysis_methods": "yes",
+      "q4_evidence": "We analyzed the user-engagement questionnaire using cumulative frequency, following a mean and standard deviation for each question. The knowledge tests were also analyzed by cumulative frequency... All the interviews were analyzed via traditional coding following four steps: organizing, recognizing, coding, and interpretation.",
+      "judgment": "Unclear"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The results revealed higher understanding of specific learning objectives in the experimental gaming group compared to the control group. The authors note the Q2 exception and explain it was due to voiceover-only delivery. Interpretations are consistent with the data presented in Tables 1-3.",
+      "q6_limitations_discussed": "yes",
+      "q6_evidence": "A major limitation for this study is whether the early teens understood the questions asked and could cope cognitively with a 5-point Likert scale. In addition, randomization is often impractical for evaluating serious games in a fieldwork context... First, a much higher number of participants is needed, and baseline and control groups should be included in the research design.",
+      "judgment": "Low"
+    },
+    "overall": "High",
+    "overall_justification": "While the study has clear participant selection criteria (Domain 1 q1) and appropriate interpretation with acknowledged limitations (Domain 3), the very small convenience sample of 22 students from a single school with no randomization (Domain 1 High) and lack of validated instruments (Domain 2 Unclear) result in an overall High risk of bias."
+  }
+}

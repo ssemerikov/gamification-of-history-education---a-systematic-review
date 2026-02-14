@@ -1,0 +1,132 @@
+{
+  "study_id": 43,
+  "pdf_filename": "Indonesian History Educational Card Game Gamification of the Process of Learning to Increase Interest in History among Children..pdf",
+  "bibtex_key": "43ali2018indonesian",
+  "bibliographic": {
+    "title": "Indonesian History Educational Card Game: Gamification of the Process of Learning to Increase Interest in History among Children",
+    "authors": [
+      "Clara Lestari",
+      "Vera Jenny Basiroen",
+      "Wildan Ali"
+    ],
+    "year": 2018,
+    "publication_type": "journal_article",
+    "venue": "Journal of Game, Game Art and Gamification",
+    "doi": null,
+    "volume": "3",
+    "pages": "1-7",
+    "publisher": "Bina Nusantara University"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Indonesia"
+    ],
+    "country_of_application": "Indonesia",
+    "education_level": "primary",
+    "sample_size": 60,
+    "sample_description": "60 students from grades 5-6 (ages 9-12) at Mahatma Gandhi School and SD Santo Lukas and others in Jakarta, Indonesia. Additional qualitative data from 3 interviews (elementary school teacher, board game developer, young mother) and informal game testing with children from 4th to 10th grade and several adults.",
+    "study_design": "mixed_methods",
+    "game_type": "card_game",
+    "game_name": "Indonesian History Educational Card Game (prototype card game about the VOC colonization era)",
+    "aim": "To spark interest and curiosity in children to make them research more about Indonesian history, to retell history in a more visual manner which is more attractive to children, and to make history more interesting by using gamification as an interactive teaching method",
+    "databases": [
+      "dimensions"
+    ]
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is more of a design project with informal evaluation rather than a rigorous empirical study. The survey is a needs analysis rather than an effectiveness evaluation of the game itself.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "Gamification is a method of applying game mechanics to engage and motivate people more to complete their task voluntarily. People has a natural desire for competition, achievement, status and collaboration. Gamification is a great method to motivate people to put a greater performance.",
+    "has_explicit_definition": true,
+    "conceptualization": "Gamification is conceptualized as the application of elements in game (rules, objectives, competition, etc) into other activities to engage users. The study also draws on game element theory by Lennart Nacke (players, objectives, rules, resources, conflict) and Salen & Zimmerman's definition of games. The card game is positioned as a way to make history 'fun and enjoyable' for children who find textbooks boring.",
+    "theoretical_frameworks": [
+      "Game element theory (Lennart Nacke)",
+      "Rules of Play (Salen & Zimmerman)",
+      "A Theory of Fun for Game Design (Raph Koster)",
+      "The Art of Game Design (Jesse Schell)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Survey with 15 questions measuring attitudes toward history, reading habits, game preferences, and interest in educational games among grade 5-6 students",
+    "statistical_results": "Only 22% (13 people) of respondents said they like history; 35% dislike history; 43% feel neutral. 58% (35 people) are interested in a game to help learn history in class; 35% are not sure; 7% are not interested. 72% like playing games; 88% have played board/card games before.",
+    "comparative_methodology": null,
+    "key_outcomes": "The survey established a need for gamified history learning. Informal game testing showed: younger students (4th-6th grade) found it somewhat difficult to get answers correct; older students (up to 10th grade) found it noticeably much easier and had fun prompting younger ones to join. Adults had difficulty with correct answers (lessons mostly forgotten) but had fun playing and trying to remember.",
+    "engagement_results": "58% of respondents expressed interest in a history learning game. Informal testing showed the card game generated enthusiasm across age groups. Older students 'seemed to have much fun' and prompted younger ones to join. One adult described it as 'an enjoyable way to learn.' The card game was described as offering a 'more visual manner' and 'dynamic, colorful and expressive visuals' compared to text-heavy history books."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Educational card game format",
+      "Trivia/question-answer mechanics",
+      "Visual historical illustrations",
+      "Child-friendly colorful design",
+      "Multiplayer social interaction"
+    ],
+    "technological_platforms": [
+      "Physical card game (analog/non-digital)"
+    ],
+    "instructional_strategies": [
+      "Needs analysis survey before game design",
+      "Expert interviews (teacher, game developer, parent)",
+      "Content drawn from Indonesian IPS elementary school textbook",
+      "Focus on VOC colonization era history",
+      "Prototype testing with diverse age groups"
+    ],
+    "content_integration": "The card game content focuses on Indonesian history during the colonization period, specifically the VOC (Dutch East India Company) era. Historical content was taken from Indonesian Ilmu Pengetahuan Sosial (IPS) elementary school textbook. The game retells history in a more visual manner using dynamic, colorful and expressive visuals rather than old photographs, making historical events more children-friendly."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Low student interest in history (only 22% like the subject)",
+      "Teachers rarely use games in class (43% report teachers rarely use games)",
+      "History is not a standalone subject but part of IPS (social studies)",
+      "Limited access to smartphones/tablets for some students (15% have no access)",
+      "Indonesian board/card game market is developing but mostly uses imported games"
+    ],
+    "methodology_limitations": [
+      "No formal experimental evaluation of the card game's effectiveness",
+      "Game testing was informal with no standardized measurement",
+      "Survey was a needs analysis, not an effectiveness evaluation",
+      "No pre-post test comparison",
+      "Small and informal game testing sample with no systematic documentation",
+      "No control group"
+    ],
+    "negative_effects": [
+      "Younger students (4th-6th grade) found it somewhat difficult to get correct answers because material is either not taught in their school or not taught as thoroughly",
+      "Adults found some historical questions much more difficult to answer than others, indicating uneven difficulty"
+    ],
+    "mitigation_strategies": [
+      "Using more interesting illustrations such as cartoons that children are already familiar with",
+      "Recommending game use not only in schools but also home learning environment",
+      "Allowing students to play in their free time to extend learning beyond classroom"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "yes",
+      "q1_evidence": "The author conducted a survey amongst 60 students from grade 5 to 6. The survey is taken at Mahatma Gandhi School and SD Santo Lukas and others.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "The sample of 60 students is from specific schools in Jakarta. No information about how schools were selected or whether the sample is representative of the broader target population. The game testing was done with 'several children of varying ages' with no specified sampling strategy.",
+      "judgment": "Unclear"
+    },
+    "domain2": {
+      "q3_valid_tools": "no",
+      "q3_evidence": "The survey questionnaire has 15 questions but no validation or reliability information is provided. The game testing used no standardized assessment tools - results are reported as informal observations ('they found it somewhat difficult,' 'seemed to have much fun').",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "Data analysis consists only of reporting simple percentages from the survey. No formal analysis methods are described for the interview data or game testing observations. No statistical analysis is performed.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The conclusions that history interest is low among children and that gamification could help increase interest are consistent with the survey data showing only 22% liking history but 58% interested in a learning game. The game testing observations support the claim that the card game generated engagement.",
+      "q6_limitations_discussed": "no",
+      "q6_evidence": "No limitations section is included in the paper. The authors do not discuss methodological limitations, potential biases in their survey, or the informal nature of their game testing. The paper reads more as a design project report than a research study.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has High risk of bias due to: no validated instruments (Domain 2 q3 No), no formal data analysis methods (Domain 2 q4 No), and no discussion of limitations (Domain 3 q6 No). The study is primarily a design project with a needs analysis survey and informal prototype testing rather than a rigorous empirical evaluation."
+  }
+}

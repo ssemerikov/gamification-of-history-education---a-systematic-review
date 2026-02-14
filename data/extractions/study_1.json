@@ -1,0 +1,148 @@
+{
+  "study_id": 1,
+  "pdf_filename": "3D environments with games characteristics for teaching history The VRLerna case study.pdf",
+  "bibtex_key": "1Barbatsis201159",
+  "bibliographic": {
+    "title": "3D Environments with Games Characteristics for Teaching History: The VRLerna Case Study",
+    "authors": [
+      "Barbatsis, Kostas",
+      "Economou, Daphne",
+      "Papamagkana, Ioanna",
+      "Loukas, Dimos"
+    ],
+    "year": 2011,
+    "publication_type": "conference_paper",
+    "venue": "Proceedings of the 29th ACM International Conference on Design of Communication (SIGDOC '11)",
+    "doi": "10.1145/2038476.2038488",
+    "volume": null,
+    "pages": "59-66",
+    "publisher": "Association for Computing Machinery"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Greece",
+      "United Kingdom"
+    ],
+    "country_of_application": "Greece",
+    "education_level": "secondary",
+    "sample_size": 17,
+    "sample_description": "17 students aged 14-15 years old (8 girls, 9 boys) from a 3rd high school grade class (Key Stage 5, 16-18 years old designation) in a small town in central Greece. The class was chosen because students had been previously involved in activities related to the Early Helladic Period.",
+    "study_design": "quasi_experimental",
+    "game_type": "vr_ar",
+    "game_name": "VRLerna",
+    "aim": "To present a theoretical educational framework for the use of interactive 3D virtual environments with game characteristics that aims at initiating motivation and enhancement of learning for history education, and to evaluate this framework through the VRLerna prototype application.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Very small sample size (N=17) from a single class. The study uses a pre-post test design without a control group.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes gamification as the integration of video game characteristics into 3D virtual environments for educational purposes. The authors identify specific game elements (fantasy, curiosity/mystery, rules/goals, control, interaction, realism, and game environment) that should be embedded within a constructivist educational framework to initiate motivation and enhance learning. They frame this as creating '3D VEs that reflect the main characteristics of video games' rather than using the term 'gamification' explicitly. The approach combines VR technology with game design elements within a pedagogical framework grounded in constructivist learning theory and experiential/discovery learning methods.",
+    "theoretical_frameworks": [
+      "Constructivist learning theory",
+      "Experiential learning",
+      "Discovery learning",
+      "Malone and Lepper's taxonomy of intrinsic motivations for learning",
+      "Intrinsic motivation theory (Deci and Ryan)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Pre-test and post-test comparison using multiple choice knowledge questions (7 questions on educational content). Mean correct answers measured before and after interaction with VRLerna. Post-test also included 19 questions (16 closed, 3 open) assessing motivation, imagination, mystery/curiosity, interest, entertainment, and understanding of educational content.",
+    "statistical_results": "Mean correct answers rose from 7.57 (pre-test) to 13.43 (post-test). Wilcoxon signed-rank test showed the improvement was statistically significant (Z=-2.226, p=0.026). Motivation results: 64% found the experience very or extremely interesting; 53% found it very or extremely entertaining; 35% reported the environment contributed much or very much to triggering imagination; 47% reported the game created a mysterious atmosphere generating curiosity; 59% considered VRLerna contributed much or very much to understanding the educational content; 64% considered the 3D object rotation feature contributed much or very much to careful observation of archaeological finds.",
+    "comparative_methodology": "Within-subjects pre-post test design without a control group. Students completed a pre-test after a 25-minute lecture, then interacted with VRLerna for 45 minutes, followed by a post-test. The Wilcoxon signed-rank test was used due to the small sample size and concerns about normality.",
+    "key_outcomes": "Statistically significant improvement in learning performance after using VRLerna. The application succeeded in attracting student interest (64% found it very/extremely interesting) and providing entertainment (53% found it very/extremely entertaining). The majority of students (59%) felt VRLerna contributed to understanding the prehistoric period in Greece.",
+    "engagement_results": "64% of students found the experience very or extremely interesting; 53% found it very or extremely entertaining; 35% reported the environment triggered their imagination much or very much (though 48% said 'a little' and 18% said 'not at all'); 47% reported the game created a mysterious atmosphere generating curiosity."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Fantasy/imagination (reconstruction of ancient archaeological site)",
+      "Curiosity/mystery (exploration of unfamiliar spaces, quest for archaeological finds)",
+      "Rules and goals (clear game objectives presented at start, level-based progression)",
+      "Control (user-driven navigation and object interaction)",
+      "Interaction (navigation, choosing and manipulating 3D objects, rotating artifacts)",
+      "Realism (3D geometrical models, textures, lighting)",
+      "Levels (8 levels: 1 house yard, 6 basement rooms, 1 floor)",
+      "Quiz/knowledge assessment (quiz at end of each level with increasing difficulty)",
+      "Feedback (performance feedback after quiz answers, instructions during exploration)",
+      "Challenge (increasing difficulty of quiz questions across levels)"
+    ],
+    "technological_platforms": [
+      "3D Studio MAX (Autodesk) for 3D modeling",
+      "VRML (Virtual Reality Modelling Language) for VE interactions",
+      "Adobe Photoshop for 2D graphics",
+      "Adobe Flash for informative material presentation",
+      "HTML, PHP, MySQL for unified interactive environment",
+      "Web browser-based (Mozilla Firefox 2.0+, Internet Explorer 5.5+, Netscape Navigator 6.0+)"
+    ],
+    "instructional_strategies": [
+      "Constructivist learning theory (learner-centered, active knowledge construction)",
+      "Experiential learning (learning through exploration and interaction with the VE)",
+      "Discovery learning (learners discover archaeological finds and construct knowledge)",
+      "Pre-instruction lecture followed by interactive application use",
+      "Multimedia pre-briefing on historical period before VE exploration",
+      "Progressive knowledge assessment quizzes between levels",
+      "Scaffolded instructions provided by the system during exploration"
+    ],
+    "content_integration": "History content is integrated through a 3D reconstruction of the 'House of Tiles' at Lerna, an archaeological site from the Early Helladic Period (3000-2000 BC). Learners explore rooms of the reconstructed building, discovering 3D reconstructions of actual archaeological finds from the Lerna excavations. Each artifact can be selected, viewed in a separate window, rotated and examined closely. The game levels correspond to different physical areas of the building (yard, basement rooms, floor). Historical information is provided through multimedia presentations at the start, and knowledge about the period is gained through exploration and interaction with artifacts rather than through narrative descriptions. The content covers aspects of ancient Greek history not typically covered in the ordinary curriculum, specifically the Early Helladic Period social and economic developments."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Technical problems during student interaction requiring researcher intervention",
+      "Hardware requirements (minimum 2GHz processor, 1GB RAM, 1024x768 screen)",
+      "Software dependencies (VRML viewer plugin, Flash plugin, specific browser versions)",
+      "Students shared PCs in pairs due to limited computer availability",
+      "Time-consuming 3D reconstruction process requiring thorough archaeological bibliography study"
+    ],
+    "methodology_limitations": [
+      "Very small sample size (N=17) from a single class",
+      "No control group for comparison",
+      "Pre-post test design without random assignment",
+      "Sample determined by class size, not statistical power analysis",
+      "Imagination and mystery are subjective and difficult to measure objectively, as acknowledged by the authors",
+      "Students worked in pairs sharing PCs, which may confound individual learning measurement",
+      "Single school in a small town limits generalizability"
+    ],
+    "negative_effects": [
+      "48% of students reported the environment triggered their imagination only 'a little' and 18% 'not at all'",
+      "Graphics realism was insufficient compared to popular commercial video games, as noted in conclusions"
+    ],
+    "mitigation_strategies": [
+      "Authors recommend improving realism (graphics, textures, sound and lighting) to approach commercial video game quality",
+      "Authors recommend including further activities that trigger learners' imagination",
+      "Authors recommend isolating and studying secondary motivation factors (mystery, imagination) separately",
+      "An experimental 3D VE was provided for familiarization before using VRLerna",
+      "Students received a 25-minute lecture and multimedia application before the VE interaction"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "no",
+      "q1_evidence": "The class was selected based on convenience: 'The particular class has been chosen based on the fact that in the past they have been involved in activities related to Early Helladic Period.' The sample of 17 students was 'determined by the number of the students in the 3rd grade class' rather than by any systematic selection criteria or power analysis.",
+      "q2_representativeness": "no",
+      "q2_evidence": "The sample consists of only 17 students from a single 3rd grade class in 'a small town in central Greece.' This is a convenience sample from one school, with no discussion of how representative it is of the broader secondary education population. Prior involvement with Early Helladic Period activities may make this group atypical.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "The pre-test comprised 'ten closed statistical questions' (7 on educational content, 3 on computer attitudes/experience). The post-test had two parts: 7 multiple choice questions on learning outcomes and 19 questions (16 closed, 3 open) on motivation. However, no information is provided about the validation of these instruments, their reliability, or whether they were piloted before use.",
+      "q4_analysis_methods": "yes",
+      "q4_evidence": "The authors used the Wilcoxon signed-rank test for pre-post comparison, which they justify as 'suitable when the sample is small and there are serious doubts about the regularity of the population.' This is an appropriate non-parametric test for their paired, small-sample design. Results are reported with Z-statistic and p-value (Z=-2.226, p=0.026).",
+      "judgment": "Moderate"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "unclear",
+      "q5_evidence": "The authors interpret the statistically significant pre-post improvement as evidence that 'the pilot application contributed in a significant degree in improving the learning efficiency of the students.' However, without a control group, this improvement cannot be attributed solely to VRLerna, as the preceding 25-minute lecture and multimedia application could also have contributed. The authors do not discuss this confound.",
+      "q6_limitations_discussed": "partial",
+      "q6_evidence": "The conclusions acknowledge that 'failings and weaknesses have been noted' regarding realism and imagination triggering, and recommend improvements. However, the paper does not discuss key methodological limitations such as the absence of a control group, the small sample size limiting generalizability, the confound of the pre-instruction lecture, or the potential bias from students working in pairs.",
+      "judgment": "Moderate"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high overall risk of bias due to: (1) a very small convenience sample (N=17) from a single class in one school with no systematic selection criteria; (2) no control group, making it impossible to attribute learning gains specifically to VRLerna versus the preceding lecture and multimedia application; (3) no validation information for the measurement instruments; (4) students working in pairs potentially confounding individual assessment; and (5) limited discussion of methodological limitations. While the statistical analysis method is appropriate for the design, the fundamental design weaknesses (no control, convenience sampling, confounded intervention) significantly limit the strength of causal claims."
+  }
+}

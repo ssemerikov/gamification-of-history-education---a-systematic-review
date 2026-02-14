@@ -1,0 +1,155 @@
+{
+  "study_id": 59,
+  "pdf_filename": "Teaching History in an Age of Pervasive Computing The Case for Games in the High School and Undergraduate Classroom.pdf",
+  "bibtex_key": "59Kee2014270",
+  "bibliographic": {
+    "title": "Teaching History in an Age of Pervasive Computing: The Case for Games in the High School and Undergraduate Classroom",
+    "authors": [
+      "Kevin Kee",
+      "Shawn Graham"
+    ],
+    "year": 2014,
+    "publication_type": "book_chapter",
+    "venue": "Pastplay: Teaching and Learning History with Technology",
+    "doi": "10.1353/book.29517",
+    "volume": null,
+    "pages": "270-291",
+    "publisher": "University of Michigan Press"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Canada"
+    ],
+    "country_of_application": "Canada",
+    "education_level": "Higher education (undergraduate) and high school",
+    "sample_size": null,
+    "sample_description": "Undergraduate history and computing science students at Brock University (St. Catharines, Ontario) in a 2007/08 upper-level course project, plus first-year course students, and online Civfanatics community members; no formal sample size reported",
+    "study_design": "Qualitative descriptive / practitioner reflection with case examples",
+    "game_type": "Commercial strategy games (Civilization IV, Caesar IV), game mods/scenarios, student-built games (ex novo), augmented reality games, web-based games (The Nethernet/PMOG)",
+    "game_name": "Civilization IV, Caesar IV, Brigade: A War of 1812 Saga, Tavern Keeper, Niagara 1812: Return of the Fenian Shadow, Queenston 1812: The Bomber's Plot, The Nethernet (PMOG)",
+    "aim": "To argue that collaborative learning with computer games (analyzing, modding, and building games) is the best way to teach history in an age of pervasive computing, and to propose a typology of time and space for selecting appropriate history games for classroom use",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is a theoretical/practitioner chapter rather than an empirical study with controlled outcomes. It presents pedagogical arguments, a game typology, case examples from courses and online communities, and assessment rubrics, but does not report formal quantitative or systematic qualitative research data.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Games are conceptualized as synthetic worlds analogous to historical narratives (books and articles), where rules encoded in computer code constitute procedural rhetoric that embodies particular epistemologies of history. The authors distinguish between games as 'tools' (the prevailing view they reject) and games as 'artifacts' to be deconstructed in the tradition of historiography. History games are further conceptualized through a typology of movement based on Aarseth et al.'s framework (space and time dimensions), which helps historians select games that align with particular historical epistemologies. The 'meta-game' concept refers to engagement beyond playing -- analyzing, modding, and building games as forms of historical expression analogous to writing historiographical essays.",
+    "theoretical_frameworks": [
+      "Constructionism (Seymour Papert and Idit Harel)",
+      "Procedural rhetoric (Ian Bogost)",
+      "Aarseth et al.'s multi-dimensional typology of games (space and time)",
+      "Flow theory (Csikszentmihalyi)",
+      "Edward Castronova's synthetic worlds theory",
+      "James Paul Gee's learning principles in games",
+      "Goal-oriented vs. goalless game typology (Jesper Juul)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "The chapter presents qualitative case evidence rather than measured outcomes. Key reported observations include: (1) Civfanatics community members engaged in sustained peer review of historical mods for Civilization IV, debating historical accuracy (e.g., Crusades scenario with detailed discussions about religious denominations, territorial boundaries, and historical figures); (2) Undergraduate students in a 2007/08 course successfully designed and built original history games about the War of 1812 using C++ and OpenGL, including Brigade: A War of 1812 Saga and Tavern Keeper; (3) Student reflections noted that game development allowed them to combine political and social history perspectives and express nuanced micro-histories; (4) Students initially resisted game-based assessment (preferring traditional essays) due to unfamiliarity with grading criteria; (5) Augmented reality games (Niagara 1812) demonstrated potential for blending virtual and real-world historical spaces.",
+    "engagement_results": "Students showed enthusiasm for game development but also experienced anxiety about unfamiliar assessment formats. The Civfanatics community demonstrated high voluntary engagement with historical content through modding, with peer review processes emerging organically. Students were reluctant to replace traditional essays with game diaries in first-year courses."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Procedural rhetoric (rules as historical arguments)",
+      "Typology of space (perspective, topography, environment)",
+      "Typology of time (pace, representation, teleology)",
+      "Game modding and scenario creation",
+      "Ex novo game building",
+      "Peer review through online forums/wikis",
+      "Assessment rubrics for game-based projects",
+      "Augmented reality with GPS-enabled smartphones",
+      "Web-based mission/tour game mechanics (The Nethernet)"
+    ],
+    "technological_platforms": [
+      "PC (Civilization IV, Caesar IV)",
+      "C++ with OpenGL (student-built games)",
+      "iPhone/smartphone GPS (augmented reality games)",
+      "Web browser (The Nethernet/PMOG)",
+      "CivFanatics forums and Apolyton University (modding communities)",
+      "Wikis for collaborative development"
+    ],
+    "instructional_strategies": [
+      "Analyzing games as historical artifacts (deconstructing procedural rhetoric)",
+      "Game modding as analogous to writing historiographical essays",
+      "Collaborative ex novo game development in interdisciplinary teams (history + computing science students)",
+      "Staged assessment with rubrics (Draft Proposal, Design Document, testing reports, final product)",
+      "Game diaries for reflection at particular gameplay points",
+      "Peer assessment for group project contributions",
+      "Using Aarseth et al.'s typology to select appropriate games for specific historical topics",
+      "Augmented reality games linking virtual events with real historical sites"
+    ],
+    "content_integration": "History content is integrated through multiple approaches: (1) selecting commercial games whose procedural rhetoric aligns with desired historical epistemologies (e.g., Caesar IV for microeconomics of ancient cities, Civilization IV for large-scale cultural evolution); (2) students creating mods that embed historically accurate content into game rule systems (e.g., Crusades scenario in Civilization IV); (3) students building original games from primary and secondary sources about specific historical events (War of 1812); (4) augmented reality games overlaying fictional historical events onto real historical locations (Niagara-on-the-Lake). The key principle is that games express historical arguments through code rather than language."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Genre confusion in the marketplace makes it difficult to select appropriate history games for teaching",
+      "Commercial history games are built by gamers, not educators, and prioritize mechanics over historical learning",
+      "Games like Civilization embed problematic assumptions (technological progress as prime mover of history) that may mislead students",
+      "Deep playing of simulation games teaches manipulation of algorithms rather than historical content",
+      "Programming skills required for game building (C++, OpenGL) are beyond most humanities undergraduates",
+      "Augmented reality games require students to be physically present at historical sites, limiting accessibility",
+      "The Nethernet and similar web-based platforms may become unavailable (The Nethernet was no longer online at time of publication)",
+      "Students are reluctant to engage with unfamiliar assessment formats ('play for marks')",
+      "Managing and marking the large volume of material produced in game development projects is challenging",
+      "Free-rider problems in group-based game development projects"
+    ],
+    "methodology_limitations": [
+      "No formal empirical study design; relies on practitioner reflection and anecdotal case examples",
+      "No control group or systematic comparison with traditional teaching methods",
+      "No formal measurement of learning outcomes or historical understanding",
+      "Sample descriptions are informal (e.g., CivFanatics poll of 111 participants is mentioned but not systematically analyzed)",
+      "Student experiences reported through selective quotation rather than systematic data collection",
+      "Generalizability limited to specific institutional context (Brock University, Canada)"
+    ],
+    "negative_effects": [
+      "Students in first-year course all opted for traditional essays over game diaries, suggesting resistance to game-based assessment",
+      "Anxiety among students about unfamiliar assessment formats and group project dynamics",
+      "Risk that simulation games teach players to manipulate code rather than engage with historical content",
+      "Content in games like Civilization can be 'window dressing' that erases its own historical content"
+    ],
+    "mitigation_strategies": [
+      "Use Aarseth et al.'s typology of time and space to systematically select appropriate games rather than relying on marketplace genre labels",
+      "Develop detailed rubrics with clear criteria for game-based assessments (Table 13.3)",
+      "Stage game development with incremental graded milestones (proposal, design document, testing, final product)",
+      "Pair history students with computing science students in interdisciplinary teams to address technical skill gaps",
+      "Implement peer assessment where students divide marks among team members to address free-rider problem",
+      "Provide regular feedback opportunities through professors and teaching assistants at each development stage",
+      "Focus on meta-game (analyzing procedural rhetoric) rather than treating games as simple teaching tools"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "No formal selection criteria for case examples or participants. The Civfanatics community discussion and student projects are presented as illustrative examples without systematic selection methodology.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Cases drawn from a single institution (Brock University) and one online community (CivFanatics). No attempt to establish representativeness. The CivFanatics poll (111 participants) was informal and not designed for research purposes.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "No formal data collection instruments used. Evidence comes from anecdotal observations, selected forum posts, student reflections (quoted selectively), and the authors' teaching experience. No validated measures of learning outcomes.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "No systematic analysis methods employed. The chapter is structured as a theoretical argument with illustrative examples. No coding scheme, thematic analysis, or other qualitative research methodology is described.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Moderate concern",
+      "q5_evidence": "The authors present a coherent argument supported by their examples and theoretical framework. However, interpretations are shaped by their advocacy position -- they are arguing for games in history education rather than objectively evaluating evidence. Potential counter-evidence (e.g., student resistance to game diaries) is acknowledged but not deeply explored.",
+      "q6_limitations_discussed": "Moderate concern",
+      "q6_evidence": "Some limitations are acknowledged implicitly (e.g., students' reluctance, technical barriers, games erasing their own content), but there is no formal limitations section. The chapter does not discuss the limitations of its own methodology or evidence base.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "This is a practitioner-oriented theoretical chapter rather than a formal empirical study. It presents valuable pedagogical arguments and a useful game typology, but lacks systematic research methodology, formal data collection, validated outcome measures, and transparent analytical procedures. The evidence base consists of selectively presented case examples from the authors' own courses and one online community. Risk of bias is high across all domains due to the absence of empirical research design."
+  }
+}

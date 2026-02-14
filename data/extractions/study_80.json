@@ -1,0 +1,154 @@
+{
+  "study_id": 80,
+  "pdf_filename": "Your iPhone Cannot Escape History, and Neither Can You Self-Reflexive Design for a Mobile History Learning Game.pdf",
+  "bibtex_key": "80gottlieb2018your",
+  "bibliographic": {
+    "title": "Your iPhone Cannot Escape History, and Neither Can You: Self-Reflexive Design for a Mobile History Learning Game",
+    "authors": [
+      "Owen Gottlieb"
+    ],
+    "year": 2018,
+    "publication_type": "book_chapter",
+    "venue": "Mobile Learning: Perspectives on Practice and Policy",
+    "doi": null,
+    "volume": null,
+    "pages": "247-264",
+    "publisher": "Information Age Publishing"
+  },
+  "study_characteristics": {
+    "countries": [
+      "United States"
+    ],
+    "country_of_application": "United States",
+    "education_level": "secondary",
+    "sample_size": 43,
+    "sample_description": "Forty-three fifth- to seventh-grade learners (24 girls, 21 boys) from Jewish supplementary schools (after-school programs) who participated in gameplay over the course of six game events and three design iterations.",
+    "study_design": "design_based",
+    "game_type": "mobile_game",
+    "game_name": "Jewish Time Jump: New York",
+    "aim": "To explore the use of self-reflexivity in mobile history games through the case study of Jewish Time Jump: New York, specifically examining how self-reflexive design techniques can be deployed in a mobile augmented reality game to tie history to contemporary concerns and implicate the learner in enduring historical themes of labor disputes",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is a design-based research study that focuses primarily on the design rationale and iterative development of a self-reflexive game design element rather than reporting formal quantitative learning outcomes. The chapter presents qualitative observations and design iterations rather than controlled experimental results. It is a primary empirical study (part of the author's doctoral dissertation design-based research), it is clearly about history education (Jewish history, labor history, women's history related to the Uprising of 20,000 and Triangle Shirtwaist Factory fire), and it involves a mobile augmented reality game (game-based learning).",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study does not use the term 'gamification' explicitly. Instead, it frames the intervention as a 'mobile augmented reality game (ARG)' and 'mobile history learning game' built on the ARIS platform. The approach is conceptualized through the lens of self-reflexive design, drawing from Brechtian Verfremdungseffekt (alienation effect) traditions in theater, cinema, and video games. The core design concept is self-reflexivity: using the mobile device itself (the iOS device) as a means of implicating the learner in the historical themes being studied. The game is conceived as both a learning intervention and a design-based research project. The author describes game design as a vehicle for civic and democratic education, where the game serves as a situated documentary that connects historical enduring themes (labor disputes, women's suffrage) to the present through the materiality of the mobile device itself.",
+    "theoretical_frameworks": [
+      "Design-based research (Barab & Squire, 2004; The Design-Based Research Collective, 2003; Hoadley, 2004)",
+      "History education theory - enduring themes and democratic citizenship (Barton & Levstik, 2004/2012)",
+      "Civic and democratic education theory - three models of citizenship: personally responsible, participatory, justice-oriented (Westheimer & Kahne, 2004)",
+      "Brechtian Verfremdungseffekt / alienation effect - self-reflexive design drawing from theater traditions (Brecht via Polan, 1974)",
+      "Self-reflexivity in video games (Dunne, 2014; Kirkland, 2007, 2010)",
+      "Procedural rhetoric (Bogost, 2007)",
+      "Interpellation theory (Althusser, 2006)",
+      "Mobile affordances for place-based learning (Klopfer & Squire, 2004, 2008)",
+      "Levstik and Barton's 'start locally, connect globally' and 'start globally, connect locally' strategies (2005/2010)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": "Design-based research with iterative design cycles. Data collection included pre- and post-survey data, interviews, video and audio observation of players, and ARIS back-end server logs tracking each player's moves. Three design iterations were conducted across six game events, with analysis between iterations informing design modifications. No formal statistical comparisons are reported in this chapter; the author notes that full data sets and detailed description of the full study are published elsewhere (Gottlieb, 2015).",
+    "key_outcomes": "The study reports qualitative outcomes across three design iterations of the self-reflexive element: (1) In the pilot iteration, only a few students completed the game and did not receive the Foxconn news story (the self-reflexive reveal). (2) In the first iteration, after adding an Afikoman (hidden bonus containing the contemporary articles), some students picked up the tip but did not read the article about Foxconn, jumping ahead to complete the game. One girl's short answer revealed lack of connection to enduring historical themes despite exposure. (3) In the final iteration, using a 'suprareveal' strategy (presenting a Bangladesh factory collapse article at the start of the game rather than only at the end), discussions of the factory collapse began immediately. There was 'no evidence in either postgame interviews or open-ended answers on postgame surveys of lack of awareness of the contemporary global issues of worker safety.' The suprareveal approach was found to offset 'issues of lack of attention to contemporary cases as well as provide a conscious frame for the game to come.'",
+    "engagement_results": "Qualitative engagement observations: In the final iteration with the suprareveal, learners read the Bangladesh article out loud prior to the game and asked questions about the article, demonstrating evidence of awareness of the historic theme. Players asked questions like 'What does this article have to do with Jewish history?' and 'What is the date on the article?' indicating active engagement with the contemporary content. There was a shift from evidence of lack of awareness regarding contemporary labor struggles to an iteration 'devoid of disconfirming cases of awareness.' The Foxconn and Bangladesh articles, when used together, generated discussion of contemporary labor disputes in the context of historic labor disputes and eliminated confusion and erroneous conclusions about contemporary labor disputes."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Role-playing (players take on the role of time-traveling reporters for the fictional Jewish Time Jump Gazette)",
+      "Narrative / storytelling (players retrieve a story 'lost to time' involving the Uprising of 20,000 and Triangle Shirtwaist Factory fire)",
+      "Time travel mechanic (players travel from 1909 to 1911 and then return to the present day)",
+      "GPS-based location triggers (photographs and content delivered based on player GPS location)",
+      "Digital inventory system (players pick up newspapers, pamphlets, ephemera, and primary source documents)",
+      "Character interaction (players interact with dozens of digital characters: striking workers, factory owners, labor organizers, journalists, Tammany Hall police, thugs for hire)",
+      "Self-reflexive reveal / fourth wall break (the iOS device itself is revealed as nexus of contemporary labor disputes via Foxconn article)",
+      "Afikoman / Easter egg mechanic (hidden bonus containing contemporary videos and news article, designed to ensure all players encounter the self-reflexive reveal)",
+      "Suprareveal (presenting a global framing article about Bangladesh factory collapse at the beginning of the game)",
+      "Place-based / on-site gameplay (played on-site in Washington Square Park, Greenwich Village, New York)",
+      "Primary source documents integration (translated Yiddish newspapers, historical photographs, ephemera)",
+      "Multiple narrative perspectives (characters represent different viewpoints in labor disputes)"
+    ],
+    "technological_platforms": [
+      "ARIS platform (open-source mobile game authoring platform for iOS)",
+      "iOS devices (iPhone and iPad)",
+      "GPS location services",
+      "Video content delivery (contemporary videos of investment banker and rabbi embedded in game)"
+    ],
+    "instructional_strategies": [
+      "Design-based research methodology with iterative cycles of prototyping, field trial, data gathering, analysis, and redesign",
+      "Self-reflexive design - implicating the learner in the historical theme through the materiality of the mobile device itself",
+      "Place-based learning - on-site gameplay at historical locations in Greenwich Village, New York",
+      "Enduring themes approach - connecting historical labor disputes (1909-1911) to contemporary labor issues (Foxconn, Bangladesh factory collapse)",
+      "Civic and democratic education goals - designing for participatory and justice-oriented citizenship",
+      "Suprareveal strategy - 'start globally, connect locally' approach to frame the game with a contemporary article before gameplay begins",
+      "Post-game debriefing and interview/discussion sessions",
+      "Modular curriculum development (four modules developed with Jewish Women's Archive for deployment in various educational settings)",
+      "Pre- and post-survey assessment",
+      "Multiple entry points for self-reflexive content (end-game reveal, Afikoman bonus, suprareveal at start)"
+    ],
+    "content_integration": "Historical content about the 1909 Uprising of 20,000 (the largest women-led strike in U.S. history) and the 1911 Triangle Shirtwaist Factory fire (in which 146 people died) was integrated through a time-travel narrative where players assume the role of reporters investigating 'lost' stories. Players physically travel to Washington Square Park in Greenwich Village, New York, where these events took place. They interact with dozens of digital characters representing historical figures (striking workers, factory owners, labor organizers, journalists, Tammany Hall police). Historical primary sources (Yiddish newspapers, pamphlets, photographs) are delivered to players' digital inventories based on GPS location. The self-reflexive design element ties the historical content directly to the present by revealing that the iOS device players are using is itself the nexus of contemporary labor disputes (Foxconn factory conditions in China). The design evolved through three iterations: (1) placing the reveal at the game's end, (2) adding an Afikoman hidden bonus to ensure encounter, and (3) adding a suprareveal with a Bangladesh factory collapse article at the game's start to frame the enduring theme of labor disputes before gameplay."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "In the sprawling, mobile, place-based game with more than 20 digital characters and dozens of events, deploying the self-reflexive game event proved complicated",
+      "In the pilot, the sprawling nature of the narrative and the ability for learners to immerse in various historical artifacts meant only a few students completed the game and did not receive the Foxconn news story",
+      "Some students picked up the Afikoman tip but did not read the article about Foxconn, rather jumped ahead to complete the game",
+      "Even when presented with a second chance to read the article (via the Afikoman after main play), some students still did not connect to the enduring historical themes",
+      "In a place-based game with multiple routes and possible player paces, ensuring all players encounter the self-reflexive reveal is challenging",
+      "The self-reflexive late-stage reveal requires players to actually encounter it for it to work, which is not guaranteed in a nonlinear game"
+    ],
+    "methodology_limitations": [
+      "The chapter focuses specifically on the self-reflexive design technique rather than reporting full study data; full data sets and detailed description are published elsewhere (Gottlieb, 2015)",
+      "Qualitative data collection methods (observations, interviews, surveys) without formal statistical analysis reported in this chapter",
+      "Sample limited to Jewish supplementary school students (after-school programs), potentially limiting generalizability",
+      "No control group - design-based research methodology focuses on iterative improvement rather than experimental comparison",
+      "The total of 43 participants was spread across six game events and three design iterations, meaning each iteration had a subset of participants",
+      "Longitudinal studies would be required to determine whether players look on new participatory or justice-oriented civic engagement activities"
+    ],
+    "negative_effects": [
+      "One student's response revealed a persistent lack of connection to the enduring historical themes despite dual exposure to the Foxconn article (during gameplay and via Afikoman), suggesting the self-reflexive design did not achieve its goal for all learners",
+      "Early iterations showed evidence of lack of awareness regarding contemporary global issues of worker safety and treatment among some learners",
+      "The Contemporary Labor Issues curriculum module does not currently address contemporary sweatshop conditions in New York City, a missed opportunity for local connection"
+    ],
+    "mitigation_strategies": [
+      "Added Afikoman (hidden bonus/Easter egg) containing contemporary videos and news article to ensure players who did not finish the game still encountered the self-reflexive reveal",
+      "Developed the suprareveal strategy: introducing a global framing article (Bangladesh factory collapse) at the beginning of the game rather than relying solely on a late-stage reveal",
+      "Tightened game structure to reduce play time so more students could reach the game's conclusion and the self-reflexive reveal",
+      "Developed a modular curriculum (four modules) with the Jewish Women's Archive to support educator-guided discussion of contemporary labor issues raised by the self-reflexive turn",
+      "Included guiding questions in the Contemporary Labor Issues curriculum module to help educators facilitate discussion connecting historical and contemporary labor struggles",
+      "Embedding the player's implication in reflective discussion within a curriculum so it can be unpacked and digested with educator guidance",
+      "Using foreshadowing or a suprareveal to clearly establish the enduring historic theme early, priming players for the later self-reflexive reveal"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "unclear",
+      "q1_evidence": "The paper states 'Forty-three fifth- to seventh-grade learners (24 girls, 21 boys) from supplementary schools participated in gameplay over the course of six game events and three design iterations' but does not describe how these particular students were selected from the supplementary schools, whether participation was voluntary, or what inclusion/exclusion criteria were applied. The demographic information is limited to grade level and gender distribution.",
+      "q2_representativeness": "no",
+      "q2_evidence": "The sample is drawn exclusively from Jewish supplementary schools (after-school programs), which represents a very specific population. The study was conducted in Washington Square Park, Greenwich Village, New York, and the game content is specifically about Jewish history and labor history. The 43 participants were spread across six game events and three design iterations, meaning each iteration involved a subset rather than the full sample. This limits representativeness to the broader population of 5th-7th grade history learners.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "The paper mentions multiple data collection methods: 'I would bring a design to a game day, gather pre- and post-survey data, conduct interviews, and record video and audio observation of players. The back-end system of ARIS also gathered data about each player's moves in the game.' However, no details are provided in this chapter about the specific survey instruments, their validity, or reliability. The author refers readers to the full dissertation (Gottlieb, 2015) for detailed data sets. The qualitative data (observations, student quotes, interview excerpts) is presented descriptively without formal coding methodology described.",
+      "q4_analysis_methods": "unclear",
+      "q4_evidence": "The chapter states 'Between iterations, I analyzed the data, including video observation footage and server logs that recorded each player's specific moves' and notes 'This chapter can only address the self-reflexive design technique (for full data sets and detailed description of the full study see Gottlieb, 2015).' The analysis methods for this specific chapter are not formally described; observations and student quotes are presented narratively to illustrate design decisions and their outcomes across iterations. No coding schemes, inter-rater reliability, or systematic qualitative analysis procedures are described.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The author's interpretations are consistent with the qualitative observations reported. For example, when describing the iteration where the suprareveal was introduced, the author states: 'there was no evidence in either postgame interviews or open-ended answers on postgame surveys of lack of awareness of the contemporary global issues of worker safely. Neither was there evidence of such a confusion or misunderstanding in the video footage in the Afikoman about Foxconn.' The author appropriately qualifies claims: 'it appears that the use of a suprareveal prior to or at the early stages of play in a mobile ARG can offset issues of lack of attention to contemporary cases as well as provide a conscious frame for the game to come.' The use of 'it appears' reflects appropriate hedging for qualitative design-based research findings.",
+      "q6_limitations_discussed": "yes",
+      "q6_evidence": "The author acknowledges several limitations: 'While longitudinal studies would be required to determine whether players look on new participatory or justice-oriented civic engagement activities; the Foxconn and Bangladesh articles, when used together, generated discussion of contemporary labor disputes in the context of historic labor disputes.' The author also acknowledges that the Contemporary Labor Issues curriculum module does not currently address contemporary sweatshop conditions in New York City, and notes that 'Neither iteratively designing a game nor taking time unpacking the self-reflexive turn with learners are easy processes.' The author is transparent that this chapter focuses only on one design element and refers to the full dissertation for complete data.",
+      "judgment": "Low"
+    },
+    "overall": "High",
+    "overall_justification": "The overall risk of bias is rated High. Domain 1 (selection) is High because participant selection criteria are unclear and the sample is drawn from a very specific population (Jewish supplementary school students). Domain 2 (data collection/analysis) is High because this chapter does not describe the specific survey instruments, their validity, coding methodologies, or systematic analysis procedures, instead referring readers to the author's dissertation for full details. The chapter presents qualitative observations narratively to support design decisions without formal qualitative analysis rigor. Domain 3 (interpretation) is Low because the author interprets findings conservatively with appropriate hedging and acknowledges limitations. As a design-based research study, this work prioritizes iterative design improvement over generalizable empirical findings, which is appropriate for the methodology but limits the strength of evidence for effectiveness claims. The study is essentially a design case study rather than a rigorous empirical evaluation."
+  }
+}

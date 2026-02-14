@@ -1,0 +1,142 @@
+{
+  "study_id": 11,
+  "pdf_filename": "Are Pairs More Attentive Towards Feedback Than Individuals A Glance Into Feedback Neglect for Middle-School Students Using an Educational Game in History.pdf",
+  "bibtex_key": "11Ternblad2023115",
+  "bibliographic": {
+    "title": "Are Pairs More Attentive Towards Feedback Than Individuals? A Glance Into Feedback Neglect for Middle-School Students Using an Educational Game in History",
+    "authors": [
+      "Eva-Maria Ternblad",
+      "Sam Bagra",
+      "Agneta Gulz",
+      "Magnus Haake",
+      "Betty T\u00e4rning"
+    ],
+    "year": 2023,
+    "publication_type": "conference paper",
+    "venue": "CSCL 2023 Proceedings (International Society of the Learning Sciences)",
+    "doi": "10.22318/cscl2023.184792",
+    "volume": null,
+    "pages": "115-122",
+    "publisher": "ISLS"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Sweden"
+    ],
+    "country_of_application": "Sweden",
+    "education_level": "Middle school (5th and 6th grade, ages 10-12)",
+    "sample_size": 106,
+    "sample_description": "106 middle-school students (44 boys, 62 girls) from 6 classes in 5th and 6th grade (10-12-year-olds) in southern Sweden who met the inclusion criterion of receiving at least one CCF in both sessions. Originally 209 students were recruited. Teachers rated students' achievement levels (higher, medium, lower) based on reading comprehension.",
+    "study_design": "Quasi-experimental within-subjects repeated measures design with two conditions (individual play vs. pair play on a shared tablet)",
+    "game_type": "Educational history game (drill-and-practice with narrative elements, concept maps, timelines, multiple-choice questions)",
+    "game_name": "Not explicitly named; described as an educational game in history used in prior research (Silvervarg et al., 2020; Ternblad & T\u00e4rning, 2020; T\u00e4rning et al., 2020)",
+    "aim": "To investigate whether middle-school students playing an educational history game in pairs attend to critical constructive feedback (CCF) more frequently than when playing individually, whether this behavior is affected by severe and/or repeated failing, and whether feedback behavior differs between higher- and lower-achieving students.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses on feedback neglect behavior in a history educational game context rather than on history learning outcomes directly. Gamification elements (feedback systems, game-based tasks, progression mechanics) are present but the primary focus is on collaborative learning and feedback engagement rather than gamification per se.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study does not explicitly define gamification. It uses an educational game in history as the learning environment, featuring game elements such as time travel narrative, task-based progression, feedback systems (task assessment and critical constructive feedback), concept maps, timelines, and multiple-choice questions. The focus is on critical constructive feedback (CCF) within the game context rather than on defining gamification itself.",
+    "theoretical_frameworks": [
+      "Productive agency in collaborative learning (Schwartz & Lin, 2000)",
+      "Collaborative learning theory (Dillenbourg, 1999)",
+      "Self-regulated learning (Zimmerman, 2008)",
+      "Feedback theory (Hattie & Timperley, 2007; Shute, 2008)",
+      "Ego-protective buffer hypothesis (Chase, 2011)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Binary measure of feedback attendance (CCFatt): whether students kept CCF messages displayed on screen for more than 4.25 seconds (attended) or dismissed them earlier (ignored). Logistic mixed-effects regression model with repeated measures was used. Model fit: C-value = 0.79, Somers Dxy = 0.58. Likelihood ratio test: chi-squared(10) = 77.11, p < .001.",
+    "statistical_results": "PlayCnd[Pair]: coefficient = -1.20, OR = 0.30, p < .05. AchLev[MediumLower]: coefficient = -0.79, OR = 0.45, p = 0.07. Nr (trial number): coefficient = -0.38, OR = 0.68, p < .01. TaC[QuiteWrong]: coefficient = -0.89, OR = 0.41, p < .001. TaC[VeryWrong]: coefficient = -1.47, OR = 0.23, p < .001. Interaction AchLev[MediumLower]:PlayCnd[Pair]: coefficient = 1.64, OR = 5.16, p < .01. Nr:PlayCnd[Pair]: coefficient = 0.37, OR = 1.45, p < .05. Three-way interaction Nr:AchLev[MediumLower]:PlayCnd[Pair]: coefficient = -0.45, OR = 0.64, p < .05.",
+    "comparative_methodology": "Within-subjects design comparing individual play vs. pair play on the same tablet. Students played in both conditions across two sessions (35-40 min each). Order was counterbalanced (single-to-pair vs. pair-to-single) randomly assigned to each class. Students were matched into homogeneous pairs by achievement level.",
+    "key_outcomes": "Medium/lower-achieving students were more attentive towards feedback when working in pairs compared to working individually. Higher-achieving students were more inclined to attend to feedback when playing individually than in pairs. However, higher-achieving students playing in pairs were more resilient to repeated failing, maintaining consistent attention to CCF across multiple trials. The probability of attending to CCF decreased with more errors on a task (Quite Wrong and Very Wrong categories) and with repeated failures on the same task.",
+    "engagement_results": "Students tended to dismiss CCF to a larger extent after several attempts on the same task. Higher-achieving students playing in pairs were less sensitive to this decline from repeated failing, suggesting collaborative settings may buffer higher-achievers against frustration-driven feedback neglect. A teachable agent was noted to have a stronger impact on feedback acceptance than pair play in comparison to earlier studies."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Critical constructive feedback (CCF) messages with error-specific hints",
+      "Two-part feedback system (general task assessment + specific CCF)",
+      "Graded assessment categories (Passed, Almost Correct, Quite Correct, Quite Wrong, Very Wrong)",
+      "Time travel narrative through history of science",
+      "Task-based progression (concept maps, timelines, multiple-choice questions)",
+      "Information gathering from historical scientists",
+      "Sequential task completion requirement"
+    ],
+    "technological_platforms": [
+      "Tablet-based educational game (shared tablet for pair condition)"
+    ],
+    "instructional_strategies": [
+      "Collaborative learning via pair play on shared tablet",
+      "Homogeneous pairing by achievement level",
+      "Within-subjects crossover design (individual and pair sessions)",
+      "Critical constructive feedback with actionable hints",
+      "Graduated difficulty levels across tasks",
+      "Teacher-supported but non-interventionist classroom implementation"
+    ],
+    "content_integration": "The game integrates history of science content featuring historical scientists including Copernicus, Galilei, Newton, Ch\u00e2telet, and Gutenberg. Students travel through time, visit historical scientists, search for information in books and conversations with characters, and solve tasks related to each scientist's inventions and contributions. Tasks involve concept maps, timelines, and multiple-choice questions about historical content."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "COVID-19 pandemic required remote coordination with teachers, preventing classroom visits for data collection",
+      "Game not specifically designed for collaborative use, limiting pair interaction design",
+      "Large number of students excluded from analysis due to incomplete participation or lack of CCF messages (209 recruited, 106 analyzed)",
+      "Some pairs were reorganized on site making them difficult to track",
+      "Remote implementation made it impossible to record student conversations or human-to-human interactions"
+    ],
+    "methodology_limitations": [
+      "Feedback display time on screen used as proxy for 'attending to feedback' may not accurately reflect genuine engagement with feedback content",
+      "Assumption that pair behavior derived from both students democratically may not hold true in all cases",
+      "Cannot distinguish whether data logs from pairs originated from one or both students",
+      "No qualitative data (observations, interviews, recordings) to complement quantitative log analysis",
+      "Interpreting attention towards feedback in pairs as collaborative behavior supporting learning is not clear-cut",
+      "Working in pairs may automatically slow all interaction down due to negotiations and practicalities (e.g., competing over the screen), not necessarily indicating deeper engagement",
+      "Unequal group sizes between conditions (37 single-first vs. 69 pair-first)"
+    ],
+    "negative_effects": [
+      "Higher-achieving students were less inclined to attend to feedback when playing in pairs compared to individually",
+      "Repeated failing on tasks led to increased feedback neglect across conditions",
+      "More severe errors (Quite Wrong, Very Wrong categories) led to lower probability of attending to feedback"
+    ],
+    "mitigation_strategies": [
+      "Introduced threshold of maximum 6 trials per task per student to exclude excessive repeated failing data",
+      "Merged medium and lower achievement categories to address small sample sizes",
+      "Used within-subjects design to control for individual differences",
+      "Counterbalanced session order to avoid order effects",
+      "Homogeneous pairing to ensure equal contribution from both pair members",
+      "Authors suggest future studies should complement log data with observations/recordings of pair interactions",
+      "Authors suggest students could actively request feedback rather than having it automatically displayed"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "Clear inclusion criteria specified: students had to have received at least one CCF in both sessions. 209 recruited, 106 included in final analysis with transparent reporting of exclusion reasons (non-attendance at both sessions, reorganized pairs, no CCF messages received).",
+      "q2_representativeness": "Some concerns",
+      "q2_evidence": "Convenience sample from 6 classes in southern Sweden. Large attrition from 209 to 106 participants. Unequal distribution between conditions (37 single-first vs. 69 pair-first). Teachers rated achievement levels subjectively based on reading comprehension. Sample limited to one geographic region.",
+      "judgment": "Moderate"
+    },
+    "domain2": {
+      "q3_valid_tools": "Some concerns",
+      "q3_evidence": "Feedback attention measured via time-stamped data logs with a 4.25-second threshold (validated in a prior study by Silvervarg et al., 2020). However, the authors acknowledge that keeping a message displayed on screen does not necessarily equal attending to or understanding it. No direct measure of learning outcomes or feedback comprehension.",
+      "q4_analysis_methods": "Low concern",
+      "q4_evidence": "Appropriate use of logistic mixed-effects regression model with repeated measures. Step-wise forward procedure for model selection. Model fit reported (C-value = 0.79, Somers Dxy = 0.58). Random effects accounted for individual subject variation. All variables and interaction effects clearly specified and reported with coefficients, odds ratios, standard errors, z-values, and p-values.",
+      "judgment": "Moderate"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Low concern",
+      "q5_evidence": "Findings are interpreted cautiously and consistently with the statistical results. Authors acknowledge that effects of pair play are small. Interaction effects between achievement level and condition are discussed with reference to prior literature. Comparison with teachable agent studies provides context.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "Extensive limitations section covering: proxy nature of feedback display time, assumption about equal pair contribution, ambiguity of interpreting pair attention as collaborative behavior, lack of qualitative data, game not designed for collaboration, and study conducted during COVID-19 pandemic affecting data collection.",
+      "judgment": "Low"
+    },
+    "overall": "Moderate",
+    "overall_justification": "The study has a clear within-subjects design and uses appropriate statistical methods with transparent reporting. Main concerns relate to the large attrition rate (209 to 106), the indirect measure of feedback attention (screen display time rather than direct engagement), the inability to distinguish individual contributions within pairs from log data alone, the unequal group sizes between conditions, and the absence of qualitative data to validate quantitative findings. The study was also conducted during the COVID-19 pandemic with remote implementation, limiting researcher control over the experimental conditions."
+  }
+}

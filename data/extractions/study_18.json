@@ -1,0 +1,139 @@
+{
+  "study_id": 18,
+  "pdf_filename": "Designing a Role-play Game for Learning Taiwan History and Geography.pdf",
+  "bibtex_key": "18Shih201054",
+  "bibliographic": {
+    "title": "Designing a Role-play Game for Learning Taiwan History and Geography",
+    "authors": [
+      "Ju-Ling Shih",
+      "Jia-Jiun Tseng",
+      "Chien-Wen Chuang",
+      "Bai-Jiun Shih"
+    ],
+    "year": 2010,
+    "publication_type": "conference paper",
+    "venue": "2010 IEEE International Conference on Digital Game and Intelligent Toy Enhanced Learning (DIGITEL)",
+    "doi": "10.1109/DIGITEL.2010.27",
+    "volume": null,
+    "pages": "54-60",
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Taiwan"
+    ],
+    "country_of_application": "Taiwan",
+    "education_level": "primary and secondary education",
+    "sample_size": null,
+    "sample_description": "No empirical study with participants was conducted; this is a game design and development paper. The game content targets primary and secondary education students learning social science (history and geography of Taiwan).",
+    "study_design": "design and development research (no empirical evaluation reported)",
+    "game_type": "3D role-playing game (RPG)",
+    "game_name": "Southern Taiwan Anti-Japanese War RPG (built with Oblivion game engine)",
+    "aim": "To develop a 3D role-play digital game based on the anti-Japanese war history and geography of Southern Taiwan during the Qing dynasty, aiming to enhance learning effectiveness and motivation for Taiwanese history and geography.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is a design-only paper with no empirical evaluation conducted. The authors state that usability evaluation and educational experiments (pre/post-tests, questionnaires, focus group interviews) are planned for future work. No learning outcomes data are reported.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The paper conceptualizes digital game-based learning through role-playing games as an approach where learners are immersed in historical contexts and content, with entertainment, challenge, rules, and interactive feedback serving as drivers of learning motivation. Games are positioned as tools that transform traditional lecture-type education into learner-based models, promoting self-directed learning, problem-solving, critical thinking, and creative thinking. The paper draws on experiential learning theory and flow theory to frame how game-based learning works.",
+    "theoretical_frameworks": [
+      "Experiential learning theory (Kolb's four-stage model)",
+      "Flow theory (Csikszentmihalyi)",
+      "Problem-based learning",
+      "Serious games framework",
+      "Kiili's experiential gaming model"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "No empirical outcomes are reported. The paper is a design and development study only. The authors expect that the game will enhance learning effectiveness and motivation for Taiwan history and geography. Future work is planned to include pre- and post-tests for learning achievement, questionnaires for learning motivation, learning attitudes, and satisfaction, plus focus group interviews.",
+    "engagement_results": null
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Role-playing with character customization (race, face, hair, eyes, age, complexion)",
+      "Seven progressive game stages based on historical war locations (Wan Tan, Dong Gang, Wan Luan, Ping Tung, Chao Jhou, Da Wu Shan, Hou Bi Lin)",
+      "Historical narrative and storyline based on anti-Japanese war in Qing dynasty",
+      "NPC interactions and dialogue system",
+      "Combat/martial art fighting system",
+      "Character growth and experience progression",
+      "Interactive map allowing navigation between stages",
+      "Narrations and animations linking game stages",
+      "Learning content shown during loading screens",
+      "Approximately 20 character types (Taiwanese, Hakka, aboriginal tribes, Japanese people/soldiers, volunteer troops)",
+      "Character personality parameters triggering different situations",
+      "Property and equipment systems"
+    ],
+    "technological_platforms": [
+      "Oblivion game engine (The Elder Scrolls IV: Oblivion)",
+      "3ds Max (for 3D architectural modeling and character costume design)",
+      "PC platform"
+    ],
+    "instructional_strategies": [
+      "Experiential learning through immersive 3D historical environments",
+      "Problem-based learning through game challenges and tasks",
+      "Authentic historical settings modeled after real architecture and geography",
+      "Alignment with social science learning objectives of primary and secondary education",
+      "Narrative-driven learning through historical war storyline",
+      "Micro-learning content embedded in loading screens",
+      "Active exploration and discovery of historical locations"
+    ],
+    "content_integration": "The game integrates Taiwan history and geography content by recreating the anti-Japanese war of Southern Taiwan during the Qing dynasty. Seven real historical locations are modeled as game stages using the Qian Long Taiwan Map. Real architecture is faithfully recreated in 3D (e.g., Wan-Jin Catholic Cathedral). The game world replicates real-world area ratios, land shapes, heights, and vegetation. Learning objectives cover natural environment, cultural heritage, historical development from Paleolithic to Modern Age, social/cultural/economic/political development, Japanese Colonial period, and social life of Taiwan. All tasks align with the social science capability index of schools."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Complexity of integrating learning materials into games requiring script writing, production techniques, character design, environment modeling, and knowledge management",
+      "Need to balance entertainment and educational value (serious games often sacrifice entertainment)",
+      "No empirical validation has been conducted yet to confirm effectiveness"
+    ],
+    "methodology_limitations": [
+      "No empirical evaluation conducted; effectiveness claims are entirely aspirational",
+      "No participant data or sample reported",
+      "No usability testing reported",
+      "Future evaluation plan described but not executed",
+      "Game design decisions are not validated through user testing"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Planned future usability evaluation of the game",
+      "Planned pre- and post-tests checked and modified by social science teachers",
+      "Planned questionnaires covering learning motivation, attitudes, and satisfaction",
+      "Planned focus group interviews for qualitative data",
+      "Both quantitative and qualitative data collection planned for future work"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "high",
+      "q1_evidence": "No participants were recruited or studied. This is purely a design paper with no empirical component. No selection criteria for participants are described.",
+      "q2_representativeness": "high",
+      "q2_evidence": "No sample was obtained. The target population (primary and secondary students) is mentioned only in terms of game content alignment with curriculum objectives, but no actual participants were involved.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "high",
+      "q3_evidence": "No data collection instruments were used. The paper describes future plans for pre/post-tests, questionnaires, and focus group interviews, but none were actually administered.",
+      "q4_analysis_methods": "high",
+      "q4_evidence": "No data analysis was performed. No quantitative or qualitative results are reported. All claims about learning effectiveness and motivation are expectations, not findings.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "high",
+      "q5_evidence": "The paper frames its expectations about effectiveness as if they are supported by the design alone, without any empirical evidence. The claims about enhancing learning effectiveness and motivation are not grounded in data from this study.",
+      "q6_limitations_discussed": "low",
+      "q6_evidence": "The authors do acknowledge that empirical evaluation is future work, and they describe specific plans for usability testing, pre/post-tests, questionnaires, and interviews. However, they do not explicitly discuss design limitations.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "This is a game design and development paper with no empirical evaluation whatsoever. No participants were recruited, no data were collected, and no results are reported. All claims about learning effectiveness and motivation are aspirational expectations. While the game design is described in detail and future evaluation plans are outlined, the complete absence of empirical evidence means the study cannot support any conclusions about the effectiveness of the game for learning history and geography. The risk of bias is high across all domains due to the lack of any empirical methodology."
+  }
+}

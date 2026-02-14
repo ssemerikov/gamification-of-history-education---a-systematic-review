@@ -1,0 +1,136 @@
+{
+  "study_id": 24,
+  "pdf_filename": "Educational Computer Game for learning History Impact on learners\u2019 level of knowledge and learners\u2019 satisfaction.pdf",
+  "bibtex_key": "24Ghannem2019",
+  "bibliographic": {
+    "title": "Educational Computer Game for learning History: Impact on learners' level of knowledge and learners' satisfaction",
+    "authors": [
+      "Aymen Ghannem",
+      "Mohamed Ali Khenissi",
+      "Fathi Essalmi",
+      "Alaa A. Qaffas"
+    ],
+    "year": 2019,
+    "publication_type": "conference paper",
+    "venue": "2019 7th International Conference on ICT & Accessibility (ICTA)",
+    "doi": "10.1109/ICTA49490.2019.9144967",
+    "volume": null,
+    "pages": "1-6",
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Tunisia",
+      "Saudi Arabia"
+    ],
+    "country_of_application": "Tunisia",
+    "education_level": "Secondary school (average age 18-20, from different schools in Kairouan)",
+    "sample_size": 36,
+    "sample_description": "36 volunteer participants from different schools in Kairouan, Tunisia. Divided into two groups: control group (20 participants, 15 male, 5 female, avg age 20) using traditional learning, and experimental group (16 participants, 13 male, 3 female, avg age 18) using the educational computer game.",
+    "study_design": "Quasi-experimental with pre-test/post-test control group design",
+    "game_type": "Educational computer game (2D action game, browser-based)",
+    "game_name": "LAST MISSION",
+    "aim": "To introduce an educational computer game called 'LAST MISSION' designed for learning the history of World War 1 and World War 2, and to investigate whether its use has a positive effect on learners' level of knowledge and learners' satisfaction.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Small sample size (N=36) with unequal groups (20 vs 16). The game is a purpose-built educational game rather than gamification of traditional instruction, but it contains gamification elements (points, levels, feedback, challenges).",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "Van Eck (2006) defined educational computer games as 'an interactive play that teaches learners how to achieve goals and how some serious problems can be solved' and as 'a game explicitly designed with learning purposes, where the role of fun is obvious and required.' Roger Caillois defined a game as an activity that is fun, separate, uncertain, non-productive, controlled by rules, and fictitious.",
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes educational computer games as tools that combine fun gameplay with appropriate learning experiences to support knowledge acquisition and competency development. The game integrates learning content (World War 1 and 2 history) directly into gameplay through bonus items containing historical information and embedded quiz questions at the end of each level. The approach frames the game as a medium for making learning more enjoyable and engaging compared to traditional methods.",
+    "theoretical_frameworks": [
+      "Technology Acceptance Model (TAM) by Davis (1989) - used to evaluate learner satisfaction through Usefulness, Ease of Use, Attitude toward using, and Behavioral intention constructs"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Pre-test and post-test scores (10 multiple-choice questions each, scored 0-10). TAM questionnaire with 7-point Likert scale (1=total agreement, 7=total disagreement) measuring Usefulness (U, 3 items), Ease of Use (EOU, 3 items), Attitude toward using (ATT, 4 items), and Behavioral intention (INT, 3 items).",
+    "statistical_results": "Wilcoxon signed-rank test results: Phase 1 (traditional): pre-test avg=5.65, post-test avg=7.85, progression rate=2.2, W=9, p<=0.01. Phase 2 (game): pre-test avg=5.25, post-test avg=8.37, progression rate=3.12, W=0, p<=0.01. Both results significant at p<=0.01. TAM satisfaction results: Usefulness avg=1.62 (median=1), Ease of Use avg=1.95 (median=2), Attitude avg=1.78 (median=1), Behavioral Intention avg=2.62 (median=2).",
+    "comparative_methodology": "Two-group comparison: control group (N=20) used traditional learning (4-page printed course), experimental group (N=16) used the educational computer game. Pre-test evaluated baseline knowledge; post-test evaluated knowledge gain. Wilcoxon signed-rank test used for statistical significance.",
+    "key_outcomes": "Both traditional learning and the educational computer game had a positive impact on learners' level of knowledge (both significant at p<=0.01). The game group showed a slightly higher progression rate (3.12) compared to the traditional group (2.2). Game group post-test average (8.37) was higher than traditional group post-test average (7.85). Learners showed high satisfaction with the game across all TAM dimensions (averages ranging from 1.62 to 2.62 on a 1-7 scale).",
+    "engagement_results": "High learner satisfaction measured via TAM: Usefulness (avg=1.62, median=1), Ease of Use (avg=1.95, median=2), Attitude toward using (avg=1.78, median=1), Behavioral Intention to use (avg=2.62, median=2). All averages were close to 1 (maximum satisfaction) and far from 7 (maximum dissatisfaction), indicating participants were very satisfied with the educational computer game."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Points/scoring system (score displayed in top-left corner)",
+      "Three progressive levels (Training mission, Facing enemy soldiers, Facing enemy tanks and air planes)",
+      "Health bar (red bar at top indicating player's current health)",
+      "Bonus items (collectible items containing historical information)",
+      "Multiple-choice quiz questions embedded at end of each level (5 questions per level)",
+      "Immediate feedback (correct answer turns green, wrong answer turns red; +1 for correct answers tracked visually)",
+      "Timer (timing displayed in top-left corner)",
+      "Visual feedback indicators (green icon for correct answers, orange icon for wrong answers)",
+      "Dialogue popups with historical information",
+      "Action-based gameplay without violence"
+    ],
+    "technological_platforms": [
+      "GML programming language (GameMaker Language)",
+      "HTML5 browser-based export",
+      "2D platform design with high graphic quality"
+    ],
+    "instructional_strategies": [
+      "Content integration through bonus items containing World War 1 and 2 historical facts",
+      "Progressive difficulty across three levels",
+      "Quiz-based assessment embedded within gameplay at end of each level",
+      "Immediate corrective feedback on quiz answers",
+      "Military-themed environment matching the historical content (World Wars)",
+      "Combined learning and entertainment (edutainment approach)"
+    ],
+    "content_integration": "Historical content about World War 1 and World War 2 is integrated into gameplay through two mechanisms: (1) bonus items that players collect during gameplay trigger dialogue popups containing information about important historical events (Level 2 covers WW1 events, Level 3 covers WW2 events), and (2) five multiple-choice questions appear at the end of each level (Levels 2 and 3) testing knowledge of the historical content encountered during that level. Level 1 serves as a training mission using quiz-based target shooting."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Small sample size limits generalizability (only 36 participants)",
+      "Unequal group sizes (20 in control vs 16 in experimental group)",
+      "Balancing fun gameplay with appropriate learning content is a critical design challenge"
+    ],
+    "methodology_limitations": [
+      "Limited sample size (36 participants) requiring further validation",
+      "Only one pre-test and one post-test used for each learning method, considered a restriction for generalization",
+      "Short learning session (approximately 20 minutes)",
+      "No long-term retention measurement",
+      "Gender imbalance (only 22% female participants)",
+      "Non-randomized group assignment mentioned only as 'affected randomly' without detailed randomization procedure",
+      "No effect size reported",
+      "Wilcoxon test used within groups but no between-group statistical comparison reported"
+    ],
+    "negative_effects": [
+      "The paper notes that educational computer games have potential to affect learning experience negatively if the game designer does not balance critical factors"
+    ],
+    "mitigation_strategies": [
+      "Future work planned to broaden samples for further validation",
+      "Additional experiment sessions needed with more learning contents, longer learning sessions and tests",
+      "Future work to study the potential of the game for extracting learner characteristics while playing"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "The study does not report clear inclusion/exclusion criteria for participant selection. Participants are described only as 'volunteer participants from different schools in Kairouan (Tunisia)' without specification of how they were recruited or what criteria were used for selection.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Small sample (N=36) from a single city (Kairouan, Tunisia), with unequal group sizes (20 vs 16) and significant gender imbalance (78% male). The sample is unlikely to be representative of the broader target population. The randomization procedure is poorly described ('affected randomly').",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Some concerns",
+      "q3_evidence": "Pre-test and post-test were 'well prepared by an instructor of history' but no validation information (reliability, validity) is reported for these instruments. The TAM questionnaire is a validated instrument from Davis (1989), which is appropriate. The Likert scale uses 7 points, which is standard.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Wilcoxon signed-rank test is appropriate for within-group pre-post comparisons with small non-normal samples. However, no between-group statistical test was conducted to compare the two groups directly. No effect sizes are reported. The claim that the game is 'slightly better' than traditional learning is based only on comparing averages (8.37 vs 7.85) without statistical testing of this difference.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Some concerns",
+      "q5_evidence": "The authors conclude that the game has a positive impact and is 'slightly better' than traditional learning, but this between-group comparison was not statistically tested. The within-group results are correctly interpreted as significant. The satisfaction results are straightforwardly presented.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The authors acknowledge key limitations: limited sample size requiring further validation, restriction of using only one pre-test and post-test for each method, and the need for additional experiments with more content and longer sessions. However, the lack of between-group statistical testing is not acknowledged as a limitation.",
+      "judgment": "Moderate"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high risk of bias due to: (1) small, non-representative sample with unclear selection criteria and poor randomization description; (2) no validation reported for the knowledge tests; (3) critical absence of between-group statistical comparison despite claiming the game is 'slightly better' than traditional learning; (4) no effect sizes reported; and (5) unequal group sizes. While the within-group Wilcoxon results are appropriate and the TAM instrument is validated, the overall methodological rigor is insufficient to support the comparative claims made."
+  }
+}

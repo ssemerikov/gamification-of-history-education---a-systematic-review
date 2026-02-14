@@ -1,0 +1,143 @@
+{
+  "study_id": 2,
+  "pdf_filename": "3D Game-Based Approach to Learning Ancient Malay Heritage's History.pdf",
+  "bibtex_key": "2Mahamarowi2023133",
+  "bibliographic": {
+    "title": "3D Game-Based Approach to Learning Ancient Malay Heritage's History",
+    "authors": [
+      "Noor Hafizah Mahamarowi",
+      "Muhamad Rizal Bin Ja'afar",
+      "Safinaz Mustapha",
+      "Khairul Huda Yusof"
+    ],
+    "year": 2023,
+    "publication_type": "conference_paper",
+    "venue": "2023 IEEE 14th Control and System Graduate Research Colloquium (ICSGRC)",
+    "doi": "10.1109/ICSGRC57744.2023.10215483",
+    "volume": null,
+    "pages": "133-138",
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Malaysia"
+    ],
+    "country_of_application": "Malaysia",
+    "education_level": "secondary",
+    "sample_size": 19,
+    "sample_description": "19 play testers (school children aged 10 to 17 years old) volunteered for the playtesting and evaluation session. A separate needs-analysis survey was conducted with 183 secondary school students taking History subjects (78% male).",
+    "study_design": "descriptive",
+    "game_type": "digital_custom",
+    "game_name": "Laksamana (3D game based on Hikayat Hang Tuah)",
+    "aim": "To develop a 3D third-person perspective game highlighting Ancient Malay culture and history (specifically Hikayat Hang Tuah and the history of Malacca under Sultan Mansur Shah) for learning purposes for school children, and to examine how pupils view history through a game-based approach.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Small sample size (n=19 for evaluation). Primarily a design-and-development study with limited formal evaluation methodology. No control group comparison with statistical analysis. Qualitative evaluation is informal (observation and verbal questioning).",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes game-based learning (GBL) as students achieving learning objectives by playing games that blend instructional information and games with little or no supervision by the teacher (citing Prensky). The paper frames GBL as an approach where digital games serve as instruments for supporting and fostering contextual learning, with the 3D game environment allowing players to experience historical settings and learn history through gamification. The study uses GBL and gamification somewhat interchangeably, focusing on immersive 3D game experiences as a vehicle for history education.",
+    "theoretical_frameworks": [
+      "ADDIE Model (Analyze, Design, Develop, Implement, Evaluate)",
+      "Game-Based Learning (GBL)",
+      "UN Sustainable Development Goal 4 (Quality Education)",
+      "Malaysian Education Blueprint 2013-2025"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Verbal quiz of 10 questions after reading session and after playtesting session. Average game completion duration measured. Survey with 183 respondents on perceptions of 3D game-based history learning (yes/no questions).",
+    "statistical_results": "Reading session: highest score was 3 out of 10 questions correct; 3 out of 19 completed reading but had difficulty answering. Playtesting session: all 19 participants completed the game; average duration 13 minutes; highest score 9 out of 10 questions correct. Survey results: 71% found it easier to play 3D games and understand the story; 94% agreed 3D games can create interest to learn history; 85% agreed 3D game visualizes ancient Malay heritage better than textbook images; 77% agreed playing game can relate with the history of Hikayat Hang Tuah.",
+    "comparative_methodology": "Within-subjects informal comparison: same group of 19 participants completed a reading session (textbook content) and a playtesting session. Performance on verbal quiz compared informally (highest score 3/10 for reading vs 9/10 for game).",
+    "key_outcomes": "Students performed substantially better on verbal history questions after playtesting the 3D game (highest 9/10) compared to after reading textbook content (highest 3/10). Students showed more engagement and interest with the game compared to reading. The animation in the game related to history taught in school, interactions enhanced interest, and challenges provided motivation.",
+    "engagement_results": "Students read textbook content in monotone and were less interested in reading the whole content. In contrast, school children seemed to love playing the 3D game based on their feedback. The interaction in the game enhanced interest in children to keep playing and gaining knowledge. The challenges in the game gave motivation to complete the game."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Third-person perspective gameplay",
+      "3D immersive historical environment",
+      "Character combat system",
+      "Cutscenes for narrative storytelling",
+      "Tutorial session",
+      "Game levels with objectives/challenges",
+      "Inventory system",
+      "Character skills",
+      "Object interaction",
+      "Sound effects and background music",
+      "Semi-realistic art style",
+      "Victory screen",
+      "Pause menu with options (sound, graphics)"
+    ],
+    "technological_platforms": [
+      "Unreal Engine 4 (UE4) - game engine",
+      "Blender - 3D modelling and texturing",
+      "Zbrush - character sculpting",
+      "Substance Painter - texturing",
+      "Adobe Photoshop - concept art and UI",
+      "Adobe Illustrator - UI design",
+      "Mixamo - character rigging and animation",
+      "Epic Store assets - character vocalization"
+    ],
+    "instructional_strategies": [
+      "Experiential learning through 3D virtual environment exploration",
+      "Narrative-driven learning adapted from historical literary source (Hikayat Hang Tuah)",
+      "Game-based learning (GBL) with blended instructional content",
+      "Visual immersion in historical setting for contextual learning",
+      "Challenge-based motivation to complete objectives"
+    ],
+    "content_integration": "History content is integrated through the game's storyline adapted from the book 'Hikayat Hang Tuah' (published 1908), set in 15th century Malacca during the reign of Sultan Mansur Shah. The 3D environment recreates the ancient Malay era including Malay villages, Istana Melaka (Malacca Palace), buildings, and interiors of the period. Players experience the story of Hang Tuah, Malacca's greatest warrior, through cutscenes and gameplay. Facts from the History school subject are included with modifications in the game including plot twists, character appearance, and environments. The semi-realistic art style was purposely chosen to accurately reflect the historical background."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Resources of the history of the warrior of Melaka are quite scarce and have numerous changes",
+      "Characters and stories in the video game may not be as accurate as anticipated due to limited historical sources",
+      "Making a video game is a lengthy process that should be completed in a group to save time",
+      "Traditional elderly and adults still believe that games will impart bad influence on younger generations",
+      "Students currently have no interest in studying history and dislike reading"
+    ],
+    "methodology_limitations": [
+      "Small evaluation sample (n=19 play testers)",
+      "No formal control group with statistical comparison",
+      "Evaluation based on informal verbal questioning and observation rather than validated instruments",
+      "No pre-test/post-test design with standardized assessment",
+      "Survey and playtesting evaluation methods lack rigor",
+      "Reading session and playtesting session comparison is informal and not controlled for confounding variables"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Future work proposed to conduct comparative analysis assessing effectiveness of 3D game-based learning vs. traditional methods",
+      "Future work to develop and evaluate appropriate assessment methods and tools for measuring learning effectiveness",
+      "Future work to add more variety and skill on character attributes and expand the storyline"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "unclear",
+      "q1_evidence": "The paper states 'A group of participants are recruited for two sessions' and 'A total of 19 play testers are volunteered to participate' but does not specify any inclusion/exclusion criteria for participant selection beyond age range (10-17 years old) and being school children.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "The 19 play testers 'volunteered to participate' but no information is provided about how they were recruited, from which school(s), or whether they represent the target population of Malaysian secondary school students. The separate survey had 183 respondents chosen 'randomly' with invitations sent through email, all being 'students in secondary school and taking History subjects.'",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "no",
+      "q3_evidence": "The evaluation used informal verbal questioning ('asked to do so' about the game's plot) with 10 questions, but the paper does not describe whether these questions were validated or how they were developed. No validated assessment instruments were used. The needs-analysis survey used simple yes/no questions in Google Form without reported validity or reliability.",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "The paper reports only descriptive findings from observation and verbal quiz (e.g., 'highest score is 9 out of 10 questions are correct', 'average duration is 13 minutes') without any statistical analysis. The comparison between reading session (highest 3/10) and playtesting session (highest 9/10) is informal with no statistical tests applied.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "unclear",
+      "q5_evidence": "The paper concludes 'this video game can be used to help educate history' based on informal observations and verbal responses, but the evidence presented (comparison of highest scores between reading and playtesting) is limited and the interpretation may overstate what the informal evaluation supports.",
+      "q6_limitations_discussed": "partial",
+      "q6_evidence": "The paper acknowledges that 'The characters and stories in the video game may not be as nice as anticipated because the resources of the history of the warrior of Melaka are quite scarce' and proposes future comparative analysis and development of 'appropriate assessment methods and tools.' However, the paper does not explicitly discuss the methodological limitations of the small sample size, lack of validated instruments, or the informal nature of the evaluation.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high overall risk of bias due to: (1) no clear participant selection criteria and volunteer-based convenience sampling with only 19 participants; (2) absence of validated assessment instruments, relying instead on informal verbal questioning and behavioral observation; (3) no statistical analysis of results, with only descriptive comparisons between reading and playtesting sessions; (4) no control group or rigorous experimental design; (5) limited discussion of methodological limitations. The study is primarily a design-and-development paper with informal evaluation rather than a rigorous empirical study."
+  }
+}

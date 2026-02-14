@@ -1,0 +1,128 @@
+{
+  "study_id": 25,
+  "pdf_filename": "Engaging Students in Developing a Stereoscopic 3D Educational History Game.pdf",
+  "bibtex_key": "25Repantis2011502",
+  "bibliographic": {
+    "title": "Engaging Students in Developing a Stereoscopic 3D Educational History Game",
+    "authors": [
+      "Vyzantinos Repantis",
+      "Sophia Delidaki"
+    ],
+    "year": 2011,
+    "publication_type": "conference_paper",
+    "venue": "European Conference on Games Based Learning",
+    "doi": null,
+    "volume": null,
+    "pages": "502-509",
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "Greece"
+    ],
+    "country_of_application": "Greece",
+    "education_level": "secondary",
+    "sample_size": null,
+    "sample_description": "8 student-designers aged 14-18 (second/third year middle school and high school) who developed the game; first-year middle school students who played the game. Psychico College, HAEF, Athens.",
+    "study_design": "descriptive",
+    "game_type": "digital_custom",
+    "game_name": "History Game (Mycenaean era stereoscopic 3D game)",
+    "aim": "To present an educational history game whose creation engaged students in the actual developing process of a stereoscopic 3D environment, enhancing IT skills, spatial thinking, and knowledge of the Mycenaean era of Greek history.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "No formal evaluation of learning outcomes was conducted; the study is primarily descriptive of the game design process. No quantitative or qualitative data on player learning is reported.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Game-based learning is conceptualized through an experiential model where students as designers create a stereoscopic 3D virtual environment based on historical content. The game is about decision making and finding historical 'mistakes' in a virtual Mycenaean era environment, connecting game design with curriculum-based history learning.",
+    "theoretical_frameworks": [
+      "Experiential learning",
+      "Constructionism (Kafai/Papert)",
+      "Spatial cognition theory"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "No formal evaluation was conducted. The authors report observational outcomes: students seemed engaged and motivated to learn; several skills were developed including strategic thinking, decision-making, collaboration, and problem-solving. Spatial thinking was advanced but the extent was not measured.",
+    "engagement_results": "Students volunteered enthusiastically to participate. The game design process coupled curricular and extracurricular activities. Students-designers evaluated situations, chose actions, judged results, and received feedback."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "decision making",
+      "error finding (spot the mistake)",
+      "time-based competition",
+      "team collaboration",
+      "first-person navigation",
+      "stereoscopic 3D visualization"
+    ],
+    "technological_platforms": [
+      "Google Sketchup",
+      "DAZ 3D Studio",
+      "iClone 4 Pro",
+      "iClone 3DXchange",
+      "Unity3D game engine",
+      "JavaScript",
+      "DLP stereoscopic projectors"
+    ],
+    "instructional_strategies": [
+      "students as designers",
+      "experiential learning",
+      "interdisciplinary learning (history and IT)",
+      "collaborative game design",
+      "peer teaching"
+    ],
+    "content_integration": "The game is set in the Mycenaean era palace of Odysseus, based on Homer's Odyssey and the Greek ancient history curriculum taught in the first year of middle school. Historical content is integrated through error-finding gameplay where players must identify anachronistic objects, situations, or buildings (e.g., an Apollonian temple in the Mycenaean era, women sitting at tables)."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Interactive part of the game not yet implemented in stereo vision",
+      "Game structure described as 'quite simple' needing further development",
+      "No formal evaluation conducted yet"
+    ],
+    "methodology_limitations": [
+      "No formal assessment of learning outcomes",
+      "No control group or comparative study",
+      "Sample size and demographics of players not reported",
+      "Descriptive study without quantitative data"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Plans to expand the game to other eras of Greek history",
+      "Plans to measure the game's positive effect on players' revision in history",
+      "Plans to use Unity3D engine to add more features like score, network capabilities, and more complex menus"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "no",
+      "q1_evidence": "The paper mentions '8 students aged 14-18' who volunteered as designers and 'first year middle-school students' who played, but provides no systematic selection criteria, no demographic details, and no information about the player sample size.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "The study was conducted at a single school (Psychico College, HAEF, Athens) which is described as having a 'new highly equipped IT laboratory,' suggesting it may not be representative of typical Greek schools.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "no",
+      "q3_evidence": "No data collection tools are described. The study provides no instruments, questionnaires, tests, or systematic observation protocols. Outcomes are reported as informal observations.",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "No data analysis methods are described. The paper presents no quantitative or qualitative data analysis. Results are based on the authors' informal observations of the design and play process.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "unclear",
+      "q5_evidence": "The conclusion states 'undoubtedly computer games and specifically stereoscopic 3D ones can act as educational tools' and 'Students seemed to be engaged in the process and were motivated to learn,' but no evidence is presented to support these claims beyond informal observation.",
+      "q6_limitations_discussed": "yes",
+      "q6_evidence": "The authors acknowledge: 'we didn't have the chance to evaluate them fully, but we plan on doing so in the near future' and 'to what point, however, has to be clarified in our future research' regarding spatial thinking advancement.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study provides no formal data collection or analysis methods, no validated instruments, and no systematic evaluation of outcomes. It is entirely descriptive with claims based on informal observations. While limitations are acknowledged, the lack of any empirical evidence makes the overall risk of bias high."
+  }
+}

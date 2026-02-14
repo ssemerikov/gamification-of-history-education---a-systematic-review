@@ -1,0 +1,133 @@
+{
+  "study_id": 37,
+  "pdf_filename": "Grand Theft Longboat Using Video Games and Medievalism to Teach Medieval History.pdf",
+  "bibtex_key": "37Lewis202054",
+  "bibliographic": {
+    "title": "Grand Theft Longboat: Using Video Games and Medievalism to Teach Medieval History",
+    "authors": [
+      "Katherine J. Lewis"
+    ],
+    "year": 2020,
+    "publication_type": "book_chapter",
+    "venue": "Historia Ludens: The Playing Historian",
+    "doi": "10.4324/9780429345616-4",
+    "volume": null,
+    "pages": "54-70",
+    "publisher": "Routledge",
+    "editors": [
+      "Alexander von L\u00fcnen",
+      "Katherine J. Lewis",
+      "Benjamin Litherland",
+      "Patricia Cullum"
+    ]
+  },
+  "study_characteristics": {
+    "countries": [
+      "United Kingdom"
+    ],
+    "country_of_application": "United Kingdom",
+    "education_level": "higher",
+    "sample_size": null,
+    "sample_description": "Third-year undergraduate students taking the 'History and Myth: Writing and Re-writing the Middle Ages' module at the University of Huddersfield (BA in History), running since 2013. A 20-credit module over 12 weeks. Individual student pitch examples discussed but no formal sample described.",
+    "study_design": "descriptive",
+    "game_type": "digital_custom",
+    "game_name": "Student-designed medieval video game pitches (e.g., Grand Theft Longboat, Antioch: Searching for Salvation, The Golden Legend, Hanged Drawn OR Quartered)",
+    "aim": "To describe a university module where students analyze medieval and modern medieval narratives (video games, films, TV) and create their own original medieval video game/film/TV pitches, combining history education with creative game design as pedagogy.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is a reflective practitioner account of a teaching module, not a formal empirical study. No systematic data collection or analysis. Students design game pitches but do not create functioning games. The gamification element is the use of video game design as a pedagogical tool for history learning.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Game-based learning is conceptualized through the lens of game design as pedagogy: students engage with medieval history by analyzing existing video games set in the Middle Ages and by designing and pitching their own original medieval video games. The approach treats video games as historical narratives that parallel medieval chronicle writing, emphasizing the value of fiction, speculation, and 'filling in the gaps' in historical understanding. Games are seen as tools for exploring 'history from below', the inner psyche of historical figures, and alternative historical outcomes.",
+    "theoretical_frameworks": [
+      "Medievalism studies (D'Arcens 2014; Elliott 2017)",
+      "Historiographical methodology (Kempshall 2011)",
+      "Fiction as historical method (Hatcher 2012)",
+      "Kapell and Elliott's 'Playing with the Past' framework (2013)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "No formal evaluation conducted. The author reports informal observations: 'the majority of students have shown a very good if not excellent understanding of the aim of exercise, displaying high levels of both creativity and effort in their pitches'; 'module feedback from students is consistently very positive in terms of what students feel they have gained both intellectually, and in terms of enjoyment.' Student quote: 'This module represented a very creative way to look at history... The pitch and essay are also a really different way of being assessed and make it a lot more fun.'",
+    "engagement_results": "Students reported high engagement and enjoyment. The author notes students 'exceeded my expectations in demonstrating the potential of video games as a medium for representing authentic versions of the Middle Ages and enabling engagement with medieval history.' Students exercised 'greater initiative and autonomy' compared to a previous traditional module."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Student-designed game pitches (10-minute oral presentations)",
+      "Open-world exploration (GTA-style, inspired by Red Dead Redemption, Saints Row)",
+      "Action RPG elements (Skyrim, Dragon Age, Fable inspired)",
+      "Graphic adventure with puzzle solving (Broken Sword inspired)",
+      "Decision-making and branching narratives",
+      "Character-driven historical exploration",
+      "Alternative history scenarios ('what if' gameplay)"
+    ],
+    "technological_platforms": [
+      "No specific technology platform required \u2014 students pitch conceptual game designs",
+      "PowerPoint/AV presentations for pitch delivery",
+      "Pitch bibles as supporting documentation"
+    ],
+    "instructional_strategies": [
+      "Students as game designers (constructionist approach)",
+      "Analysis of existing medieval video games and media",
+      "Integration of primary source analysis with creative design",
+      "Historiographical methodology applied to game narratives",
+      "Peer presentation and feedback (pitches delivered to cohort)",
+      "Reflective self-assessment within 24 hours of pitch",
+      "2000-word analytical essay on medievalism in media",
+      "Interdisciplinary approach combining history and media studies"
+    ],
+    "content_integration": "Medieval history content is integrated through a dual approach: (1) weekly seminars covering topics such as Joan of Arc, Robin Hood, King Arthur, Vikings, the Crusades, the Borgias, Mongols, and the Gothic Middle Ages, analyzed through both primary sources and modern media representations; (2) student game pitches must be grounded in historical research, drawing on primary sources and secondary scholarship, while using game design to explore how and why the Middle Ages are represented in particular ways. The key concept is 'intellectual profit' \u2014 students must justify what their game would help audiences understand about the Middle Ages that a traditional book could not."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Students do not actually create functioning games \u2014 only pitches/concepts",
+      "Module limited to one university (University of Huddersfield)",
+      "Relies on students being experienced gamers for game pitch element",
+      "No formal assessment of whether game design activity improves historical understanding beyond traditional methods"
+    ],
+    "methodology_limitations": [
+      "No formal research methodology \u2014 reflective practitioner account",
+      "No systematic data collection or analysis",
+      "No control group or comparison with traditional teaching",
+      "Sample characteristics and size not described",
+      "Student feedback quoted selectively without systematic collection",
+      "Author is both the module creator and the chapter author (potential bias)"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": []
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "no",
+      "q1_evidence": "No participant selection criteria described. The chapter discusses examples from students who took the module over multiple years since 2013 but provides no information about how many students participated, their demographics, or how the featured examples were selected.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "The study is set at a single UK university (University of Huddersfield). Note 3 mentions students occasionally come from Erasmus exchanges. The module is available to BA History students and those on joint degrees. The featured student examples may not be representative of the full range of student work.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "no",
+      "q3_evidence": "No data collection instruments are described. The author references 'module feedback from students' being 'consistently very positive' but does not describe the feedback instrument. One student quote is provided but the collection method is unspecified. The chapter relies entirely on the author's informal observations and selective examples.",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "No data analysis methods are described. The chapter presents anecdotal examples of student pitches with the author's interpretive commentary. There is no systematic coding, thematic analysis, or quantitative analysis of student outcomes.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "unclear",
+      "q5_evidence": "The author's conclusions ('a very successful and productive means of approaching primary sources and historiographical debate') are supported only by selective anecdotal evidence. The claim that students showed 'very good if not excellent understanding' lacks systematic evidence. However, the detailed pitch examples do illustrate sophisticated student engagement with historical content.",
+      "q6_limitations_discussed": "partial",
+      "q6_evidence": "The author does not explicitly discuss limitations of the study or module evaluation. However, the chapter is positioned as a reflective practitioner account rather than formal research, and the author acknowledges the module is still evolving. No mention of negative feedback or unsuccessful pitches.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "High risk of bias across all domains due to absence of formal research methodology. The chapter is a reflective practitioner account with no systematic data collection, no validated instruments, no described analysis methods, and selective presentation of student examples. While it provides rich qualitative description of the module design and student outputs, it cannot be considered empirical evidence of effectiveness."
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "study_id": 72,
+  "pdf_filename": "The Utilization of History Module in the Development of Multiculturalism-Based Team Games Tournament Model.pdf",
+  "bibtex_key": "72hutauruk2020utilization",
+  "bibliographic": {
+    "title": "The Utilization of History Module in the Development of Multiculturalism-Based Team Games Tournament Model to Improve the Bhineka Attitudes on 10th Grade Students in SMA Erlangga Pematangsiantar",
+    "authors": [
+      "Ahmad Fakhri Hutauruk",
+      "Andres M. Ginting"
+    ],
+    "year": 2020,
+    "publication_type": "journal_article",
+    "venue": "Budapest International Research and Critics Institute-Journal (BIRCI-Journal)",
+    "doi": "10.33258/birci.v3i4.1372",
+    "volume": "3",
+    "pages": "3386-3397",
+    "publisher": "Budapest International Research and Critics Institute"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Indonesia"
+    ],
+    "country_of_application": "Indonesia",
+    "education_level": "secondary",
+    "sample_size": 48,
+    "sample_description": "10th grade students at SMA Erlangga Pematangsiantar High School, divided into an experimental group (24 students) and a control group (24 students, Class X IPA). The study focused on history education within the 2013 Curriculum framework in Indonesia.",
+    "study_design": "quasi_experimental",
+    "game_type": "board_game",
+    "game_name": "Multiculturalism-Based Team Games Tournament (TGT) Model",
+    "aim": "To produce alternative teaching materials in the form of a multiculturalism-based TGT model history module for increasing the diversity attitudes of students at Erlangga Pematangsiantar High School, and to increase learning resources in the classroom and innovate learning media.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study uses Team Games Tournament (TGT), which is a cooperative learning model with game/tournament elements rather than digital gamification. TGT incorporates competitive tournament-style game mechanics (team competition, scoring, tournament rounds) applied to history education. While the gamification elements are non-digital and embedded in a cooperative learning structure, TGT is a recognized form of game-based learning. The study is primarily a development research (R&D) study that also includes an effectiveness test. The focus is on multiculturalism/diversity attitudes in history education rather than purely on historical knowledge acquisition.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes gamification through the Team Games Tournament (TGT) cooperative learning model, which incorporates tournament-based competition among student teams in history class. TGT is used as a pedagogical framework where students compete in teams through structured academic tournaments. The TGT model is combined with a multiculturalism-based history module covering local culture (Siantar City Multiculturalism) to develop students' diversity attitudes. The approach merges cooperative/competitive learning with contextual, rational, and scientific approaches, elaborated through a Learning Implementation Plan. The competitive nature of TGT is positioned as an alternative to developing a competitive attitude within a multicultural framework.",
+    "theoretical_frameworks": [
+      "Dick & Carey development model (instructional design)",
+      "Borg and Gall's theory of development (R&D)",
+      "2013 Curriculum (K13) framework (Indonesia)",
+      "Team Games Tournament (TGT) cooperative learning model (Slavin, 2010)",
+      "Multiculturalism education (Tilaar, 2004)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Cognitive domain pre-test/post-test scores, affective domain attitude scale questionnaire scores (pre-post), material expert validation scores (content and language components), independent sample t-test for between-group comparison, paired sample t-test for within-group comparison.",
+    "statistical_results": "Independent sample t test (cognitive): t_count > t_table (3.101 > 1.711) so H0 is rejected and H1 is accepted, indicating a difference in the mean cognitive scores of the experimental and control group students. Independent sample t test (attitude scale): t_count > t_table (2.527 > 1.711) so H0 is rejected and H1 is accepted, indicating diversity attitudes of students who use the history module are higher than students who use conventional models. Paired sample t test (cognitive domain, experimental group): t_count (-6.271) < -t_table (-1.711), H0 rejected. Paired sample t test (affective domain, experimental group): t_count (-3.698) < -t_table (-1.711), H0 rejected. Paired Samples Test (attitude scale, experimental group): Mean difference = -1.542, SD = 2.043, t = -3.698, df = 23, Sig. (2-tailed) = .001. Paired Samples Test (attitude scale, control group): Mean difference = -2.208, SD = 2.187, t = -4.948, df = 23, Sig. (2-tailed) = .000. Kolmogorov-Smirnov normality test: Pre-questionnaire significance = 0.230, Post-questionnaire significance = 0.885. Expert validation: content component average score = 8.8, language component average score = 8.6, total average = 8.7 ('Highly Valid'). Normality test significance values: X1 (post-test A) = 0.305, Y1 (post-questionnaire A) = 0.885, X2 (post-test B) = 0.367, Y2 (post-questionnaire B) = 0.327. Homogeneity test for post-test (cognitive) = 0.5.",
+    "comparative_methodology": "Quasi-experimental design with experimental group (n=24, using multiculturalism-based TGT history module) and control group (n=24, Class X IPA, using conventional models). Independent sample t-tests compared between-group differences on cognitive scores and attitude scale scores. Paired sample t-tests compared within-group pre-post differences for both the experimental and control groups. Normality verified via Kolmogorov-Smirnov and Shapiro-Wilk tests; homogeneity verified via Levene's Variance Homogeneity Test. Statistical analysis performed using SPSS Version 19.",
+    "key_outcomes": "Students using the multiculturalism-based TGT history module showed significantly higher cognitive scores and diversity attitudes compared to students using conventional models. The experimental group showed significant pre-to-post improvement in both cognitive domain (paired t = -6.271) and affective domain (paired t = -3.698, p = .001). The control group also showed significant pre-to-post improvement in attitude scores (paired t = -4.948, p = .000). The expert-validated module achieved 'Highly Valid' status with an average score of 8.7 out of 10.",
+    "engagement_results": null
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Team-based competition (Team Games Tournament structure)",
+      "Tournament rounds with academic content",
+      "Team scoring and performance comparison",
+      "Group discussion and collaboration within teams",
+      "Competitive academic games between groups"
+    ],
+    "technological_platforms": [
+      "Printed history module (multiculturalism-based teaching material)",
+      "Learning videos integrated into classroom instruction",
+      "SPSS Version 19 (for statistical analysis)"
+    ],
+    "instructional_strategies": [
+      "Team Games Tournament (TGT) cooperative learning model",
+      "Multiculturalism-based content integration (local culture of Siantar City)",
+      "Contextual, rational, and scientific approaches combined with TGT learning steps",
+      "Dick & Carey instructional design model adapted with Borg and Gall development procedures",
+      "Expert validation process (content and language components)",
+      "Readability/legibility testing (one-to-one, small group, large group)",
+      "Pre-test and post-test assessment",
+      "Attitude scale questionnaire (pre-post)",
+      "Learning Implementation Plan (RPP)",
+      "Needs analysis based on teacher and student learning needs",
+      "Integration of local issues and regional cultural potential into history curriculum"
+    ],
+    "content_integration": "Historical content about local multiculturalism in Pematangsiantar/Siantar City was integrated into a specially developed history module aligned with the Indonesian 2013 Curriculum (K13). The module addressed the concept of diversity through topics including human interaction in relation to religious symbolism, the concept of diversity, diversity of ethnic groups, cultures and religious systems, tolerance of worship as part of societal multiculturalism, government policies, and tradition (local wisdom). The content was designed to connect national curriculum Core Competencies and Basic Competencies with local cultural themes, allowing students to learn about their regional socio-cultural heritage through the competitive TGT model structure. The module went through a multi-stage development process: problem identification, design, deployment, expert validation (Draft A through D), one-to-one legibility test, small group legibility test, large group legibility test, and final revision."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Lack of teaching materials for running the TGT learning model in history classes",
+      "Teacher-centered characteristics in history learning at Erlangga High School, with dominant lecture-based instruction",
+      "Lack of reading culture among students leading to limited insight",
+      "Limited and not yet optimal learning innovation from teachers",
+      "School policy prohibiting students from bringing mobile phones and Android devices, limiting access to digital learning media",
+      "Limited history of learning media use including minimal multimedia-based resources",
+      "No History laboratory available at the school",
+      "Discussion activities rarely implemented optimally in class despite 2013 Curriculum demands",
+      "Students not understanding the learning model concept; reluctance to engage in group discussions",
+      "Teacher difficulty dividing time across activity stages during initial trial"
+    ],
+    "methodology_limitations": [
+      "Small sample size (n=24 per group) from a single school",
+      "Only formative evaluation conducted (up to step 9 of Dick & Carey model); no summative evaluation",
+      "Single school site (SMA Erlangga Pematangsiantar) limits generalizability",
+      "Control group descriptive statistics (Table 6) show different baseline means from experimental group, suggesting potential selection bias",
+      "No random assignment described; groups appear to be intact classes",
+      "No effect size reported",
+      "Attitude scale questionnaire psychometric properties not reported (no Cronbach's alpha or validity evidence beyond expert validation)",
+      "The control group also showed significant improvement (t = -4.948, p = .000), which complicates interpretation of the intervention's unique effect",
+      "No description of what 'conventional model' entailed for the control group"
+    ],
+    "negative_effects": [
+      "Student participation was minimal during initial trial; enthusiasm dominated by a few students",
+      "Discussion process was not going well initially",
+      "Students reluctant to group with those who were not close friends",
+      "Male students joked around too much during discussions and presentations",
+      "Students did not understand what was meant by the learning model"
+    ],
+    "mitigation_strategies": [
+      "Development of dedicated multiculturalism-based history module as alternative teaching material",
+      "Multi-stage module validation process (expert validation, one-to-one, small group, large group legibility tests)",
+      "Integration of learning videos to maintain student attention and engagement",
+      "Discussion and recommendations with teachers to activate students and develop strategies for material understanding",
+      "Needs analysis conducted to align module with actual teacher and student requirements",
+      "Combining TGT learning steps with contextual, rational, and scientific approaches"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "unclear",
+      "q1_evidence": "The study describes participants as '10th Grade Students in SMA Erlangga Pematangsiantar' with experimental and control groups of 24 students each, but no formal inclusion/exclusion criteria are described. The control group is identified as 'Class X IPA' but no equivalent specification is given for the experimental class. No information is provided about how students were assigned to experimental vs. control conditions or whether intact classes were used.",
+      "q2_representativeness": "no",
+      "q2_evidence": "The sample comes from a single private high school (SMA Erlangga) in Pematangsiantar, Indonesia, with only 24 students per group. The control group descriptive statistics (Table 6: Pre-questionnaire Mean = 67.25, SD = 6.102) differ notably from the experimental group statistics (Table 3: Pre-questionnaire Mean = 71.00, SD = 4.845), suggesting non-equivalent groups at baseline. No demographic information beyond grade level is provided, and results from a single school in a specific Indonesian city cannot be generalized to broader populations.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "The study used pre-test/post-test instruments for cognitive assessment and an attitude scale questionnaire for the affective domain. The module itself was validated by material experts who scored content (8.8/10) and language (8.6/10) components, achieving 'Highly Valid' status based on Akbar (2015) criteria. However, no psychometric properties (Cronbach's alpha, test-retest reliability, construct validity) are reported for the cognitive test or the attitude scale questionnaire. The normality of data was tested using Kolmogorov-Smirnov and Shapiro-Wilk tests, and homogeneity was tested via Levene's test, but instrument validity/reliability is not established.",
+      "q4_analysis_methods": "yes",
+      "q4_evidence": "Statistical analysis methods are clearly described and justified: 'The model's effectiveness test used a parametric type statistical test, including the independent sample t test and paired sample t test.' Prerequisite tests were conducted including 'the Normality Test and Lavene's Variance Homogeneity Test.' The Kolmogorov-Smirnov and Shapiro-Wilk normality tests confirmed normal distribution (all sig. > 0.05), and homogeneity was confirmed (sig. = 0.5 > 0.05). Analysis was performed using SPSS Version 19. Descriptive statistics, paired samples correlations, and paired samples tests are presented in full tabular form with means, standard deviations, confidence intervals, t-values, df, and significance levels.",
+      "judgment": "Unclear"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The interpretations are consistent with the statistical results presented. The conclusion that 'the history module is able to develop students' diversity attitudes' is supported by significant independent sample t-test results (t_count 2.527 > t_table 1.711) and paired sample t-test results (t = -3.698, p = .001). The conclusion that there is 'a difference in the mean cognitive scores of the experimental and control group students' is supported by the independent sample t-test (t_count 3.101 > t_table 1.711). The expert validation conclusion of 'Highly Valid' is supported by documented scores of 8.8 and 8.6 averaging to 8.7.",
+      "q6_limitations_discussed": "no",
+      "q6_evidence": "The paper does not contain any explicit limitations section or discussion of methodological limitations. There is no acknowledgment of the small sample size, single-site design, lack of random assignment, absence of instrument reliability/reliability reporting, the fact that only formative (not summative) evaluation was conducted, or the complication that the control group also showed significant pre-post improvement. The challenges encountered during implementation (e.g., minimal student participation, discussion difficulties) are described as observational findings rather than framed as methodological limitations.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The overall risk of bias is rated High. Domain 1 (selection) is High because participant selection criteria are not described, groups appear non-equivalent at baseline (experimental group mean 71.00 vs. control group mean 67.25 on pre-questionnaire), and there is no evidence of randomization. Domain 2 (data collection/analysis) is Unclear because while statistical analysis methods are well-described and appropriate (independent and paired t-tests with prerequisite normality and homogeneity testing via SPSS), the cognitive test and attitude scale instruments lack any reported psychometric properties. Domain 3 (interpretation) is High because although interpretations are consistent with the presented statistical results, no limitations whatsoever are acknowledged despite significant methodological concerns including non-equivalent groups, small convenience sample from a single school, no random assignment, no instrument reliability evidence, and the complication that the control group also showed significant improvement. The study is primarily a development research (R&D) study focused on module creation, with the effectiveness testing being secondary and methodologically limited."
+  }
+}

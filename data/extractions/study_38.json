@@ -1,0 +1,154 @@
+{
+  "study_id": 38,
+  "pdf_filename": "History on the Game Board The Use of Board Games in Polish History Education.pdf",
+  "bibtex_key": "38Mercik2024",
+  "bibliographic": {
+    "title": "History on the Game Board: The Use of Board Games in Polish History Education",
+    "authors": [
+      "Joanna Mercik"
+    ],
+    "year": 2024,
+    "publication_type": "journal article",
+    "venue": "Public History Review",
+    "doi": "10.5130/phrj.v31i0.8508",
+    "volume": "31",
+    "pages": "1-17",
+    "publisher": "UTS ePRESS"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Poland"
+    ],
+    "country_of_application": "Poland",
+    "education_level": "High school and university (history teacher training)",
+    "sample_size": 110,
+    "sample_description": "53 high school students surveyed during workshops on social life in communist Poland (anonymous survey with 4 open-ended questions); 37 university history students surveyed before and after playing Twilight Struggle (2021-2022); 20 in-depth interviews with final-year university students on game-based learning methods",
+    "study_design": "Mixed methods: pre-post anonymous surveys with open-ended questions, in-depth qualitative interviews, and classroom observation/practitioner report",
+    "game_type": "Board games (physical tabletop games)",
+    "game_name": "Kolejka, Reglamentacja, Mis Wojtek, Niepodlegla, Twilight Struggle",
+    "aim": "To describe popular board game titles used in history education in Poland, present examples of their educational use and student feedback, and indicate the applications of board games in the academic training of future history teachers",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is primarily a practitioner report with descriptive survey data rather than a controlled empirical study. The author is both the instructor and researcher, and no formal experimental design or statistical testing is employed. The surveys use open-ended questions with frequency counts rather than validated instruments.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Board games are conceptualized as tools of public history that make historical periods experiential and emotionally engaging. The article frames board games as a form of historical reenactment that confronts players with cognitive challenges similar to those experienced by people in historical periods. Games are seen as facilitating experiential learning, historical empathy, and atmosphere reconstruction rather than mere content delivery. The author positions board games as a bridge between public history (popular, engaging) and school history education (perceived as boring and encyclopedic).",
+    "theoretical_frameworks": [
+      "Public history as framework for informal/experiential history education",
+      "Historical reenactment through gameplay mechanics",
+      "Historical empathy development through game-based emotional engagement",
+      "Game-based learning in history didactics",
+      "Psychology of learning for instruction (Driscoll & Burner)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Kolejka survey (53 students): Pre-game, 100% gave no answers to questions about communist-era economy/products. Post-game: 87% (46 students) listed minimum 4 associations with People's Poland economy; most common associations were queues 100% (53), poverty 94% (50), ration cards 90% (48), speculator 85% (45). 100% (53) named at least 3 era-specific products; vinegar 96% (51), alcohol 90% (48), chocolate-like product 80% (42). Emotions: fear/anxiety 18% (13), frustration 16% (8). Historical empathy: 80% (48) could identify specific feelings about people in that era. Twilight Struggle interviews (20 final-year students): 100% intend to use game-based learning in their work; 95% say they will use Twilight Struggle specifically.",
+    "statistical_results": null,
+    "comparative_methodology": "Pre-post survey design for the Kolejka workshop: students answered identical questions before and after the game session. No control group. The dramatic shift from 0% knowledge pre-game to high percentages post-game is reported descriptively without statistical testing.",
+    "key_outcomes": "Substantial knowledge gains about communist-era Poland after playing Kolejka (from zero knowledge to detailed associations). Strong development of historical empathy (80% could articulate feelings about historical people's experiences). Emotional engagement including frustration, anger, joy, sympathy, and helplessness mirroring historical experiences. Near-universal intent among future teachers to adopt game-based methods (100% of 20 interviewed final-year students). Students reported games made abstract historical periods tangible, helped reconstruct historical atmosphere, and facilitated retention of facts, dates, and causal relationships. Intergenerational bonding through games about People's Poland era.",
+    "engagement_results": "Students expressed high excitement and satisfaction with game-based learning. Frequent student comments: 'This is how I can learn history', 'This kind of history is not boring.' Students reported emotional responses including frustration, helplessness, anger, and joy during Kolejka gameplay. Post-game interviews revealed students found game-based history 'a great example of historical reconstruction on the board.' For Twilight Struggle, students noted that 'facts, dates, numbers and people formed a coherent story' and they felt they 'went back in time and relived history.' Students autonomously sought additional information via smartphones during games."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Historically authentic product cards with archival photographs (Kolejka: 60 original communist-era products)",
+      "Queue cards reflecting real historical social mechanisms (e.g., party connections, mother with child priority)",
+      "Archival photographs of historical scenes embedded in game materials",
+      "Historical narrative instructions written in era-appropriate language/propaganda style",
+      "Cooperative mechanics for nation-building themes (Niepodlegla)",
+      "Card-driven mechanics linking historical events to game actions (Twilight Struggle: character, organization, doctrine, war, event cards)",
+      "Geographic board maps representing historical territorial realities",
+      "Photographs of historical leaders placed on game boards/cards",
+      "Historical insert booklets accompanying games with contextual information",
+      "Dual-language versions for international accessibility (Mis Wojtek in Polish and English)",
+      "Two difficulty variants \u2014 basic and advanced (Niepodlegla)",
+      "Negotiation and resource allocation mechanics (Reglamentacja: coupon exchange within timed rounds)",
+      "'History on the cards' comprehensive companion chapter (Twilight Struggle: 16 pages of card-by-card historical descriptions)"
+    ],
+    "technological_platforms": [
+      "Physical board games (tabletop)",
+      "Twilight Struggle digital app (faithful reproduction with original Cold War-era audio recordings of leaders' speeches)",
+      "YouTube and Spotify for supplementary historical audio/music content during gameplay",
+      "Online tournament platform for Mis Wojtek international school competitions"
+    ],
+    "instructional_strategies": [
+      "Pre-game and post-game surveys to assess knowledge change",
+      "Student-led facilitation: a student at each table acts as content coordinator, decider, and speculator introducing historical narrative",
+      "Small group format (5 players per table) to encourage critical thinking, analysis, synthesis, and evaluation",
+      "Parallel atmosphere enhancement: listening to period music during gameplay",
+      "Post-game group discussion of conclusions with comparative analysis against textbook content",
+      "Integration into formal lesson structure (90-minute double lesson units)",
+      "School board game tournaments and playoffs as motivational framework",
+      "International online tournaments connecting Polish schools worldwide",
+      "Mentoring classes in board games with students prior to independent workshops",
+      "Comparative analysis of game historical content with Polish school textbook content (Twilight Struggle)"
+    ],
+    "content_integration": "Games are tightly integrated with Polish national curriculum history topics. Kolejka and Reglamentacja cover everyday life in communist Poland (People's Republic of Poland 1980s), a topic in the final cycle of elementary school curriculum. Mis Wojtek covers WWII and the Polish II Corps route through the Middle East to Italy. Niepodlegla covers 1910-1920 and Poland's independence, tied to the centennial anniversary. Twilight Struggle covers Cold War history (1945-1989) which maps to both elementary and secondary school universal history curriculum. The author uses these games in university courses on history didactics, public history, media culture, and cultural studies, training future teachers to integrate them into their professional practice."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "History education in Polish schools has a poor reputation among students \u2014 perceived as difficult and boring simultaneously",
+      "Communist period topics are covered late in the curriculum and often skipped or treated superficially due to time constraints",
+      "Students had zero prior knowledge of communist-era economy and daily life before the game intervention (100% blank responses pre-game)",
+      "Higher entry threshold for more complex games like Niepodlegla compared to simpler titles like Kolejka",
+      "Twilight Struggle requires more than two hours to play, limiting use in standard lesson periods",
+      "Gap between popular public history engagement and formal school history education",
+      "Need for teacher training in game-based methods \u2014 current university programs do not systematically include this",
+      "Declining student interest in history as a subject choice for graduation exams and university major"
+    ],
+    "methodology_limitations": [
+      "Author is simultaneously the instructor, game facilitator, and researcher \u2014 no independent observation or assessment",
+      "No control group for comparison in any of the survey or interview data",
+      "Anonymous survey with open-ended questions only \u2014 no validated measurement instruments",
+      "Small sample sizes (53 for Kolejka survey, 37 for Twilight Struggle surveys, 20 for in-depth interviews)",
+      "No formal statistical analysis of results \u2014 only descriptive frequency counts and percentages",
+      "Primarily a practitioner/descriptive report rather than a rigorous empirical study",
+      "Student opinions collected as anecdotal evidence \u2014 potential social desirability bias",
+      "No longitudinal follow-up to assess knowledge retention over time"
+    ],
+    "negative_effects": [
+      "Emotional distress noted in game instructions: 'the game may cause negative emotions in emotionally sensitive people' including tears, helplessness, and 'symptoms of gratuitous malice'",
+      "Students experienced frustration and anger during Kolejka gameplay",
+      "Fear/anxiety reported by 18% of students; frustration by 16%; sadness, fatigue, and stress by over 10%"
+    ],
+    "mitigation_strategies": [
+      "Using humor and era-appropriate satirical language in game instructions to balance emotional intensity",
+      "Student facilitators at each table provide historical context and narrative framing to guide the experience",
+      "Post-game debriefing discussions to process emotions and connect experiences to historical understanding",
+      "Offering two difficulty variants (basic and advanced) for complex games to match student readiness",
+      "Atmosphere enhancement through period music and multimedia to deepen rather than trivialize the emotional experience",
+      "Mentoring classes to prepare students before leading independent workshops"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "The study involves convenience samples: 53 students participating in workshops led by the author, 37 university history students in the author's courses, and 20 final-year students selected for in-depth interviews. No selection criteria, sampling method, or inclusion/exclusion rationale is described. Interview participants appear self-selected from the author's own students.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "All participants are from the author's own classes/workshops at a single institution (University of Silesia in Katowice) or a single high school. No information on demographics, response rates, or how representative these samples are of broader Polish student or teacher-trainee populations. The high school is described only as 'a high school' with no further details.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "Surveys used non-validated, author-created open-ended questions (4 questions for Kolejka, before/after knowledge questions for Twilight Struggle). No psychometric properties reported. No established instruments for measuring historical knowledge, historical empathy, or engagement were used. The 20 in-depth interviews lack a described protocol or systematic coding scheme.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Analysis consists entirely of descriptive frequency counts and selected student quotations. No statistical tests, no qualitative coding methodology described, no inter-rater reliability. The transition from raw interview/survey data to reported results is opaque. Student quotes are presented as illustrative but selection criteria for which quotes to include are not described.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "High concern",
+      "q5_evidence": "The author interprets all findings positively without considering alternative explanations. The dramatic pre-post knowledge change (0% to 87%+) could partly reflect the novelty effect, the 4-hour workshop duration, or demand characteristics rather than game-specific effects. The 100% intent to use game-based learning among interviewed students (who self-selected into the author's mentoring program) is presented as evidence of game effectiveness rather than potentially reflecting selection bias or social desirability.",
+      "q6_limitations_discussed": "High concern",
+      "q6_evidence": "No limitations section is included in the paper. The author does not discuss any methodological weaknesses, potential biases from her dual role as instructor-researcher, absence of control groups, small sample sizes, or generalizability concerns. The paper reads as an advocacy piece for board game use rather than a balanced empirical investigation.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high risk of bias across all domains. It is fundamentally a practitioner report with descriptive survey data rather than a rigorous empirical study. Key concerns include: (1) convenience sampling from the author's own classes with no selection criteria; (2) non-validated measurement instruments (author-created open-ended questions); (3) no control group or comparison condition; (4) no statistical analysis; (5) dual role of the author as instructor and researcher introducing bias; (6) exclusively positive interpretation of all findings with no consideration of alternative explanations; and (7) complete absence of a limitations discussion. While the descriptive data and student quotes provide interesting practitioner insights into board game use in Polish history education, the methodological rigor is insufficient for drawing causal conclusions about effectiveness."
+  }
+}

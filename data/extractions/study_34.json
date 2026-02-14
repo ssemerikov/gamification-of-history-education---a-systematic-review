@@ -1,0 +1,156 @@
+{
+  "study_id": 34,
+  "pdf_filename": "Gamification and the History of Art in Secondary Education A Didactic Intervention.pdf",
+  "bibtex_key": "34Serrano2023",
+  "bibliographic": {
+    "title": "Gamification and the History of Art in Secondary Education: A Didactic Intervention",
+    "authors": [
+      "Mario Corrales Serrano"
+    ],
+    "year": 2023,
+    "publication_type": "journal article",
+    "venue": "Education Sciences",
+    "doi": "10.3390/educsci13040389",
+    "volume": "13",
+    "pages": "389",
+    "publisher": "MDPI"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Spain"
+    ],
+    "country_of_application": "Spain",
+    "education_level": "Secondary education (Compulsory Secondary Education / ESO, ages 12-17)",
+    "sample_size": 47,
+    "sample_description": "47 secondary education students (from an initial 52) divided into two groups/classes (22 and 25 students upon reaching 4th ESO) from different study centers. 53% female, 47% male. Average age 12 years at start and 17 at end. Some students had special educational needs (2 in one group, 3 in the other). Convenience sampling, non-probabilistic. None had prior systematic experience with gamification methodologies.",
+    "study_design": "Longitudinal qualitative study (4 academic years: 2017/2018 to 2020/2021, applied in 1st, 2nd, and 4th year of ESO)",
+    "game_type": "Multiple gamification strategies (discovery learning, narrative gamification, challenge-based learning, rewards, escape room, break out, gamified evaluation tools)",
+    "game_name": "Custom didactic intervention with three themed phases: 'Explorers of the Ancient Art' (1st ESO), 'Virtual Museum' (2nd ESO), 'Monuments Mission' (4th ESO); Kahoot used for evaluation games",
+    "aim": "To assess the suitability of gamification methodologies to improve the teaching-learning processes of Art History skills in Secondary Education, analyzing academic results, students' vision of art history, and their assessment of different gamification strategies",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses specifically on Art History content within the broader Geography and History subject. It is a primary empirical study with gamification intervention in a history-related educational context.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "The paper quotes a definition from Marin and Hierro (2013): 'Gamification is a technique, a method and a strategy at the same time. It starts from the knowledge of the elements that make games attractive and identifies, within a specific activity, task or message, in a Non-game environment, those aspects that can be converted into a game or ludic dynamics. All this to achieve a special involvement, on the part of the users, encourage a change in their behavior or transmit a message or content. That is to say, create a significant and motivating experience.' (p. 14)",
+    "has_explicit_definition": true,
+    "conceptualization": "Gamification is conceptualized as structuring the teaching-learning process using the rules of games to influence motivation and connection with the process. It is distinguished from simply using games in education. The author views gamification as an active methodology with high motivational power that can generate links between students and skills, break with traditional classroom visions, transform teacher-student roles, and provide rules to articulate learning connections.",
+    "theoretical_frameworks": [
+      "Gamification as active methodology for social sciences education",
+      "Competency-based education model",
+      "Longitudinal research design",
+      "Qualitative content analysis via WebQDA"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Average grades compared between general Geography and History subject and Art History gamified assessment: 1st ESO: general 6.21 vs Art History 6.85; 2nd ESO: general 6.18 vs Art History 7.52; 4th ESO: general 6.48 vs Art History 8.23. Learning outcomes from diary sources: Memorize Artistic Styles (1st: 52%, 2nd: 62%, 4th: 67%), Memorize Authors (1st: 36%, 2nd: 86%, 4th: 52%), Memorize Works of Art (1st: 72%, 2nd: 82%, 4th: 79%). Positive vision of art history: 44.7% explicit references and 27.3% very explicit/abundant presence across 536 textual sources.",
+    "statistical_results": "No inferential statistics reported. Results are based on qualitative analysis of 536 textual sources (learning diary entries) across three intervention phases (168 entries in 1st ESO, 230 in 2nd ESO, 138 in 4th ESO) and comparison of average grades. Art History grades progressively increased across academic years while general grades remained stable.",
+    "comparative_methodology": "Within-subjects longitudinal comparison: (1) comparison of average grades in general Geography and History subject vs. gamified Art History assessment tools across three academic years; (2) longitudinal tracking of same students across four academic years to observe evolution of learning outcomes and attitudes",
+    "key_outcomes": "Positive effect on learning Art History skills with progressive improvement over time. Art History grades consistently higher than general subject grades and increasing across years. Growth in motivation for studying Art History. Progressive development of positive vision about art history (from 11.5% with no references to positive vision to 27.3% with very explicit abundant presence). Generally positive assessment of gamification strategies, though with uneven evaluations across different strategies.",
+    "engagement_results": "Favorable assessments of gamification strategies by students: Discovery learning (68% favorable in 1st ESO), Narrative gamification (71% in 1st, 65% in 2nd, 81% in 4th ESO), Use of rewards (91% in 1st, 88% in 2nd, 72% in 4th ESO), Break Out (92% in 2nd ESO), Escape Room (66% in 4th ESO), Assessment games (77% in 1st ESO). Students reported high engagement with narrative elements and rewards. Some strategies like Escape Room and Break Out generated mixed feelings including stress and nervousness in some students."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Narrative framework (gamified narratives contextualizing learning in historical periods)",
+      "Challenges (missions and objectives students must complete)",
+      "Rewards (stamps, passports, thank-you letters, puzzle pieces, diplomas)",
+      "Discovery learning (exploration missions)",
+      "Micro-projects (research and presentation tasks)",
+      "Escape Room (final evaluation activity in 4th ESO)",
+      "Break Out (digital evaluation game in 2nd ESO)",
+      "Evaluation games (Kahoot-based assessment)",
+      "QR codes (linking phases of intervention)",
+      "Learning diaries (reflective assessment tool)",
+      "Group work and collaboration",
+      "Progressive unlocking of activities through rewards"
+    ],
+    "technological_platforms": [
+      "Kahoot (for gamified evaluation)",
+      "QR codes",
+      "Augmented reality",
+      "Virtual reality",
+      "Digital documents and presentations",
+      "WebQDA (qualitative analysis software, for research)",
+      "Audiovisual materials"
+    ],
+    "instructional_strategies": [
+      "Longitudinal didactic intervention across multiple academic years",
+      "Narrative-based contextualization of art history periods",
+      "Challenge-based learning with progressive difficulty",
+      "Learning by discovery with exploration missions",
+      "Micro-project-based learning (research, reproduction, presentation of art works)",
+      "Gamified evaluation replacing traditional assessment",
+      "Learning diary for reflective practice",
+      "Group collaboration with individual accountability",
+      "Integration of film and multimedia as narrative triggers (The Monuments Men)",
+      "Virtual museum creation as collaborative product"
+    ],
+    "content_integration": "Art History content was systematically integrated across three years of the Spanish ESO curriculum: 1st ESO covered Prehistory and Ancient Age art (cave paintings, ziggurats, pyramids, sphinxes, Greek temples, Roman monuments); 2nd ESO covered Medieval and Modern art (Romanesque, Islamic, Gothic, Renaissance, Baroque); 4th ESO covered Modern and Contemporary art (19th century styles). The gamification narrative connected the three phases, with each year building on the previous one. Content was delivered through micro-projects where students researched specific works of art, their characteristics, and historical context, then presented their findings."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Art History content is relegated to a secondary position within the Geography and History subject in the Spanish curriculum",
+      "Lack of specific hours dedicated to Art History teaching",
+      "Excessive amount of curricular content and prioritization of other content",
+      "Structural limitations in content distribution of the Social Sciences subject that do not depend on teacher intervention",
+      "3rd year of ESO had to be excluded because its curriculum contained no Art History content",
+      "Student attrition over 4-year longitudinal study (from 52 to 47 students due to failures or center transfers)",
+      "Convenience sampling limits generalizability"
+    ],
+    "methodology_limitations": [
+      "Didactic intervention was only applied once in this study, so results cannot be compared with other applications",
+      "Inability to reorganize content distribution of the Social Sciences subject",
+      "No control group for comparison",
+      "Qualitative methodology only - no inferential statistical analysis",
+      "Non-probabilistic convenience sampling",
+      "Data unavailable due to privacy concerns",
+      "Need for replication to consolidate results"
+    ],
+    "negative_effects": [
+      "Some gamification activities (Break Out, Escape Room) generated feelings of being overwhelmed, stressed, or shutdown in some students",
+      "Unfavorable evaluation of evaluation games: stress and nervousness during timed competitive games like Kahoot",
+      "Escape Room caused anxiety about time progression in some students",
+      "Uneven assessment of different motivation strategies - not all strategies worked equally well for all students",
+      "Risk of excessive competitiveness from individual rewards (mitigated by group rewards)",
+      "Risk of demotivation for not achieving objectives"
+    ],
+    "mitigation_strategies": [
+      "Inclusion of group rewards alongside individual rewards to reduce excessive competition",
+      "Use of multiple different gamification strategies to address varied student preferences",
+      "Learning diary for ongoing reflective self-assessment rather than single high-stakes evaluation",
+      "Longitudinal design allowing adjustment across academic years",
+      "Combination of various gamification methods tailored to each course level",
+      "Authors recommend taking negative emotional reactions into account for subsequent applications"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly describes the sample selection: 47 secondary education students from two groups at the ESO stage, convenience non-probabilistic sampling. Inclusion was based on enrollment in the specific courses where Art History content is taught (1st, 2nd, and 4th ESO). The 3rd year was explicitly excluded with justification (no Art History content). Student demographics are reported (gender distribution, age, academic results, special needs).",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Convenience sampling from only two class groups at different study centers. Sample of 47 students is small and not randomly selected. The author acknowledges this is a limitation and that results cannot be generalized without replication. No information on how the two centers were selected.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Some concern",
+      "q3_evidence": "Data collection relied on student learning diary entries (536 textual sources) analyzed qualitatively using WebQDA software. The categorization structure was based on research objectives. However, no established validated instruments were used; the learning diary structure was designed by the researcher. Grade comparisons used standard academic assessment. No inter-rater reliability was reported for the qualitative coding.",
+      "q4_analysis_methods": "Some concern",
+      "q4_evidence": "Qualitative content analysis using WebQDA with a categorization structure based on three aspects: learning results, student vision of art, and assessment of gamification strategies. Results are presented with percentages from the categorization. However, no inferential statistics are used for grade comparisons, no control group exists, and the researcher who designed and implemented the intervention also conducted the analysis, raising potential researcher bias.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Some concern",
+      "q5_evidence": "Results are generally presented consistently with the data shown in tables and figures. The progressive improvement in grades and positive vision of art history are supported by the data. However, the interpretation tends toward positive framing, and the lack of a control group means improvements cannot be definitively attributed to gamification rather than other factors (maturation, teacher effect, repeated exposure).",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The author explicitly discusses limitations: the intervention was applied only once, results cannot be compared with other applications, inability to reorganize subject content distribution, structural difficulties, and the need for replication. The negative effects of some strategies (stress from Escape Room and Break Out) are also acknowledged.",
+      "judgment": "Moderate"
+    },
+    "overall": "High",
+    "overall_justification": "While the study provides rich qualitative data from a well-structured longitudinal intervention, several methodological concerns lower confidence in the findings: (1) small convenience sample with no random selection; (2) no control group for comparison; (3) researcher-designed non-validated instruments; (4) no inter-rater reliability for qualitative coding; (5) the researcher designed, implemented, and evaluated the intervention, introducing potential bias; (6) only descriptive statistics with no inferential analysis for grade comparisons. The longitudinal design across 4 years is a strength, and limitations are acknowledged, but the overall risk of bias remains high."
+  }
+}

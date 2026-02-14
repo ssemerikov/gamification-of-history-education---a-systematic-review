@@ -1,0 +1,164 @@
+======================================================================
+SYSTEMATIC REVIEW CLAIM VERIFICATION REPORT
+======================================================================
+
+VERIFIED AGGREGATE STATISTICS
+----------------------------------------
+Total eligible studies: 74
+Year range: 2004–2024
+Countries: 27
+Sample sizes reported: 62/74 (83.8%)
+Median sample size: 33.5
+Mean sample size: 127.0
+Sample range: 4–2417
+Below 30: 25 (40.3% of reporting)
+Below 50: 41 (66.1% of reporting, 55.4% of all)
+30–99: 23
+100–499: 9
+>=500: 5
+>100: 13 (21.0% of reporting)
+Not reporting: 12
+
+Has explicit definition: 11/74 (14.9%)
+No explicit definition: 63/74 (85.1%)
+
+Risk of bias - High: 62 (83.8%)
+Risk of bias - Moderate: 9 (12.2%)
+Risk of bias - Low: 1 (1.4%)
+Risk of bias - Unclear: 2 (2.7%)
+
+With control/comparison groups: 23 (31.1%)
+Control group study IDs: [1, 3, 24, 28, 36, 38, 39, 45, 49, 52, 53, 60, 62, 63, 64, 65, 66, 67, 71, 72, 73, 74, 76]
+
+No comparative methodology: 40/74 (54.1%)
+  Study IDs: [4, 5, 6, 10, 12, 13, 14, 17, 18, 20, 21, 22, 23, 25, 30, 31, 32, 35, 36, 37, 38, 39, 43, 44, 45, 46, 47, 48, 50, 51, 55, 56, 59, 63, 64, 65, 71, 75, 77, 78]
+
+Publication types:
+  conference paper: 21
+  conference_paper: 19
+  journal article: 13
+  journal_article: 11
+  book_chapter: 7
+  book chapter: 2
+  preprint: 1
+
+Study designs:
+  descriptive: 9
+  quasi_experimental: 6
+  design_based: 3
+  pre_post: 3
+  case_study: 2
+  pre-experimental (one-group pretest-posttest): 2
+  mixed_methods: 2
+  qualitative: 2
+  experimental: 2
+  quasi-experimental pretest/posttest comparative study with mixed methods (quantitative and qualitative): 1
+  Pre-experimental (one-group pretest-posttest design): 1
+  Single-group post-test only (user elicitation study with questionnaire-based evaluation): 1
+  Quasi-experimental within-subjects repeated measures design with two conditions (individual play vs. pair play on a shared tablet): 1
+  qualitative interview study (semistructured interviews, narrative inquiry, inductive thematic analysis following Creswell's data analysis spiral): 1
+  Design-based research with acceptance testing (pre-test/post-test surveys and interviews with schoolchildren): 1
+  qualitative case study: 1
+  Quasi-experimental with latent class analysis: 1
+  Design-based research (system design and description, no empirical evaluation with participants): 1
+  design and development research (no empirical evaluation reported): 1
+  single-group pre-experimental pretest-posttest design: 1
+  Design-based research (game design and development, first stage only; no empirical evaluation): 1
+  Qualitative design-based research (classroom observation, preliminary interviews, prototype development, and cognitive walkthrough evaluation with think-aloud technique): 1
+  Design and development research with post-play survey using 5-point Likert scale questionnaire: 1
+  mixed-methods (preliminary needs analysis via questionnaire and interview, document analysis, and literature review leading to model proposal): 1
+  Quasi-experimental with pre-test/post-test control group design: 1
+  Quasi-experimental (non-equivalent control group design with pre-test and post-test): 1
+  qualitative case study with interaction analysis and qualitative coding of written artifacts and video data: 1
+  Mixed methods: document analysis of SPM performance reports (2002-2005), questionnaire survey, and teacher interviews; followed by a design proposal (GBL Model): 1
+  Prototype development and evaluation using questionnaire-based usability and functional testing with GameFlow scale analysis: 1
+  Longitudinal qualitative study (4 academic years: 2017/2018 to 2020/2021, applied in 1st, 2nd, and 4th year of ESO): 1
+  Qualitative autoethnographic research (teacher-researcher autoethnography with ethnographic recording of student interventions): 1
+  Mixed-methods (pre-/post-questionnaires, two focus groups, and two in-class observations by a third-party research assistant): 1
+  Mixed methods: pre-post anonymous surveys with open-ended questions, in-depth qualitative interviews, and classroom observation/practitioner report: 1
+  One-shot pre-post questionnaire study (no control group): 1
+  qualitative observational study: 1
+  survey-based quantitative study using structural equation modeling (PLS-SEM): 1
+  pre-experimental (single group pre-post test with survey): 1
+  qualitative survey with speculative design fiction: 1
+  Case study with survey-based evaluation: 1
+  Design-based research with post-implementation survey evaluation: 1
+  Quasi-experimental with mixed methods (quantitative and qualitative): 1
+  qualitative case study with interviews and open-ended discussion: 1
+  qualitative pilot usability study: 1
+  quasi-experimental with pretest-posttest nonequivalent control group design: 1
+  Randomized controlled experiment (two-group comparison: control group watching interactive film vs experimental group playing serious game): 1
+  Design-based research with iterative prototyping, qualitative case study with pre- and post-game surveys, videotaped and in-person observations, and content analysis of debates, game discussions, and notes: 1
+  Qualitative case study within a design experiment methodology: 1
+  qualitative case study with mixed methods (content analysis of game design, observations, coach observation forms with Likert scales, group interviews, media box/log analysis): 1
+  Qualitative descriptive / practitioner reflection with case examples: 1
+  qualitative pilot study with mixed-methods data collection (anonymous feedback forms with Likert-scale ratings, facilitator observation, and external observation): 1
+  exploratory mixed-methods case study (questionnaires, individual and group interviews, videotaped classroom observations; quantitative descriptive/inferential statistics via SPSS 22 and qualitative content analysis): 1
+  Survey-based descriptive study with game design presentation: 1
+
+Education levels:
+  secondary: 15
+  higher_education: 8
+  primary: 4
+  higher: 2
+  secondary education: 2
+  undergraduate: 2
+  not_specified: 2
+  secondary education (senior high school, ages 17-18): 1
+  Primary school (5th grade): 1
+  Higher education (university-level art students, ages 17-22): 1
+  Middle school (5th and 6th grade, ages 10-12): 1
+  secondary (high school, grades 9-12): 1
+  Primary (ages 10-12): 1
+  higher education (third-year university): 1
+  Elementary and middle school (K-8): 1
+  Higher education (undergraduate): 1
+  primary and secondary education: 1
+  high school: 1
+  Primary/secondary education (Indonesian curriculum context; game also designed with undergraduate student involvement): 1
+  Secondary school (8th grade): 1
+  High school (Grade X / 10th grade): 1
+  Secondary school (average age 18-20, from different schools in Kairouan): 1
+  Primary school (4th grade, age ~10): 1
+  Secondary school (Form Four, equivalent to 10th grade): 1
+  Not specified (general participants, no restriction on age or job position): 1
+  Secondary education (Compulsory Secondary Education / ESO, ages 12-17): 1
+  Higher education (university): 1
+  Higher education (third-year undergraduate): 1
+  High school and university (history teacher training): 1
+  Primary education (5th grade, ages 11-12): 1
+  elementary school (5th grade): 1
+  higher education (college): 1
+  higher education (university): 1
+  Secondary school: 1
+  Young adults (aged 17-25): 1
+  Secondary education: 1
+  higher education (college freshmen): 1
+  middle school (ages 11-12): 1
+  junior high school (7th grade): 1
+  Informal education (museum/cultural center visitors): 1
+  Mixed (graduate students, educators, and high school students aged 13-17): 1
+  High school (9th grade retained students): 1
+  Higher education (undergraduate) and high school: 1
+  undergraduate and graduate (university): 1
+  high school (secondary): 1
+  K-14 (primary/lower secondary school youth): 1
+
+
+ISSUES FOUND IN PAPER
+----------------------------------------
+Critical: 0
+Errors: 0
+Minor: 1
+
+[MINOR] E3 (line 1042):
+  Paper claims: Median sample size 34
+  Verified: Actual median: 33.5 — use 'approximately 34' or report 33.5
+  Status: NEEDS_FIX
+
+
+CITATION COVERAGE
+----------------------------------------
+Study keys in JSON: 73
+Study keys cited in paper: 73
+Study keys NOT cited: 0

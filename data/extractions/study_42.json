@@ -1,0 +1,139 @@
+{
+  "study_id": 42,
+  "pdf_filename": "How Much Life do I Lose from the Plague Educational Board Games as Teaching Tools in Archaeology and Ancient History Courses.pdf",
+  "bibtex_key": "42Huffer201581",
+  "bibliographic": {
+    "title": "How Much Life do I Lose from the Plague? Educational Board Games as Teaching Tools in Archaeology and Ancient History Courses",
+    "authors": [
+      "Damien Huffer",
+      "Marc Oxenham"
+    ],
+    "year": 2015,
+    "publication_type": "journal_article",
+    "venue": "Public Archaeology",
+    "doi": "10.1080/14655187.2015.1112692",
+    "volume": "14",
+    "pages": "81-91",
+    "publisher": "Taylor & Francis (Routledge)"
+  },
+  "study_characteristics": {
+    "countries": [
+      "United States",
+      "Australia"
+    ],
+    "country_of_application": "Australia",
+    "education_level": "higher_education",
+    "sample_size": null,
+    "sample_description": "University students enrolled in the 'Ancient Medicine' course at the School of Archaeology and Anthropology, Australian National University, during the Southern Hemisphere spring semester of 2010. Students formed teams of 3-6 members to design board games. Eleven final games were submitted.",
+    "study_design": "case_study",
+    "game_type": "board_game",
+    "game_name": "Multiple student-designed board games including Ankh - The Game of Life and Ying Yang: A Journey Through Ancient Chinese Medicine",
+    "aim": "To describe the development, implementation, assessment, debriefing and outcomes, and potential uses of a university student-driven educational gaming project, as a major assessment item in an archaeology course entitled 'Ancient Medicine'",
+    "databases": [
+      "scopus"
+    ]
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses on archaeology/ancient medicine rather than purely history education, but it covers ancient history content (Egyptian medicine, Chinese medicine, medieval plague, etc.) and is relevant to history education through game-based learning.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "Abt (1987: 9) defines them as games that have 'an explicit and carefully thought-out educational purpose and are not intended to be played primarily for amusement, but that does not mean they are not, or should not, be entertaining.'",
+    "has_explicit_definition": true,
+    "conceptualization": "The study conceptualizes educational board games as student-driven design projects where students themselves create the games as a form of active, constructivist learning. The processual nature of educational games is emphasized: designing, testing, and iterating on games is itself a learning activity. Board games are positioned as a cost-effective, low-tech alternative to digital games.",
+    "theoretical_frameworks": [
+      "Huizinga's concept of play (Homo Ludens)",
+      "Bogost's persuasive games and procedural rhetoric",
+      "Sutton-Smith's seven rhetorics of play",
+      "Gee's four-step learning process in games",
+      "Prensky's binary categorizations for learning games"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": "No formal comparative methodology. Assessment centred around three specific criteria: (1) overall success of the game itself; (2) individual and team member participation evaluations; (3) a game overview document. Standard departmental class and teacher evaluation forms were also used.",
+    "key_outcomes": "Overall, from the quality of the final games produced, it is clear that students took their tasks quite seriously and were getting enough out of the project to view it as much more than just another assignment. Student feedback was diverse, but overwhelmingly positive. The educational board gaming project achieved very positive feedback in standard departmental evaluations.",
+    "engagement_results": "Students took tasks quite seriously and viewed the project as much more than just another assignment. Student feedback was diverse, but overwhelmingly positive. The distinctiveness and success of the project was even noted by the local university media as something that might be emulated."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Board game mechanics (dice rolling, movement, cards)",
+      "Educational content integration (knowledge questions)",
+      "Thematic design around historical medical systems",
+      "Chance elements and strategic decision-making",
+      "Player progression through game spaces",
+      "Alpha and beta play testing iterations",
+      "Team-based collaborative design"
+    ],
+    "technological_platforms": [
+      "Physical board games (non-electronic)",
+      "Craft supplies and printing materials"
+    ],
+    "instructional_strategies": [
+      "Student-driven game design as assessment",
+      "Team-based collaborative learning",
+      "Multiple iterative play testing rounds",
+      "Role delegation within teams (research, artwork, mechanics, quality assurance, project manager)",
+      "Peer evaluation through cross-team play testing",
+      "Game overview document and poster presentation"
+    ],
+    "content_integration": "Students researched historical medical systems (Egyptian, Chinese, Greek, Roman, medieval European medicine) and designed board games that required players to gain and retain knowledge of ancient medicine themes. Games were evaluated on whether a player had to gain and retain knowledge of the ancient medicine theme underpinning the story and rhetoric. For example, Ankh - The Game of Life required knowledge of Egyptian medicine to avoid illness squares, and Ying Yang integrated Chinese symbolism and medical theory into its pentagonal board design."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Time constraints - overcoming time constraints in constructing games over one semester",
+      "Some students felt meeting high expectations detracted from their ability to complete all assignments for all classes",
+      "Personality conflicts within teams needed resolution in consultation with the teacher",
+      "Web-based discussion forum went almost entirely unutilized",
+      "Only one instructor (DH) had direct experience in educational game theory, design and testing"
+    ],
+    "methodology_limitations": [
+      "No formal quantitative assessment of learning outcomes",
+      "No pre-post comparison or control group",
+      "Pilot project with only one semester of data",
+      "Assessment criteria were holistic rather than measuring specific learning gains",
+      "Only descriptive/qualitative evidence of effectiveness"
+    ],
+    "negative_effects": [
+      "A few students felt personally that meeting high expectations was detracting too much from their ability to complete assignments for all classes",
+      "Personality conflicts within teams when friends teamed up, leaving other teams comprised of strangers",
+      "Clarifying and adjusting rules, spell-checking question cards, and polishing mechanics were time-consuming"
+    ],
+    "mitigation_strategies": [
+      "Scheduled structure of the semester with strict time intervals for each design stage",
+      "Decreased number of formal play-testing sessions in subsequent iterations (2012 and 2014)",
+      "Allowed individually created conference-quality poster as alternative when interpersonal conflicts could not be resolved",
+      "Created crib sheet with general descriptions of game design roles",
+      "Quick reference guide collated from real-world commercial and educational examples"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "unclear",
+      "q1_evidence": "The participants are described as students enrolled in the 'Ancient Medicine' course at Australian National University. However, no specific selection criteria, sample size, or demographic details are provided beyond the course enrollment context.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "The sample is the entire class of students enrolled in the course, which is appropriate for a case study. However, no information is given about how many students were enrolled or whether they are representative of any broader population. Teams ranged from 'four to six' members and eleven final games were submitted.",
+      "judgment": "Unclear"
+    },
+    "domain2": {
+      "q3_valid_tools": "no",
+      "q3_evidence": "No validated research instruments were used. Assessment was based on three criteria: overall success of the game, individual/team participation evaluations, and a game overview document. Standard departmental class and teacher evaluation forms were mentioned but not described. No reliability or validity evidence provided.",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "No formal data analysis methods are described. The paper provides a descriptive narrative account of the project and general impressions ('overwhelmingly positive,' 'very impressed by the quality') without systematic data analysis procedures.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The authors' interpretations are consistent with the descriptive account provided. They present the project as a successful pilot with positive outcomes while acknowledging that it was a pilot and had limitations. Claims about student engagement are supported by examples of the games produced.",
+      "q6_limitations_discussed": "yes",
+      "q6_evidence": "The time-constraint criticism was dealt with in subsequent iterations. Only one instructor had direct experience in educational game theory. The paper acknowledges time constraints, personality conflicts, and the challenges of only having one hour of contact time per week over a four-month semester.",
+      "judgment": "Low"
+    },
+    "overall": "High",
+    "overall_justification": "While the study provides a rich descriptive account of the project and interpretations are consistent with the evidence (Domain 3 Low), the lack of validated research instruments (Domain 2 q3 No), absence of formal data analysis methods (Domain 2 q4 No), and unclear participant selection and representativeness (Domain 1 Unclear) result in an overall High risk of bias. This is primarily a descriptive case study without rigorous empirical measurement."
+  }
+}

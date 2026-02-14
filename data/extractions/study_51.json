@@ -1,0 +1,144 @@
+{
+  "study_id": 51,
+  "pdf_filename": "Mobile games to foster the learning of history at archaeological sites.pdf",
+  "bibtex_key": "51Ardito2007",
+  "bibliographic": {
+    "title": "Mobile games to foster the learning of history at archaeological sites",
+    "authors": [
+      "Carmelo Ardito",
+      "Paolo Buono",
+      "Maria Francesca Costabile",
+      "Rosa Lanzilotti",
+      "Thomas Pederson"
+    ],
+    "year": 2007,
+    "publication_type": "conference paper",
+    "venue": "Proceedings of IEEE VL/HCC 2007 Symposium on Visual Languages and Human-Centric Computing",
+    "doi": "10.1109/VLHCC.2007.54",
+    "volume": null,
+    "pages": "81-84",
+    "publisher": "IEEE Press"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Italy",
+      "Sweden"
+    ],
+    "country_of_application": "Italy",
+    "education_level": "middle school (ages 11-12)",
+    "sample_size": 4,
+    "sample_description": "Four middle school students (11-12 years old) from the middle school 'Michelangelo' in Bari, Italy, who had previously played the traditional (non-digital) excursion-game during a school visit to the archaeological site of Egnathia. Divided into two groups of two for the pilot usability evaluation.",
+    "study_design": "qualitative pilot usability study",
+    "game_type": "mobile excursion-game (treasure hunt-style educational game on cellular phones)",
+    "game_name": "Una giornata di Gaio ad Egnathia (Gaius' Day in Egnathia)",
+    "aim": "To design and evaluate a mobile phone-based system that supports middle school students learning history at archaeological sites through game-play, implementing a digital version of the excursion-game developed by Historia Ludens",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Very small sample size (4 students); pilot usability study conducted in a university laboratory rather than at the actual archaeological site; primarily a system design paper with limited empirical evaluation of learning outcomes",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The paper conceptualizes gamification as 'edutainment' -- education in the form of entertainment -- specifically through mobile game-play that uses a treasure hunt structure (excursion-game) to stimulate understanding of history at archaeological sites. The approach combines the excitement of chase and solving puzzles with freely exploring a place and discovering its hidden secrets. Game elements include missions, role-playing (impersonating a Roman family), an oracle hint system, place codes/visual tags, 3D reconstructions as rewards, competition between groups, and a debriefing phase.",
+    "theoretical_frameworks": [
+      "Edutainment (computer-based education through entertainment)",
+      "Learner-Centered Design methodology",
+      "Excursion-game pedagogy (developed by Historia Ludens, based on simulation gaming)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "The pilot usability evaluation provided qualitative design feedback rather than measured learning outcomes. Students preferred audio-enhanced game over silent version, indicating greater engagement. Students identified usability issues: absence of feedback during system delays, unclear functionalities during 3D-reconstruction exploration, and need for digital map on the phone to complement the paper-based map. The authors note that 'the joy and learning efficiency must be established using a more systematic on-site empirical evaluations.' Preliminary studies confirmed the belief that game-play engages students and permits an effective and exciting visit.",
+    "engagement_results": "Students preferred audio which created greater engagement. The game-play was reported to engage students and permit an effective and exciting visit of the archaeological sites, enhancing the overall students' experience, though this was based on preliminary pilot observations rather than formal measurement."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Missions/quests (sequential mission-based gameplay)",
+      "Role-playing (each group impersonates a Roman family)",
+      "Treasure hunt structure (exploring and discovering places)",
+      "Oracle hint system (in-game help mechanism)",
+      "Place codes and visual tags (location-based interaction)",
+      "3D reconstructions as rewards ('God's gifts' upon completion)",
+      "Competition between groups",
+      "Audio feedback and sound cues",
+      "Group navigator role (group leader)",
+      "Debriefing phase with replay of winning group's performance",
+      "Logfile tracking (mission execution time, oracle usage)"
+    ],
+    "technological_platforms": [
+      "Cellular phones (J2ME-capable with memory card slot)",
+      "Memory cards containing game software and 3D data",
+      "Optional digital camera for visual tag recognition",
+      "Game Master notebook with Bluetooth/card reader for debriefing",
+      "Projector for debriefing replay"
+    ],
+    "instructional_strategies": [
+      "Excursion-game methodology (treasure hunt at archaeological site)",
+      "Collaborative learning in small groups (4-5 players per group)",
+      "Contextual inquiry for user-centered design",
+      "Debriefing phase for reflection, generalization, and conceptualization of learned information",
+      "3D visualization of reconstructed monuments to compare with existing ruins",
+      "Physical exploration combined with digital interaction",
+      "Map-based spatial learning (marking places on site map)"
+    ],
+    "content_integration": "Historical content is integrated through narrative role-playing: students impersonate a Roman family (Gaius' family) that has arrived in the ancient city of Egnathia. Missions are contextualized around activities of daily Roman life (e.g., finding a furnace where a potter needs assistants). The oracle provides historically-grounded hints that support both gameplay and learning of historical content. After missions, 3D reconstructions designed in collaboration with archaeologists allow students to compare original appearance of structures with existing ruins. The debriefing phase consolidates historical knowledge through discussion and replay."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Limited 3D rendering performance on cellular phones of that era",
+      "Archaeological site administrations often unable to afford special hardware infrastructure",
+      "Need for on-site evaluation not yet conducted at time of publication",
+      "System requires J2ME-capable phones with memory card slots, which may not be universally available",
+      "No data transmission during gameplay limits real-time features"
+    ],
+    "methodology_limitations": [
+      "Very small sample size (only 4 students in pilot evaluation)",
+      "Evaluation conducted in university laboratory, not at actual archaeological site",
+      "Participants had already played the traditional excursion-game, introducing familiarity bias",
+      "No formal measurement of learning outcomes or knowledge acquisition",
+      "No control group or comparative design",
+      "Authors acknowledge that a more accurate/systematic study is needed"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Using visitors' own cellular phones to reduce infrastructure costs",
+      "Memory card-based approach eliminates need for network infrastructure at the site",
+      "Learner-Centered Design methodology with iterative evaluation to address usability issues",
+      "Collaboration with domain experts (Historia Ludens, archaeologists, teachers) to ensure content quality",
+      "Contextual inquiry to collect data about actual user activities",
+      "Plans for systematic on-site empirical evaluation in spring 2007"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "high",
+      "q1_evidence": "No clear selection criteria for participants. The four students were selected because they had previously played the traditional excursion-game at Egnathia, but no justification is given for this specific sample or why only four students were included.",
+      "q2_representativeness": "high",
+      "q2_evidence": "Sample of 4 students is extremely small and not representative of the target population of middle school students. Students were pre-selected based on prior experience with the traditional game, which introduces familiarity bias and limits generalizability.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "high",
+      "q3_evidence": "No standardized or validated assessment instruments were used. The evaluation focused on qualitative usability feedback rather than learning outcomes. No pre-test/post-test design, no validated questionnaires, and no formal data collection instruments are described.",
+      "q4_analysis_methods": "high",
+      "q4_evidence": "No formal analysis methods described. Results are reported as informal observations and student preferences (e.g., preference for audio). No systematic qualitative analysis methodology is mentioned.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "high",
+      "q5_evidence": "The conclusions about engagement and effectiveness ('game-play will engage students and permit an effective and exciting visit') go beyond what the pilot study data can support. The authors claim their belief has been 'confirmed by the preliminary pilot studies' but the studies only evaluated usability, not engagement or learning effectiveness.",
+      "q6_limitations_discussed": "low",
+      "q6_evidence": "The authors clearly acknowledge that the pilot evaluation was not intended to evaluate overall user experience, that a more accurate study would be required, and that 'joy and learning efficiency must be established using a more systematic on-site empirical evaluations.' They explicitly note the lab-based setting is a limitation.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has a high overall risk of bias due to its nature as a preliminary design/pilot study with only 4 participants evaluated in a laboratory setting rather than the actual archaeological site. There are no validated measurement instruments, no formal analysis methods, no control group, and no systematic assessment of learning outcomes. The authors themselves acknowledge these limitations and frame the work as preliminary, with plans for more rigorous evaluation. The conclusions about effectiveness go somewhat beyond what the limited pilot data can support."
+  }
+}

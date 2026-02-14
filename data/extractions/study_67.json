@@ -1,0 +1,152 @@
+{
+  "study_id": 67,
+  "pdf_filename": "The Effects of Online Interactive Games on High School Students' Achievement and Motivation in History Learning.pdf",
+  "bibtex_key": "67Lin201296",
+  "bibliographic": {
+    "title": "The Effects of Online Interactive Games on High School Students' Achievement and Motivation in History Learning",
+    "authors": [
+      "Kuan-Cheng Lin",
+      "Yu Che Wei",
+      "Jason C. Hung"
+    ],
+    "year": 2012,
+    "publication_type": "journal_article",
+    "venue": "International Journal of Distance Education Technologies",
+    "doi": "10.4018/jdet.2012100108",
+    "volume": "10(4)",
+    "pages": "96-105",
+    "publisher": "IGI Global"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Taiwan"
+    ],
+    "country_of_application": "Taiwan",
+    "education_level": "secondary",
+    "sample_size": 30,
+    "sample_description": "Thirty students from a certain Taichung Municipal Junior High School. Based on pretest average score 90, nineteen students who got higher scores were assigned to the control group (high achievers), and eleven students who got lower scores were assigned to the experimental group (low achievers). The experimental group used IGLS to learn Taiwan history for a month.",
+    "study_design": "quasi_experimental",
+    "game_type": "web_based",
+    "game_name": "Interactive Game-based Learning System (IGLS)",
+    "aim": "To survey whether the online game in junior high school students can encourage learning effect in Taiwan's History, by applying Interactive Game-based Learning System (IGLS) to junior high history teaching as an ancillary tool to enhance users' learning motivation and academic performance.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study uses a custom-built web-based interactive game-based learning system (IGLS) for teaching Taiwan history to junior high school students. The game involves quiz-based competition, hit points, team-based gameplay, and online community features. The assignment to groups was based on pretest scores (high vs. low achievers) rather than random or class-level assignment, and sample size is very small (N=30, with only 11 in the experimental group). The design is quasi-experimental with unequal group sizes.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "DGBL was first proposed by Marc Prensky in 2001. Through digital games, learners obtain sense of achievement in solving problems and dealing with challenges. Digital game based learning takes both entertainment and education into consideration.",
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes digital game-based learning (DGBL) as an integration of entertainment and education through online interactive games. The authors frame IGLS within Prensky's (2001, 2003) vision of changing from 'learning is depressing' to 'learning by playing, learning through playing.' The study draws on Keller's (1983) ARCS motivation theory (attention, relevance, confidence, satisfaction) combined with Csikszentmihalyi's (1991) Flow theory, arguing that 'a good digital game design immerses learners in games, and then brings about effective learning process.' The system is positioned as an ancillary tool for history teaching that uses online community mechanisms (group competition, chat rooms, knowledge sharing) to enhance learning motivation and academic performance. Vygotsky's (1966) Zone of Proximal Development (ZPD) and Bruner's (1960, 1989) spiral curriculum are also referenced to support the idea that games can adjust teaching for both fast and slow learners.",
+    "theoretical_frameworks": [
+      "Digital Game-Based Learning (DGBL) (Prensky, 2001, 2003)",
+      "ARCS motivation theory (Keller, 1983) - attention, relevance, confidence, satisfaction",
+      "Flow theory (Csikszentmihalyi, 1991)",
+      "Zone of Proximal Development (Vygotsky, 1966)",
+      "Spiral curriculum (Bruner, 1960, 1989)",
+      "Learning community concept (Lippitt, 1981; Wang, 2003)",
+      "Web-based learning community (Wang, 2003)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Taiwan History (Vol. 1) Achievement Test: Four hundred multiple-choice questions drawn from IGLS's contents and Taiwan history textbook 1. Pre-test and post-test administered to both groups. IGLS Questionnaire: Likert Five-Point scale measuring interface satisfaction, function satisfaction, and motivation satisfaction. Paired sample t-test for pre-post comparison within groups. One-way ANCOVA for analyzing effects of gender, weekly time of surfing the Net, affection network leisure type, and login IGLS per week on post-test scores.",
+    "statistical_results": "Paired sample t test (Table 2): Control group pretest-posttest: Mean difference = -1.68421, SD = 3.66746, SEM = .84137, 95% CI [-3.45187, .08345], t = -2.002, df = 18, Significance (Two-Tailed) = .061. Experimental group pretest-posttest: Mean difference = -7.27273, SD = 7.55104, SEM = 2.27672, 95% CI [-12.34558, -2.19987], t = -3.194, df = 10, Significance (Two-Tailed) = .010. Descriptive statistics (Table 1): Control group Pretest1 Mean = 94.5263, N = 19, SD = 3.04354, SEM = .69824; Control group Posttest1 Mean = 96.2105, N = 19, SD = 2.57291, SEM = .59027; Experimental group Pretest2 Mean = 84.1818, N = 11, SD = 3.51620, SEM = 1.06017; Experimental group Posttest2 Mean = 91.4545, N = 11, SD = 10.04354, SEM = 3.02824. ANCOVA Table 3 (Gender): F = .163, p = not significant; gender F = .098; R Squared = .405 (Adjusted R Squared = .235), p < .05. ANCOVA Table 4 (Weekly time surfing the Net): F = .786; weekly time surfing the Net F = .821; R Squared = .152 (Adjusted R Squared = -.272), p < .05. ANCOVA Table 5 (Affection network leisure type): F = .171; affection network leisure type F = .130; R Squared = .541 (Adjusted R Squared = .312), p < .05. ANCOVA Table 6 (Login IGLS per week): F = .059; Login IGLS per week F(2,6) = 5.687, p = .041; R Squared = .687 (Adjusted R Squared = .531), p < .05.",
+    "comparative_methodology": "Quasi-experimental design with non-equivalent groups. Control group (n=19, high achievers with pretest scores above average of 90) and experimental group (n=11, low achievers with pretest scores below average of 90). Four-week experiment. Pre-test of Taiwan history (Vol. 1) used as covariate in ANCOVA analyses. Post-test scores used as dependent variable. Paired sample t-test used to compare pretest-posttest improvement within each group.",
+    "key_outcomes": "The experimental group (low achievers using IGLS) showed statistically significant improvement from pretest to posttest (mean improvement of 7.27 points, t = -3.194, p = .010), while the control group (high achievers without IGLS) did not reach significance (mean improvement of 1.68 points, t = -2.002, p = .061). ANCOVA showed that only the number of days logging into IGLS per week had a significant effect on post-test scores (F = 5.687, p = .041), with R Squared = .687. Gender, weekly time surfing the Net, and affection network leisure type did not significantly affect post-test scores.",
+    "engagement_results": "IGLS Questionnaire results (Likert 5-point scale): Interface satisfaction (Table 7): 'The interface is easy to handle' Mean = 4.64, SD = 0.505; 'The content is clearly expressed' Mean = 4.73, SD = 0.467; 'The buttons are easy to click on' Mean = 4.82, SD = 0.405; 'Convenience of the design' Mean = 4.55, SD = 0.688. Function satisfaction (Table 8): 'The records do help me with learning' Mean = 4.55, SD = 0.688; 'The group competition help me with learning' Mean = 4.55, SD = 0.688; 'The online version help me with learning' Mean = 4.55, SD = 0.522; 'The message board makes communication easier for me' Mean = 4.09, SD = 0.831; 'I can handle the situation in group competition' Mean = 4.45, SD = 0.820. Motivation satisfaction (Table 9): 'The game arouses my participation' Mean = 4.55, SD = 0.688; 'The game improves my performance' Mean = 4.64, SD = 0.505; 'The game eases my pressure in learning' Mean = 4.64, SD = 0.674; 'The game attracts my interest in history' Mean = 4.36, SD = 0.809; 'I think the system is suitable for learning history' Mean = 4.36, SD = 0.809. Grand mean = 4.51. Over ninety percent students approve of the system's attraction to their participation and intension. Result distribution: strongly agree (61.82%), agree (27.27%), neutral (10.91%), disagree (0%), strongly disagree (0%)."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Quiz-based gameplay (multiple choice, match items, random argument computational problems)",
+      "Hit points system (each team has 100 hit points; correct answers reduce opponent's points)",
+      "Team-based competition (2 vs. 2, 3 vs. 3, etc.)",
+      "Score tracking and performance records (chart showing each unit's score)",
+      "Compound attack option (players attack any opponent or choose compound attack)",
+      "Randomized question generation (three types of item generation algorithms)",
+      "Learning management module (teachers/managers monitor learning process)",
+      "Online chat rooms for knowledge sharing",
+      "Stand-alone and online version options",
+      "Self-evaluation through performance records",
+      "Unit selection system (players select units and start game with equal team members)"
+    ],
+    "technological_platforms": [
+      "Interactive Game-based Learning System (IGLS) - custom web-based platform",
+      "Online/Internet-based system accessible wherever Internet is available",
+      "Manager (teacher) and player (learner) interface"
+    ],
+    "instructional_strategies": [
+      "Game-based learning as ancillary tool to regular history teaching",
+      "Online community learning mechanism (group competition, chat rooms, knowledge sharing)",
+      "Cooperative learning through free grouping and collaborative knowledge exploration",
+      "Competition-based motivation through team-based quiz battles",
+      "Student-centered game design based on interaction and healthy competition",
+      "Formative assessment through game performance monitoring",
+      "After-school supplementary use (students reminded to use IGLS after school every week)",
+      "Four-week experiment duration with pre-test and post-test",
+      "Content aligned with Taiwan history textbook (Vol. 1) covering prehistory, international competition, Cheng's governance, and earlier stage of Ching dynasty's occupation"
+    ],
+    "content_integration": "IGLS includes content from seven graders' sociology textbook 'Taiwan history (Vol. 1)', covering prehistory, international competition, Cheng's governance, and earlier stage of Ching dynasty's occupation. The quiz game module generates questions directly from the Taiwan history curriculum using three types of item generation algorithms: multiple choice with random options, match items, and random argument computational problems. The learning management module allows teachers to monitor student progress. Students form free groups and explore history knowledge through competitive quiz battles, sharing information in chat rooms. The game mechanics (hit points, team battles, score tracking) are directly tied to correctly answering history content questions, creating a direct link between game success and content mastery."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Non-random group assignment based on pretest scores created unequal groups (19 high achievers vs. 11 low achievers)",
+      "Very small sample size (N=30 total, only 11 in experimental group)",
+      "Four-week experiment duration may be insufficient for long-term effects assessment",
+      "System requires Internet access, which may not be equally available to all students",
+      "The message board functionality received the lowest satisfaction rating (Mean = 4.09) among all items"
+    ],
+    "methodology_limitations": [
+      "Non-equivalent groups: experimental group consisted of low achievers (pretest below 90) while control group consisted of high achievers (pretest above 90), making direct comparison problematic",
+      "Very small sample size (N=30; experimental n=11, control n=19) severely limits statistical power and generalizability",
+      "Single school in Taichung, Taiwan limits external validity",
+      "No random assignment; groups defined by pretest performance threshold",
+      "ANCOVA analyses conducted on experimental group only (n=11), with extremely small cell sizes for multi-level factors",
+      "The control group did not use any alternative digital tool, making it unclear whether effects are due to IGLS specifically or digital learning generally",
+      "No reliability or validity information reported for the achievement test (400 multiple-choice questions)",
+      "Survey administered only to the experimental group in the fourth week, with no control group comparison for motivation/satisfaction",
+      "No effect size reported for any statistical test",
+      "The post-test standard deviation for the experimental group (SD=10.04) is much larger than their pretest SD (SD=3.52), suggesting high variability in outcomes"
+    ],
+    "negative_effects": [
+      "Risk of game addiction noted: 'if digital learning turns into games addiction, game type learning will brings down learners' motivation' (citing Mitchell and Savill-Smith, 2004)",
+      "Potential for students to focus too much on playing games instead of learning itself (citing Mitchell and Savill-Smith, 2004)"
+    ],
+    "mitigation_strategies": [
+      "Paired sample t-test used to assess within-group improvement to partially address non-equivalence of groups",
+      "ANCOVA used with pretest scores as covariate to control for pre-existing differences",
+      "Content validity of IGLS questionnaire maintained through discussion with professors and program designers",
+      "Likert Five-Point scale used for systematic measurement of student opinion and motivation",
+      "Teachers serve as managers who can check learners' performance records and make adjustments",
+      "Prensky's six key elements for digital game-based learning patterns used as design reference: (1) rules, (2) goals or objectives, (3) outcomes and feedback, (4) conflict/competition/challenge/opposition, (5) interaction, (6) representation and story"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "yes",
+      "q1_evidence": "Selection criteria are described: 'The study took sample of thirty students from a certain Taichung Municipal Junior High School. Based on the pretest average score 90, nineteen students who got higher scores are in the control group (high achievers), whereas another eleven students who got lower scores are in the experimental group (low achievers).' However, the basis for the cutoff score of 90 and the specific school selection are not fully justified.",
+      "q2_representativeness": "no",
+      "q2_evidence": "The sample is highly unrepresentative. Only 30 students from a single unnamed junior high school in Taichung, Taiwan were included. The groups were divided by academic performance (high vs. low achievers), creating fundamentally non-equivalent groups with different baseline characteristics. The experimental group (n=11) is extremely small. The sample cannot represent the broader population of junior high school history students.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "The achievement test consisted of 'four hundred multiple-choice questions about Taiwan history (Vol. 1) which came from both IGLS's contents and Taiwan history textbook 1,' but no reliability or validity information is reported for this instrument. For the IGLS questionnaire, the authors state it was 'discussed and analyzed with professor and program designers, to keep content validity' using a Likert Five-Point scale, but no psychometric properties (Cronbach's alpha, factor analysis) are reported. The questionnaire was only administered to the experimental group.",
+      "q4_analysis_methods": "yes",
+      "q4_evidence": "Analysis methods are described: paired sample t-test was used for pretest-posttest comparison within each group, and one-way ANCOVA was used to examine effects of gender, weekly surfing time, affection network leisure type, and login IGLS per week on post-test scores, with pretest scores as covariate. Statistical results are reported with means, SDs, SEMs, 95% CIs, t-values, df, p-values, and ANCOVA tables with Type III Sum of Squares, F-values, and R-squared values.",
+      "judgment": "Unclear"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "no",
+      "q5_evidence": "The interpretation has several issues: (1) The study compares low achievers (experimental) to high achievers (control) but interprets the greater improvement of the experimental group as evidence of IGLS effectiveness, without adequately acknowledging the regression to the mean effect -- low achievers naturally have more room to improve; (2) The abstract claims 'the paired sample t test analysis considerably impact on experimental group to significance .05(P=.010)' and that 'one-way ANCOVA showed login IGLS the number of days every week more learning effect to be better,' but the ANCOVA analyses were conducted only on the experimental group (n=11) with extremely small cell sizes, making statistical inferences unreliable; (3) The conclusion states 'IGLS benefits academic performance in junior high history learning' and 'IGLS especially provides low achievers with confidence and positive attitude' but these claims are not supported by the study design which did not provide IGLS to high achievers for comparison.",
+      "q6_limitations_discussed": "no",
+      "q6_evidence": "The paper contains no dedicated limitations section. The fundamental design limitation of comparing low achievers (experimental) to high achievers (control) is never acknowledged. The extremely small sample sizes, non-random assignment, single-school setting, and lack of psychometric validation of instruments are not discussed. The conclusion makes broad claims such as 'IGLS has positive effects on history learning, thus, it can be of assistance in history teaching' without any qualification of limitations.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high overall risk of bias due to multiple serious methodological concerns: (1) The fundamental design flaw of assigning low achievers to the experimental group and high achievers to the control group makes it impossible to attribute improvements to IGLS rather than regression to the mean; (2) Extremely small sample size (N=30, experimental n=11) severely limits statistical power and generalizability; (3) No reliability or validity data reported for the 400-item achievement test; (4) ANCOVA analyses on the experimental group alone (n=11) with multiple categorical predictors result in cell sizes too small for meaningful inference; (5) The questionnaire was only administered to the experimental group, precluding comparison; (6) No limitations are discussed anywhere in the paper; (7) Interpretations overreach the data -- concluding IGLS benefits history learning when the design cannot isolate the IGLS effect from baseline group differences. While the study does employ appropriate statistical procedures (paired t-tests, ANCOVA) and reports results with adequate detail, the design and interpretation issues are severe enough to warrant a high risk of bias rating."
+  }
+}

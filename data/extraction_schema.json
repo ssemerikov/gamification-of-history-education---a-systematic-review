@@ -1,0 +1,285 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Study Data Extraction Schema",
+  "description": "Schema for extracting data from studies included in the systematic review on gamification of history education",
+  "type": "object",
+  "required": ["study_id", "pdf_filename", "bibliographic", "study_characteristics", "eligibility", "rq1", "rq2", "rq3", "rq4", "risk_of_bias"],
+  "properties": {
+    "study_id": {
+      "type": "integer",
+      "description": "Sequential study number (1-80)"
+    },
+    "pdf_filename": {
+      "type": "string",
+      "description": "Filename of the PDF in included/ directory"
+    },
+    "bibtex_key": {
+      "type": "string",
+      "description": "BibTeX citation key in references.bib"
+    },
+    "bibliographic": {
+      "type": "object",
+      "required": ["title", "authors", "year", "publication_type", "venue"],
+      "properties": {
+        "title": { "type": "string" },
+        "authors": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "year": { "type": "integer" },
+        "publication_type": {
+          "type": "string",
+          "enum": ["journal_article", "conference_paper", "book_chapter"]
+        },
+        "venue": { "type": "string", "description": "Journal, conference, or book name" },
+        "doi": { "type": ["string", "null"] },
+        "volume": { "type": ["string", "null"] },
+        "pages": { "type": ["string", "null"] },
+        "publisher": { "type": ["string", "null"] }
+      }
+    },
+    "study_characteristics": {
+      "type": "object",
+      "required": ["countries", "education_level", "sample_size", "study_design", "game_type", "aim"],
+      "properties": {
+        "countries": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Countries where author institutions are located"
+        },
+        "country_of_application": {
+          "type": ["string", "null"],
+          "description": "Country where the study was conducted"
+        },
+        "education_level": {
+          "type": "string",
+          "enum": ["primary", "secondary", "higher_education", "mixed", "not_specified"],
+          "description": "Education level of participants"
+        },
+        "sample_size": {
+          "type": ["integer", "null"],
+          "description": "Number of participants; null if not specified"
+        },
+        "sample_description": {
+          "type": ["string", "null"],
+          "description": "Brief description of participants"
+        },
+        "study_design": {
+          "type": "string",
+          "enum": ["experimental", "quasi_experimental", "pre_post", "mixed_methods", "qualitative", "design_based", "case_study", "survey", "descriptive", "theoretical"],
+          "description": "Research design"
+        },
+        "game_type": {
+          "type": "string",
+          "enum": ["digital_custom", "digital_commercial", "board_game", "card_game", "mobile_game", "vr_ar", "web_based", "mixed", "design_framework"],
+          "description": "Type of game/gamification intervention"
+        },
+        "game_name": {
+          "type": ["string", "null"],
+          "description": "Name of the game if applicable"
+        },
+        "aim": {
+          "type": "string",
+          "description": "Study aim/objective"
+        },
+        "databases": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["scopus", "wos", "dimensions"]
+          },
+          "description": "Which databases indexed this study"
+        }
+      }
+    },
+    "eligibility": {
+      "type": "object",
+      "properties": {
+        "meets_criteria": { "type": "boolean" },
+        "concerns": { "type": ["string", "null"] },
+        "is_history_education": { "type": "boolean", "description": "Genuinely about history education (not history of computing, etc.)" },
+        "is_primary_study": { "type": "boolean", "description": "Is a primary empirical study (not a systematic review)" },
+        "has_gamification": { "type": "boolean", "description": "Involves actual gamification/game-based learning" }
+      }
+    },
+    "rq1": {
+      "type": "object",
+      "description": "RQ1: How is gamification defined and conceptualized?",
+      "properties": {
+        "explicit_definition": {
+          "type": ["string", "null"],
+          "description": "Direct quote of any explicit definition of gamification provided"
+        },
+        "has_explicit_definition": { "type": "boolean" },
+        "conceptualization": {
+          "type": ["string", "null"],
+          "description": "How gamification is uniquely conceptualized in this study"
+        },
+        "theoretical_frameworks": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Theoretical frameworks mentioned"
+        }
+      }
+    },
+    "rq2": {
+      "type": "object",
+      "description": "RQ2: Effectiveness of gamification",
+      "properties": {
+        "quantitative_metrics": {
+          "type": ["string", "null"],
+          "description": "Quantitative learning outcome metrics measured"
+        },
+        "statistical_results": {
+          "type": ["string", "null"],
+          "description": "Direct quote of statistically significant results with exact values"
+        },
+        "comparative_methodology": {
+          "type": ["string", "null"],
+          "description": "Comparative methodology used to assess effectiveness"
+        },
+        "key_outcomes": {
+          "type": ["string", "null"],
+          "description": "Most notable improvements in learning performance"
+        },
+        "engagement_results": {
+          "type": ["string", "null"],
+          "description": "Results regarding student engagement"
+        }
+      }
+    },
+    "rq3": {
+      "type": "object",
+      "description": "RQ3: Design principles, strategies, and technologies",
+      "properties": {
+        "game_design_elements": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Game design elements utilized"
+        },
+        "technological_platforms": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Technologies and platforms used"
+        },
+        "instructional_strategies": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Instructional design strategies employed"
+        },
+        "content_integration": {
+          "type": ["string", "null"],
+          "description": "How historical content and game mechanics were integrated"
+        }
+      }
+    },
+    "rq4": {
+      "type": "object",
+      "description": "RQ4: Challenges, limitations, and negative effects",
+      "properties": {
+        "implementation_barriers": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Implementation barriers identified"
+        },
+        "methodology_limitations": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Limitations in research methodology"
+        },
+        "negative_effects": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Potential negative effects documented"
+        },
+        "mitigation_strategies": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Mitigation strategies proposed"
+        }
+      }
+    },
+    "risk_of_bias": {
+      "type": "object",
+      "description": "Risk of bias assessment using adapted ROBIS tool",
+      "required": ["domain1", "domain2", "domain3", "overall"],
+      "properties": {
+        "domain1": {
+          "type": "object",
+          "description": "Participant selection and study context",
+          "properties": {
+            "q1_selection_criteria": {
+              "type": "string",
+              "enum": ["yes", "no", "unclear"],
+              "description": "Are criteria for selecting participants clearly described?"
+            },
+            "q1_evidence": { "type": "string", "description": "Quote supporting q1 judgment" },
+            "q2_representativeness": {
+              "type": "string",
+              "enum": ["yes", "no", "unclear"],
+              "description": "Is the sample representative of the target population?"
+            },
+            "q2_evidence": { "type": "string", "description": "Quote supporting q2 judgment" },
+            "judgment": {
+              "type": "string",
+              "enum": ["Low", "High", "Unclear"]
+            }
+          }
+        },
+        "domain2": {
+          "type": "object",
+          "description": "Data collection and analysis",
+          "properties": {
+            "q3_valid_tools": {
+              "type": "string",
+              "enum": ["yes", "no", "unclear"],
+              "description": "Were valid and reliable tools used for data collection?"
+            },
+            "q3_evidence": { "type": "string", "description": "Quote supporting q3 judgment" },
+            "q4_analysis_methods": {
+              "type": "string",
+              "enum": ["yes", "no", "unclear"],
+              "description": "Are the methods of data analysis described and justified?"
+            },
+            "q4_evidence": { "type": "string", "description": "Quote supporting q4 judgment" },
+            "judgment": {
+              "type": "string",
+              "enum": ["Low", "High", "Unclear"]
+            }
+          }
+        },
+        "domain3": {
+          "type": "object",
+          "description": "Interpretation of results",
+          "properties": {
+            "q5_consistent_interpretation": {
+              "type": "string",
+              "enum": ["yes", "no", "unclear"],
+              "description": "Are interpretations consistent with results?"
+            },
+            "q5_evidence": { "type": "string", "description": "Quote supporting q5 judgment" },
+            "q6_limitations_discussed": {
+              "type": "string",
+              "enum": ["yes", "no", "unclear"],
+              "description": "Are limitations acknowledged and discussed?"
+            },
+            "q6_evidence": { "type": "string", "description": "Quote supporting q6 judgment" },
+            "judgment": {
+              "type": "string",
+              "enum": ["Low", "High", "Unclear"]
+            }
+          }
+        },
+        "overall": {
+          "type": "string",
+          "enum": ["Low", "High", "Unclear"],
+          "description": "Overall risk of bias judgment"
+        },
+        "overall_justification": {
+          "type": "string",
+          "description": "Brief justification for overall judgment"
+        }
+      }
+    }
+  }
+}

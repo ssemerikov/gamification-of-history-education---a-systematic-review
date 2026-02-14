@@ -1,0 +1,146 @@
+{
+  "study_id": 5,
+  "pdf_filename": "A Pilot Evaluation of a Virtual Reality Educational Game for History Learning.pdf",
+  "bibtex_key": "5kazanidis2018alpha",
+  "bibliographic": {
+    "title": "A Pilot Evaluation of a Virtual Reality Educational Game for History Learning",
+    "authors": [
+      "Ioannis Kazanidis",
+      "Georgios Palaigeorgiou",
+      "Pantelis Chintiadis",
+      "Avgoustos Tsinakos"
+    ],
+    "year": 2018,
+    "publication_type": "conference_paper",
+    "venue": "European Conference on Games Based Learning (ECGBL)",
+    "doi": null,
+    "volume": null,
+    "pages": "245-253",
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "Greece"
+    ],
+    "country_of_application": "Greece",
+    "education_level": "primary",
+    "sample_size": 28,
+    "sample_description": "Twenty-eight (28) primary school students who participated in the context of an exhibition focused on game-based learning for Primary Schools at the city of Kavala in Greece. The game targeted 3rd grade students in Greek schools. During the game, students had to complete at least three trials over approximately 15 minutes.",
+    "study_design": "descriptive",
+    "game_type": "vr_ar",
+    "game_name": "Trials of the Acropolis",
+    "aim": "To present a virtual reality (VR) game for history learning and examine the results of a pilot study evaluating students' attitudes and experience towards the VR game, specifically examining whether students assess it as interesting and engaging, authentic and expressive, and effective and useful.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study is a pilot evaluation with a small sample (n=28) and no control group. It measures only perceived learning and attitudes, not actual learning outcomes. The study took place during an exhibition rather than in a regular classroom setting.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The paper conceptualizes the intervention as a virtual reality (VR) game for history learning that combines game-based learning with immersive VR technology. The game uses interactive, explorative experiences to move away from traditional book-based education into immersive game-based learning experiences. The VR game is framed as a tool to promote historical thinking skills by letting users participate actively in the learning process and learn through the acquisition of experience rather than through passive exploration. The paper does not provide an explicit definition of gamification but treats the VR game as a serious game integrating educational content with game mechanics (trials, puzzles, quizzes, narrative storytelling, progression).",
+    "theoretical_frameworks": [
+      "Design, Play and Experience (DPE) framework (Winn, 2009)",
+      "Storification in history education (Akkerman et al., 2009)",
+      "AttrakDiff usability evaluation model (Hassenzahl & Monk, 2010)",
+      "Flow State Scale (Jackson & Marsh, 1996)",
+      "Reality Judgment and Presence Questionnaire (Banos et al., 2000)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "23-item 7-point Likert scale questionnaire measuring seven variables: Pragmatic Quality (M=5.03, SD=1.61, alpha=.71), Hedonic Identity (M=5.06, SD=1.85, alpha=.91), Hedonic Stimulation (M=5.56, SD=1.76, alpha=.91), Focus (M=5.71, SD=1.30, alpha=.87), Autotelic Experience (M=5.82, SD=1.47, alpha=.89), Perceived Learning (M=5.32, SD=1.68, alpha=.86), Reality Judgment (M=5.50, SD=1.14, alpha=.77).",
+    "statistical_results": "Spearman's correlation between reality judgement and other variables: reality judgement correlated significantly with focus (r=.70, p<.001), autotelic experience (r=.69, p<.001), and perceived learning (r=.45, p<.05). Reality judgement correlated significantly with all variables except Hedonic Identity. Individual items: focused on tasks (M=5.82, SD=1.3), experience left feeling great (M=5.64, SD=1.87), prefer to learn history with similar environments (M=5.30, SD=1.83), would learn faster this way (M=5.48, SD=1.89), felt part of virtual world (M=5.96, SD=1.26), felt as active participant of narrated story (M=5.56, SD=1.22).",
+    "comparative_methodology": null,
+    "key_outcomes": "Students' general assessment of the VR game was positive across all measured dimensions. They considered the game as simple, innovative, valuable, inspiring, challenging, practical, predictable and appropriate for learning about history. Students reported strong focus during gameplay and high sense of presence in the virtual environment. The correlation analysis revealed that making the learning environment feel more real was crucial for its success, as reality judgement was significantly correlated with focus, autotelic experience, and perceived learning.",
+    "engagement_results": "Students were focused on tasks during the entire game duration (Focus M=5.71, SD=1.30). They reported high autotelic experience (M=5.82, SD=1.47), feeling great about the experience (M=5.64, SD=1.87). Students felt present in the virtual environment: felt part of the virtual world (M=5.96, SD=1.26), considered themselves active participants in the narrated story (M=5.56, SD=1.22). Focus group discussions confirmed students were excited, impressed with the 3D virtual environment, and felt immersed. Students reported the instructional design managed to hide formal learning processes under the umbrella of the VR game."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Six sequential trials/levels with progression (must complete one to advance to next)",
+      "Quizzes with multiple-choice questions (5 per trial, must get at least 4/5 correct to proceed)",
+      "Puzzles (virtual jigsaw puzzles revealing myth-related images)",
+      "Constructive feedback after each quiz response",
+      "Narrative storytelling (character narrates myths with image slider)",
+      "Role-playing (player takes role of ancient Greek hero)",
+      "Exploration of virtual Acropolis environment",
+      "Challenge/trial structure based on Greek mythology",
+      "Retry mechanism (repeat quiz step if fewer than 4 correct answers)"
+    ],
+    "technological_platforms": [
+      "Google Cardboard VR headset",
+      "Android smartphones",
+      "Bluetooth controllers",
+      "Earphones for audio narration",
+      "Unity 3D (development platform)",
+      "Blender (3D modeling)",
+      "Available free on Google Play Store (Greek and English editions)"
+    ],
+    "instructional_strategies": [
+      "Discovery learning through virtual environment exploration",
+      "Digital storytelling (character narrates myths with synchronized images)",
+      "Game-based learning with hermeneutics (puzzle solving to discover meaning of myth-related images)",
+      "Self-assessment through interactive quizzes with constructive feedback",
+      "Structured sequence: engagement, narrative-based learning, hermeneutics, assessment (based on DPE framework)",
+      "Immersive presence in historical site (virtual Acropolis)",
+      "Revision trial (6th trial revises all previous myths)"
+    ],
+    "content_integration": "The game covers five Greek myths from the 3rd grade Greek primary school history curriculum: Gods and Titans, Hercules, Theseus, Jason and the Argonauts, and the Odyssey. Each myth corresponds to a trial set within the virtual Acropolis. Students explore the virtual archaeological site, listen to a character narrate the myth with synchronized images, solve a puzzle that reveals a myth-related image requiring interpretation, and complete a quiz to consolidate understanding. The sixth trial functions as a revision of all previous myths. The game is designed to complement (not replace) classroom history learning."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Short duration of learning experience (approximately 15 minutes) limits the amount of interactive learning content",
+      "VR applications for history focus more on realistic approximation of archaeological sites than on instructional interactions promoting historical thinking",
+      "Need for smartphone and Google Cardboard hardware (though low cost)",
+      "Historical limitations of VR in education: installation cost, headset weight/fit, simulator sickness, poor instructional design of virtual learning environments",
+      "Lack of a coherent framework for designing virtual reality apps for history learning"
+    ],
+    "methodology_limitations": [
+      "Pilot study with small sample size (n=28)",
+      "No control group or experimental comparison",
+      "Only perceived learning was measured, not actual learning effectiveness",
+      "Study took place in an exhibition context, not a regular classroom setting",
+      "No analysis of different phases of the underlying learning mechanism or their separate contributions to learning outcomes",
+      "Short duration of the learning experience (approximately 15 minutes)",
+      "Non-normal data distribution (Spearman's correlation used instead of Pearson's)",
+      "No demographic details of participants beyond being primary school students"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Game designed as complementary activity within more integrated instructional intervention",
+      "Free availability on Google Play Store reduces cost barriers",
+      "Low-cost Google Cardboard used instead of expensive VR headsets",
+      "Game developed using free programs and technologies (Unity 3D, Blender)",
+      "Authors plan future research targeting actual learning effectiveness with the Trials of the Acropolis app",
+      "Authors aim to advance the app to include all three storification modes (receivers, constructors, participants)"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "unclear",
+      "q1_evidence": "The target population is described as primary school students (3rd graders), but the actual participants were 28 students at an exhibition focused on game-based learning in Kavala, Greece. No specific selection or inclusion criteria are described. It is unclear how these 28 students were recruited or whether they were representative of the target population of 3rd graders.",
+      "q2_representativeness": "no",
+      "q2_evidence": "The sample of 28 students was a convenience sample drawn from exhibition attendees rather than a systematic sample of 3rd grade students. No demographic characteristics (age, gender distribution) are reported. The exhibition context means participants were likely self-selected or parent-selected, potentially introducing bias toward students already interested in technology and games.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "yes",
+      "q3_evidence": "The questionnaire items were derived from established instruments: AttrakDiff (Hassenzahl & Monk, 2010) for pragmatic and hedonic quality, Flow State Scale (Jackson & Marsh, 1996) for autotelic experience and focus, and Reality Judgment and Presence Questionnaire (Banos et al., 2000) for presence measures. Cronbach's alpha values ranged from .71 to .91, indicating acceptable to good internal consistency across all seven variables.",
+      "q4_analysis_methods": "yes",
+      "q4_evidence": "Descriptive statistics (means, standard deviations, min/max) and Spearman's correlations were appropriately used given the non-normal data distribution. Focus group discussions complemented the quantitative data. However, the analysis is limited to descriptive and correlational findings without inferential tests for differences.",
+      "judgment": "Low"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The findings are interpreted consistently with the data presented. The authors connect questionnaire results to focus group comments, and the conclusions about positive attitudes, focus, and presence are supported by the reported means and correlations. The authors appropriately note that the correlation between reality judgement and other variables suggests that making the environment feel real is crucial for success.",
+      "q6_limitations_discussed": "partial",
+      "q6_evidence": "The authors acknowledge the key limitation that only perceived learning was measured rather than actual learning effectiveness. They also note the short duration of the experience. However, they do not discuss the small sample size as a limitation, the convenience sampling from an exhibition context, the lack of a control group, or the limited generalizability of findings. Future research directions are mentioned but the methodological limitations are only partially addressed.",
+      "judgment": "Moderate"
+    },
+    "overall": "Moderate",
+    "overall_justification": "The study has a high risk of bias in participant selection (small convenience sample of 28 students from an exhibition context with no demographic details or selection criteria), but uses validated instruments with acceptable reliability (Domain 2). The interpretation is generally consistent with the data though limitations are only partially discussed. The primary weakness is the lack of actual learning outcome measurement and the non-representative sample. As a pilot evaluation study, these limitations are acknowledged but significant. The overall risk is Moderate because the validated instruments and transparent reporting of results partially offset the sampling concerns."
+  }
+}

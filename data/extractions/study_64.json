@@ -1,0 +1,134 @@
+{
+  "study_id": 64,
+  "pdf_filename": "The Development of a Role-Playing Game for History Instruction and the Evaluation of Flow State and Learning Performance.pdf",
+  "bibtex_key": "64Hsu201324",
+  "bibliographic": {
+    "title": "The Development of a Role-Playing Game for History Instruction and the Evaluation of Flow State and Learning Performance",
+    "authors": [
+      "Han-Ya Hsu",
+      "Yi-Shiuan Chou",
+      "Huei-Tse Hou"
+    ],
+    "year": 2013,
+    "publication_type": "conference_paper",
+    "venue": "Work-in-Progress Poster Proceedings of the 21st International Conference on Computers in Education (ICCE 2013), Asia-Pacific Society for Computers in Education",
+    "doi": null,
+    "volume": null,
+    "pages": "24-26",
+    "publisher": "Asia-Pacific Society for Computers in Education"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Taiwan"
+    ],
+    "country_of_application": "Taiwan",
+    "education_level": "higher_education",
+    "sample_size": 40,
+    "sample_description": "40 university students (20 males and 20 females) from a university in northern Taiwan",
+    "study_design": "pre_post",
+    "game_type": "digital_custom",
+    "game_name": "Romance at Dadaocheng",
+    "aim": "To develop a historical educational role-playing game (Romance at Dadaocheng) combining a love story with problem-solving, and to evaluate learners' flow state and learning effectiveness through pre-and post-tests",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Short 3-page conference poster paper with limited methodological detail; no control group; single-group pre-post design only; no explicit selection criteria for participants",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes game-based learning through a custom-developed role-playing game (RPG) for history instruction. The approach combines situated learning with role-playing instructional methods. The game is framed as providing 'opportunities for repeated practices and trials under a challenging situation' in contrast to traditional history instruction where 'instructional content of history is mostly memorized declarative knowledge.' The instructional game 'plans strategies, builds up hypotheses about the questions, and allows learners to try and solve problems continuously' to achieve 'higher-level thinking.' The study integrates authentic geographical and historical content into the game narrative as problem-solving hints, emphasizing situated cognition where learners interact with the historical environment through gameplay.",
+    "theoretical_frameworks": [
+      "Situated learning / Situated cognition (Brown, Collins, & Duguid, 1989)",
+      "Role-playing instructional method (Shaftel & Shaftel, 1967)",
+      "Flow theory / Experiential gaming model (Kiili, 2006)",
+      "Flow scale (Hou & Chou, 2012 Chinese adaptation of Kiili's scale)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Learning performance measured via pre-test and post-test with 20 items covering history knowledge and geographical location knowledge related to Dadaocheng. Questions designed by a geographical expert. Flow state measured via Kiili's (2006) flow scale (Chinese edition translated and revised by Hou & Chou, 2012) with 23 items on a five-point Likert scale across two dimensions: flow antecedents and flow experience (Cronbach's alpha = 0.92).",
+    "statistical_results": "Paired-samples t test results: History score: post-test M=12.58, SD=1.32; pre-test M=6.55, SD=2.28; t=15.52, p=.000 (p<0.001). Geography score: post-test M=2.58, SD=1.11; pre-test M=1.75, SD=1.03; t=4.62, p=.000 (p<0.001). Flow questionnaire results: Overall flow antecedents M=4.06, SD=0.62; challenge-skills balance M=3.96, SD=0.87; goals of an activity M=4.11, SD=0.75; unambiguous feedback M=3.91, SD=0.74; control M=4.18, SD=0.78; action-awareness merging M=4.13, SD=0.76. Overall flow experience M=3.82, SD=0.64; concentration M=3.85, SD=0.75; transformation of time M=3.68, SD=0.79; autotelic experience M=3.66, SD=0.77; loss of self-consciousness M=4.24, SD=0.80.",
+    "comparative_methodology": "Single-group pre-test/post-test design using paired-samples t test to compare learning performance before and after the game-based intervention. No control group.",
+    "key_outcomes": "Significant improvement in both history knowledge (pre-test M=6.55 to post-test M=12.58, t=15.52, p<.001) and geographical location knowledge (pre-test M=1.75 to post-test M=2.58, t=4.62, p<.001) after game-based learning. The authors state: 'after game-based learning, students' knowledge of history (t=15.52, p=.000) and knowledge related to geographical location (t=4.62, p=.000) were significantly improved.'",
+    "engagement_results": "All flow dimensions scored above the median of 3.00 on the 5-point Likert scale. Flow antecedents (M=4.06) and flow experience (M=3.82) both above median. Four dimensions scored above 4.00: flow antecedents overall, goals of an activity, control, action-awareness merging, and loss of self-consciousness. The highest scoring dimension was loss of self-consciousness (M=4.24, SD=0.80). The authors conclude: 'this game has the elements to arouse learner's flow experience as a whole' and 'the content of this game can arouse learners' engagement to a certain degree.'"
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Role-playing (learners become the leading character in the game)",
+      "Narrative/storyline (romantic love story combined with mystery plot - resolving the mystery of the heroine's birth)",
+      "Problem-solving tasks (historical knowledge used as problem-solving hints)",
+      "Exploration mechanics (survey of hints and adventure in authentic geographical space)",
+      "Character interaction and dialogue (NPC interactions provide historical information and plot hints)",
+      "Feedback system (choosing right answers to get right feedback and advance the plot)",
+      "Fighting/combat tasks",
+      "Authentic scene design (buildings painted from photos of real locations with real proportions and positions)"
+    ],
+    "technological_platforms": [
+      "Custom-developed digital RPG (Romance at Dadaocheng, developed by NTUST MEG research team)"
+    ],
+    "instructional_strategies": [
+      "Situated learning / Situated cognition (game story and space based on authentic photos, historical backgrounds, and real geographical environment)",
+      "Role-playing instructional method (learners become the leading character to arouse empathy)",
+      "Problem-based learning (learners solve mysteries using historical knowledge as clues)",
+      "Authentic context (real geographical space of Dadaocheng used as game scene with real proportions and positions)",
+      "Integration of historical content into game narrative (historical backgrounds embedded in character interaction and plot hints)"
+    ],
+    "content_integration": "Historical content about Taiwan's Dadaocheng monument was deeply integrated into the game mechanics. All building scenes were painted from authentic photos of real locations with real geographical proportions and positions. Historical backgrounds and corresponding geographical scenes were embedded in character interactions and plot hints, requiring learners to judge the accuracy of history and geography knowledge during the searching process. The game used authentic geographical space as the scene and adopted historical knowledge as problem-solving hints in the game mechanism. Learners had to choose the right answer about historical/geographical facts to receive correct feedback and advance the plot, thereby strengthening their cognitive processes."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Development of custom RPG with authentic scene design requires significant resources (painting all building scenes from real photos with correct proportions)",
+      "Game content specific to one historical location (Dadaocheng), limiting transferability to other topics"
+    ],
+    "methodology_limitations": [
+      "No control group for comparison (single-group pre-post design)",
+      "Short conference poster paper format (3 pages) with limited methodological detail",
+      "Small sample size acknowledged by authors: 'a larger sample size in the experiment is suggested'",
+      "No effect sizes reported",
+      "No information about test validity or reliability for the learning performance test (20 items)",
+      "Self-reported flow measure (potential response bias)",
+      "Same questions used for pre-test and post-test (potential testing/practice effect)",
+      "No randomization or blinding",
+      "No analysis of potential confounding variables (e.g., prior knowledge, gaming experience)"
+    ],
+    "negative_effects": [
+      "Transformation of time scored lowest among flow experience dimensions (M=3.68, SD=0.79), suggesting players may have been somewhat aware of time passing rather than fully immersed",
+      "Autotelic experience also scored relatively low (M=3.66, SD=0.77), suggesting the intrinsically rewarding nature of the game experience could be improved",
+      "The authors note that high loss of self-consciousness may result from cognitive resource depletion: 'while playing the game, learners need to understand the hints provided by the stories which will deplete their cognitive resources (Killi, 2006)'"
+    ],
+    "mitigation_strategies": [
+      "Authors suggest future studies 'analyze learners' behavioral patterns in a game'",
+      "Authors suggest future studies 'explore learner's technology acceptance'",
+      "Authors recommend 'a larger sample size in the experiment is suggested to explore the effect of this game on learning completely'"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "no",
+      "q1_evidence": "No selection criteria are described for participants. The paper states only: 'There were 40 participants (including 20 males and 20 females), coming from a university in northern Taiwan, in this study.' No information on recruitment method, inclusion/exclusion criteria, or how participants were selected. Convenience sampling is implied.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "The sample of 40 university students from northern Taiwan is described with only gender information (20 males, 20 females). No information about age, year of study, major, prior gaming experience, or prior history knowledge. The target population is not explicitly defined, making representativeness assessment difficult. The balanced gender ratio (50/50) is a positive aspect but insufficient alone.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "The flow questionnaire is based on Kiili's (2006) flow scale, translated and revised by Hou and Chou (2012), with reported Cronbach's alpha of 0.92 indicating good internal consistency. However, the learning performance test (20 items about history and geography of Dadaocheng) was described only as being 'set by a geographical expert' with no reported validity or reliability information. No psychometric properties are provided for the knowledge test.",
+      "q4_analysis_methods": "unclear",
+      "q4_evidence": "Paired-samples t tests are an appropriate parametric test for pre-post comparisons with n=40. However, no effect sizes are reported, no confidence intervals are provided, no assumption checks (e.g., normality) are described, and the same test was used for both pre and post (potential practice effect not addressed). Descriptive statistics for flow are reported but without inferential comparison to the median. The analysis is basic but not inappropriate for a preliminary conference paper.",
+      "judgment": "Unclear"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The authors' interpretations are consistent with the reported results. The significant t-test results support the claim of improved learning, and the flow scores above the median support the engagement claims. The authors appropriately characterize their evaluation as 'preliminary': 'Through a preliminarily empirical evaluation, the results indicated that this game is beneficial to students' history and geography learning.' The interpretation of loss of self-consciousness as possibly related to cognitive resource depletion is a reasonable theoretical interpretation.",
+      "q6_limitations_discussed": "unclear",
+      "q6_evidence": "There is no explicit limitations section. The conclusion briefly acknowledges the need for a larger sample size ('a larger sample size in the experiment is suggested to explore the effect of this game on learning completely') and suggests future directions (behavioral pattern analysis, technology acceptance), implicitly acknowledging some weaknesses. However, key limitations such as the lack of a control group, potential practice effects from same-test pre-post design, and absence of test validation are not discussed.",
+      "judgment": "Unclear"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high overall risk of bias primarily due to: (1) no participant selection criteria described, (2) single-group pre-post design with no control group, making it impossible to attribute learning gains solely to the game intervention, (3) the same test used for pre-test and post-test creating potential practice/testing effects, (4) no reported validity or reliability for the learning performance instrument, (5) no effect sizes reported, and (6) very limited discussion of limitations. The flow instrument has acceptable reliability (alpha=0.92) and the statistical tests are appropriate, but the overall design weaknesses and the short conference paper format (3 pages) with minimal methodological detail contribute to high overall risk of bias."
+  }
+}

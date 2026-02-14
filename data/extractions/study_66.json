@@ -1,0 +1,146 @@
+{
+  "study_id": 66,
+  "pdf_filename": "The Effect of the Game-Based Learning Model on Student Engagement in History Learning.pdf",
+  "bibtex_key": "66Rahmawati2023163",
+  "bibliographic": {
+    "title": "The Effect of the Game-Based Learning Model on Student Engagement in History Learning",
+    "authors": [
+      "Vini Rahmawati",
+      "Nurul Umamah",
+      "Sumardi",
+      "Marjono"
+    ],
+    "year": 2023,
+    "publication_type": "journal_article",
+    "venue": "Paramita: Historical Studies Journal",
+    "doi": "http://dx.doi.org/10.15294/paramita.v33i1.37748",
+    "volume": "33(1)",
+    "pages": "163-173",
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "Indonesia"
+    ],
+    "country_of_application": "Indonesia",
+    "education_level": "secondary",
+    "sample_size": 66,
+    "sample_description": "66 students in classes XI IPS 4 (control, 33 students) and XI IPS 1 (experimental, 33 students) at SMA Negeri 1 Gambiran, Banyuwangi Regency, East Java Province, Indonesia, during the even semester of the 2021-2022 Academic Year. Classes were selected through a homogeneity test based on average daily test scores of the Indonesian History subject.",
+    "study_design": "quasi_experimental",
+    "game_type": "web_based",
+    "game_name": "Quizizz",
+    "aim": "To examine the effect of the game-based learning model on student engagement in history learning",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study uses Quizizz as a game-based learning platform for history education. While Quizizz is a gamified quiz platform rather than a full game, the authors frame it explicitly within the game-based learning (GBL) model, satisfying the gamification criterion. The dependent variable is student engagement (measured via questionnaire) rather than learning outcomes, but this is still relevant to gamification effectiveness research.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes game-based learning (GBL) as a model that 'focuses on student engagement by fostering creativity and independence and increasing student interest and motivation' (citing Cheng & Su, 2011). The GBL model is described as having three stages: (1) Input stage - the teacher maps teaching content into game content and directs students to enter the game; (2) Process stage - the teacher describes game characteristics, attractiveness, and attention, links learning objectives to new skills, directs students to the game; (3) Output stage - the teacher provides feedback, conducts evaluations to assess results, monitors student performance and makes improvements. The model is seen as encouraging 'active learning by involving teachers and students in a game' and aims 'to improve teaching, learning, assessment, and evaluation.' Student engagement is conceptualized through three components: (1) behavioral engagement (effort, persistence, concentration, following norms), (2) emotional engagement (positive reactions to teachers, friends, academics), and (3) cognitive engagement (desire to be involved in learning, acquire knowledge, seek information, strategies for schoolwork).",
+    "theoretical_frameworks": [
+      "Game-based learning model (Cheng & Su, 2011)",
+      "Student engagement framework (Fredricks, Blumenfeld & Paris, 2004) - three components: cognitive, emotional, behavioral engagement",
+      "Student engagement components (Appleton et al., 2006) - academics, behavior, cognitive, psychological/emotional",
+      "Ching-Hsue & Chung-Ho (2012) - three stages of GBL: input, process, output",
+      "Newmann (1992) - engagement as participation and 'being there'",
+      "Vlachopulos & Makri (2017) - game-based learning model effectiveness",
+      "Education 4.0 framework"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Student engagement measured via a post-test-only questionnaire using a 4-point Likert scale (Strongly Agree=4, Agree=3, Disagree=2, Strongly Disagree=1) adopted from Sinulingga (2018). The instrument had 3 aspects: behavioral engagement, emotional engagement, and cognitive engagement. Instrument validity tested via Product Moment correlation (rhit > rtab at significance level 0.000); reliability tested via Cronbach's Alpha = 0.911 (very high reliability). One-way ANOVA and LSD follow-up test used for hypothesis testing.",
+    "statistical_results": "One-way ANOVA: F(1,64) = 4.408, p = .040 < .05, Mean Square Between Groups = 87.515, Mean Square Within Groups = 19.853. LSD follow-up test results: Control Pre-test vs Control Post-test: Mean Difference (I-J) = -9.57576*, Std. Error = 1.18233, Sig. = .013; Control Pre-test vs Experimental Pre-test: Mean Difference = .12121, Std. Error = 1.18233, Sig. = .893; Control Pre-test vs Experimental Post-test: Mean Difference = -12.03030*, Std. Error = 1.18233, Sig. = .000; Experimental Pre-test vs Control Post-test: Mean Difference = -9.69697*, Std. Error = 1.18233, Sig. = .000; Experimental Pre-test vs Experimental Post-test: Mean Difference = -12.15152*, Std. Error = 1.18233, Sig. = .020. Normality test (Kolmogorov-Smirnov): control class post-questionnaire significance = 0.066 > 0.05 (normal); experimental class post-questionnaire significance = 0.200 > 0.05 (normal). Homogeneity test (Levene's Statistic): significance = 0.069; Levene's significance = 0.793 > 0.05. Ftable at df=65, alpha=0.05 is 3.989; Fcount (4.408) > Ftable (3.989).",
+    "comparative_methodology": "Quasi-experimental design with a post-test-only non-equivalent control-group design. Experimental group (XI IPS 1, n=33) received game-based learning model assisted by Quizizz application; control group (XI IPS 4, n=33) received discovery learning model. Groups were selected based on homogeneity test of average daily test scores. Comparison via one-way ANOVA with LSD follow-up test at 5% significance level.",
+    "key_outcomes": "The one-way ANOVA test showed a significant influence on student engagement when students were taught using the game-based learning model (F=4.408, p=0.040<0.05). The LSD follow-up test showed a mean difference (I-J) of 2.45455 between the experimental post-test and control post-test with a significance value of 0.069 > 0.05. The experimental group taught using the game-based learning model had better student engagement effect than the control group taught using the discovery learning model.",
+    "engagement_results": "The experimental group (GBL with Quizizz) showed significantly higher student engagement than the control group (discovery learning). Several engagement indicators had highest averages: Statement 7 'I will arrive at school before the bell rings' (avg 121.5); Statement 17 'I respect all teachers in this school' and Statement 18 'all teachers must be respected' (avg 121.5); Statement 29 'I will record all the lessons delivered by the teacher' (avg 121); Statement 20 'even though we students are different, we should respect each other' (avg 119); Statement 4 'when the teacher explains the lesson, I fully concentrate on understanding the material' (avg 117.5); Statement 2 'I look for information in other media if I struggle with schoolwork' (avg 117); Statement 8 'all the attributes on my school uniform' (avg 116.5). The GBL model increased student engagement across all three indicators: behavioral, emotional, and cognitive engagement."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Quiz-based gameplay (Quizizz platform)",
+      "Competition/competitive elements (students play against competitors)",
+      "Scoring system (highest score determined based on student's efforts)",
+      "Group-based play (students log into Quizizz in groups)",
+      "Interactivity",
+      "Feedback mechanisms (game score levels, teacher feedback at output stage)",
+      "Time-based challenges",
+      "Fun/entertainment elements"
+    ],
+    "technological_platforms": [
+      "Quizizz (game-based learning platform/application)",
+      "SPSS 22.0 software for Windows (data analysis)",
+      "Online/E-Learning facilities at the school"
+    ],
+    "instructional_strategies": [
+      "Game-based learning (GBL) model with three stages: Input (teacher maps teaching content into game content), Process (teacher describes game characteristics and links learning objectives), Output (teacher provides feedback and evaluates)",
+      "Post-test-only non-equivalent control-group quasi-experimental design",
+      "Group-based collaborative gameplay in Quizizz",
+      "Active learning through game participation",
+      "Student-centered learning approach",
+      "History content on Basic Competency (KD) 3.5: nature of Japanese occupation and Indonesian response",
+      "Three meetings of intervention in the even semester",
+      "Discovery learning model used as comparison/control condition"
+    ],
+    "content_integration": "The game-based learning model was applied to teach Basic Competence (KD) 3.5 in Indonesian History, which covers the nature of the Japanese occupation and the response of the Indonesian people. The teacher mapped teaching content into game content on the Quizizz platform and directed students to enter the game. During gameplay, students used creativity, communication skills, analysis, and problem-solving in the game, and developed strategies to solve the game. The Quizizz application served as the technological medium to deliver history quiz content within a competitive, gamified format. The implementation followed the three-stage GBL model: input (content mapping), process (gameplay with teacher facilitation describing characteristics, attractiveness, linking to learning objectives), and output (feedback and evaluation)."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "The study was carried out in the short term (only three meetings), limiting longitudinal assessment",
+      "Impossibility of randomizing research subjects necessitated quasi-experimental design",
+      "Threats to internal and external validity including differences in cognitive abilities, classroom environmental conditions, test results, and interaction of treatments in the sample",
+      "One questionnaire item ('positive reactions to academics' from emotional engagement) was removed because it would take too long to obtain data",
+      "Online learning implementation reduces students' opportunities to engage in an active learning environment"
+    ],
+    "methodology_limitations": [
+      "Post-test-only design: no pre-test measurement of student engagement, so baseline equivalence on the dependent variable is unverified",
+      "Non-equivalent control-group design: classes were not randomly assigned; selection was based on homogeneity of average daily test scores in history, not on prior engagement levels",
+      "Small sample size (66 total, 33 per group) from a single school",
+      "Self-report questionnaire only: no observational or behavioral measures of engagement",
+      "Removal of one questionnaire indicator (positive reactions to academics) may affect construct validity",
+      "Short intervention period (three meetings only)",
+      "The LSD follow-up test between experimental post-test and control post-test showed p=0.069 > 0.05, which is not statistically significant at the conventional alpha level, contradicting the abstract's claim",
+      "Single school in a specific region (Banyuwangi, East Java) limits generalizability",
+      "No effect size reported"
+    ],
+    "negative_effects": [
+      "Online learning reduces students' opportunities to engage in an active learning environment that creates opportunities for students (citing Martin & Bolliger, 2018)",
+      "Using technology may reduce critical thinking, academic skills, motivation, and student engagement if skills are not appropriately honed (citing Yu & Canton, 2020)"
+    ],
+    "mitigation_strategies": [
+      "Homogeneity test was used to address threats to internal and external validity by confirming samples are from the same population variance",
+      "Validity testing of instrument items (Product Moment correlation, rhit > rtab) and reliability testing (Cronbach's Alpha = 0.911) to ensure measurement quality",
+      "Normality test (Kolmogorov-Smirnov) and homogeneity of variance test (Levene's Statistic) performed before hypothesis testing",
+      "Authors recommend the game-based learning model as a reference for increasing student engagement, active learning, and student-centered learning"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "yes",
+      "q1_evidence": "Selection criteria are described: 'The population in this study were students of class XI IPS at SMA Negeri 1 Gambiran during the even semester of the 2021-2022 Academic Year, consisting of 4 classes, namely IPS 1, IPS 2, IPS 3, and IPS 4, with a total number of 131 students. The experimental class was not determined randomly but through a homogeneity test by calculating the average score of the Indonesian History test.' The research sample was selected from 2 classes with the first highest average (XI IPS 1, mean=80.54, experimental) and second highest average (XI IPS 4, mean=80.48, control), with 33 students each.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "The sample comes from a single school (SMA Negeri 1 Gambiran) in Banyuwangi Regency, East Java, Indonesia. Classes were not randomly assigned but selected based on highest average daily test scores. This purposive selection of the two highest-performing classes may not represent the broader population of secondary history students. Additionally, only 66 of 131 available students (50%) were included. The two classes selected had very similar means (80.54 and 80.48) and were the top performers, potentially limiting generalizability to average or lower-performing students.",
+      "judgment": "Unclear"
+    },
+    "domain2": {
+      "q3_valid_tools": "yes",
+      "q3_evidence": "The student engagement questionnaire was adopted from Sinulingga (2018), 'whose validity has been tested from the results of the product moment formula with a significance level of 0.000 and the reliability from the results of the Cronbach's Alpha formula of 0.955 (very high).' The researchers also independently tested validity: 'all question items on the student engagement variable had a rcount > rtable with a sig (significance) of less than 5% (0.05). This shows that the question items were valid.' Reliability was confirmed: 'Cronbach's Alpha of 0.911 in the category 0.80 < r11 \u2264 0.911 (very high reliability).'",
+      "q4_analysis_methods": "yes",
+      "q4_evidence": "The analysis methods are described and justified: 'Hypothesis testing used a one-way ANOVA test, assisted by the SPSS 22.0 software for Windows.' Prerequisites were checked: normality via Kolmogorov-Smirnov (control sig.=0.066>0.05; experimental sig.=0.200>0.05) and homogeneity via Levene's Statistic (sig.=0.793>0.05). The LSD follow-up test was used to determine mean differences. Decision-making criteria are stated: 'significance level of 5%, with H0 being accepted if the sig. > 0.05, and vice versa.'",
+      "judgment": "Low"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "no",
+      "q5_evidence": "There is an inconsistency in the interpretation of results. The abstract states 'the probability value (sig.) in the experimental group was 0.040 > 0.05, with the LSD follow-up test LSD of 2.45455. Therefore, it is concluded that there was an effect of student engagement on the experimental group.' However, 0.040 < 0.05 (not > 0.05 as stated). More importantly, the LSD follow-up test comparing experimental post-test vs control post-test shows a significance value of 0.069 > 0.05, which means the direct comparison between the two groups' post-test scores is NOT statistically significant at the 0.05 level. Despite this, the authors conclude the experimental group had 'better student engagement effect than the control group.' The overall ANOVA is significant (p=.040), but the specific pairwise comparison most relevant to the research question (experimental post-test vs control post-test) is not significant (p=.069).",
+      "q6_limitations_discussed": "no",
+      "q6_evidence": "The paper does not include a dedicated limitations section. The authors do not explicitly discuss the limitations of the post-test-only design, the non-random assignment, the small sample size, the single-school setting, the short intervention period, or the removal of a questionnaire indicator. The conclusion makes broad claims without qualifying limitations: 'There is a significant influence on student engagement when using the game-based learning model.' No mention is made of the non-significant LSD result (p=.069) between the two groups' post-tests in the conclusion.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high overall risk of bias primarily due to: (1) inconsistent interpretation of statistical results -- the ANOVA is significant (p=.040) but the direct LSD comparison between experimental and control post-tests is not significant (p=.069), yet the authors conclude a significant effect; (2) the abstract contains an error stating '0.040 > 0.05' when it should be '0.040 < 0.05'; (3) no limitations are discussed anywhere in the paper; (4) post-test-only design without baseline engagement measurement makes it impossible to confirm groups were equivalent on the dependent variable before intervention; (5) purposive selection of the two highest-performing classes from a single school limits generalizability; (6) no effect size is reported. While the data collection instruments show adequate validity and reliability, and analysis methods are properly described with prerequisite tests, the interpretation domain has serious concerns that elevate the overall risk."
+  }
+}

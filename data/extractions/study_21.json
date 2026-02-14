@@ -1,0 +1,147 @@
+{
+  "study_id": 21,
+  "pdf_filename": "Development of a game for History Course of Secondary School Students.pdf",
+  "bibtex_key": "21Ghulamani2017",
+  "bibliographic": {
+    "title": "Development of a game for History Course of Secondary School Students",
+    "authors": [
+      "Sumbul Ghulamani",
+      "Asadullah Shah",
+      "Kamran Khowaja"
+    ],
+    "year": 2017,
+    "publication_type": "conference paper",
+    "venue": "ICETAS 2017 (International Conference on Engineering, Technology and Applied Science)",
+    "doi": "10.1109/ICETAS.2017.8277898",
+    "volume": null,
+    "pages": null,
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Pakistan",
+      "Malaysia"
+    ],
+    "country_of_application": "Pakistan",
+    "education_level": "Secondary school (8th grade)",
+    "sample_size": 8,
+    "sample_description": "Eight history course teachers from three schools in Hyderabad, Sindh, Pakistan participated in classroom observations, preliminary interviews, and cognitive walkthrough evaluation. Three schools (A: 37 students, B: 18 students, C: 30 students in 8th grade) were observed.",
+    "study_design": "Qualitative design-based research (classroom observation, preliminary interviews, prototype development, and cognitive walkthrough evaluation with think-aloud technique)",
+    "game_type": "Digital game-based learning (DGBL) prototype - desktop application",
+    "game_name": "History course game prototype (unnamed)",
+    "aim": "To develop a game prototype for history-based courses for secondary school students that improves engagement and learning by providing an interactive alternative to traditional lecture-based teaching",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses on game prototype development and formative evaluation (cognitive walkthrough with teachers only), not on measuring student learning outcomes. No student-based experiment was conducted. The game is a DGBL prototype rather than a gamification application per se, though it incorporates gamification elements like practice tests, feedback emojis, and performance tracking.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes the game as a digital game-based learning (DGBL) tool that combines educational content with interactive game elements. It is framed as a technological intervention for history education that supplements traditional lecture-based teaching by incorporating multimedia content, text-to-speech, practice tests with varied question types, emoji-based feedback, navigation features, and performance reporting. The authors see games as interactive tools that provide challenges and entertainment to achieve educational goals.",
+    "theoretical_frameworks": [
+      "Digital Game-Based Learning (DGBL)",
+      "Cognitive walkthrough method (Wharton et al., 1994)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "Qualitative outcomes from cognitive walkthrough with 8 teachers: (1) The game environment start screen was perceived as attractive and engaging; (2) Sound clips and text-to-speech were found very helpful for learning and memorizing content; (3) Variety of practice test question types gained teacher attention and interest; (4) Overall evaluation of game was satisfactory and accepted by teachers; (5) Teachers confirmed the prototype could help engage and motivate students. No quantitative student learning outcome data was collected.",
+    "engagement_results": "Teachers reported that the game prototype environment was attractive and increased interest to play it. Participants found the pause/stop feature and text-to-speech helpful for understanding content. The practice test variety was appreciated for gaining attention and interest. However, excessive animations were found distracting and hindered focus on content. Teachers confirmed the prototype addresses the identified need for an interactive, non-lecture-based approach to history teaching."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Login/registration system",
+      "Topic selection interface",
+      "Lecture content with multimedia (images and text)",
+      "Text-to-speech audio for content delivery",
+      "Practice test with multiple question types (best answer, select all, picture-sound matching)",
+      "Emoji-based feedback (happy emoji for correct, sad emoji for wrong, thinking emoji for pending)",
+      "Shuffled answer options for repeated practice",
+      "Student performance tracking and statistics reports",
+      "Navigation controls (forward, backward, pause, stop, exit)",
+      "Topic switching capability during lectures",
+      "Unlimited practice test attempts"
+    ],
+    "technological_platforms": [
+      "Java (Eclipse IDE)",
+      "XML (Notepad)",
+      "Jasper Reports (for generating performance reports)",
+      "Text-to-speech third party library (marytts)",
+      "MS Excel (for exported reports)"
+    ],
+    "instructional_strategies": [
+      "Multimedia-based content presentation (images + text + audio)",
+      "Self-paced navigation with pause/stop/replay controls",
+      "Formative assessment through practice tests with immediate feedback",
+      "Multiple question formats to address different cognitive levels",
+      "Performance tracking and reporting for teacher monitoring",
+      "Content based on 8th grade Social Studies book topics (Allama Iqbal, Muslim Invasion in the Sub-continent, Import and Export of Pakistan)"
+    ],
+    "content_integration": "Three topics from the 8th grade Social Studies book were integrated into the game prototype: 'Allama Iqbal', 'Muslim Invasion in the Sub-continent', and 'Import and Export of Pakistan'. Content was presented through topic-relevant images with textual content, accompanied by text-to-speech audio narration that elaborates on the written text and provides examples and meanings of difficult words. The content was developed based on teacher input from preliminary interviews about what should be included in the technological intervention."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Traditional lecture-based teaching dominates history classrooms with minimal student involvement",
+      "History content perceived as dry, tough, and difficult to memorize by students",
+      "Schools use only board and marker with no technological resources",
+      "Teachers find it very difficult to maintain student attention and engagement",
+      "Too many dates and names in history content confuse students",
+      "No existing educational games found online for this specific history content"
+    ],
+    "methodology_limitations": [
+      "Only teachers participated in cognitive walkthrough evaluation, not actual students",
+      "Small sample of 8 teachers from 3 schools in one city (Hyderabad, Pakistan)",
+      "No quantitative measurement of learning outcomes or student performance",
+      "No controlled experiment or comparison with traditional teaching",
+      "Prototype stage only - not a fully developed or deployed game",
+      "Qualitative data only from think-aloud technique during cognitive walkthrough",
+      "Limited to 3 history topics from 8th grade Social Studies"
+    ],
+    "negative_effects": [
+      "Excessive character-wise animations were distracting and annoyed participants",
+      "Too many animations made content appear slower and hindered effective readability",
+      "Text appearing on screen with too many animations prevented focus on content",
+      "Animation speed was perceived as too slow"
+    ],
+    "mitigation_strategies": [
+      "Incorporated all teacher suggestions from cognitive walkthrough into improved prototype",
+      "Changed school names to appear as a dropdown list to prevent spelling mistakes",
+      "Added navigation buttons for front and back screens",
+      "Suggested replacing character-wise animation with line/paragraph-wise text display",
+      "Recommended using icons instead of emojis to represent correct/incorrect answers",
+      "Plan to conduct future experiments with actual students in real classroom environment"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "The study does not provide clear eligibility criteria for school or participant selection beyond convenience. Three schools were described as 'randomly selected' from Hyderabad but no randomization procedure is described. Teachers were identified with help of school management, introducing potential selection bias.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Only 3 schools from one city (Hyderabad, Sindh, Pakistan) and 8 teachers participated. This is a very small, geographically limited sample. No students were included in the evaluation. The schools observed had between 18-37 students in 8th grade, all using only board and marker with lecture-based teaching.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "Classroom observation was direct observation by the researcher with no structured observation protocol described. Preliminary interviews used open-ended questions but no validated instrument. Cognitive walkthrough followed Wharton et al.'s method with think-aloud technique, which is a recognized usability evaluation method, but it was applied only to teachers, not to the target student population. No learning outcome measures were used.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Data analysis methods are not clearly described. Qualitative data from observations, interviews, and cognitive walkthrough are presented descriptively with no systematic coding or thematic analysis framework described. Interview findings are presented in tabular form but without rigorous qualitative analysis methodology. No triangulation of data sources is formally discussed.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "High concern",
+      "q5_evidence": "The conclusions claim the cognitive walkthrough 'has been proved very effective' and the game evaluation is 'satisfactory and accepted by teachers,' but these conclusions are based only on qualitative teacher feedback during a prototype walkthrough. The paper does not distinguish between teacher perceptions and actual effectiveness for student learning. Claims about engagement and learning improvement are not supported by student data.",
+      "q6_limitations_discussed": "High concern",
+      "q6_evidence": "The paper acknowledges in the conclusion that 'it is important to measure the impact of game on learning of students' and states the researcher 'intends to perform different experiments with students in real time classroom environment.' However, no formal limitations section is included, and the significant methodological limitations (no student participants, no learning measures, small sample, single city) are not explicitly discussed as limitations.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study presents a prototype development process with formative evaluation by teachers only. There are no student learning outcomes measured, no controlled comparison, no validated assessment instruments, no systematic qualitative analysis methodology described, and a very small sample from a single geographic location. The conclusions overstate findings relative to the evidence. While the design-based approach with classroom observation, teacher interviews, and cognitive walkthrough is reasonable for early-stage prototype development, the study has high risk of bias across all domains when evaluated as evidence for the effectiveness of gamification in history education."
+  }
+}

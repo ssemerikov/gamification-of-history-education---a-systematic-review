@@ -1,0 +1,166 @@
+{
+  "study_id": 71,
+  "pdf_filename": "The Pedagogical Application of Alternate Reality Games using Game-Based Learning to revisit history.pdf",
+  "bibtex_key": "71lynch2015pedagogical",
+  "bibliographic": {
+    "title": "The Pedagogical Application of Alternate Reality Games: Using Game-Based Learning to Revisit History",
+    "authors": [
+      "Ronan Lynch",
+      "Bride Mallon",
+      "Cornelia Connolly"
+    ],
+    "year": 2015,
+    "publication_type": "journal_article",
+    "venue": "International Journal of Game-Based Learning",
+    "doi": "10.4018/ijgbl.2015040102",
+    "volume": "5",
+    "pages": null,
+    "publisher": "IGI Global"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Ireland"
+    ],
+    "country_of_application": "Ireland",
+    "education_level": "secondary",
+    "sample_size": 25,
+    "sample_description": "Twenty-five players (approximately 14-15 years old) who were minors (under the age of eighteen). The DkIT Ethics Research Committee approved the research, while the parents or guardians provided their consent. On Day 1, nine players played; on Day 2, twelve players played; and on Day 3, four players played. Players were initially split into groups of three, while the Day 3 group comprised four players.",
+    "study_design": "mixed_methods",
+    "game_type": "web_based",
+    "game_name": "Plunkett's Pages",
+    "aim": "To outline how the creation of a Serious ARG, titled Plunkett's Pages, correlated the game play with the desired learning outcomes, motivated players to learn, and enriched player learning. The study also aimed to extract evaluation criteria from player reflections to enable novice ARG designers or educators to formatively evaluate an emerging ARG design.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study uses an Alternate Reality Game (ARG), which is a form of game-based learning rather than gamification in the strict sense (adding game elements to non-game contexts). However, ARGs are widely considered within the broader gamification/GBL domain. The study focuses on the 1916 Easter Rising in Irish history, making it clearly about history education. The quantitative results are limited to pre-post knowledge percentage comparisons without statistical significance testing.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "Alternate Reality Games (ARGs) are cross media narrative-based games that use the Internet as a central communications platform. The interactions of participants drive the progression and direction of the story and play experience. Boundaries between reality and fiction are disguised, as game designers ensure that the characters and scenarios react dynamically to player input. Working collaboratively, players collate a fragmented narrative by deciphering codes and clues.",
+    "has_explicit_definition": true,
+    "conceptualization": "The study conceptualizes game-based learning through the lens of Serious ARGs (Alternate Reality Games). A Serious ARG is distinguished from entertainment ARGs by having 'a primary objective to impart knowledge.' The study uses TINAG ('This Is Not A Game') as a core design philosophy where 'ARGs blur the lines of reality and fiction, asking players to suspend their disbelief and deem what they are experiencing as real.' The ARG is framed as a novel form of GBL that 'encourages critical thinking, develops problem-solving skills and fosters collaborative learning.' Game-based learning is operationalized through a cross-media narrative game that integrates multiple platforms (YouTube, Facebook, website with encrypted pages, audio recordings) to create an immersive historical learning experience. The study develops four evaluation criteria for educational ARG quality: Assessment, Feedback, Collaborative Learning, and Debriefing.",
+    "theoretical_frameworks": [
+      "Design-based research (Offermann et al., 2009; Brown, 1992; Hevner, 2004; Sandoval and Bell, 2004; Wang and Hannafin, 2005)",
+      "Interpretivist and pragmatic philosophies",
+      "Thematic analysis (Braun and Clarke, 2006)",
+      "TINAG (This Is Not A Game) philosophy",
+      "Game-Based Learning (GBL)",
+      "Serious Games / Serious ARGs",
+      "Collaborative learning theory",
+      "Hive mind / collective intelligence (McGonigal, 2007)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Pre- and post-ARG knowledge questionnaire percentage scores (Questionnaire A). A benchmarking system was devised between the researcher and the teachers to maintain consistency and reliability when dealing with the players' pre- and post-game quantitative data.",
+    "statistical_results": "The results of the comparative analysis indicated that all twenty-five players improved their knowledge. Indeed, all players showed a noteworthy increase in their post-ARG percentage scores with improvements of knowledge in Players 7, 30, 18 and 21 increasing significantly by 600%, 814%, 1020% and 1800% respectively.",
+    "comparative_methodology": "Pre-post comparison of knowledge questionnaire scores administered before and after the ARG game play. No control group. Questionnaire A gathered quantitative data (pre- and post-game test results). A benchmarking system was devised between the researcher and the teachers to maintain consistency and reliability. Qualitative data was collected through participant-observation, Questionnaire C (enjoyment/learning factors), Questionnaire E (follow-up validation of evaluation criteria), and eight focus groups involving 3-4 participants per session, ranging from 40-75 minutes.",
+    "key_outcomes": "All 25 players improved their knowledge of the 1916 Easter Rising after playing the ARG. Some players showed dramatic improvements (600%-1800% increases in knowledge percentage scores). The qualitative thematic analysis identified four key evaluation criteria that contributed to successful learning: Assessment, Feedback, Collaborative Learning, and Debriefing. Each of the 23 players who completed the follow-up Questionnaire E agreed with the interim evaluation criterion on Assessment.",
+    "engagement_results": "Players were highly engaged with the collaborative, narrative-driven ARG. Key engagement factors identified through thematic analysis include: (1) The rewarding aspect of completing challenges 'sufficiently motivated and engaged players to continue playing, whilst also aiding the retention of information'; (2) Diversity of challenges retained player interest, bringing 'freshness' to the game; (3) Collaborative play enhanced focus and attentiveness -- players reported it was 'a lot better than classroom learning' and that they were 'more alert' than 'sitting down with a textbook'; (4) The TINAG philosophy successfully blurred fact/fiction boundaries, with players stating 'I thought Lucy Reilly was real. I couldn't really distinguish between what was fact and what was fiction'; (5) Feedback system motivated continued play and learning."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Narrative-driven cross-media storytelling (fragmented narrative across multiple platforms)",
+      "TINAG (This Is Not A Game) philosophy -- blurring reality and fiction",
+      "Rabbit holes / trailheads (YouTube video blog as entry point)",
+      "Player-character interaction through multiple media (Facebook, email, website, audio)",
+      "Narrative with white space (gaps in narrative developed by players through gameplay)",
+      "Agency (player control and influence over game progression)",
+      "Collaboration and community (hive mind, no single player can complete the game alone)",
+      "In-game assessments (crosswords, grids, encrypted codes, diverse challenge types)",
+      "Feedback system (immediate notification of performance after each assessment)",
+      "Debriefing session (post-game reflection to distinguish fact from fiction)",
+      "Code deciphering and puzzle solving",
+      "Encrypted webpages requiring clue-based progression",
+      "Time pressure (race against time to retrieve diary pages)",
+      "Progressive unlocking of content (page-by-page diary discovery)"
+    ],
+    "technological_platforms": [
+      "Custom website (www.plunkettspages.com) with encrypted pages and historical content",
+      "YouTube (video blog / rabbit hole featuring fictional character Lucy Reilly)",
+      "Facebook (character interaction platform for Lucy Reilly)",
+      "Audio recordings (dictaphone recording by fictional character Tom)",
+      "Computer laboratory at DkIT campus",
+      "Internet as central communications platform"
+    ],
+    "instructional_strategies": [
+      "Game-based learning (GBL) via Serious ARG",
+      "Design-based research methodology (Offermann et al., 2009)",
+      "Collaborative learning through group play (groups of 3-4 players)",
+      "Problem-based learning (deciphering codes and clues to progress)",
+      "Experiential learning in high-fidelity and meaningful contexts",
+      "Cross-media narrative immersion (blending historical facts with fiction)",
+      "Formative assessment through diverse in-game challenges",
+      "Immediate constructive feedback on player performance",
+      "Post-game debriefing to distinguish factual and fictional elements",
+      "Peer-to-peer learning and knowledge sharing",
+      "Alignment of learning outcomes with game challenges (co-designed with educators)",
+      "Multi-day structured play sessions (3 days)"
+    ],
+    "content_integration": "Historical content about the 1916 Easter Rising was integrated into the ARG through a fictional narrative layered over real historical events. The website PlunkettsPages.com served as an online repository containing information about the Easter Rising, housing the hidden writings and diary entries of Joseph Plunkett (a real historical figure who was one of the seven members of the Irish Republican Brotherhood's Military Council). Players encountered the historical content through encrypted webpages that required deciphering codes and clues. The narrative framework involved a fictional 14-year-old girl (Lucy Reilly) whose grandfather (Tom) had a box of artefacts connected to the Easter Rising. This fictional wrapper motivated players to engage with genuine historical facts about the Easter Rising, including its aims, key figures, and events. The game challenges (crosswords, grids, code-breaking) were directly aligned with the historical learning outcomes, developed through open dialogue between the researcher and educators during the planning phase."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "The Serious ARG field is relatively young and there exists little literature on instructional design models, on their use in schools or universities, or on how best to implement them",
+      "Linking a game and its challenges with learning outcomes, assessment, or formal education is a complex matter",
+      "The TINAG philosophy creates potential confusion for players between factual and fictional elements, requiring careful debriefing",
+      "Debriefing defies the ethos of TINAG (allowing post-game discussions breaks the 'this is not a game' illusion), yet is necessary for learning",
+      "Balancing collaboration with competition is an important design consideration -- some players wanted more competition while others feared it would reduce learning quality",
+      "Initial bouts of competitiveness between groups had to be overcome before effective collaboration emerged"
+    ],
+    "methodology_limitations": [
+      "No control group -- all 25 players received the ARG intervention with no comparison to traditional instruction",
+      "Small sample size (n=25) from a single school context",
+      "Pre-post knowledge percentage improvements reported without formal statistical significance testing (no p-values, t-tests, or effect sizes)",
+      "Unequal group sizes across the three days (9, 12, and 4 players) with no discussion of potential day effects",
+      "Sample limited to minors (14-15 year olds) at a single institution (DkIT campus), limiting generalizability",
+      "No validated pre/post knowledge assessment instrument described -- only 'a benchmarking system devised between the researcher and the teachers'",
+      "Questionnaire E for validation of evaluation criteria was completed by only 23 of the 25 players",
+      "The percentage improvement figures (600%-1800%) may reflect very low baseline scores rather than meaningful absolute gains",
+      "Observer as participant role may have influenced player behavior (Hawthorne effect)",
+      "No inter-rater reliability reported for the thematic analysis",
+      "The study does not report actual pre and post scores, only percentage improvements for selected players"
+    ],
+    "negative_effects": [
+      "Some players expressed concern that competition could reduce learning: 'if competition was brought into the game, we would have really rushed through the game...you'd just find things here and there and skip other things' (EP20L115)",
+      "Players had difficulty distinguishing fact from fiction: 'I thought Lucy Reilly was real. I couldn't really distinguish between what was fact and what was fiction and who was real' (P13L153)",
+      "Without debriefing, players' knowledge of factual vs. fictional elements would have been 'mixed up' (EP29L134)"
+    ],
+    "mitigation_strategies": [
+      "Post-game debriefing sessions to explicitly distinguish factual and fictional elements of the ARG",
+      "Open dialogue between researcher and educators during planning to align learning outcomes with game challenges",
+      "Benchmarking system between researcher and teachers for consistency in assessment",
+      "Collaborative play as dominant mechanism (rather than competition) to support learning",
+      "Constructive and positive feedback at all times to motivate continued play",
+      "Ethics committee approval and parental consent for research with minors",
+      "Follow-up Questionnaire E to validate interim evaluation criteria with players"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "unclear",
+      "q1_evidence": "The paper states that 'Plunkett's Pages is a Serious ARG, created from November 2012 to March 2013, which provided twenty-five players (approximately 14-15 years old) with the means to learn about the events surrounding the 1916 Easter Rising through the medium of play.' A footnote notes 'Minors (those under the age of eighteen) were the research population for the study. The DkIT Ethics Research Committee approved the research, while the parents or guardians provided their consent.' However, no formal inclusion/exclusion criteria are described, and it is unclear how these 25 players were recruited or selected from the broader school population.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "The sample consists of 25 players aged approximately 14-15 at the DkIT campus in Ireland, playing in a computer laboratory. No information is provided about the school type, demographic composition, academic ability levels, or how representative these students are of the broader Irish secondary school population. The sample is a convenience sample from a single site. Unequal group sizes across three days (9, 12, and 4 players) further complicate representativeness.",
+      "judgment": "Unclear"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "Multiple data collection methods were used: (1) Pre- and post-game questionnaires (Questionnaire A) for knowledge testing, with 'a benchmarking system devised between the researcher and the teachers' for consistency and reliability, but no formal validity/reliability metrics are reported; (2) Participant-observation following the 'observer as participant' role (Saunders et al., 2009); (3) Questionnaire C on enjoyment/learning factors; (4) Questionnaire E for follow-up evaluation criteria validation; (5) Eight focus groups of 3-4 participants, 40-75 minutes each. While the mixed-method approach provides triangulation, none of the questionnaire instruments report psychometric properties (Cronbach's alpha, test-retest reliability, content validity).",
+      "q4_analysis_methods": "unclear",
+      "q4_evidence": "The qualitative analysis used Braun and Clarke's (2006) six phases of thematic analysis, which is a well-established method. However, the quantitative analysis is poorly described: only percentage improvements are reported for selected players (600%, 814%, 1020%, 1800%) without reporting actual scores, means, standard deviations, or any inferential statistics. No formal statistical tests were applied to the pre-post comparison. The qualitative findings are well-structured with extensive participant quotes, but no inter-rater reliability is reported for the thematic coding process.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The interpretations are broadly consistent with the data presented. The quantitative claim that 'all twenty-five players improved their knowledge' is supported by reporting that all players showed post-ARG increases. The four evaluation criteria (Assessment, Feedback, Collaborative Learning, Debriefing) are well-supported by extensive player quotes and follow-up validation through Questionnaire E. The conclusion appropriately frames the findings as 'lessons' from a case study rather than making strong causal claims. The discussion section correctly ties findings back to existing literature on GBL and ARGs.",
+      "q6_limitations_discussed": "no",
+      "q6_evidence": "The paper does not include a formal limitations section. No explicit acknowledgment is made of the lack of a control group, the small sample size, the absence of statistical testing for the pre-post comparison, the single-site convenience sample, or the potential Hawthorne effect from the researcher-observer presence. The gap in the market for 'a comprehensive study of what makes a Serious ARG a pedagogically sound, teaching tool' is acknowledged, but the study's own methodological limitations are not discussed.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The overall risk of bias is rated High. Domain 1 (selection) is Unclear because while the sample is described (25 players, aged 14-15, at DkIT campus), no formal selection criteria or representativeness information is provided. Domain 2 (data collection/analysis) is High because the knowledge assessment instrument lacks any reported psychometric properties, the quantitative results are limited to percentage improvements without statistical significance testing or reporting of actual scores, and no inter-rater reliability is reported for the thematic analysis. Domain 3 (interpretation) is High because, although the interpretations are consistent with the presented data, no limitations are discussed despite significant methodological concerns including the absence of a control group, small convenience sample, no formal statistical analysis, and potential observer effects. The study provides rich qualitative insights and useful evaluation criteria for ARG design, but the quantitative evidence for learning effectiveness is weak."
+  }
+}

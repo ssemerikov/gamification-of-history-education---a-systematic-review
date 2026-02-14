@@ -1,0 +1,151 @@
+{
+  "study_id": 48,
+  "pdf_filename": "Learning Cultural Heritage History in Muzium Negara through Role-playing Game.pdf",
+  "bibtex_key": "48Moketar2021",
+  "bibliographic": {
+    "title": "Learning Cultural Heritage History in Muzium Negara through Role-playing Game",
+    "authors": [
+      "Nor Aiza Moketar",
+      "Nurul Hidayah Mat Zain",
+      "Siti Nuramalina Johari",
+      "Khyrina Airin Fariza Abu Samah",
+      "Lala Septem Riza",
+      "Massila Kamalrudin"
+    ],
+    "year": 2021,
+    "publication_type": "journal article",
+    "venue": "International Journal of Advanced Computer Science and Applications (IJACSA)",
+    "doi": "10.14569/IJACSA.2021.0121248",
+    "volume": "12",
+    "pages": "398-406",
+    "publisher": "The Science and Information (SAI) Organization"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Malaysia",
+      "Indonesia"
+    ],
+    "country_of_application": "Malaysia",
+    "education_level": "Young adults (aged 17-25)",
+    "sample_size": 32,
+    "sample_description": "32 respondents, majority aged 21-25 years old, 23 out of 32 (71.9%) were male. Recruited via convenience sampling method.",
+    "study_design": "Design-based research with post-implementation survey evaluation",
+    "game_type": "Role-playing game (RPG), 3D virtual museum environment",
+    "game_name": "Waktu Silam",
+    "aim": "To design and develop a role-playing game (RPG) set in Muzium Negara (National Museum of Malaysia) to enhance students' interest, motivation, and knowledge on the cultural and historical heritage of Malaysia, and to evaluate its enjoyment level using the eGameFlow model.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses primarily on game design/development with a relatively small survey evaluation (n=32) using convenience sampling. It measures enjoyment rather than direct learning outcomes. The sample consists of young adults rather than formal secondary school students, though the content targets the Malaysian History curriculum.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes gamification through game-based learning, specifically using the RPG genre to learn historical content in a virtual museum setting. Game-based learning is described as 'an exciting and effective way of learning when adequately constructed using learning principles as a goal.' The RPG genre is characterized as providing players with roles that advance through playing and storytelling experiences, involving good storylines and interactions with objects or characters. The authors link RPGs to constructivism (hands-on experimentation) and sociocultural learning theory (adoption of new social roles).",
+    "theoretical_frameworks": [
+      "Constructivism",
+      "Sociocultural learning theory",
+      "Game-based learning",
+      "eGameFlow model (Fu, Su & Yu, 2009)",
+      "Freytag's pyramid (narrative structure)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "eGameFlow model survey with 7 dimensions (social interaction excluded): Concentration (mean=4.13), Goal Clarity (mean=4.16), Feedback (mean=4.10), Challenge (mean=4.12), Autonomy (mean=4.63), Immersion (mean=4.23), Knowledge Improvement (mean=4.31). Overall average mean = 4.24 out of 5 (84.8%).",
+    "statistical_results": "Descriptive statistics only. Total average mean across all eGameFlow dimensions was 4.24 (84.8%). Highest-rated dimension was Autonomy (4.63); lowest was Feedback (4.10). Individual items ranged from 3.67 (online support for challenges, H4) to 4.84 (sense of control over menu A1, knowing next step A8, sense of control over game A9).",
+    "comparative_methodology": null,
+    "key_outcomes": "84.8% of participants experienced enjoyment while playing the game. The game was identified to efficiently increase knowledge on knowing and memorizing history content in the museum. Autonomy scored highest (4.63), indicating players felt strong sense of control. Knowledge Improvement scored 4.31, suggesting the game enhanced players' knowledge about Malaysia's history.",
+    "engagement_results": "Concentration mean=4.13; Immersion mean=4.23 (players reported forgetting time, becoming unaware of surroundings, feeling emotionally involved). Challenge mean=4.12. Overall engagement was positive with 84.8% enjoyment rating."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Role-playing (player controls a fictional character)",
+      "Narrative structure based on Freytag's pyramid (Exposition, Rising Action, Climax, Falling Action, Conclusion)",
+      "Virtual museum exploration with interactive artefacts",
+      "Multiple game levels corresponding to museum galleries (Prehistoric Era, Malay Kingdom, Colonial Era, Malaysia Today)",
+      "Non-player characters (NPCs) providing missions and guidance",
+      "Cut-scenes for character and mission introduction",
+      "Pop-up details with historical information about artefacts",
+      "Clear goals and missions to complete each level",
+      "Feedback on progress (scores, levels, success/failure notifications)",
+      "Player autonomy (menu control, strategy freedom, decision-making)",
+      "Challenge progression across levels"
+    ],
+    "technological_platforms": [
+      "Unity (cross-platform game engine for environment and scene development)",
+      "Blender (open-source 3D creation suite for museum and artefact models)",
+      "PC/Desktop platform"
+    ],
+    "instructional_strategies": [
+      "Game-based learning through RPG genre",
+      "Virtual museum-based learning (supplementing classroom-based learning)",
+      "Narrative-driven learning with historical storyline",
+      "Experiential learning through interaction with virtual artefacts",
+      "Exploration-based learning across four historical gallery themes",
+      "Immersive learning through 3D virtual environment"
+    ],
+    "content_integration": "Historical content is integrated directly from the four main galleries of Muzium Negara (National Museum of Malaysia): Prehistoric Era (evolution of earth's surface to earliest Malaysian inhabitants, Palaeolithic stone tools, Hindu-Buddhist temple relics from Lembah Bujang), Malay Kingdoms (first Malay Kingdoms, Malacca Malay Kingdom in 15th century), Colonial Era (Portuguese, Dutch, British, and Japanese administration and effects), and Malaysia Today (struggle for independence, formation of new nation, transformation since 1957). Players explore virtual galleries, interact with artefacts that display detailed historical information, and complete missions in imaginary worlds corresponding to each historical era."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Geographical location barriers prevent students from visiting the actual museum",
+      "Museum policies may restrict student access",
+      "Student commitments limit museum visit opportunities",
+      "Single-player only (no multiplayer functionality at time of study)",
+      "Game not yet available in console version",
+      "Need for collaboration with Muzium Negara for more detailed and quality historical information"
+    ],
+    "methodology_limitations": [
+      "Small sample size (n=32) using convenience sampling",
+      "No control group or comparative experimental design",
+      "Only descriptive statistics reported (means), no inferential statistics",
+      "Social interaction dimension excluded from evaluation due to single-player design",
+      "Evaluation focused on enjoyment rather than actual learning outcomes or knowledge gains",
+      "Respondents were young adults (17-25) rather than the target secondary school population",
+      "No pre-test/post-test design to measure actual knowledge improvement",
+      "Gender imbalance in sample (71.9% male)"
+    ],
+    "negative_effects": [
+      "Some distraction from tasks was noted (item C4 'No distraction from task' scored lowest in Concentration at 3.93)",
+      "Online support for overcoming challenges was rated lowest overall (H4 = 3.67)",
+      "Immediate feedback on actions was rated relatively low (F2 = 3.81)",
+      "Difficulty scaling with skill improvement was rated below average for its dimension (H8 = 3.94)"
+    ],
+    "mitigation_strategies": [
+      "Future plans to add multiplayer functionality for increased interactivity and social interaction",
+      "Plans to develop a console version for broader accessibility",
+      "Plans to collaborate with Muzium Negara for more accurate and detailed historical content",
+      "Used Agile Development Methodology with iterative Scrum framework to allow frequent requirement changes and improvements",
+      "Applied eGameFlow model to systematically identify areas needing improvement"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "The study used convenience sampling to recruit 32 young adults aged 17-25. No clear inclusion/exclusion criteria were specified beyond the age range. No information about how participants were recruited or selected. The target population (secondary school students who need to pass SPM History) differs from the actual sample (young adults, mostly university-age).",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Sample of 32 respondents with strong male bias (71.9% male). The sample is not representative of the target population of Malaysian secondary school history students. Convenience sampling limits generalizability. No demographic stratification or discussion of representativeness.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Low concern",
+      "q3_evidence": "The eGameFlow model (Fu, Su & Yu, 2009) is a validated and well-established scale for measuring learners' enjoyment of e-learning games. The instrument has been used in prior research. The 7 dimensions measured (excluding social interaction) are clearly described with specific questionnaire items provided in full detail (Table III).",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Only descriptive statistics (means) were reported. No measures of variability (standard deviation, confidence intervals) were provided. No inferential statistical tests were conducted. No reliability measures (e.g., Cronbach's alpha) were reported for the adapted instrument. The 84.8% enjoyment figure is simply the overall mean (4.24/5) converted to a percentage, without statistical rigor.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "High concern",
+      "q5_evidence": "The study claims the game 'efficiently increases knowledge' but this was measured only through self-reported survey items (Knowledge Improvement mean=4.31), not through actual knowledge assessment. The conclusion that 84.8% experienced 'enjoyment' conflates an average Likert scale score with a percentage of agreement. The abstract and conclusion make broad claims about enhancing interest, motivation, and knowledge that go beyond what the survey evaluation actually measured.",
+      "q6_limitations_discussed": "High concern",
+      "q6_evidence": "The study does not include a limitations section. There is no discussion of the small sample size, convenience sampling bias, lack of control group, gender imbalance, or the gap between the sample (young adults) and the intended target population (secondary school students). Future work mentions are limited to adding multiplayer and collaborating with the museum, without acknowledging methodological limitations.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study presents high risk of bias across all three domains. The sample selection relies on convenience sampling with a small, non-representative sample (n=32) that does not match the target population. While a validated instrument (eGameFlow) was used, the analysis is limited to descriptive means without variability measures, reliability testing, or inferential statistics. The interpretation overstates findings by claiming knowledge improvement based solely on self-reported enjoyment surveys rather than actual learning assessments, and no limitations are discussed. The study is primarily a design-and-development paper with a minimal evaluation component."
+  }
+}

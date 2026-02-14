@@ -1,0 +1,137 @@
+{
+  "study_id": 63,
+  "pdf_filename": "The Development and Evaluation of an Online Educational Game Integrated with Real Person-NPC mechanism for History Learning.pdf",
+  "bibtex_key": "63Liu2021",
+  "bibliographic": {
+    "title": "The Development and Evaluation of an Online Educational Game Integrated with Real Person-NPC mechanism for History Learning",
+    "authors": [
+      "Shu-Wei Liu",
+      "Hung-Yu Chan",
+      "Huei-Tse Hou"
+    ],
+    "year": 2021,
+    "publication_type": "conference_paper",
+    "venue": "Proceedings of the 29th International Conference on Computers in Education (ICCE 2021), Asia-Pacific Society for Computers in Education",
+    "doi": null,
+    "volume": null,
+    "pages": "713-715",
+    "publisher": "Asia-Pacific Society for Computers in Education"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Taiwan"
+    ],
+    "country_of_application": "Taiwan",
+    "education_level": "not_specified",
+    "sample_size": 12,
+    "sample_description": "12 adults in Taiwan (9 males, 3 females), grouped with three members in each group (4 groups total)",
+    "study_design": "pre_post",
+    "game_type": "web_based",
+    "game_name": "1946 Base Exploration (beta)",
+    "aim": "To develop an online educational game integrating real person-NPC mechanism and simulated environment for military monument history learning, and to evaluate learners' learning performance and flow state through preliminary empirical research",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Very small sample size (n=12); described as 'preliminary empirical research'; short 3-page conference paper with limited methodological detail; participants described as 'adults' without specifying education level; no control group",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes game-based learning through an online educational game integrating real person-NPC (Non-Player Character) mechanisms within situated learning. A real person-NPC is defined as 'a real person as NPC and participating in online in-game role-playing' that 'can provide players with more realistic verbal dialogues and behavioral interactions.' This mechanism is conceived as a 'dynamic scaffold, providing players with real-time realistic feedback and guidance to facilitate their reflective and planning thinking, as well as to diagnose and monitor learners' progress at any time.' The approach draws on situated learning theory, emphasizing context, authenticity, and learning transfer through role-play based interactions.",
+    "theoretical_frameworks": [
+      "Situated learning theory (Lave & Wenger, 1991)",
+      "Kiili's flow model/experiential gaming model (Kiili, 2006)",
+      "Flow theory (as operationalized via Hou & Chou, 2012 flow scale)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Learning performance measured via pre-test and post-test (18 questions across 4 major tasks covering knowledge of military base history, base structure, geography, and strategic planning). Flow state measured via Kiili's flow scale (2006, translated/revised by Hou & Chou, 2012) with two dimensions (flow antecedent and flow experience) on a five-point Likert scale (Cronbach's alpha = 0.931).",
+    "statistical_results": "Wilcoxon signed rank test for learning performance: pre-test M=5.50, SD=3.63; post-test M=9.00, SD=3.54; Z=-2.77, p=.006 (p<.01). Overall flow score M=4.23, SD=0.49. Flow antecedents M=4.18, SD=0.58 (Challenge M=4.17, SD=0.91; Goal M=4.25, SD=0.54; Feedback M=3.88, SD=0.88; Control M=4.42, SD=0.51; Playability M=4.17, SD=0.89). Flow experience M=4.28, SD=0.46 (Concentration M=4.50, SD=0.55; Time distortion M=4.33, SD=0.49; Autotelic experience M=4.54, SD=0.53; Loss of self-consciousness M=3.29, SD=1.05).",
+    "comparative_methodology": "Single-group pre-test/post-test design using Wilcoxon signed rank test (non-parametric) to compare learning performance before and after game-based intervention. No control group.",
+    "key_outcomes": "Significant improvement in learners' knowledge of history and capabilities of strategic planning after playing the game (pre-test M=5.50 to post-test M=9.00, Z=-2.77, p=.006). The authors state: 'learners' knowledge of history and the capabilities of strategic planning improved through this game.'",
+    "engagement_results": "High flow state reported: overall flow M=4.23 (above median of 3 on 5-point scale). Highest sub-dimension scores: Autotelic experience M=4.54, Concentration M=4.50, Control M=4.42. Lowest: Loss of self-consciousness M=3.29, Feedback M=3.88. The authors conclude: 'learners were deeply involved in the game.'"
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Real person-NPC mechanism (real persons role-playing as NPCs: a 'commander' and a 'soldier')",
+      "Role-playing (learners play the role of military officers)",
+      "Task-based missions (three tasks related to military base investigation)",
+      "Simulated environment (virtual military base in northern Taiwan)",
+      "Scaffolding (real person-NPCs provide clues and guidance based on learner needs)",
+      "Limited help opportunities (limited chances to call real person-NPCs for assistance)",
+      "Exploration and discovery (visiting military sites, observing appearance, topography, clues)",
+      "Strategic planning tasks (planning facility use, attack positions, patrol routes)",
+      "Collaborative gameplay (groups of three)"
+    ],
+    "technological_platforms": [
+      "Gather Town (gather.com) - online virtual world platform",
+      "Personal computers with microphones for voice communication"
+    ],
+    "instructional_strategies": [
+      "Situated learning with context and authenticity",
+      "Role-play based situated learning (learners as military officers)",
+      "Real person-NPC as dynamic scaffolding with real-time feedback",
+      "Task-based learning (three investigation tasks)",
+      "Collaborative group learning (groups of three)",
+      "Exploration-based learning (investigating virtual military sites)",
+      "Strategic planning exercises (facility planning, attack positions, patrol routes)"
+    ],
+    "content_integration": "Historical content about a real military base in northern Taiwan was integrated into the game environment. Learners investigated an abandoned virtual military base, visiting various military sites to learn about the base's establishment background, structure, and geography. Historical knowledge was embedded in the environment through visual clues (appearance, topography, artifacts left behind) that learners needed to observe and interpret. The three tasks required learners to synthesize historical knowledge with strategic planning, including planning further use of facilities, attack positions, and patrol routes."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Requires trained researchers to play real person-NPC roles (a 'commander' and a 'soldier'), limiting scalability",
+      "Beta version of the game, indicating incomplete development",
+      "Reliance on Gather Town platform for game development (platform dependency)",
+      "Need for personal computers and microphones for each group"
+    ],
+    "methodology_limitations": [
+      "Very small sample size (n=12) limiting statistical power and generalizability",
+      "No control group for comparison",
+      "Single-group pre-post design without randomization",
+      "Preliminary/pilot study nature acknowledged by authors",
+      "Short conference paper format (3 pages) with limited methodological detail",
+      "Participants described only as 'adults' without specifying education level or recruitment criteria",
+      "No effect size reported",
+      "No information about test validity or reliability for the learning performance test",
+      "Self-reported flow measure (potential social desirability bias)"
+    ],
+    "negative_effects": [
+      "Loss of self-consciousness sub-dimension scored lowest among flow dimensions (M=3.29, SD=1.05), suggesting learners maintained self-awareness rather than becoming fully immersed",
+      "Feedback sub-dimension scored relatively low (M=3.88, SD=0.88), suggesting room for improvement in how feedback was delivered"
+    ],
+    "mitigation_strategies": [
+      "Future study proposed to employ quasi-experimental design with control group (e.g., teaching approach, role-playing method)",
+      "Plans to continue exploring learners' geographic awareness, historical empathy, and learning motivation in future research"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "no",
+      "q1_evidence": "No selection criteria are described for the 12 participants. The paper states only: 'Participants in this study were 12 adults in Taiwan (9 males, 3 females).' No information is provided about how they were recruited, whether they were students, or any inclusion/exclusion criteria. Convenience sampling is implied.",
+      "q2_representativeness": "no",
+      "q2_evidence": "Very small sample of 12 adults from Taiwan with no description of the target population. Only basic demographic information given (9 males, 3 females). No information about age, education level, prior gaming experience, or history knowledge. The sample cannot be assessed for representativeness.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "The flow questionnaire is based on Kiili's flow scale (2006), translated and revised by Hou and Chou (2012), with reported Cronbach's alpha of 0.931 indicating high internal consistency. However, the learning performance test (18 questions across 4 tasks) has no reported validity or reliability information. The paper states: 'The test was designed referring to the case of investigating the virtual military base' but provides no psychometric properties.",
+      "q4_analysis_methods": "unclear",
+      "q4_evidence": "The Wilcoxon signed rank test is an appropriate non-parametric test for the small sample size and paired design. However, no effect size is reported, no confidence intervals are provided, and descriptive statistics for the flow scale are limited to means and standard deviations without inferential testing against the median. The analysis is basic but not inappropriate for a preliminary study.",
+      "judgment": "Unclear"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The authors' interpretations are generally consistent with the statistical results presented. The significant Wilcoxon test result supports the claim of improved learning performance, and the flow scores above the median support the claim of high engagement. The authors appropriately describe the study as 'preliminary empirical research' and 'preliminary findings.'",
+      "q6_limitations_discussed": "no",
+      "q6_evidence": "There is no explicit limitations section. The conclusion briefly mentions plans for future quasi-experimental designs with control groups, implicitly acknowledging the current design's weakness, but does not explicitly discuss limitations such as the very small sample size, lack of control group, or generalizability concerns.",
+      "judgment": "Unclear"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high overall risk of bias primarily due to the very small sample size (n=12) with no selection criteria described, no control group, and no reported validity/reliability for the learning performance instrument. It is a preliminary pilot study presented as a short conference paper (3 pages), which inherently limits methodological detail. The flow instrument has good reliability (alpha=0.931), and the non-parametric statistical test is appropriate for the design, but the absence of effect sizes, the lack of an explicit limitations discussion, and the inability to establish causality without a control group all contribute to high overall risk of bias."
+  }
+}

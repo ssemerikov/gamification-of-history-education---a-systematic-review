@@ -1,0 +1,153 @@
+{
+  "study_id": 76,
+  "pdf_filename": "Validity of a Simulation Game as a Method for History Teaching.pdf",
+  "bibtex_key": "76Corbeil2011462",
+  "bibliographic": {
+    "title": "Validity of a Simulation Game as a Method for History Teaching",
+    "authors": [
+      "Pierre Corbeil",
+      "Dany Laveault"
+    ],
+    "year": 2011,
+    "publication_type": "journal_article",
+    "venue": "Simulation & Gaming",
+    "doi": "10.1177/1046878108325451",
+    "volume": "42",
+    "pages": "462-475",
+    "publisher": "SAGE Publications"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Canada"
+    ],
+    "country_of_application": "Canada",
+    "education_level": "higher_education",
+    "sample_size": 65,
+    "sample_description": "Three CEGEP-level history classes (College of General and Vocational Education), Quebec, Canada; students aged 17 to 25. A class in Trois-Rivieres served as the control group, while two classes in Drummondville were the experimental groups using the simulation game. 44 of the 65 students were in the experimental group and were observed continuously over a 4-month term. 330 variables were identified involving personality, intellectual capacity, scholastic results, attitudes, and opinions.",
+    "study_design": "quasi_experimental",
+    "game_type": "board_game",
+    "game_name": "International Relations Simulation Game (loosely based on DIPLOMACY)",
+    "aim": "First, to determine the validity of a simulation game as a method of teaching and an instrument for the development of reasoning and, second, to study the relationship between learning and students' behavior toward games in a History of International Relations course",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Originally published in French in 1986 in Revue des sciences de l'education, republished in English in Simulation & Gaming in 2011. The study is from the 1980s, making it quite dated in terms of educational research methodology. Uses a quasi-experimental design with intact classes (not randomized), with control and experimental groups in different cities (Trois-Rivieres vs. Drummondville), introducing potential confounds.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "The simulation game, as opposed to the role-playing game, does not try to provoke certain feelings in the participant, but rather places him in a context, with certain givens, where he must attempt to increase his chances of winning and decrease his chances of losing. Givens and results are more explicit in a simulation game than in a role-playing game.",
+    "has_explicit_definition": true,
+    "conceptualization": "The study conceptualizes the simulation game as a pedagogical tool grounded in Piaget's theory of cognitive development, specifically the development of formal operational thought. The simulation game is understood as a method that bridges concrete and formal operational stages of reasoning. A key theoretical contribution is Table 1 which maps game assimilation stages (using rules, coordination of rules, coordination of strategies, coordination of outcomes) to Piaget's accommodation stages (learning context, learning strategies, learning outcomes, learning from the game, learning about the game/meta-game). The game is seen not just as a teaching method but as a tool for developing reasoning capacities in adolescents. The authors also connect the simulation game to historicism -- putting oneself in historical characters' shoes -- and view it as creating simplified problems that make the past 'come alive' through student interaction.",
+    "theoretical_frameworks": [
+      "Piaget's theory of cognitive development (formal operational thought)",
+      "Hallam's application of Piaget to history education (1969a, 1969b)",
+      "Verstehen (subjective understanding) as per Foster et al. (1980)",
+      "Torkia-Lagace (1980) on development of formal operations in humanities students",
+      "Laveault & Corbeil (1983) model of student operational levels in simulation games"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Six dependent variables measured: (1) LAM-30P questionnaire for learning styles, (2) tests of operational development, (3) questionnaire on attitudes toward the game, (4) questionnaire on opinions regarding knowledge and history, (5) objective test of historical knowledge at end of term, (6) five-series test of comprehension in historical analysis. Also measured: correlation between involvement and comprehension (r), correlation between formal level and historical knowledge (r), ANOVA on knowledge and comprehension scores between groups.",
+    "statistical_results": "Table 2.1 - Test of Historical Knowledge: No significant difference between experimental groups (Group 1, M = 17.42; Group 2, M = 15.65) and control group (Group 0, M = 16.86), F = 0.912, p = .410 (n = 31 experimental vs control). Table 2.2 - Historical Comprehension Test 1: Experimental groups had significantly better results (max = 5.00; Group 1, M = 2.67; Group 2, M = 3.24) than control group (Group 0, M = 1.73), F = 5.578, p = .007 (n = 44). Second comprehension test favored experimental groups but not significantly (Group 1, M = 2.42; Group 2, M = 2.29; Group 0, M = 1.87). Table 2.3 - Historical Knowledge: Formal vs Preformal Students (experimental groups only): Intergroup F = 8.84, p = .006 (Preformal n = 19, M = 15.47, SD = 3.37; Formal n = 14, M = 19.41, SD = 3.80). Formal level as predictor of historical knowledge: r = .53, p = .049, n = 21. No significant difference between formal and preformal for comprehension tests: r = .23, p = .614, n = 21. Involvement and historical comprehension: r = .50, p = .011. Sensorimotor learning style and motivation: Spearman rho = .4297, p = .009. Table 3 correlations: Proprioceptive cinematic and second chance rho = .5011, p = .003; Proprioceptive temporal rho = .4519, p = .007; Sensorimotor rho = .5686, p = .001; Kinesthetic rho = .4674, p = .005; Transactional rho = .4485, p = .007; Auditive and absenteeism rho = .4560, p = .006. Table 4.1: Proportion chi-squared = 0, significance level = 1; Combination chi-squared = 0.13, significance level = .91. Table 5 - Opinions by attitude: Opinion A chi-squared = 9.20, p < .01; Opinion B chi-squared = 15.13, p < .01; Opinion C chi-squared = 10.89, p < .01.",
+    "comparative_methodology": "Quasi-experimental design with two experimental groups (simulation game) and one control group (regular lectures) in a History of International Relations course. Three CEGEP-level classes were used: two experimental classes in Drummondville and one control class in Trois-Rivieres. All groups received developmental and learning tests at different times during the term. Control group attended ordinary lectures while experimental groups participated in the simulation game with four scenarios of increasing difficulty. Both groups completed the objective knowledge test and comprehension tests at end of term.",
+    "key_outcomes": "Experimental groups had significantly higher scores on the first comprehension test (p = .007) compared to the control group. No significant difference on historical knowledge test (p = .410), meaning the game was as efficient as lectures for knowledge acquisition. Within experimental groups, formal students scored significantly higher on knowledge (M = 19.41 vs M = 15.47, p = .006). The game benefited preformal students most in terms of comprehension (no significant difference between formal and preformal on comprehension). The game motivated certain learning styles (sensory-motor, kinesthetic). 64.7% of students found the game more motivating and diversified than a lecture course.",
+    "engagement_results": "64.7% found the game more motivating and more diversified than a lecture course; 20.6% found it equally motivating and 23.4% found it equally diversified; 97.1% thought it required an equal or less amount of work than other courses (less work: 55.9%; equal work: 41.2%). The only significant relationship between attitude variables and historical comprehension test results was involvement (r = .50, p = .011). Active involvement was the only affective factor significantly linked to learning. Students preferring sensory-motor learning found the course more motivating (Spearman rho = .4297, p = .009). Proprioceptive, sensorimotor, kinesthetic, and transactional learners enjoyed being able to study abstract matter with tools appropriate to their styles. A great majority would take the course again and thought more than 51% of their peers enjoyed the simulation game."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "World map with Antarctic polar projection as game board",
+      "Movement of pieces on the map representing teams and resources",
+      "Four scenarios of increasing difficulty",
+      "Team-based gameplay with each team pursuing objectives",
+      "Rules and conditions that change across scenarios",
+      "Concrete material supports (maps and pieces) materializing abstract concepts",
+      "Strategy coordination and meta-game elements",
+      "Collection of historical documents including a chronology for experimental groups",
+      "Loosely based on DIPLOMACY board game (originally by Waddington/Avalon Hill/Hasbro)"
+    ],
+    "technological_platforms": [
+      "Physical board game (world map with Antarctic polar projection)",
+      "Paper-based historical documents and chronology",
+      "LAM-30P learning style questionnaire",
+      "Tests of operational development (Laveault 1981; Noelting 1982)",
+      "Custom attitudinal and opinion questionnaires",
+      "Objective knowledge test",
+      "Five-series comprehension test in historical analysis"
+    ],
+    "instructional_strategies": [
+      "Simulation game as alternative to traditional lectures for history teaching",
+      "Progressive scenario difficulty (four scenarios of increasing complexity)",
+      "Integration of concrete materials to represent abstract historical concepts",
+      "Historical document analysis alongside game play",
+      "Two-phase comprehension test: first phase with no context, second phase with new information to assess capacity to use context and group information to solve historical problems",
+      "Control of three variables: participant (operational level, learning style), activity (scenarios with changing rules/conditions), material (concrete supports for abstract concepts)",
+      "Debriefing and attitude assessment at end of term",
+      "Alignment with Piaget's developmental theory to scaffold from concrete to formal operational thought"
+    ],
+    "content_integration": "The simulation game was set in the context of a History of International Relations course. The game involved movement of pieces on a world map (Antarctic polar projection) where each team managed resources within scenarios pursuing objectives. Historical content was integrated through: (1) a collection of historical documents and chronology given to experimental groups, (2) four scenarios of increasing difficulty that simulated international relations situations, (3) rules and conditions modifying across scenarios to reflect different historical dynamics. The game was loosely based on the DIPLOMACY board game. Learning from the game involved grouping causal factors (alliances, geographic proximities, role of colonies), which mapped onto actual historical causal relationships. At the highest level of assimilation, students could link game events with historical factors that had similar effects, creating new rules and constraints, and considering the game as one form of history and history as one form of game (meta-game level)."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Requires game-experienced teachers; the authors note a true multivariate study would require 500 students and 20 game-experienced teachers",
+      "Students do not assimilate the game in identical fashions, affecting how they learn through the game",
+      "For many students, the game is only a game until they understand the symbolic import of the material -- they pay more attention to rules than to meaning of ongoing events",
+      "Set effect: presentation of the game and students' expectations affect learning",
+      "Experience: teacher's personality, variations in procedure, and type of debriefing introduce variability",
+      "Personal variables: group dynamics, personality differences, and cognitive styles are underexplored",
+      "Game-playing skills differ from academic skills, depending mostly on verbal ability and abstract thinking",
+      "Different cities for control vs. experimental groups introduces potential confounds"
+    ],
+    "methodology_limitations": [
+      "Non-randomized quasi-experimental design with intact classes from different cities (Trois-Rivieres vs. Drummondville)",
+      "Small sample size (n = 65 total, n = 44 experimental, control group size approximately 21)",
+      "330 variables identified but intensive rather than extensive analysis was used due to limited sample",
+      "A true statistical multivariate study would require 500 students and 20 game-experienced teachers, which was impossible",
+      "Originally conducted in the early 1980s and published in French in 1986; republished in English in 2011",
+      "Comprehension test significant in only one of five tests",
+      "Cannot determine impact of scenario difficulty variations on formal vs. preformal students due to varying test difficulty",
+      "Research took for granted that once students played correctly they were ready to learn, but the authors found students assimilate games differently"
+    ],
+    "negative_effects": [
+      "Auditive students tended to be absent most often from the simulation game course (rho = .4560, p = .006), suggesting the method may disadvantage certain learning styles",
+      "No significant advantage on knowledge acquisition (p = .410) -- the game was not superior to lectures for factual knowledge retention",
+      "Comprehension advantage was significant in only 1 of 5 tests"
+    ],
+    "mitigation_strategies": [
+      "Control three variables (participant, activity, material) to isolate factors and generalize beyond this particular simulation game",
+      "Progressive scenario difficulty to scaffold learning",
+      "Provide concrete material supports (maps, pieces) to help students understand abstract concepts",
+      "Use multiple assessment methods (knowledge tests, comprehension tests, attitude questionnaires, learning style inventories, operational development tests) to triangulate findings",
+      "Combine intensive clinical approach with standard statistical methods",
+      "Give students mobile and tactile instruments they can manipulate as tools to study and understand abstract concepts",
+      "Allow participants to discuss hypotheses, methods, and approaches among themselves"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "unclear",
+      "q1_evidence": "The paper states 'Three CEGEP-level history classes were involved in the research (i.e., College d'Enseignement General et Professionel [College of General and Vocational Education], Quebec, Canada; students aged 17 to 25). A class in Trois-Rivieres was used a control group, whereas two classes in Drummondville were the experimental groups using the simulation game.' However, no explicit criteria for selecting these particular classes are given, no information on how or why these specific classes were chosen, and no discussion of potential selection bias from using classes in two different cities.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "The sample consists of 65 CEGEP-level students from two cities in Quebec, Canada. While the age range (17-25) and educational level are specified, no demographic information, prior history knowledge, or baseline equivalence data between control and experimental groups is provided. The use of intact classes from different institutions (Trois-Rivieres vs. Drummondville) raises representativeness concerns. The authors acknowledge that 'A true statistical multivariate study would require 500 students and 20 game-experienced teachers, which was impossible in the present circumstances.'",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "yes",
+      "q3_evidence": "Six instruments were used to measure dependent variables: (1) the LAM-30P questionnaire for learning styles (Lamontagne, Lamontagne, & Lamy, 1982), (2) tests of operational development (Laveault, 1981; Noelting, 1982), (3) a custom questionnaire on attitudes, (4) a questionnaire on students' opinions, (5) an objective knowledge test, and (6) a five-series test of comprehension in historical analysis (Corbeil et al., 1984). Several instruments are established, published tools with citations. The comprehension test used a two-phase approach designed to measure capacity to use context and group new information to solve a historical problem.",
+      "q4_analysis_methods": "yes",
+      "q4_evidence": "ANOVA was used to compare experimental and control groups on knowledge and comprehension tests (Tables 2.1, 2.2, 2.3 with df, MS, F, and p values reported). Correlation analyses (Pearson r and Spearman rho) were used to examine relationships between involvement and comprehension (r = .50, p = .011), formal level and knowledge (r = .53, p = .049), and learning styles and attitudes (Table 3). Chi-square tests were used for frequency comparisons (Tables 4.1, 4.2, 5). Methods are described and results reported with standard statistical values, though effect sizes are not reported.",
+      "judgment": "Low"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The authors' interpretations are generally consistent with the statistical results. They correctly note that the game showed no significant advantage for knowledge acquisition (F = 0.912, p = .410) while showing significant advantages for comprehension on one test (F = 5.578, p = .007). They accurately state that 'In terms of knowledge, the game is, on average, as efficient as a lecture course' and that the comprehension difference was 'significant in only a single case.' They correctly identify that formal students scored higher on knowledge but that no significant difference existed between formal and preformal on comprehension. The discussion of learning styles and motivation is grounded in the correlation data presented.",
+      "q6_limitations_discussed": "yes",
+      "q6_evidence": "The authors acknowledge several limitations: 'A true statistical multivariate study would require 500 students and 20 game-experienced teachers, which was impossible in the present circumstances.' They note that 'With so many variables, an intensive analysis was preferred to an extensive superficial one.' They acknowledge that 'it is impossible at the present time to make a statement about the impact of variations in scenario difficulty, concerning either formal or preformal students, owing to the varying difficulty of the five tests.' However, the limitation of using non-randomized intact classes from different cities is not explicitly acknowledged.",
+      "judgment": "Low"
+    },
+    "overall": "Unclear",
+    "overall_justification": "The study presents a mixed risk of bias profile. Domain 1 (selection) is high risk due to the use of non-randomized intact classes from two different cities with no baseline equivalence data and limited sample description. Domain 2 (data collection/analysis) is low risk: the study employed multiple established instruments (LAM-30P, operational development tests) and reported appropriate statistical analyses (ANOVA, correlation, chi-square) with full statistical values. Domain 3 (interpretation) is low risk: interpretations are generally consistent with the data, and key limitations are acknowledged. The overall assessment is 'Unclear' because the high-risk selection domain (non-equivalent groups, different institutions, small sample of 65) is partially offset by methodologically sound data collection and honest interpretation of mixed results (acknowledging that the game was not superior for knowledge, only for one comprehension test). The study's age (originally 1980s research) also limits its generalizability to modern educational contexts."
+  }
+}

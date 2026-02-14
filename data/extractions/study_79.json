@@ -1,0 +1,162 @@
+{
+  "study_id": 79,
+  "pdf_filename": "Work, Trade, Learn Developing an Immersive Serious Game for History Education.pdf",
+  "bibtex_key": "79Fernes2024379",
+  "bibliographic": {
+    "title": "Work, Trade, Learn: Developing an Immersive Serious Game for History Education",
+    "authors": [
+      "David Fernes",
+      "Sebastian Oberdorfer",
+      "Marc Erich Latoschik"
+    ],
+    "year": 2024,
+    "publication_type": "book_chapter",
+    "venue": "Communications in Computer and Information Science (CCIS), iLRN 2023",
+    "doi": "10.1007/978-3-031-47328-9_28",
+    "volume": "1904",
+    "pages": "379-396",
+    "publisher": "Springer Nature Switzerland"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Germany"
+    ],
+    "country_of_application": "Germany",
+    "education_level": "higher_education",
+    "sample_size": 38,
+    "sample_description": "38 university students (19 per condition: VR and Desktop) recruited for course credit. Mean age 22.61 (SD = 2.57). 29 identified as female, 8 as male, 1 as neither. 36 spoke German as native language, 2 business fluent. Only 4 used VR weekly or daily; 30 had only experienced VR in studies or never at all. 12 played computer games weekly or daily; 11 had only experienced computer games in studies or never. All participants used computers daily or weekly. The game was designed for 7th grade secondary school students in Germany but the evaluation was conducted with university students due to COVID-19 pandemic restrictions.",
+    "study_design": "experimental",
+    "game_type": "vr_ar",
+    "game_name": "Work, Trade, Learn (immersive serious game about medieval miller's apprentice life)",
+    "aim": "To investigate the benefits of using VR for serious games targeting the learning of history by developing a serious game for desktop-3D and VR, and comparing the two versions to determine whether the degree of immersion influences learning outcomes and topic interest",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The game was designed for 7th grade secondary school history education but the evaluation was conducted with university students due to COVID-19 pandemic constraints. The authors acknowledge this limits generalizability to the target audience. The study is a between-subjects experimental design comparing VR and Desktop conditions of the same serious game about medieval life (Middle Ages history curriculum). It is clearly about history education and involves a custom-developed serious game.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study does not use the term 'gamification' explicitly. Instead, it is framed around 'serious games' and 'immersive learning.' Serious games are conceptualized as games that 'utilize the entertaining aspects of video games for educational purposes by turning learning content into the central game element.' The study draws on the concept that 'the mechanics of video games can be used to encode the knowledge of history lessons to create what is commonly known as a serious game.' The approach follows situated learning theory: by placing learners in a historically authentic virtual environment where they take on the role of a medieval miller's apprentice, they can 'directly experience situations of the past as well as interact and communicate with agents representing people of the respective era.' The paper also distinguishes between immersive VR and desktop-3D as different delivery modalities for serious games, with immersion defined following Slater and Wilbur as 'the extent to which the computer displays are capable of delivering an inclusive, extensive, surrounding and vivid illusion of reality to the senses of a human participant.' The game encodes learning content through game mechanics (knowledge encoding in game mechanics), where historical facts are embedded in interactive tasks and NPC dialogues rather than presented didactically.",
+    "theoretical_frameworks": [
+      "Situated learning theory (Lave & Wenger, 1991) - knowledge is best learned in its natural context through authentic experiences",
+      "Constructivism (Bodner, 1986) - 'Knowledge is constructed in the mind of the learner'; learner's knowledge is constructed through their own experiences",
+      "Interest theory - differentiating individual interest, situational interest, and topic interest (Ainley et al., 2002; Hidi, 1990)",
+      "Immersion framework (Slater & Wilbur, 1997; Steuer, 1992) - immersion broken into vividness and interactivity components",
+      "Presence theory (Skarbez et al., 2017; Slater & Wilbur, 1997) - feeling of 'being there' in a virtual environment",
+      "Knowledge encoding in game mechanics (Oberdorfer & Latoschik, 2019) - learning content packaged in gameplay elements"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Knowledge test scores (10-item test, 2 questions per topic, administered pre-test/post-test and at 2-week follow-up); Topic interest questionnaire (adapted from Ferdinand, 2013, via Baumgartner, 2014); Situational interest questionnaire (post-game only, from same source). Pre-test had 5 questions (1 per topic), post-test had the remaining 5. Questions randomized per participant. Additional 2-week follow-up knowledge test administered online with 10 questions.",
+    "statistical_results": "Knowledge test (pre vs. post): Shapiro-Wilk W = 0.96, p = 0.16 (normal); paired samples t-test: post-test M = 3.39, SD = 1.27 significantly higher than pre-test M = 1.66, SD = 1.08; t(37) = 6.113, p < 0.001. Knowledge gain comparison between conditions: Desktop M = 1.95, SD = 1.28 vs. VR M = 1.53, SD = 1.76; independent samples t-test t(36) = 0.82, p = 0.42 (not significant). Levene test F = 2.95, p = 0.09. Knowledge after 2 weeks vs. pre-test: Shapiro-Wilk W = 0.91, p < 0.01 (non-normal); Wilcoxon signed rank test: 2-week M = 3.00, SD = 1.11 significantly higher than pre-test M = 1.74, SD = 1.09; Z = 6.5, p < 0.001. Knowledge after 2 weeks vs. post-test: Shapiro-Wilk W = 0.93, p < 0.05 (non-normal); Wilcoxon signed rank test: 2-week M = 3.00, SD = 1.11 not significantly different from post-test M = 3.32, SD = 1.30; Z = 217, p = 0.13. 2-week knowledge gain between conditions: Desktop M = 1.32, SD = 0.98 vs. VR M = 1.2, SD = 0.98; Mann-Whitney U = 149.5, p = 0.81 (not significant). Topic interest (pre vs. post): Shapiro-Wilk W = 0.96, p = 0.23 (normal); paired t-test: post-test M = 20.8, SD = 5.54 significantly higher than pre-test M = 19.58, SD = 6.03; t(37) = 2.58, p < 0.05. Topic interest gain between conditions: Desktop M = 1.47, SD = 2.66 vs. VR M = 1.05, SD = 3.25; independent samples t-test t(36) = 0.43, p = 0.67 (not significant). Situational interest comparison: Desktop M = 31.58, SD = 5.30 vs. VR M = 29.11, SD = 5.60; independent samples t-test t(36) = -0.88, p = 0.38 (not significant).",
+    "comparative_methodology": "Between-subjects experimental design with two conditions: VR (immersive VR with HTC Vive HMD) and Desktop-3D (standard PC with keyboard/mouse). 19 participants per condition, randomly assigned. Pre-test and post-test knowledge assessments, with additional 2-week follow-up (34 of 38 completed). Knowledge gains compared between conditions using independent samples t-tests, Mann-Whitney U tests, or Wilcoxon signed rank tests depending on normality. Statistical analysis performed using R in R-Studio.",
+    "key_outcomes": "The serious game significantly increased participants' knowledge of history from pre-test to post-test (p < 0.001), with scores roughly doubling from M = 1.66 to M = 3.39 out of 5. Knowledge gains persisted at the 2-week follow-up (M = 3.00, significantly higher than pre-test, p < 0.001) and were not significantly different from immediate post-test scores (p = 0.13), suggesting lasting retention. Topic interest in history also significantly increased after playing (p < 0.05). However, there was no significant difference between VR and Desktop conditions on any measure: knowledge gain, 2-week retention, topic interest change, or situational interest. Hypotheses H1, H3, and H6 were supported (knowledge increase, topic interest increase, 2-week retention). Hypotheses H2, H4, H5, and H7 were rejected (no VR advantage over Desktop on any measure).",
+    "engagement_results": "Situational interest did not differ significantly between conditions (Desktop M = 31.58, SD = 5.30 vs. VR M = 29.11, SD = 5.60; t(36) = -0.88, p = 0.38). Qualitative positive feedback: 10 participants liked the controls, 8 each liked the tasks, virtual environment, and character dialogues, and 4 liked the object highlighting system. Qualitative negative feedback: 11 participants wanted better graphics, 5 wanted more interactive elements, 4 wanted more content, and 3 criticized the controls."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Role-playing (player takes the role of a medieval miller's apprentice)",
+      "Narrative-driven gameplay (short narrative of a day in the apprentice's life)",
+      "Object interaction (pick up, carry, and use objects like flour bags, bread loaves)",
+      "Task-based mechanics (operating the mill machinery, grinding grain into flour)",
+      "NPC dialogue system with branching choices (player approaches characters and selects dialogue options via speech bubbles)",
+      "Trading mechanics (trading flour for bread at the market)",
+      "Exploration of historically reconstructed environments (mill, market square, church area)",
+      "Knowledge encoding in game mechanics (historical facts embedded in tasks and dialogues)",
+      "Object highlighting (interactive objects highlighted in green to guide player)",
+      "Tutorial scene for learning interactions",
+      "Inventory system (bag at avatar's waist for carrying small objects)",
+      "Scene transitions (four scenes: mill morning, market, mill evening, tutorial)"
+    ],
+    "technological_platforms": [
+      "Unity game engine (version 2020.3.14f1)",
+      "SteamVR framework (for VR interaction)",
+      "HTC Vive Head Mounted Display (VR condition)",
+      "Desktop PC with keyboard, mouse, and headphones (Desktop condition)",
+      "Blender (3D modeling of custom objects)",
+      "Unity Asset Store (free asset packs for 3D models and modular character agents)",
+      "Limesurvey (digital questionnaire platform)",
+      "R / R-Studio (statistical analysis)"
+    ],
+    "instructional_strategies": [
+      "Situated learning - placing the learner in the historical context of a medieval mill to experience daily life firsthand",
+      "Knowledge encoding in game mechanics - learning content (5 history topics) embedded in gameplay tasks and NPC dialogues rather than presented didactically",
+      "Social interaction with virtual agents - conversations with miller, baker, and priest characters who discuss historical topics",
+      "Authentic historical environment reconstruction - mill modeled after real Franconian Open-Air Museum in Bad Windsheim",
+      "Curriculum alignment - game content modeled after official German school curriculum for 7th grade history",
+      "Pre-service history teacher collaboration - questions designed with help from a pre-service history teacher",
+      "Voice-acted dialogue in end modern German - authentic but understandable language for historical immersion",
+      "Progressive narrative structure - player follows a structured day sequence (morning mill work, market visit, return to mill)",
+      "Multi-topic coverage within single narrative - five curriculum topics (life in medieval towns, work of a miller, religion and Protestantism, printing press, plague cures) woven into game through different mechanics (Table 1)"
+    ],
+    "content_integration": "Historical content was integrated into game mechanics through a systematic encoding approach where each of five curriculum topics was assigned to a specific gameplay mechanic. 'Life in medieval towns' was encoded through a dialogue with the baker at the market; 'Work of a miller' was encoded through the interactive task of operating the mill (grinding grain into flour using levers and machinery); 'Religion and Protestantism,' 'Printing press,' and 'Cures for the plague' were all encoded through dialogues with the priest character. The game follows a narrative arc: the player as a miller's apprentice learns to operate the mill (hands-on task), trades flour for bread at the market (trading mechanic with baker dialogue), and encounters a priest who discusses religion, the printing press, and plague cures (dialogue mechanic). The virtual mill was modeled after a real historical mill from the Franconian Open-Air Museum in Bad Windsheim, Germany. The 10 knowledge test questions (2 per topic) were co-designed with a pre-service history teacher to align with the learning goals embedded in the gameplay."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "COVID-19 pandemic prevented evaluation with the target audience (7th grade secondary school students), requiring evaluation with university students instead",
+      "Low graphics quality was the most commonly criticized aspect (11 of 38 participants mentioned it)",
+      "Limited content scope - only 3.39 out of 5 questions answered correctly on average, partly because answers not clearly stated in dialogues were harder to learn",
+      "Hardware requirements for VR condition (HTC Vive HMD, controllers, tracking space) limit accessibility",
+      "Rare availability of HMDs at most schools limits practical classroom deployment of VR version",
+      "The developer was a computer science student, requiring collaboration with a pre-service history teacher for content accuracy",
+      "Room disinfection required between participants due to COVID-19 (15-minute airing out period)"
+    ],
+    "methodology_limitations": [
+      "Sample not representative of target population: university students (mean age 22.61) instead of 7th grade secondary school students; 'university students might have more previous knowledge about history'",
+      "Most students came from technology-centered courses, so 'the general attitude towards using technology for learning may also be different' from the target audience",
+      "Small sample size (N = 38, 19 per condition) limiting statistical power to detect between-group differences",
+      "Knowledge test had only 5 items per test occasion (pre-test 5, post-test 5), potentially limiting measurement sensitivity",
+      "Some questions were easier than others, and randomization across test forms may not fully control for item difficulty",
+      "No control group without any game intervention - cannot attribute knowledge gains solely to the game versus other factors",
+      "Only 34 of 38 participants completed the 2-week follow-up knowledge test",
+      "The study does not measure other potential benefits of VR such as 'general motivation or the players' emotions'",
+      "Questions whose answers were only implied in dialogues (rather than clearly stated) had the lowest correct answer rates, suggesting measurement may underestimate learning from dialogue-implied content"
+    ],
+    "negative_effects": [
+      "No significant advantage of immersive VR over desktop-3D on any learning outcome, suggesting VR hardware costs may not be justified for this specific application",
+      "Only 3.39 out of 5 post-test questions answered correctly on average, indicating incomplete learning of the targeted content",
+      "Questions where answers were only implied (rather than clearly stated) in NPC dialogue had lowest correct answer rates, suggesting dialogue-based knowledge encoding may not effectively convey implicit information",
+      "3 participants criticized the application controls regardless of condition"
+    ],
+    "mitigation_strategies": [
+      "Authors recommend replicating the study with actual 7th grade students in the future to validate findings for the target population",
+      "Important information in dialogues should be presented 'as clearly as possible' rather than only implied",
+      "Players should have the option to repeat important dialogues to reinforce learning",
+      "More interactivity should be added to dialogue mechanics, such as allowing players to choose conversation topics rather than having a predefined order",
+      "The Desktop-3D version can be safely deployed in schools without loss of learning effectiveness, avoiding VR hardware costs",
+      "Future versions should improve graphics quality based on participant feedback",
+      "Future versions should add more interactive elements and content based on participant feedback",
+      "The game could be used as an exhibit in a museum as well as in school lessons"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "yes",
+      "q1_evidence": "The paper describes selection criteria clearly: 'Participants were recruited from students who received course credit for participation. 38 people took part in the evaluation, with 19 participants per condition.' Demographic details are provided including age (M = 22.61, SD = 2.57), gender distribution (29 female, 8 male, 1 neither), language background (36 native German, 2 business fluent), VR experience, and computer game experience. Random assignment to conditions is stated: 'We randomly assigned the participants to one of the conditions.'",
+      "q2_representativeness": "no",
+      "q2_evidence": "The sample is explicitly not representative of the intended target population. The authors acknowledge: 'The main target audience for this game are 7th grade students in a German secondary school. Since an evaluation with school students was difficult to organize during the covid pandemic the study was instead conducted with university students. The results may therefore not be fully generalizable for the target audience, because university students might have more previous knowledge about history. Since most students came from technology centered courses of study the general attitude towards using technology for learning may also be different.' Additionally, 29 of 38 participants were female, and the sample was recruited from a single university (Goethe University Frankfurt / University of Wurzburg).",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "yes",
+      "q3_evidence": "The study used multiple established measurement instruments. Knowledge was assessed with a custom 10-item test 'designed with the learning goals of the application in mind' with questions co-designed by a pre-service history teacher (2 questions per covered topic). Topic interest was measured 'with a questionnaire from Ferdinand [11] in the version adapted by Baumgartner [5] for the topic of history.' Situational interest used a questionnaire 'from the same source.' All questionnaires were digitally administered via Limesurvey. Normality was checked with Shapiro-Wilk tests before selecting appropriate parametric or non-parametric tests. While the knowledge test was custom-designed (not externally validated), the interest measures are adapted from established instruments.",
+      "q4_analysis_methods": "yes",
+      "q4_evidence": "Statistical analysis methods are clearly described and justified throughout. 'The results of this study were evaluated with R in R-Studio.' For each analysis: normality was first checked with Shapiro-Wilk tests; variance equality was checked with Levene tests; appropriate tests were selected based on these diagnostics (paired t-tests for within-subjects comparisons when normal, Wilcoxon signed rank tests when non-normal, independent samples t-tests or Mann-Whitney U tests for between-subjects comparisons). All test statistics, degrees of freedom, means, standard deviations, and exact p-values are reported. For example: 't(37) = 6.113, p < 0.001' for knowledge gain; 'Z = 6.5, p < 0.001' for 2-week retention.",
+      "judgment": "Low"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "Interpretations are well-aligned with the statistical results. The authors correctly accept H1 (knowledge increase, p < 0.001), H3 (topic interest increase, p < 0.05), and H6 (2-week retention, p < 0.001), while honestly rejecting H2, H4, H5, and H7 (no VR advantage on any measure). They state: 'The remaining hypotheses (H2, H4, H5, H7) therefore have to be rejected. It can therefore be assumed that the level of immersion does not have any influence on these learning factors, at least in the context of this specific game.' They appropriately note this finding 'is not very surprising since learning is very challenging to measure with many factors influencing it and often did not show any significant differences in other studies comparing different kinds of media.' They do not overclaim and note potential unmeasured benefits: 'it cannot be guaranteed that there are no other learning benefits of the VR version that were not covered by this evaluation, like general motivation or the players' emotions.'",
+      "q6_limitations_discussed": "yes",
+      "q6_evidence": "Limitations are discussed in a dedicated section (7.3 Limitations). The authors acknowledge: the mismatch between target audience and actual participants ('The main target audience for this game are 7th grade students in a German secondary school. Since an evaluation with school students was difficult to organize during the covid pandemic the study was instead conducted with university students'); potential differences in prior knowledge ('university students might have more previous knowledge about history'); attitude differences ('the general attitude towards using technology for learning may also be different'); and the need for future replication ('the study should be replicated with 7th grade students in the future'). They also discuss design limitations such as dialogue clarity affecting learning outcomes.",
+      "judgment": "Low"
+    },
+    "overall": "Unclear",
+    "overall_justification": "The overall risk of bias is unclear, reflecting a mix of strengths and weaknesses. Domain 1 (selection) is rated High because the sample (university students) is explicitly acknowledged as non-representative of the target population (7th grade secondary school students), creating a fundamental validity concern. Domain 2 (data collection/analysis) is rated Low because the study uses established interest questionnaires, a curriculum-aligned knowledge test co-designed with a pre-service history teacher, appropriate statistical tests with normality diagnostics, and reports all results with full statistical detail. Domain 3 (interpretation) is rated Low because the authors interpret results conservatively, honestly reject unsupported hypotheses, discuss limitations thoroughly, and avoid overclaiming. The study design is methodologically sound (randomized between-subjects, pre/post with follow-up, appropriate statistics) but the participant mismatch is a substantial limitation that prevents confident generalization to the intended educational context."
+  }
+}

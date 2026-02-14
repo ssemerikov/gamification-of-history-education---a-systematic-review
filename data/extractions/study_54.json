@@ -1,0 +1,157 @@
+{
+  "study_id": 54,
+  "pdf_filename": "Reliving History with Reliving the Revolution Designing Augmented Reality Games to Teach the Critical Thinking of History.pdf",
+  "bibtex_key": "54Gibson2007",
+  "bibliographic": {
+    "title": "Reliving History with \"Reliving the Revolution\": Designing Augmented Reality Games to Teach the Critical Thinking of History",
+    "authors": [
+      "Karen Schrier"
+    ],
+    "year": 2007,
+    "publication_type": "book_chapter",
+    "venue": "Chapter XIII in an edited book (Idea Group Inc.)",
+    "doi": null,
+    "volume": null,
+    "pages": "250-269",
+    "publisher": "Idea Group Inc."
+  },
+  "study_characteristics": {
+    "countries": [
+      "United States"
+    ],
+    "country_of_application": "United States",
+    "education_level": "Mixed (graduate students, educators, and high school students aged 13-17)",
+    "sample_size": null,
+    "sample_description": "Pilot study: two trials with a mix of graduate students and educators. Redesign trial: eight individuals ranging in age from 13 to 17, all attending local and regional high schools.",
+    "study_design": "Design-based research with iterative prototyping, qualitative case study with pre- and post-game surveys, videotaped and in-person observations, and content analysis of debates, game discussions, and notes",
+    "game_type": "Augmented reality (AR) location-based game",
+    "game_name": "Reliving the Revolution (RtR)",
+    "aim": "To design and evaluate an augmented reality game that engages students in interpretive, collaborative, and problem-solving activities to teach the critical thinking skills of history, specifically around the Battle of Lexington (April 19, 1775)",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The bibtex key says 'Gibson2023' but the actual author is Karen Schrier and the year is 2007. This is a design-based study focused on an AR history education game with iterative testing rather than a controlled experiment.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes the AR game as a location-based game that uses wireless handheld devices (PDAs) to provide virtual game information in a physical environment. Gamification is framed through the lens of educational AR gaming that integrates role-playing, collaborative problem-solving, evidence collection, and debate within a historically authentic setting. The game is designed to embed learning within play so that educational content is 'inherent to' the game experience rather than separate from it.",
+    "theoretical_frameworks": [
+      "Situated learning (Brown, Collins, and Duguid, 1989)",
+      "Neo-millennial learning styles (Dede, 2005)",
+      "Historical inquiry and critical thinking frameworks (Hoge, 2003; National Center for History, 1994)",
+      "Iterative design methodology (Zimmerman, 2003)",
+      "Games-To-Teach design principles (Squire, Jenkins, & The Games-To-Teach Team, 2003)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": "Comparison between Pilot study design and Redesign trial through iterative design process; pre- and post-game surveys on game play, attitudes toward history, and knowledge of the Revolutionary War",
+    "key_outcomes": "RtR motivated discovery, enthusiasm, reflection, collaboration, teamwork, problem solving, interpretation, analysis, and consideration of alternative views of history. Participants engaged with historical content, felt immersed in the Battle of Lexington, and practiced historical thinking skills including questioning sources, identifying biases, creating hypotheses, and drawing inferences. The Redesign trial showed improvements: participants were less overwhelmed, more directed by mini-objectives/checkpoints, and more motivated to collaborate inter-role. Participants reported the game felt novel and authentic, and they took the 'serious game' very seriously. They reflected on their own interpretations, questioned preconceived notions about the Battle of Lexington, and related historical understanding to broader social issues.",
+    "engagement_results": "Participants enjoyed being at the actual historic site and using PDAs to integrate virtual information with a real-world context. The game felt novel and authentic. Walking around was 'more engaging and more interactive.' Participants found particular pleasure in kinesthetic learning and discovering information embedded in the environment. They preferred this to sitting in a classroom. The collaborative aspect was highly valued - participants could share ideas, engage in mini-debates, and reflect more deeply on evidence. Some Pilot participants felt overwhelmed by information overload, but Redesign participants with mini-objectives thrived in the nonlinear environment."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Overarching goal (determining who fired the first shot at the Battle of Lexington)",
+      "Role-playing (four historic roles: Prince Estabrook, John Robbins, Ann Hulton, Philip Howe)",
+      "Mini-objectives/secret missions as checkpoints",
+      "Non-player characters (NPCs) providing testimonials and documents",
+      "Evidence collection and item gathering",
+      "Time constraints (two 30-35 minute periods plus debate)",
+      "Collaborative pair play",
+      "Nonlinear exploration and navigation",
+      "Two time periods (before and after the Battle)",
+      "Debate/reflection period",
+      "Physical nametags for role identification",
+      "Location-triggered content via GPS"
+    ],
+    "technological_platforms": [
+      "GPS-enabled PDAs (Personal Digital Assistants)",
+      "XML/.NET (RiverCityAR Engine) game infrastructure",
+      "MIT Teacher Education Laboratory AR game editor system"
+    ],
+    "instructional_strategies": [
+      "Situated learning in authentic historical location (Lexington Common, Massachusetts)",
+      "Collaborative learning through pair play and group debate",
+      "Role-playing with distinct perspectives and biased information",
+      "Iterative design with prototyping and testing cycles",
+      "Evidence-based historical inquiry and hypothesis formation",
+      "Integration of physical and virtual worlds for multimodal learning",
+      "Scaffolded complexity through mini-objectives",
+      "Reflection and debate to consolidate learning",
+      "Multiple perspectives on historical events to challenge master narratives",
+      "Teacher/mentor-supported activity embedded in broader history curriculum"
+    ],
+    "content_integration": "Historical content is deeply integrated into the game mechanics. Participants investigate the Battle of Lexington (April 19, 1775) by collecting testimonials from virtual historic figures (NPCs) at GPS-triggered locations on the actual Lexington Common. Each of the four roles receives different, slightly biased historical accounts. The game content - testimonials, documents, and item descriptions - was crafted as a mix of artistry and historic precision based on the author's immersion in Lexington's history. Two time periods (before and after the battle) provide different NPC information. The physical buildings and sites serve as portals for virtual historical content, creating connections between real monuments and virtual narratives."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Limited budget ($0) and limited resources (single designer/researcher/tester/educator)",
+      "Technical limitations of the River City AR game system (participants could not actively interact with NPCs in their roles)",
+      "Difficulty balancing discovery and familiarity in game design",
+      "Information overload for some participants during Pilot study",
+      "Verbal time limit reminders were insufficient; visual countdown clock needed",
+      "Some Pilot participants forgot they were playing a historic role",
+      "Open-ended design felt unfocused for some participants who wanted more linear progression",
+      "Participants sometimes needed targeted questions and scaffolding to guide debate and encourage reflection",
+      "The debate made RtR feel less like a 'game' to some participants",
+      "Dependence on GPS technology and handheld devices",
+      "Need for instructor/mentor support - the game is not a standalone educational solution"
+    ],
+    "methodology_limitations": [
+      "Small sample sizes in both Pilot and Redesign trials",
+      "Redesign trial limited to 8 high school students aged 13-17",
+      "No control group or formal experimental design",
+      "Qualitative results primarily based on observations and participant statements rather than standardized assessments",
+      "Single designer acting as researcher, tester, and educator introduces potential bias",
+      "Pre- and post-game survey results not reported with quantitative detail",
+      "Limited generalizability due to specific historical site requirement (Lexington Common)"
+    ],
+    "negative_effects": [
+      "Some participants felt overwhelmed by the amount of information and detail in the Pilot study",
+      "Some Pilot participants forgot their historic roles during gameplay",
+      "Some participants desired a more linear game structure and felt the open-ended design was unfocused",
+      "Little feedback on progress during evidence collection made some participants unsure of their status",
+      "The debate component made the experience feel less game-like for some participants"
+    ],
+    "mitigation_strategies": [
+      "Redesign added role-specific mini-objectives/secret missions as checkpoints to provide direction",
+      "Redesign incorporated more inter- and intra-pair collaboration throughout",
+      "Role-specific content was enhanced with language, tone, and style to reinforce role characteristics",
+      "Physical nametags provided to emphasize role identity",
+      "Prince Estabrook role was redesigned with limited NPC access but unique testimonials to emphasize his status",
+      "Nonlinear world with well-placed boundaries and sufficient direction balanced player agency with pedagogical goals",
+      "Future recommendation to add visual/audio countdown clock for time constraints"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "No formal selection criteria for participants are described. The Pilot study used 'a mix of graduate students and educators' and the Redesign trial used 8 high school students aged 13-17 from 'local and regional high schools,' but the selection/recruitment process is not specified.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Sample is small and convenience-based. The Pilot used graduate students/educators (not the target K-12 population), and the Redesign used only 8 high school students. Neither sample is representative of broader student populations.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "Data collection included pre- and post-game surveys, videotaped and in-person observations, and content analysis of debates and discussions. However, no validated instruments are identified. Survey results are not reported quantitatively. The tools appear researcher-developed without reported validation.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Analysis is primarily qualitative with selective participant quotes. No systematic coding methodology is described. No inter-rater reliability is reported. The single researcher serving as designer, tester, and educator introduces significant potential for bias in data interpretation.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Unclear",
+      "q5_evidence": "Findings are presented thematically with supporting participant quotes and are generally consistent with the described observations. However, negative findings (e.g., information overload, role confusion) are discussed alongside positive ones, which shows some balance. The interpretation sometimes relies heavily on selected participant quotes without quantitative support.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The author discusses several limitations and challenges openly, including problems with the Pilot study, participants feeling overwhelmed, role identity issues, and the need for teacher scaffolding. The iterative design approach inherently involves identifying and addressing problems. Next steps and future improvements are also discussed.",
+      "judgment": "Unclear"
+    },
+    "overall": "High",
+    "overall_justification": "This is a design-based research study with small, non-representative samples, no control group, and a single researcher serving multiple roles (designer, researcher, educator). While the study provides rich qualitative insights into AR game design for history education and honestly discusses challenges encountered, the lack of validated instruments, systematic analysis methods, and quantitative reporting limits the reliability of the findings. The iterative design approach is appropriate for its goals but limits generalizability."
+  }
+}

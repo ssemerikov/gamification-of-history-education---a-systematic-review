@@ -1,0 +1,137 @@
+{
+  "study_id": 19,
+  "pdf_filename": "Designing and evaluating a mobile educational game Void Broken 2.0 for history instruction.pdf",
+  "bibtex_key": "19Chou2019",
+  "bibliographic": {
+    "title": "Designing and evaluating a mobile educational game \"Void Broken 2.0\" for history instruction",
+    "authors": [
+      "Yi-Shiuan Chou",
+      "Huei-Tse Hou",
+      "Chien-Lun Su",
+      "Kuo-En Chang"
+    ],
+    "year": 2019,
+    "publication_type": "conference_paper",
+    "venue": "Proceedings of the 27th International Conference on Computers in Education (ICCE 2019)",
+    "doi": null,
+    "volume": null,
+    "pages": "11-18",
+    "publisher": "Asia-Pacific Society for Computers in Education"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Taiwan"
+    ],
+    "country_of_application": "Taiwan",
+    "education_level": "high school",
+    "sample_size": 66,
+    "sample_description": "Sixty-six high school freshmen (24 boys and 42 girls) from northern Taiwan, with an average age of 16.26 years, recruited via convenience sampling from the researcher's lecture classes. They had never taken formal courses about the Qing Dynasty content used in the experiment.",
+    "study_design": "single-group pre-experimental pretest-posttest design",
+    "game_type": "mobile educational card game",
+    "game_name": "Void Broken 2.0",
+    "aim": "To design an educational game for Chinese Qing Dynasty history learning based on Theory of Cognitive Development (Piaget), and to evaluate whether the game improves history learning performance, whether students show high evaluations, and whether gender differences exist in learning performance or game evaluation.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "No control group; pre-experimental design limits causal claims. Short intervention (50 minutes of gameplay).",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes game-based learning for history education through Piaget's Theory of Cognitive Development. The game integrates cognitive schema, assimilation, accommodation, and equilibrium components into the educational game design. Historical figures and events form the cognitive schema; matching characters to events based on relations constitutes the adaptation process; accommodation occurs when students revise incorrect relations; assimilation occurs when cognitive schema changes through acquiring new knowledge; equilibrium is reached when students master the matching without errors.",
+    "theoretical_frameworks": [
+      "Theory of Cognitive Development (Piaget)",
+      "Adaptation process (assimilation, accommodation, equilibrium)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "History learning performance measured via pretest-posttest relation matching items (48-point total); Game evaluation questionnaire using 5-point Likert scale covering perceived usefulness, perceived ease of use, and game elements (Cronbach's alpha = .90).",
+    "statistical_results": "Paired-samples t-test: Posttest M=13.62 (SD=5.66) vs. Pretest M=7.88 (SD=4.38), t=9.58, p<.001. Average progress score was 5.74 points (max possible progress = 18). Game evaluation: Overall M=4.29 (SD=0.53); Perceived Usefulness M=4.29 (SD=0.58); Perceived Ease of Use M=4.14 (SD=0.70); Game Elements M=4.41 (SD=0.63). Gender differences (independent-samples t-test): No significant difference in history learning performance (t=-1.98, p=.052); Significant difference in overall game evaluation (t=2.35, p=.022), perceived usefulness (t=2.83, p=.006), and perceived ease of use (t=2.09, p=.041) favoring males; No significant difference in game elements evaluation (t=1.10, p=.276).",
+    "comparative_methodology": "Pretest-posttest comparison within a single group using paired-samples t-test; gender comparison using independent-samples t-test.",
+    "key_outcomes": "Students' history learning performance improved significantly after playing Void Broken 2.0. All game evaluation dimensions scored above the median (3.0), indicating the game was perceived as useful, easy to use, and satisfying in terms of game elements. Male students perceived the game as more useful and easier to use, but no significant gender differences were found in learning performance or game elements evaluation.",
+    "engagement_results": "Overall game evaluation mean was 4.29 out of 5.0 (SD=0.53), well above the median of 3.0. Game elements evaluation was highest at M=4.41 (SD=0.63). Students were reported to be very active during gameplay and many wanted to play the full version in the future."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Card-based deck building (50 historical figure cards)",
+      "Matching mechanics (3x3 grid battle board with timeline and status conditions)",
+      "Difficulty levels (easy, medium, hard with varying card requirements and guardian monster HP)",
+      "Battle/challenge system (5 historical event battles with guardian monsters)",
+      "Bonus frames (dual-condition activation for extra power)",
+      "Information acquisition mechanics (character biographies and event descriptions)",
+      "Ancient China map interface for battle selection",
+      "Deck building before battles (8 or 16 cards depending on difficulty)",
+      "Score/power system against guardian monsters",
+      "Round-based gameplay with limited rounds"
+    ],
+    "technological_platforms": [
+      "HTML5 mobile application",
+      "8-inch mobile devices (tablets)",
+      "Offline capable (no network required)"
+    ],
+    "instructional_strategies": [
+      "Cognitive Development Theory integration (schema, assimilation, accommodation, equilibrium)",
+      "Relation matching between historical characters and events",
+      "Trial-and-error learning through iterative card placement",
+      "Cooperative small group gameplay (groups of 2-3 students, 32 groups total)",
+      "Information acquisition through in-game character biographies and event descriptions",
+      "Progressive difficulty levels to scaffold learning",
+      "Pretest-gameplay-posttest sequence embedded in 90-minute session"
+    ],
+    "content_integration": "Historical content from the Qing Dynasty (A.D. 1644-1911) was integrated based on domestic high school curriculum guidelines. Fifty important historical figures were designed as in-game card decks with four status categories (Royal Family, Political Minister, General Military, Foreign Forces or Anti-Government Elements). Five major historical events served as game battles: Taiping Kingdom of Heaven, Self-Strengthening Movement, First Sino-Japanese War, Nien Rebellion, and Siege of the International Legations. Relations between figures and events were categorized as participant, contemporary, or irrelevance based on historical accuracy of timelines and involvement."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Limited experimental time constrained the game to 5 events and 3 difficulty levels (full version has more content)",
+      "Game design may be biased toward certain game groups, particularly male students who perceived it as more useful and easier to use",
+      "Requires preloaded mobile devices for each student group",
+      "Students needed researcher intervention for technical problems (e.g., unexpected game quits)"
+    ],
+    "methodology_limitations": [
+      "No control group (single-group pre-experimental design) limits causal inference",
+      "Convenience sampling from researcher's own lecture classes threatens external validity",
+      "Short intervention period (50 minutes of gameplay) may not reflect long-term learning effects",
+      "Whether high-level cognitive processes are facilitated by the game remains unknown",
+      "Collaboration and problem-solving processes during gameplay were not measured",
+      "No data triangulation methods used (e.g., system operation records, discussion data)"
+    ],
+    "negative_effects": [
+      "Gender bias in perceived usefulness and ease of use favoring male students",
+      "Female students rated the game lower on usefulness and ease of use, possibly due to less familiarity with game designs and operations"
+    ],
+    "mitigation_strategies": [
+      "Authors suggest future integration of other methods for data triangulation (system operation records, discussion data)",
+      "Authors suggest analyzing students' high-level cognitive behaviors to better understand the cognitive thinking process",
+      "Despite gender differences in perception, learning performance and game element evaluations showed no significant gender difference, suggesting the game is useful for all genders"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly describes the target population (high school freshmen in northern Taiwan), the sampling method (convenience sampling from researcher's lecture classes), inclusion criteria (no prior formal courses on Qing Dynasty content), and provides detailed participant demographics (N=66, 24 boys/42 girls, average age 16.26).",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Convenience sampling from the researcher's own lecture classes severely limits representativeness. The sample is drawn from a single school in northern Taiwan and may not be representative of high school students more broadly. No randomization or justification for sample size is provided.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Low concern",
+      "q3_evidence": "History learning performance was measured with a researcher-developed pretest/posttest using relation matching items aligned with game content (48-point scale). The game evaluation questionnaire was adapted from Hou and Chou (2011) with established reliability (Cronbach's alpha = .90; prior use showed reliability of .783). The 5-point Likert scale covered perceived usefulness, perceived ease of use, and game elements with established theoretical grounding (Davis, 1989; Prensky & Thiagarajan, 2001).",
+      "q4_analysis_methods": "Low concern",
+      "q4_evidence": "Appropriate statistical tests were used: paired-samples t-test for pretest-posttest comparison and independent-samples t-test for gender comparisons. Results are reported with means, standard deviations, t-values, and p-values. Effect sizes are not reported, which is a minor limitation.",
+      "judgment": "Low"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Some concern",
+      "q5_evidence": "Interpretations generally align with results. The authors correctly note that the pre-experimental design limits causal claims. However, they make some causal-sounding statements ('the Void Broken 2.0 can help students learn more') despite the lack of a control group. The discussion of gender differences is balanced and appropriate.",
+      "q6_limitations_discussed": "Some concern",
+      "q6_evidence": "The authors acknowledge several limitations: the unknown facilitation of high-level cognitive processes, unexplored collaboration/problem-solving processes, and the need for data triangulation. However, they do not explicitly discuss the major threats to validity from the pre-experimental design (no control group) or convenience sampling, nor do they discuss potential testing effects or the short intervention duration.",
+      "judgment": "Moderate"
+    },
+    "overall": "High",
+    "overall_justification": "While the study uses appropriate measurement tools and statistical analyses (Domain 2: Low), the single-group pre-experimental design with no control group and convenience sampling from the researcher's own classes pose substantial threats to internal and external validity (Domain 1: High). The lack of explicit discussion of these major design limitations and occasional over-interpretation of causal effects add further concerns (Domain 3: Some concerns). The overall risk of bias is rated as High primarily due to the study design limitations."
+  }
+}

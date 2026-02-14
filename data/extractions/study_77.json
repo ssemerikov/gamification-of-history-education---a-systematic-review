@@ -1,0 +1,152 @@
+{
+  "study_id": 77,
+  "pdf_filename": "Virtual Reality and Educational Game to Learn Madurese History and Alphabet for Elementary School Students.pdf",
+  "bibtex_key": "77Ramansyah2021",
+  "bibliographic": {
+    "title": "Virtual Reality and Educational Game to Learn Madurese History and Alphabet For Elementary School Students",
+    "authors": [
+      "Wanda Ramansyah",
+      "Nuru Aini",
+      "Wisno Fitriansyah",
+      "M Dimas Pratama"
+    ],
+    "year": 2021,
+    "publication_type": "conference_paper",
+    "venue": "Journal of Physics: Conference Series (International Conference on Science Education and Technology (ICOSETH) 2020)",
+    "doi": "10.1088/1742-6596/1842/1/012012",
+    "volume": "1842",
+    "pages": "012012",
+    "publisher": "IOP Publishing"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Indonesia"
+    ],
+    "country_of_application": "Indonesia",
+    "education_level": "primary",
+    "sample_size": 29,
+    "sample_description": "3rd grade students of Pangarangan III Elementary School of Sumenep, Madura, Indonesia. Testing involved multiple stages: individual trial (3 students), small group trial (6 students), and large group trial (20 students). Additionally, one media design expert and one material/content expert served as validators.",
+    "study_design": "design_based",
+    "game_type": "vr_ar",
+    "game_name": "Madurese History Virtual Reality ('Heritage Objects' / Sumenep Palace Museum VR) and 'Halo Madura' Educational Game",
+    "aim": "To develop a learning media that collaborates virtual reality and educational game to learn Madurese history and alphabet for 3rd grade students of Pangarangan III Elementary School of Sumenep, facilitating distance learning during the Covid-19 pandemic",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study is primarily a development research (R&D) study using the ADDIE model rather than an experimental study measuring learning outcomes. It evaluates product feasibility through expert validation and user satisfaction questionnaires, not through pre-post testing or controlled comparisons. The historical content is specifically about Madurese cultural heritage (historical objects in the Sumenep Palace Museum), combined with Madurese alphabet (ghajang script) learning. The gamification element is present through the 'Halo Madura' educational game component, but the VR component is more of a virtual museum tour than a game. No statistical learning outcome data (pre-test/post-test) is reported.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study does not provide an explicit definition of gamification. It conceptualizes the intervention as a combination of two learning media: (1) a Virtual Reality experience for exploring Madurese historical heritage objects in a virtual museum (Sumenep Palace Museum), and (2) an educational game ('Halo Madura') for learning the Madurese alphabet (ghajang script). The educational game component is described as combining play elements with educational content: 'The element of play in this media, apart from being entertainment, also functions as a strengthening of the Madura alphabet material for students.' The authors cite a definition of Educational Games as 'games that are packaged with the aim of stimulating the thinking power of students and also useful for training in increasing the concentration of students as educational game users.' The VR component is framed as enabling immersive historical exploration: 'VR makes it possible to visit any location, time, or person in a relatively inexpensive way via virtual field trips.'",
+    "theoretical_frameworks": [
+      "ADDIE instructional design model (Analysis, Design, Development, Implementation, Evaluation)",
+      "Educational Digital Games as defined by AlShaiji (2017) - games that provide the opportunity to reinforce previous knowledge in a comfortable and ludic environment"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Product feasibility percentage scores based on a 5-point Likert scale questionnaire assessing effectiveness, efficiency, and attractiveness of the learning media. No pre-test/post-test learning outcome measures were used.",
+    "statistical_results": "Media design expert validation: 91% (Very High). Material/content expert validation: 84% (High). Individual trial (three 3rd grade students): 85% (High). Small group trial (six 3rd grade students): 87% (High). Large group trial (twenty 3rd grade students): 86% (High). Percentage formula used: Percentage of answers = F/N x 100%, where F = The total value of the respondents, N = Total the maximum value.",
+    "comparative_methodology": "No comparative methodology was used. The study employed a development research (R&D) approach using the ADDIE model. Evaluation consisted of expert validation (media design expert and material/content expert) and user testing at three scales (individual, small group, large group) using feasibility questionnaires with a 5-point scale: (1) Very low, (2) Less High, (3) High Enough, (4) High, (5) Very High.",
+    "key_outcomes": "All feasibility scores were in the 'High' or 'Very High' category (84-91%), indicating the product was deemed well worth it with no need to revise. The media design expert gave the highest rating at 91% (Very High). The authors concluded that 'the virtual reality and educational games are well worth it and no need to revise' and that 'The application of this media in learning will have an impact on increasing the effectiveness, efficiency and attractiveness of learning Madura history and alphabet.'",
+    "engagement_results": "The authors report that 'The students showed high enthusiasm for learning when they learned to use this Halo Madura educational game.' User trial scores (85-87%) suggest positive reception among students. The study notes the media can 'divert students to not only play other games that are entertainment in nature which has become a trend among children, especially elementary school students.'"
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Virtual museum walkthrough with 3D historical objects (Sumenep Palace Museum)",
+      "Interactive information display on historical heritage objects when approached",
+      "Educational game with multiple difficulty levels for Madurese alphabet (ghajang script)",
+      "Word games using Madurese script (Latin to Madurese script conversion and vice versa)",
+      "Video tutorials for writing ghajang alphabet",
+      "Read-aloud functionality for ghajang alphabet pronunciation",
+      "Menu-based navigation (Hint, Learn, Information, Exit buttons)",
+      "Sound/audio integration",
+      "Basic competency (KI KD) reference integration",
+      "Progressive learning structure (reading alphabet, writing alphabet, word games)"
+    ],
+    "technological_platforms": [
+      "Unity game engine",
+      "Blender 3D (3D modeling)",
+      "Corel Draw X7 (2D design)",
+      "Adobe Photoshop (image editing)",
+      "Camtasia Studio (video production)",
+      "VR Box headset with controller",
+      "Computer",
+      "Camera",
+      "Microphone",
+      "Speaker",
+      "Android-based mobile platform (implied by VR Box usage)"
+    ],
+    "instructional_strategies": [
+      "ADDIE instructional design model (Analysis, Design, Development, Implementation, Evaluation)",
+      "Virtual field trip to historical museum via VR for immersive historical learning",
+      "Combination of VR (for history) and educational game (for alphabet) in single integrated media",
+      "Support for multiple learning styles (visual, auditory, kinesthetic)",
+      "Distance learning support during Covid-19 pandemic",
+      "Progressive skill-building: from reading Madurese alphabet to writing to word games",
+      "Expert validation prior to student deployment (media design expert and content expert)",
+      "Multi-stage user testing (individual, small group, large group)",
+      "Cultural preservation through technology-mediated learning"
+    ],
+    "content_integration": "The learning media integrates two distinct components: (1) 'Madurese History' Virtual Reality, which recreates the Sumenep Palace Museum room where users can walk around and view Madurese historical relics in 3D using a VR Box and controller, with informational text appearing when users approach each historical object; and (2) 'Halo Madura' educational game for Madurese alphabet learning, where students progress from learning ghajang script letter forms, to watching video tutorials on writing, to playing word games converting between Latin and Madurese scripts at several difficulty levels. The homepage provides buttons to enter either the VR museum experience or the educational game. Historical content focuses on Madurese cultural heritage objects in the Sumenep Palace Museum, while the alphabet component teaches the traditional ghajang writing system of the Madura region."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Students in remote areas of Madura have minimal internet access, necessitating offline-capable media",
+      "Existing textbooks for Madurese history and alphabet were deemed 'not representative'",
+      "Only 55% of students could score above the minimum passing criteria in Madurese history and alphabet lessons before the intervention",
+      "Students cannot easily visit Madurese museums or cultural sites due to long distances",
+      "Covid-19 pandemic restrictions prevented face-to-face learning",
+      "Museum visitor numbers decreased drastically during the pandemic",
+      "Requires hardware (VR Box, controller, computer/smartphone) which may not be available at all schools",
+      "The habits of students regarding Madurese history and alphabet are being eroded by modern globalization"
+    ],
+    "methodology_limitations": [
+      "No pre-test/post-test design to measure actual learning outcomes or knowledge gains",
+      "Feasibility evaluation based solely on questionnaire percentages, not on standardized assessments",
+      "Very small sample sizes for validation stages (1 media expert, 1 content expert, 3 individual trial, 6 small group)",
+      "No control group or comparative condition",
+      "No reliability or validity information provided for the feasibility questionnaire instrument",
+      "Simple percentage formula (F/N x 100%) used for data analysis without inferential statistics",
+      "All participants from a single school (Pangarangan III Elementary School of Sumenep), limiting generalizability",
+      "No long-term follow-up on learning outcomes or sustained usage"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Designed media to support offline/distance learning to accommodate pandemic restrictions and areas with limited internet",
+      "Used ADDIE model for systematic development and iterative evaluation",
+      "Multi-stage validation process (expert validation before user testing; individual, small, then large group trials)",
+      "Addressed multiple learning styles (visual, auditory, kinesthetic) in media design",
+      "Suggested distribution of learning media products to all elementary schools in Madura Island, including those in remote areas"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "unclear",
+      "q1_evidence": "The paper states the media was 'created to facilitate the difficulties of 3rd grade students of Pangarangan III Elementary School of Sumenep in learning Madurese history and alphabet.' The school and grade level are specified, but no explicit selection criteria for which students participated in each trial stage are provided. The abstract notes 'trials on individual users (three students),' 'testing trials in small group users (six students),' and 'trials in large group users (twenty students),' but no information is given about how these specific students were selected from the class.",
+      "q2_representativeness": "no",
+      "q2_evidence": "All participants are from a single school (Pangarangan III Elementary School of Sumenep) on Madura Island. Only 29 students total across all trial stages, with 20 in the large group trial. No demographic details beyond grade level (3rd grade) are provided. The authors acknowledge the context is specific by recommending 'the distribution of learning media products be carried out to all elementary schools in Madura Island,' implying the study sample is not representative of the broader target population. Only one expert was used for each type of validation.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "no",
+      "q3_evidence": "The evaluation used a questionnaire 'using a scale of five ratings of products, namely: (1) Very low, (2) Less High, (3) High Enough, (4) High, (5) Very High.' No information is provided about the validity or reliability of this questionnaire instrument. The percentage formula used (F/N x 100%) is a basic descriptive calculation. No standardized learning assessment tools, validated instruments, or established measurement scales are referenced. The conversion table (Table 4) mapping percentages to qualifications (e.g., 90-100% = Very High) is cited from Sudarma (2006) but no psychometric properties are discussed.",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "Data analysis consisted solely of calculating percentage scores using the formula 'Percentage of answers = F/N x 100%' where 'F = The total value of the respondents' and 'N = Total the maximum value.' No inferential statistics, measures of central tendency, standard deviations, confidence intervals, or significance tests are reported. The analysis consists of comparing percentage scores to a qualification table. No interrater reliability for expert evaluations is reported. The methods lack rigor for making claims about effectiveness, efficiency, and attractiveness.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "no",
+      "q5_evidence": "The authors claim 'The application of this media in learning will have an impact on increasing the effectiveness, efficiency and attractiveness of learning Madura history and alphabet' based solely on feasibility questionnaire percentages (84-91%). This overinterprets the data: feasibility ratings from expert validators and student satisfaction do not demonstrate actual learning effectiveness or efficiency. No learning outcomes were measured. Similarly, the conclusion states the media 'can improve the learning process so that students' grades are expected to increase,' which is an unsupported claim since no grades or test scores were collected or analyzed.",
+      "q6_limitations_discussed": "no",
+      "q6_evidence": "The paper does not include an explicit limitations section. The conclusion and discussion sections make no mention of methodological limitations, sample size concerns, lack of learning outcome measures, or threats to validity. The discussion focuses entirely on positive aspects of the developed media. The only future direction mentioned is distributing the media to more schools, with no acknowledgment of the need for further empirical validation of learning effectiveness.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "All three domains present high risk of bias. Domain 1 (selection): participants were drawn from a single school with no clear selection criteria and very small sample sizes (1 expert per validation type, 3-20 students per trial stage). Domain 2 (data collection/analysis): the study used an unvalidated questionnaire with only basic percentage calculations and no inferential statistics; no actual learning outcome measures were employed. Domain 3 (interpretation): the authors make claims about learning effectiveness and improved grades that are not supported by the data collected, and no limitations are acknowledged. This is a development-focused study (R&D using ADDIE model) that reports product feasibility rather than empirical evidence of learning effectiveness, yet draws conclusions about effectiveness without the requisite evidence."
+  }
+}

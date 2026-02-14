@@ -1,0 +1,132 @@
+{
+  "study_id": 74,
+  "pdf_filename": "Using Learning Games to Teach Texas Civil War History to Public Middle School Students.pdf",
+  "bibtex_key": "74Fendt2019",
+  "bibliographic": {
+    "title": "Using Learning Games to Teach Texas Civil War History to Public Middle School Students",
+    "authors": [
+      "Matthew William Fendt",
+      "Eric Ames"
+    ],
+    "year": 2019,
+    "publication_type": "conference_paper",
+    "venue": "IEEE Conference on Games (CoG)",
+    "doi": null,
+    "volume": null,
+    "pages": null,
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "United States"
+    ],
+    "country_of_application": "United States",
+    "education_level": "secondary",
+    "sample_size": 33,
+    "sample_description": "8th grade public middle school students in a local Texas history class. 56 students took the pretest but only 33 completed the full experiment (17 in the game group, 16 in the text packet group). Students were minors requiring parental consent and student assent forms.",
+    "study_design": "experimental",
+    "game_type": "digital_custom",
+    "game_name": "The War of the Rebellion",
+    "aim": "To compare an educational video game (The War of the Rebellion) designed to teach about the Battles of Galveston with a textual information packet in their ability to increase learning gain and interest in 8th grade public middle school students studying Texas Civil War history",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study has a relatively small sample size (33 completers) and lacks some methodological rigor (e.g., unequal time-on-task between conditions, no delayed posttest). However, it is a genuine primary empirical study of a game-based learning intervention for history education with quantitative outcome measures.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes the intervention as a 'learning game' or 'educational video game' rather than using the term 'gamification' explicitly. The approach is game-based learning where a purpose-built video game is used as an instructional tool to supplement a traditional Texas history lesson. The game is framed as an alternative to textbook-style learning, with the core idea that gameplay mechanics should closely mirror the desired learning outcomes. The authors emphasize that games should be 'created in close collaboration with the instructor with gameplay emphasis on the most important concepts.'",
+    "theoretical_frameworks": []
+  },
+  "rq2": {
+    "quantitative_metrics": "Pre-post test scores on a 10-question knowledge survey about the Battles of Galveston (each question worth one point). Three additional posttest Likert-scale items measuring interest in learning about history, interest in learning about the Civil War, and likelihood of recommending the tool to a friend (5-point scale: much less interested, less interested, no change, more interested, much more interested).",
+    "statistical_results": "Overall learning gain: text packet group showed 3.7 point improvement; game group showed 2.6 point improvement. One-tailed t-test: p = 0.91, t = 1.76 (no significant difference favoring game). Fischer's exact test on individual questions: Question 5 ('What strategy did the Confederate forces use to attack Galveston during the second battle of Galveston?') showed statistically significant difference favoring game, p = .0007. Mann Whitney U test on Likert data: 'share this learning tool with a friend' -- p = 0.002, U = 58.5, Cohen's d = 1.112 (between large and very large effect); 'interested in learning about the Civil War' -- p = 0.065, U = 93.5, effect size = 0.553 (medium); 'interested in learning about history' -- p = 0.075, U = 95.5, effect size = 0.525 (medium).",
+    "comparative_methodology": "Randomized experimental design comparing game group (n=17) vs. text packet control group (n=16). Students were randomly assigned based on seating. Both groups took the same pretest and posttest. One-tailed t-test was used for overall learning gain comparison; Fischer's exact test was used for question-by-question analysis; one-tailed Mann Whitney U test was used for ordinal Likert scale interest data.",
+    "key_outcomes": "The game did not produce significantly greater overall learning gains compared to the text packet. However, the question most closely tied to the gameplay (Question 5, about Confederate attack strategy in the second Battle of Galveston) showed a statistically significant learning gain for game players (p = .0007). Game players also reported significantly higher likelihood of sharing the learning tool with a friend (p = 0.002, Cohen's d = 1.112) and marginally higher interest in learning about the Civil War (p = 0.065) and history generally (p = 0.075).",
+    "engagement_results": "Game participants reported statistically significantly higher likelihood of wanting to share the learning tool with a friend (p = 0.002, U = 58.5, Cohen's d = 1.112). Game participants reported marginally significantly higher interest in learning about the Civil War (p = 0.065, U = 93.5, effect size = 0.553) and in learning about history (p = 0.075, U = 95.5, effect size = 0.525). The authors note: 'The sole experience of getting to play in class greatly excited the students, whose enthusiasm seems to extend to a greater interest in the subject material.'"
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Two-stage strategic gameplay (defense placement then scouting/attack)",
+      "Historical role-playing (player takes role of Confederate army in both stages)",
+      "Strategic decision-making (placing defenses at key locations, allocating scouts and troops)",
+      "Fog of war mechanic (concealment of enemy positions requiring scouting)",
+      "Win/lose conditions based on historical accuracy of tactical decisions",
+      "Narrative feedback after each stage (description of the actual battle and aftermath)",
+      "Historical maps and period artwork (game board from Baylor Texas Civil War map archive; unit pictures from era drawings)",
+      "Limited resource allocation (limited number of scouting units; artillery of different calibers and firing arcs)",
+      "Success/failure feedback tied to historical events (Union attack unfolded both by land and sea)"
+    ],
+    "technological_platforms": [
+      "Unreal Engine 4 (game development engine)",
+      "Desktop PC (game installed on machines set up in the classroom)",
+      "Baylor Texas Civil War map archive (source for historical map imagery)"
+    ],
+    "instructional_strategies": [
+      "Close collaboration between game developers and classroom teacher on game design and survey design",
+      "Gameplay mechanics aligned with key learning outcomes (gameplay emphasis on most important concepts)",
+      "Experiential learning through simulated historical decision-making",
+      "Pre-test/post-test assessment design with 10-question knowledge survey",
+      "Comparison with traditional textbook-style information packet (two-page text with pictures)",
+      "Integration into regular class period as supplementary learning activity",
+      "Active learning through strategic placement and tactical decision-making rather than passive reading"
+    ],
+    "content_integration": "Historical content was deeply integrated with game mechanics across two stages. In Stage 1, players learned about the first Battle of Galveston by taking the role of the Confederate army and placing defenses (artillery of different calibers and firing arcs) at predefined locations based on actual historical defenses around the Port of Galveston. Success or failure was determined by how the Union attack actually unfolded, both by land and sea. In Stage 2, players learned about the second Battle of Galveston by controlling the attacking Confederate army, using limited scouting units to reveal port defenses hidden by fog of war, then allocating troops to attack locations. After each stage, players received a textual description of the actual battle and its aftermath. The game board used authentic historical maps from the Baylor Texas Civil War map archive, and unit images were drawings from the Civil War era. The information packet created by the teacher collaborator contained the same instructional content as the game."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Time constraints of a single class period limited the number of students who could complete the full experiment (only 33 of 56 finished)",
+      "Limited number of computer stations required students to go in waves to play the game",
+      "The game took 10-15 minutes to complete while the text packet took only a few minutes to read, creating unequal time-on-task between conditions",
+      "Parental consent and student assent forms required for minor participants",
+      "Game required two undergraduate students (one computer science, one museum studies) for development"
+    ],
+    "methodology_limitations": [
+      "Small sample size (33 completers: 17 game, 16 text packet) with significant attrition from original 56 participants",
+      "Unequal time-on-task between conditions: game took 10-15 minutes while text packet took only a few minutes, creating a confound where text packet participants had information fresh in short-term memory during posttest",
+      "No delayed posttest to measure long-term retention",
+      "Random assignment based on seating rather than true randomization",
+      "Only measured short-term recall, not deep understanding or long-term learning",
+      "No control for time delay between treatment and posttest across conditions",
+      "Single class in a single school limits generalizability"
+    ],
+    "negative_effects": [
+      "Overall learning gain was lower for game participants (2.6 points) than text packet participants (3.7 points), though the difference was not statistically significant and may be due to the time-on-task confound"
+    ],
+    "mitigation_strategies": [
+      "Authors recommend ensuring participants in both groups have an equal amount of time before posttest evaluation in future studies",
+      "Authors recommend that learning games should be created in close collaboration with the instructor with gameplay emphasis on the most important concepts",
+      "Designing game mechanics to closely mirror the most important learning outcomes (as evidenced by Question 5 results)"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "unclear",
+      "q1_evidence": "The paper states the experiment was conducted in 'a local public middle school 8th grade history class' but does not describe inclusion/exclusion criteria beyond being students in that class. It is noted that 'Since the students were minors, their parents had to sign a form providing consent and the students had to sign an assent form.' 56 students took the pretest but only 33 completed the experiment, and 'Due to the time constraints of the class period, not every student was able to finish the experiment, so their data were removed.' The reasons for attrition (23 students, ~41%) are attributed only to time constraints, not further specified.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "The sample is drawn from a single 8th grade history class at one local public middle school in Texas. While this represents a convenience sample of the target population (8th grade Texas history students), the single-class single-school design limits representativeness. No demographic information (gender, race, socioeconomic status, prior gaming experience) is reported. The high attrition rate (23 of 56 students) further threatens representativeness, as it is unknown whether completers differed systematically from non-completers.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "The 10-question pre/post knowledge survey 'was designed in collaboration with the local middle school history teacher who paired with us on the project,' which provides some content validity. However, no information about instrument validation, reliability testing, or psychometric properties is provided. The three posttest interest items use a 5-point Likert scale but no validated instrument is referenced. An excerpt of the survey is shown in Figure 3, revealing multiple-choice questions about the Battles of Galveston.",
+      "q4_analysis_methods": "yes",
+      "q4_evidence": "The authors clearly describe their statistical methods: 'a one-tailed t test was used to measure the difference between the posttest and pretest questions answered correctly. The individual questions were also analyzed using Fischer's exact test to see if students performed differently on a question by question basis due to the treatments.' For Likert data: 'a one-tailed Mann Whitney U test was run on the ordinal Likert scale data.' Effect sizes (Cohen's d) are reported for the Mann Whitney U results. The choice of non-parametric tests for ordinal data is appropriate.",
+      "judgment": "Unclear"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The authors appropriately acknowledge that Hypothesis 1 was not supported: 'the students who played the game did not show a greater improvement than the students who read the packet, p = 0.91, t = 1.76.' They do not overstate their findings and offer a plausible methodological explanation for the result (unequal time-on-task). They correctly identify that only the question most closely aligned with gameplay showed significant improvement. They accurately report both significant and non-significant results for Hypothesis 2, noting that interest in Civil War and history were only 'marginally significantly higher.'",
+      "q6_limitations_discussed": "yes",
+      "q6_evidence": "The authors explicitly discuss a key limitation: 'It is hypothesized that a weakness in the experimental design could partially account for this result. Since the text packet was short and the participants could take the posttest survey as soon as they were finished with the treatment, the participants might have had the knowledge fresh in short term memory when taking the posttest.' They also note: 'If we reran this study, we would make sure the participants in both groups had an equal amount of time before the evaluation of the posttest.' The conclusion acknowledges 'this experiment only tested the short-term recall of the students.'",
+      "judgment": "Low"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high overall risk of bias primarily due to Domain 1 concerns. The sample is drawn from a single classroom with high attrition (41% of initial participants), no demographic reporting, and convenience-based random assignment (by seating). A critical methodological confound exists in the unequal time-on-task between conditions (game 10-15 minutes vs. text packet a few minutes), meaning text readers took the posttest with information fresh in short-term memory while game players had a substantial delay. The assessment instrument, while teacher-designed, lacks documented validity or reliability. On the positive side, the statistical analyses are appropriate and clearly described, effect sizes are reported, the authors honestly acknowledge their null main finding (Hypothesis 1), and limitations are discussed transparently. The small sample size (n=33) limits statistical power and generalizability."
+  }
+}

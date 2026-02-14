@@ -1,0 +1,139 @@
+{
+  "study_id": 62,
+  "pdf_filename": "The Architectural Jewels of Lublin Game as a Tool for Collaborative Interactive Learning of History.pdf",
+  "bibtex_key": "62Milosz201896",
+  "bibliographic": {
+    "title": "The \"Architectural Jewels of Lublin\" Game as a Tool for Collaborative Interactive Learning of History",
+    "authors": [
+      "Marek Milosz",
+      "Jerzy Montusiewicz"
+    ],
+    "year": 2018,
+    "publication_type": "book chapter",
+    "venue": "Teaching and Learning in a Digital World, Advances in Intelligent Systems and Computing",
+    "doi": "10.1007/978-3-319-73210-7_12",
+    "volume": "715",
+    "pages": "96-105",
+    "publisher": "Springer International Publishing AG"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Poland"
+    ],
+    "country_of_application": "Poland",
+    "education_level": "K-14 (primary/lower secondary school youth)",
+    "sample_size": 24,
+    "sample_description": "Two groups of 12 K14 pupils each from the Lublin province in Poland: one group of permanent residents of Lublin and one group living outside Lublin. Each participant was randomly selected from a different school in Lublin and the region.",
+    "study_design": "Survey-based descriptive study with game design presentation",
+    "game_type": "Technology-enhanced board game with 3D printed models, RFID sensing, and palmtop software",
+    "game_name": "Architectural Jewels of Lublin",
+    "aim": "To assess the level of knowledge of K14 pupils about architectural monuments of Lublin, and to present a gamified board game designed to improve collaborative interactive learning of local history through 3D models of architectural monuments",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study primarily presents a knowledge survey and a game design/description rather than an empirical evaluation of the game's educational effectiveness. No pre-post testing of the game itself was conducted; the survey establishes baseline knowledge levels, and the game is presented as a proposed solution. The effectiveness study is listed as future work.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Gamification is implicitly conceptualized as the use of competition, point scoring, prizes, and structured game rules (turn-based cycles) within an educational board game context to transmit strictly defined historical content. The authors state the game 'realises the idea of gamification, which assumes that in addition to the competition phase, winning points and prizes by participants, it also allows the transmission of strictly defined content.'",
+    "theoretical_frameworks": [
+      "Gamification as competition and point-scoring mechanism",
+      "Collaborative interactive learning",
+      "Game-based learning"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Relative knowledge level (k) measured as ratio of absolute knowledge index (K) to maximum possible (Kmax=42). Average relative knowledge for all pupils: 23.1% (median 26.2%, SD 13.2%, range 0-50%). For pupils from outside Lublin: average 20.2% (median 20.2%, SD 13.7%, range 0-40.5%). Self-esteem of knowledge on 1-4 scale: overall mean 1.96, outside Lublin 1.41, Lublin residents 2.50.",
+    "statistical_results": "Hypothesis H1 confirmed: average knowledge level of K14 pupils about Lublin architectural monuments is very low (around 20-23%). Hypothesis H2 confirmed: knowledge levels do not substantially differ between Lublin residents and non-residents. No student exceeded the 50% threshold.",
+    "comparative_methodology": "Comparison between two groups (Lublin residents vs. non-residents, 12 pupils each) on the same knowledge test using weighted scores across 7 monuments and 3 question types (name, time period, architectural style). Descriptive statistics (mean, median, min, max, standard deviation) and histograms were used.",
+    "key_outcomes": "K14 pupils have very low knowledge of Lublin's architectural monuments and their history, confirming the need for the educational game. The game itself was not empirically tested for learning effectiveness in this study; this is listed as future work.",
+    "engagement_results": null
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Points for correct model placement on the board",
+      "Points for correct answers to questions",
+      "Competition between two players (turn-based)",
+      "Escalating point values for incorrectly placed models returned to the bank",
+      "Time limits for actions (placement and answers)",
+      "Question takeover mechanic (opponent can answer Question 2)",
+      "LED feedback (green for correct placement, red for incorrect)",
+      "Sound messages via loudspeakers",
+      "Visual feedback on palmtop display (questions, scores, historical info)",
+      "Win condition based on accumulated points"
+    ],
+    "technological_platforms": [
+      "Physical board game (125x142 cm city plan)",
+      "3D printed architectural monument models (1:200 scale)",
+      "RFID readers for automatic model identification and placement verification",
+      "Arduino boards for controlling RFID readers and RGB LEDs",
+      "Palmtop computer with game control software",
+      "Real-time systems programming",
+      "Loudspeaker system for audio messages"
+    ],
+    "instructional_strategies": [
+      "Collaborative interactive learning through physical manipulation of 3D models",
+      "Knowledge assessment through quiz questions about monument names, time periods, and architectural styles",
+      "Competitive turn-based gameplay to motivate engagement",
+      "Historical content delivery integrated into game flow (historical information displayed after each monument)",
+      "Tangible learning with physical 3D models of real architectural monuments",
+      "Spatial learning through placing models on a city map"
+    ],
+    "content_integration": "Historical content about Lublin's architectural monuments is integrated directly into game mechanics: players must identify monuments by name, know their historical time period, answer questions about the city's history, and correctly locate them on a city map. The game covers 7 key monuments selected by experts, each associated with questions about name (P1), time period (P2), and architectural style (P3). After each turn, historical information about the monument is displayed on the palmtop screen."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Low baseline historical knowledge among target audience (K14 youth) as demonstrated by the survey",
+      "Complex technical infrastructure required (RFID, Arduino, 3D printing, real-time software, over 130m of wiring)",
+      "Game currently limited to 2 players at a time",
+      "Physical size and complexity of the board (125x142 cm) limits portability",
+      "3D models lack realistic colors (monochrome prints)"
+    ],
+    "methodology_limitations": [
+      "Small sample size (24 pupils total, 12 per group) for the knowledge survey",
+      "No empirical evaluation of the game's actual educational effectiveness was conducted",
+      "Effectiveness study described only as future work (survey-gameplay-survey experiment planned)",
+      "Convenience sampling (pupils visiting the university)",
+      "No control group for game-based learning comparison",
+      "Survey only covers pupils from Lublin province, limiting generalizability"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Future work planned: study of learning effectiveness via pre-post survey design (survey-gameplay-survey)",
+      "Future work planned: increasing number of players from 2 to 4 for enhanced collaboration",
+      "Future work planned: improving 3D model realism with realistic colors",
+      "Future work planned: adaptive algorithms for point calculation based on game progress",
+      "Future work planned: ergonomics study of the game control interface"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly defines the target population (K14 pupils from Lublin province), divided into two explicit groups (Lublin residents and non-residents). The knowledge assessment criteria are well-defined with a formal mathematical framework (weighted knowledge index K and relative knowledge k).",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample is very small (24 pupils total, 12 per group) and was drawn from pupils visiting the Lublin University of Technology, which is a convenience sample. Each pupil was from a different school, but selection method beyond 'randomly selected' is not described. This limits representativeness and generalizability.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Low concern",
+      "q3_evidence": "The knowledge assessment questionnaire is clearly structured with 7 monuments x 3 questions each, with defined weighted scoring. Questions were designed by experts who selected the monuments and assigned difficulty weights. The use of 3D models as visual aids for identification is a reasonable approach.",
+      "q4_analysis_methods": "Unclear concern",
+      "q4_evidence": "Basic descriptive statistics (mean, median, min, max, standard deviation) and histograms are presented. However, no inferential statistics or formal hypothesis testing was conducted to support the hypotheses. The verification of H1 and H2 relies only on descriptive comparison of means and visual inspection of distributions.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Low concern",
+      "q5_evidence": "The interpretation that K14 pupils have low knowledge of Lublin's architectural monuments is consistent with the data (averages around 20-23%, no student exceeding 50%). The authors appropriately distinguish between the survey findings and the game presentation, and correctly identify the game effectiveness study as future work.",
+      "q6_limitations_discussed": "Unclear concern",
+      "q6_evidence": "The authors acknowledge that the game effectiveness study is future work and outline planned improvements. However, they do not explicitly discuss the limitations of the knowledge survey (small sample size, convenience sampling, lack of inferential statistics). The limitations of the game design (2-player limit, lack of realistic colors, etc.) are acknowledged as areas for future development.",
+      "judgment": "Unclear"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high risk of bias primarily due to: (1) very small convenience sample of 24 pupils for the knowledge survey, (2) lack of inferential statistical analysis to support hypothesis verification, (3) no empirical evaluation of the game's educational effectiveness (only the game design is presented; effectiveness testing is listed as future work), and (4) limited discussion of methodological limitations. The study is primarily a design paper with a preliminary needs assessment rather than an empirical evaluation of gamification effectiveness."
+  }
+}

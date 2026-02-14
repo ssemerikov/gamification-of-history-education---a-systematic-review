@@ -1,0 +1,154 @@
+{
+  "study_id": 23,
+  "pdf_filename": "Digital game-based learning (DGBL) model and development methodology for teaching history.pdf",
+  "bibtex_key": "23Zin2009322",
+  "bibliographic": {
+    "title": "Digital Game-based learning (DGBL) model and development methodology for teaching history",
+    "authors": [
+      "Nor Azan Mat Zin",
+      "Azizah Jaafar",
+      "Wong Seng Yue"
+    ],
+    "year": 2009,
+    "publication_type": "journal article",
+    "venue": "WSEAS Transactions on Computers",
+    "doi": null,
+    "volume": "8",
+    "pages": "322-333",
+    "publisher": "WSEAS"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Malaysia"
+    ],
+    "country_of_application": "Malaysia",
+    "education_level": "secondary education",
+    "sample_size": 582,
+    "sample_description": "582 Form Four students and 15 teachers from five local secondary schools in Selangor, Malaysia; additional interviews with four history teachers",
+    "study_design": "mixed-methods (preliminary needs analysis via questionnaire and interview, document analysis, and literature review leading to model proposal)",
+    "game_type": "digital game-based learning (DGBL) courseware / educational game",
+    "game_name": "DGBL-ID model (proposed framework; no specific game name - prototype to be developed using Virtools for 3D educational game)",
+    "aim": "To propose a DGBL model for History educational game design and a development methodology (DGBL-ID) that combines Instructional Design (ID) and game development processes for teaching history",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is primarily a model/framework proposal paper rather than an empirical evaluation of a finished game. The empirical component is a preliminary needs analysis survey, not an intervention study testing game effectiveness. The proposed game prototype had not yet been developed or evaluated at the time of publication.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "DGBL is a paradigm which utilizes the game as a medium for conveying the learning contents, it is all about leveraging the power of computer games to captivate and engage endusers for a specific purpose, such as to develop new knowledge and skills. DGBL is also defined as an application which uses the characteristics of video and computer games to create engaging and immersive learning experiences for delivering specified learning goals, outcomes and experiences.",
+    "has_explicit_definition": true,
+    "conceptualization": "The authors conceptualize DGBL as combining pedagogy and digital game components. The pedagogy side includes learning goal setting, learning theory setting, educational psychology, country curriculum needs, patriotism and moral value, and memorization and forgetting theory. The digital game side includes game story's background, rules, immersive elements, enjoyment, multimedia technology, feedback, challenge/competition, and reward/award. Student engagement and cooperation bridge both components.",
+    "theoretical_frameworks": [
+      "Instructional Design (ID)",
+      "Constructivism",
+      "Information Processing Model",
+      "Tolman Learning Theory",
+      "Educational Psychology",
+      "Memorization and Forgetting Theory (Davidovitch et al.)",
+      "ADDIE model (referenced)",
+      "Simulation-Games Instructional Systems Design Model (SG-ISD, referenced)",
+      "Games for Activating Thematic Engagement (GATE, referenced)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Preliminary survey results: 79% of students have problems learning history; 70.6% find it difficult to memorize historical facts; 44.5% have no interest due to boring textbooks; 92% of students have experienced playing digital games; 83.6% like to play games; 69.5% stated playing digital games brings advantages. Failing percentage in history for SPM examination was 25.6% (2005), rising to 34.3% (2006). STPM failing percentage was 45.11% (2005).",
+    "statistical_results": "Descriptive statistics only (percentages from survey). No inferential statistics. No pre/post intervention comparison as the game was not yet developed.",
+    "comparative_methodology": null,
+    "key_outcomes": "The study identifies key problems in history learning (difficulty memorizing facts, lack of interest, boring teaching methods) and demonstrates student readiness for game-based learning. It proposes a DGBL model and DGBL-ID development methodology but does not yet report learning outcomes from an actual game intervention.",
+    "engagement_results": "Survey findings indicate high student engagement with digital games in general: 92% have played digital/electronic games, 83.6% like to play games. Students prefer racing (67.2%), adventure (62.1%), and fighting games (55.9%). Key requirements for GBL history courseware include illustrating historical facts clearly (70.6%), increasing students' interest (66.7%), and learning history via entertained experience (65.5%)."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Game story's background (historical events with date, location, time)",
+      "Rules (clear instructions and regulations)",
+      "Immersive environment",
+      "Enjoyment",
+      "Feedback (instant learning response)",
+      "Multimedia technology (2D/3D animations, graphical environment, imitative sound)",
+      "Challenge and competition (adaptive difficulty levels)",
+      "Reward/Award (motivation to continue game play)",
+      "Role playing",
+      "Game levels with progressive difficulty",
+      "Narrative and storytelling",
+      "Cooperation among students"
+    ],
+    "technological_platforms": [
+      "Computer/PC-based (primary target platform)",
+      "Virtools (selected for 3D educational game development)",
+      "3D Studio Max or Maya (for character modeling)",
+      "Compact Disc (CD) distribution",
+      "School computer lab deployment"
+    ],
+    "instructional_strategies": [
+      "Inquiry-based learning",
+      "Narrative-based learning",
+      "Problem solving",
+      "Constructivism",
+      "Adaptive learning based on individual ability",
+      "Synchronous/central game sessions (classroom-based, face-to-face)",
+      "Integration with national curriculum (KBSM - Integrated Curriculum for Secondary School)",
+      "Patriotism and moral values embedding"
+    ],
+    "content_integration": "The DGBL model integrates history content through two main components: pedagogy (learning goal setting, learning theory, educational psychology, curriculum needs, patriotism/moral values, memorization/forgetting theory) and digital games (story background, rules, immersive elements, enjoyment, multimedia, feedback, challenge/competition, rewards). The DGBL-ID development methodology has five phases: (1) Analysis - requirement/problem analysis, student characteristics, learning objectives, game idea, teaching environment; (2) Design - instructional design and game design including delivery method, teaching strategy, storyboard, multimedia elements, gameplay, art design, game levels; (3) Development - lesson plans, teaching resources, game prototype using Virtools; (4) Quality Assurance - play testing, alpha testing, beta testing, content verification against syllabus; (5) Implementation and Evaluation - launching on CD in school computer lab, usability and effectiveness evaluation."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Difficulty integrating games into curriculum of formal education due to problems identifying relevance to curriculum, potential benefits, and practical integration methods",
+      "No existing history courseware used in Malaysian schools at the time of the study",
+      "Conflict on how to merge Instructional Design and game development effectively",
+      "Still difficult to integrate games into formal education curriculum",
+      "Lack of teaching aid/material and not proficient in Malay Language (teacher-reported barriers)"
+    ],
+    "methodology_limitations": [
+      "The proposed DGBL model and DGBL-ID methodology had not yet been empirically validated at the time of publication",
+      "The game prototype was not yet developed or tested",
+      "The preliminary analysis was conducted only in five secondary schools in Selangor, limiting generalizability",
+      "Existing development methodologies reviewed had shortcomings: (a) do not explain instructional part clearly, (b) methodology is just a linear process without iterative development, (c) some phases or activities are not clear",
+      "After quality assurance phase, the methodology does not go back to design phase but only modifies within development phase, which could limit major redesign",
+      "Descriptive survey data only; no experimental or quasi-experimental evaluation of effectiveness"
+    ],
+    "negative_effects": [
+      "Students perceived history as a dead, boring subject with no commercial value",
+      "Difficulty in memorizing facts is the main problem (70.6% of students)",
+      "Declining pass rates in history examinations (SPM failing percentage increased from 25.6% in 2005 to 34.3% in 2006)",
+      "Students' negative attitudes toward history indirectly caused decrease in passing percentage"
+    ],
+    "mitigation_strategies": [
+      "Proposed DGBL approach as alternative to foster history learning through entertained experience",
+      "Proposed combining instructional design and game development into unified DGBL-ID methodology to address gaps in existing approaches",
+      "Included quality assurance phase with play testing, alpha testing, and beta testing to ensure error-free prototype",
+      "Incorporated iterative improvement within development phase",
+      "Designed model to include both pedagogy and game components to ensure educational effectiveness alongside engagement",
+      "Planned usability and effectiveness evaluation with target users (Form Four history students)"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly describes respondents: 582 Form Four students and 15 teachers from five local secondary schools in Selangor, with additional interviews of four history teachers. The document analysis covers SPM performance reports from 2002-2005. However, sampling method (convenience vs. random) is not explicitly stated.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample is drawn only from five secondary schools in Selangor, Malaysia, which limits representativeness to the broader Malaysian secondary school population or to other countries. No justification for school selection is provided.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "The study uses questionnaires and interviews for the preliminary needs analysis, but no information is provided about the validation, reliability, or piloting of these instruments. The survey instruments are not described in detail.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Analysis is limited to descriptive percentages from the survey. No inferential statistics are reported. The main contribution (DGBL model and DGBL-ID methodology) is based on literature review and the needs analysis but has not been empirically tested. No formal analytical framework is described for the document analysis or literature review.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Unclear concern",
+      "q5_evidence": "The findings from the preliminary analysis are used consistently to justify the proposed model components. However, the leap from survey results to model design involves subjective interpretation, and the authors do not discuss alternative interpretations of their findings.",
+      "q6_limitations_discussed": "High concern",
+      "q6_evidence": "The paper acknowledges shortcomings in existing development methodologies but does not explicitly discuss limitations of its own study design, survey methodology, or the preliminary nature of the proposed model. No discussion of threats to validity or generalizability of findings.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study presents a theoretical model (DGBL) and development methodology (DGBL-ID) for history educational games, supported by a preliminary needs analysis survey. However, several significant concerns exist: (1) the proposed model and methodology were not empirically validated at the time of publication; (2) survey instruments lack reported validity/reliability; (3) sample is limited to one region of Malaysia; (4) analysis is purely descriptive; (5) study limitations are not discussed. While the model components are well-articulated and grounded in literature review, the absence of empirical validation of the proposed framework significantly limits the strength of evidence."
+  }
+}

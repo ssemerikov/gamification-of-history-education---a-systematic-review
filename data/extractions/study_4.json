@@ -1,0 +1,143 @@
+{
+  "study_id": 4,
+  "pdf_filename": "A game for learning history on mobile devices.pdf",
+  "bibtex_key": "4Cruz2017",
+  "bibliographic": {
+    "title": "A game for learning history on mobile devices",
+    "authors": [
+      "S\u00f3nia Cruz",
+      "Ana Am\u00e9lia A. Carvalho",
+      "In\u00eas Ara\u00fajo"
+    ],
+    "year": 2017,
+    "publication_type": "journal_article",
+    "venue": "Education and Information Technologies",
+    "doi": "10.1007/s10639-016-9491-z",
+    "volume": "22",
+    "pages": "515-531",
+    "publisher": "Springer Science+Business Media New York"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Portugal"
+    ],
+    "country_of_application": "Portugal",
+    "education_level": "secondary",
+    "sample_size": 508,
+    "sample_description": "Students in the 2nd cycle of the Portuguese Educational System (5th and 6th grade), aged 10 to 12. Of 649 total respondents, 508 played games on mobile devices (298 male, 210 female, average age 11.2 years). Survey conducted between May and November 2013.",
+    "study_design": "design_based",
+    "game_type": "mobile",
+    "game_name": "1910",
+    "aim": "To present a mobile game designed to support teaching and learning of Portuguese History (Republic Implantation in 1910) for 6th grade students, informed by research on students' game preferences and Gee's learning principles.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The paper is primarily a design-based study describing the game design process and student survey on game preferences. It does not include a formal evaluation of learning outcomes from the game itself, only the survey informing the design.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The paper conceptualizes games as systems with rules, obstacles, and choices where the player learns through failures (citing Gee 2007). Games are seen as powerful mechanisms for teaching formal contents through fun and learning in every move. The study draws on Gee's learning principles and game mechanics to structure game-based learning for history. The paper focuses on mobile game-based learning rather than gamification per se, treating the custom mobile game as an educational tool integrating game mechanics with historical content.",
+    "theoretical_frameworks": [
+      "Gee's 36 learning principles (2003)",
+      "Game mechanics and game design fundamentals (Salen and Zimmerman 2004)",
+      "Mobile learning / ubiquitous learning",
+      "Game-based learning (GBL)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Survey data on game preferences: 84.6% of students wanted to use games to learn course content. Top game types for classroom use: Adventure (66.0%), Action (59.1%), Sport (50.5%). Game characteristics for keeping players playing included graphic effects/animations (79.9% male, 70.0% female), gameplay (78.2% male, 59.9% female), characters (74.2% male, 79.5% female). Difficulty preferences: Moderate (40.8%), Easy (22.4%), Very Easy (16.9%), Hard (12.2%), Very Hard (7.7%). Average play time: 4.4 hours/week (males 5.5h, females 2.8h).",
+    "statistical_results": "Descriptive statistics only (frequencies and percentages). No inferential statistical tests reported. Gender differences in game preferences were described but not statistically tested in this paper.",
+    "comparative_methodology": null,
+    "key_outcomes": "The study produced a detailed understanding of Portuguese students' mobile game preferences and habits that informed the design of the '1910' history game. Key findings: male students prefer longer, competitive games (GTA, CS, PES, Minecraft) while female students prefer casual games (Pou, Subway Surfers). Students strongly endorsed using games for learning school content (84.6%). Eight of Gee's 36 learning principles were identified in the most popular games and applied to the game design: Psychosocial Moratorium, Committed Learning Principle, Amplification of Input, Achievement Principle, Practice Principle, Regime of Competence, Intuitive Knowledge, and Affinity Group Principle.",
+    "engagement_results": "Students showed high receptivity to using games in course activities. They valued repetition of tasks for cognitive/motor skill development and identification with game characters. The paper notes students are receptive and like games that allow development of cognitive skills or motor dexterity."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Points/coins for correct answers",
+      "Levels/episodes organized by historical periods (1890, 1908, 1910, 1911)",
+      "Leaderboard (top five scores of classmates)",
+      "Progression unlocking (completing tasks unlocks next historical event on timeline)",
+      "Role-playing as a journalist character in 1890",
+      "Quests/missions (investigating facts/events for newspaper articles)",
+      "Achievement/reward system (more points for harder tasks)",
+      "Notebook for recording historical facts",
+      "Avatar with fictionalized character identity",
+      "Penalty system (losing half points for incorrect answers)",
+      "Repeat/retry mechanism for episodes"
+    ],
+    "technological_platforms": [
+      "Android mobile devices (smartphones)"
+    ],
+    "instructional_strategies": [
+      "Narrative-driven learning through role-playing as a journalist",
+      "Historical content integration through episodic storytelling across key dates",
+      "Multiple activity types: drag-and-drop, multiple choice, jigsaw puzzles, matching, fill-in-the-blanks",
+      "Progressive difficulty across episodes",
+      "Application of Gee's learning principles (Psychosocial Moratorium, Committed Learning, Amplification of Input, Achievement, Regime of Competence, Intuitive Knowledge, Affinity Group)",
+      "Teacher monitoring via web dashboard with student results in Excel",
+      "Game notebook as review/study tool collecting historical information",
+      "Flexible use: in-class or as homework with subsequent classroom discussion"
+    ],
+    "content_integration": "The game covers the Republic Implantation in Portugal (1910), a topic in the 6th grade Portuguese History curriculum. Historical content is integrated through four episodic periods (1890, 1908, 1910, 1911) with authentic historical photographs and events. The player assumes the role of a journalist in 1890 Lisbon who investigates historical events for newspaper articles, encountering the political crisis, the regicide of 1908, the revolution of 1910, and the new republic's measures in 1911. Activities include selecting correct words for articles, choosing photographs, solving jigsaw puzzles, identifying secret society members, quizzes about historical places, coloring the national flag, and matching national anthem verses."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Difficulty integrating games into rigid school curricula",
+      "Teachers need training/expertise to use games in education",
+      "Financial barriers (cost of games and dedicated equipment in schools)",
+      "Technical barriers (lack of dedicated equipment in schools)",
+      "Need for interdisciplinary teams (game designers, programmers, artists, historians, educationalists)",
+      "Mobile devices for personal use can cause distraction, especially for low-achieving students",
+      "Non-response bias due to school and student self-selection in survey participation"
+    ],
+    "methodology_limitations": [
+      "The paper presents a design study without formal evaluation of the game's learning effectiveness",
+      "Survey sample is not fully representative (most respondents from northern Portugal)",
+      "Self-selection bias in survey participation",
+      "No pre-test/post-test or control group comparison for learning outcomes",
+      "Descriptive statistics only; no inferential statistical analysis of gender differences or other comparisons",
+      "Some games mentioned by students are not age-appropriate (PEGI 16/18 games played by 10-12 year olds)"
+    ],
+    "negative_effects": [
+      "Mobile devices for personal use can cause distraction for low-achieving students (citing Beland and Murphy 2015)",
+      "Some students play age-inappropriate games with violent content"
+    ],
+    "mitigation_strategies": [
+      "Using mobile devices addresses barriers of dedicated school equipment by allowing anytime/anywhere play",
+      "Teacher role designed into the game system (creating class groups, monitoring progress, accessing results)",
+      "Game designed for both in-class and homework use to maximize flexibility",
+      "Survey validated by field experts and approved by National Board of Education",
+      "Design informed by actual student preference data rather than assumptions"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "yes",
+      "q1_evidence": "The study targets a clearly defined population: 5th and 6th grade students in the 2nd cycle of the Portuguese Educational System, aged 10-12. All schools were invited to participate through the Ministry of Education website and email.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "N=508 game-playing students from 649 respondents. However, the authors acknowledge most respondents were from northern Portugal and the sample includes non-response bias due to school and student self-selection. The sample is described as 'representative in relation to the target population' but this claim is weakened by the acknowledged self-selection bias.",
+      "judgment": "Moderate"
+    },
+    "domain2": {
+      "q3_valid_tools": "yes",
+      "q3_evidence": "An online survey was used, validated by experts in the field and approved by the National Board of Education (Dire\u00e7\u00e3o Geral de Educa\u00e7\u00e3o) of Portugal. The survey explored four dimensions: student characterisation, game habits, game preferences, and preferences for learning school content through games.",
+      "q4_analysis_methods": "unclear",
+      "q4_evidence": "Only descriptive statistics (frequencies and percentages) are reported. No inferential statistical tests were conducted to validate observed differences (e.g., gender differences in game preferences). The analysis of Gee's learning principles in popular games is qualitative and based on the researchers' interpretation.",
+      "judgment": "Moderate"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The findings from the survey are consistently linked to the game design decisions. The identification of Gee's learning principles in popular games is systematically applied to the design of the '1910' game. The connection between student preferences and design choices is clearly articulated.",
+      "q6_limitations_discussed": "partial",
+      "q6_evidence": "The authors acknowledge the self-selection bias and geographic concentration of the sample. However, they do not discuss the limitation that the game was not formally evaluated for learning effectiveness, nor do they discuss the limitations of using only descriptive statistics. The paper presents the game design without evidence of its actual educational impact.",
+      "judgment": "Moderate"
+    },
+    "overall": "Moderate",
+    "overall_justification": "The study presents a well-structured design-based research approach with a validated survey instrument and clear connection between findings and game design. However, key limitations include: (1) self-selection bias in the survey sample with geographic concentration in northern Portugal, (2) only descriptive statistics without inferential analysis, (3) no formal evaluation of the designed game's learning effectiveness, and (4) partial discussion of limitations. The study is methodologically sound as a design study but lacks empirical evidence of the game's educational impact."
+  }
+}

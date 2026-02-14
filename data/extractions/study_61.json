@@ -1,0 +1,148 @@
+{
+  "study_id": 61,
+  "pdf_filename": "Teaching history with the video game Assassin\u2019s Creed effective teaching practices and reported learning.pdf",
+  "bibtex_key": "61Karsenti202027",
+  "bibliographic": {
+    "title": "Teaching history with the video game Assassin\u2019s Creed: effective teaching practices and reported learning",
+    "authors": [
+      "Thierry Karsenti",
+      "Simon Parent"
+    ],
+    "year": 2020,
+    "publication_type": "journal article",
+    "venue": "Review of Science, Mathematics and ICT Education",
+    "doi": null,
+    "volume": "14",
+    "issue": "1",
+    "pages": "27-45",
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "Canada"
+    ],
+    "country_of_application": "Canada (Quebec)",
+    "education_level": "high school (secondary)",
+    "sample_size": 333,
+    "sample_description": "329 high school students (mostly 13 years old, 60% boys) and 4 teachers at two Quebec schools. 81% of students (n=269) in four classes responded to the questionnaire.",
+    "study_design": "exploratory mixed-methods case study (questionnaires, individual and group interviews, videotaped classroom observations; quantitative descriptive/inferential statistics via SPSS 22 and qualitative content analysis)",
+    "game_type": "commercial off-the-shelf (COTS) video game used as educational resource (not directly played by students in class)",
+    "game_name": "Assassin's Creed (Assassin's Creed II, Assassin's Creed: Brotherhood, Assassin's Creed: Revelations)",
+    "aim": "To gain a deeper understanding of the pedagogical use of Assassin's Creed in Quebec high school history classrooms, including: (1) how the game is used at school, (2) the benefits for teaching and learning, and (3) the challenges of this learning approach.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Students did not directly play the game in class; rather, teachers extracted and presented game content (clips, cinematics, screenshots) as instructional materials. This is a use of commercial game content for educational purposes rather than direct gameplay-based gamification.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes the use of video game content (from Assassin's Creed) as a form of 'profane rhetoric' or secondary historical source that can be used alongside traditional sources in history teaching. The authors distinguish this from games-based learning (GBL) and serious games, noting that Assassin's Creed is a commercial game that 'falls into the category of a commercial game, parts of which can be used for classroom learning.' The approach involves teachers extracting historical characters, buildings, events, and scenarios from the game to contextualize and vivify history lessons, aligning with the Quebec Education Program (QEP) competencies. The theoretical framing draws on games-based learning theory, historiographical thinking, and the concept of 'teachable moments.'",
+    "theoretical_frameworks": [
+      "Games-based learning (GBL)",
+      "Historiographical thinking (historical thinking)",
+      "Profane rhetoric / lay rhetoric",
+      "Quebec Education Program (QEP) competency framework",
+      "Teachable moments (Watson et al., 2011)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "ANOVA tests for gender differences in game enjoyment: F(1,152)=65.69, p=.000 (boys played more); F(1,138)=29.70, p=.000 (boys enjoyed more). ANOVA for teacher quality differences: F(3,205)=6.30, p=.000 (T1 lower than T2/T3); F(3,148)=9.23, p=.000 (students wanted more AC use with T2/T3/T4 than T1); F(3,183)=4.26, p=.006 (recommendations more positive for T2/T3 vs T1). 55% of students had played at least one AC game. 96% of those who played enjoyed it. 78% liked it 'a lot' or 'really loved' it. 59% found the classroom use very interesting or loved it. 66% recommended other teachers use AC. 52% wished it were used more in class.",
+    "statistical_results": "Significant gender differences in playing and liking Assassin's Creed (boys > girls). Significant differences in student appreciation across teachers: T1 (illustration-only approach) rated significantly lower than T2, T3, T4 (historical thinking approach). ANOVA results all at p<.01 level.",
+    "comparative_methodology": "Cross-teacher comparison of four teachers' different pedagogical approaches to using Assassin's Creed: T1 used lecture-style illustration (screenshots, clips as visual support without critical comparison); T2, T3, T4 used dialectic/investigative inquiry approach (comparing game content with other historical sources, fostering historical thinking). Students rated T2-T4 approaches significantly higher.",
+    "key_outcomes": "Five categories of student-reported learning: events (n=205), characters (n=63), places (n=33), monuments and buildings (n=33), cultures (n=13). Almost all learning was declarative knowledge. Students reported increased motivation, engagement, and interest in history. The multimedia aspects of video games (images, music, cinematics) served as effective learning vectors. Students reported feeling immersed and that the game helped them make connections between school content and outside knowledge. Teaching practices that fostered historical/critical thinking (T2-T4) were significantly more appreciated and effective than illustration-only approaches (T1).",
+    "engagement_results": "59% of students found classroom use of AC very interesting or loved it. 52% wished it were used more. Students reported increased curiosity and motivation: 'It makes me feel like learning more about the subject,' 'It's more fun to learn history.' Students described feeling 'almost there' and immersed. The game had direct repercussions on classroom behavior: 'I tend to listen more when it's more interesting.' 54% had already played the game and felt a home-school connection."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Historical characters and their actions",
+      "Cinematic sequences and video clips",
+      "Screenshots and in-game images",
+      "Historical settings (buildings, places, monuments)",
+      "Historical events depicted in gameplay",
+      "Immersive visual fidelity and realistic reconstruction",
+      "Narrative storylines set in historical periods"
+    ],
+    "technological_platforms": [
+      "Assassin's Creed II (Ubisoft Montreal, 2009)",
+      "Assassin's Creed: Brotherhood (Ubisoft Montreal, 2010)",
+      "Assassin's Creed: Revelations (Ubisoft Montreal, 2011)",
+      "Classroom screen/projector for displaying game content"
+    ],
+    "instructional_strategies": [
+      "Teacher-mediated extraction and presentation of game content (not direct student gameplay)",
+      "Using game clips, cinematics, and screenshots as visual support alongside lectures (T1 approach)",
+      "Dialectic and investigative inquiry: comparing game content with documentary sources to foster historical thinking (T2-T4 approach)",
+      "Applying the 5W+H questions (who, what, when, where, why, how) to game scenarios",
+      "Triangulation exercises: comparing game depictions with other secondary sources to corroborate or refute information",
+      "Using game elements in assessment exams",
+      "Splitting class screen into two parts to compare course content with game extracts",
+      "Group work combined with lectures and game-based content"
+    ],
+    "content_integration": "Teachers selected specific game content (characters, events, buildings, scenes) from Assassin's Creed that aligned with the Quebec Education Program (QEP) history curriculum. The game was used as a form of profane rhetoric / secondary historical source. Content was organized and presented in various forms (clips, screenshots, cinematics) rather than having students play the game directly. Teachers contextualized historical scenarios from the game (e.g., the Storming of the Bastille, the American Revolution, Benjamin Franklin, Samuel Adams) and used them to teach historiographical thinking competencies such as comparing sources, identifying anachronisms, and distinguishing fact from fiction."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Game is rated 'mature' (17+) so students younger than 17 were not allowed to play it on school premises",
+      "Social acceptability concerns: the game's stated goal involves assassination",
+      "Students sometimes confused between actual history and the game's virtual version",
+      "Polychrony and historical inaccuracies/anachronisms in the game",
+      "T1's illustration-only approach was significantly less effective, showing that teacher skill/approach matters greatly",
+      "Controversy around video games in education; public debate about merits of Assassin's Creed series",
+      "Risk of the game taking up too much class time (60% of recommending students suggested only occasional use)",
+      "9% of students did not appreciate the game being used in class at all"
+    ],
+    "methodology_limitations": [
+      "Exploratory study - not in a position to formulate specific recommendations",
+      "Students did not directly play the game in class, so games-based learning theories cannot be applied in the traditional sense",
+      "Self-reported learning outcomes (no pre-post achievement tests)",
+      "Sample limited to two Quebec schools and four teachers",
+      "Almost all reported learning was declarative knowledge; deeper learning not measured",
+      "Gender imbalance in game appreciation (boys significantly more positive)",
+      "Cultural specificity: study conducted in Quebec with Quebec-specific curriculum (QEP)"
+    ],
+    "negative_effects": [
+      "Students sometimes confused between actual history and the game's virtual version",
+      "Gender disparity: girls significantly less engaged with and appreciative of the game content",
+      "When teacher used only illustration approach (T1), educational impact was significantly lower and less appreciated",
+      "Game content contains historical inaccuracies and polychrony that could mislead students without proper teacher guidance"
+    ],
+    "mitigation_strategies": [
+      "Teacher acts as essential guide to point students in the right direction and help them assess quality of secondary sources",
+      "Using dialectic/investigative inquiry approach rather than mere illustration (T2-T4 model)",
+      "Comparing game content with other historical sources (triangulation) to develop critical thinking",
+      "Having students apply historiographical thinking to identify inaccuracies and anachronisms",
+      "Using game content selectively rather than having students play directly (addresses age-rating barrier)",
+      "Recommending occasional rather than excessive use to avoid taking too much class time"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly describes participants: 329 high school students and 4 teachers at two Quebec schools. Inclusion criteria are implicit (students in classes where teachers used Assassin's Creed content). 81% response rate (n=269) on questionnaires is well documented. Demographics reported (age, gender distribution).",
+      "q2_representativeness": "Moderate concern",
+      "q2_evidence": "Convenience sample of only two schools and four teachers in Quebec who already used Assassin's Creed. Not representative of broader population. The study acknowledges this is exploratory. Gender imbalance in game appreciation noted but not controlled for in main analyses.",
+      "judgment": "Moderate"
+    },
+    "domain2": {
+      "q3_valid_tools": "Moderate concern",
+      "q3_evidence": "Data collected via anonymous online questionnaires (Likert and open responses), individual and group interviews (transcribed and anonymized), and videotaped classroom observations. SPSS 22 used for quantitative analysis. Qualitative content analysis used semi-open coding system (L'Ecuyer 1990; Miles & Huberman 2003). However, no validated instrument is described; the questionnaire appears to be researcher-developed without reported reliability/validity testing.",
+      "q4_analysis_methods": "Moderate concern",
+      "q4_evidence": "Mixed methods combining descriptive/inferential statistics (ANOVA) with thematic content analysis. Statistical results are reported with F-values and p-values. However, learning outcomes are entirely self-reported by students (no objective achievement measures). The five learning categories emerged from content analysis of open responses but the coding process reliability (e.g., inter-rater agreement) is not reported.",
+      "judgment": "Moderate"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Low concern",
+      "q5_evidence": "Findings are interpreted consistently with the data presented. The cross-teacher comparison is well-grounded in observed differences. The authors appropriately note that GBL theories cannot be fully applied since students did not play the game. Conclusions about the importance of teaching practices are well-supported by the ANOVA results comparing teacher approaches.",
+      "q6_limitations_discussed": "Moderate concern",
+      "q6_evidence": "The authors acknowledge the exploratory nature of the study and state they are 'not in a position to formulate specific recommendations.' They note the key limitation that students did not play the game directly. However, several limitations are not explicitly discussed: lack of validated instruments, absence of objective learning measures, limited generalizability of a two-school Quebec sample, and potential self-selection bias among teachers who already chose to use the game.",
+      "judgment": "Moderate"
+    },
+    "overall": "Moderate",
+    "overall_justification": "This is a well-designed exploratory mixed-methods study that provides rich qualitative and quantitative data on the use of Assassin's Creed content in history teaching. Strengths include multi-source data collection (questionnaires, interviews, observations), a useful cross-teacher comparison, and transparent reporting of statistical results. However, moderate concerns arise from: (1) convenience sampling limited to two schools; (2) researcher-developed instruments without reported validity/reliability; (3) entirely self-reported learning outcomes with no objective achievement measures; (4) limited discussion of several methodological limitations. The study is appropriate for its stated exploratory aims but should be interpreted with caution regarding generalizability and the strength of learning outcome claims."
+  }
+}

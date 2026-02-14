@@ -1,0 +1,181 @@
+{
+  "study_id": 78,
+  "pdf_filename": "When Everyone Wins Dialogue, Play, and Black History for Critical Games Education.pdf",
+  "bibtex_key": "78Rouse2022357",
+  "bibliographic": {
+    "title": "When Everyone Wins: Dialogue, Play, and Black History for Critical Games Education",
+    "authors": [
+      "Rebecca Rouse",
+      "Amy Corron Youmans"
+    ],
+    "year": 2022,
+    "publication_type": "journal_article",
+    "venue": "Media and Communication",
+    "doi": "10.17645/mac.v10i4.5680",
+    "volume": "10",
+    "pages": "357-368",
+    "publisher": "Cogitatio"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Sweden",
+      "United States"
+    ],
+    "country_of_application": "United States",
+    "education_level": "higher_education",
+    "sample_size": 19,
+    "sample_description": "Nineteen students, mostly first-semester freshmen in a game design program at Rensselaer Polytechnic Institute (RPI), in the game simulation arts and sciences program. The course was 'History and Culture of Games' co-facilitated by two instructors over three years, with the detailed 2019 fall iteration involving two sections of students across twenty-nine course meetings in the semester. Two students also provided longitudinal reflections two years after the course.",
+    "study_design": "qualitative",
+    "game_type": "mixed",
+    "game_name": "Multiple games used: Learning Edges (physical activity), Sim City (simulation), Barnga (card game), Memoir Games (student-designed); analyzed games include Brenda Romero's The New World (2008), Playing History: Slave Trade (2013), Mission US: Flight to Freedom (2012), National Geographic's Underground Railroad: Journey to Freedom (2014), Scholastic's The Underground Railroad: Escape From Slavery (2013), Brian Meyer's Freedom: The Underground Railroad (2012). Student-designed games for exhibition: Guided, Combahee, Safehouse, Family or Foe?",
+    "aim": "To reflect on the process and outcomes of using dialogue, play, and a focus on Black women's history to support critical media literacy in game design education, specifically through a dialogue-based introductory undergraduate course intended to deepen engagement by students in game design practice",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study is primarily about game design education rather than history education per se, but it centrally involves learning about Black history (specifically Harriet Tubman's life and legacy, the history of slavery, the Underground Railroad, and the Combahee River Raid) through game design and play. The gamification component involves students both playing existing games about historical topics and designing their own board games focused on Harriet Tubman's history for a public exhibition. The study is qualitative with no control group or quantitative learning outcome measures. It is a reflective pedagogical article rather than a traditional experimental study, but it reports primary empirical data (dialogue transcripts, student work, survey responses, instructor observations, and longitudinal student reflections).",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study does not use the term 'gamification' explicitly. Instead, it conceptualizes the intersection of games and education through the lens of dialogic pedagogy and critical media literacy. Games and play are positioned as experiential learning activities that serve as catalysts for intergroup dialogue about social identity, privilege, oppression, and historical narratives. The authors describe their approach as combining 'both dialogic pedagogy and more traditional design pedagogy methods to work across personal experience, theory, and practice, to build an integrative critical literacy for students, inclusive of their own social identities.' Play and game design are framed as vehicles for critical engagement with history, not merely as motivational tools. The paper cites David Bohm's characterization of dialogue: 'In a dialogue, however, nobody is trying to win. Everybody wins if anybody wins.' Game-based learning is thus conceptualized within a framework of dialogue, social justice education, and anti-racist pedagogy rather than through typical gamification frameworks (points, badges, leaderboards).",
+    "theoretical_frameworks": [
+      "Intergroup dialogue (Zuniga, 2003) - four stages of dialogue: group beginnings, identity/social relations/conflict, issues of social justice, empowerment/allies/action",
+      "Multipartial facilitation and power balancing (Fisher & Petryk, 2017)",
+      "Dialogic pedagogy - transformational as opposed to informational learning",
+      "Critical media literacy - ability to critically 'read' and 'write' in the medium of games",
+      "Cycle of Socialization (Harro, 2018)",
+      "Procedural rhetoric (referenced in analysis of games about slavery)",
+      "Critical feminist pedagogy (Rouse & Corron, 2020)",
+      "Digital literacy pedagogies (Lund et al., 2019; Bali, 2019)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": "No comparative methodology was used. The study employs qualitative reflective analysis drawing on student dialogue transcripts, instructor observations, student game design artifacts, survey responses, and two longitudinal student reflections collected two years after the course. The authors explicitly note: 'As opposed to more instrumentalized forms of pedagogy, our assessment and outcomes are not focused on the evaluation of something our students produce as an end in itself (a research paper, a project, etc.). Instead, we are observing for evidence of deep connections within the group, between the students, and between students and the complexity of the subject.'",
+    "key_outcomes": "Four of eight student-designed Harriet Tubman board games were selected for inclusion in a public exhibition at a local art gallery (The Albany Barn), representing a 50% 'success rate.' The authors note this reflects the pedagogical challenges of the course where some students struggled with connecting to the historical material. The four selected games (Guided, Combahee, Safehouse, Family or Foe?) demonstrated 'genuine engagement and curiosity to the story of Tubman' and teams 'were open to receiving constructive feedback on improving their designs.' Students who created successful games demonstrated critical media literacies including the ability to 'articulate the self as politically situated in mediatized culture' and 'communicate across differences.' The course produced powerful shifts: 'shifting focus from new to old, from white to black identity, from male to female identity, from simplification to complexity' in game design.",
+    "engagement_results": "Mixed engagement results were observed. In successful dialogues, students demonstrated ability to listen and share 'across difference,' acknowledged 'their intersectional entanglement with games, society, and each other,' and displayed willingness to ask difficult questions. One student (Sarah, a Black female, two years later) reported: 'That intersection of history, social issues, and thought-provoking conversation, in my opinion, is greatly overlooked and underrepresented in the game industry at large.' Another student (Matthew, a white male, two years later) reported: 'it encouraged student engagement, resulting in us having to reflect and think more about the material taught instead of us just listening to the professor.' However, the study also documented significant resistance: some students dismissed dialogues, lacked engagement, and resisted learning through discomfort. In one dialogue, a white male student left the classroom for a quarter of an hour. Some students maintained that games are 'just for fun' and that culture is 'outside the purview of games.' The authors note that 'not all students were able to deeply engage the critical concepts we were asking them to reflect on.'"
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Board game design (student-designed games for Harriet Tubman exhibition)",
+      "Card game mechanics (Barnga - tournament-style rotation with hidden rule variations)",
+      "Role-playing elements (Sim City simulation with assigned administrative roles)",
+      "Turn-based strategy (Combahee, Safehouse)",
+      "Cooperative gameplay (Family or Foe? - collaborative storytelling RPG for 4-10 players)",
+      "Blindfolded sensory play (Guided - simulating escape on Underground Railroad)",
+      "Physical movement/embodied play (Learning Edges - spectrum activity)",
+      "Memoir/narrative game design (personal story-based game creation)",
+      "Historical resource management (Freedom board game analysis)",
+      "Puzzle mechanics (critique of Playing History: Slave Trade 'slave Tetris')",
+      "Map-based movement (Family or Foe? - historically accurate 1850s US map)",
+      "Chance/card-drawing mechanics (slave catcher cards in Family or Foe?)",
+      "Asymmetric gameplay (Safehouse - one player hides, other hunts; Combahee - Union vs. Confederacy)",
+      "Hidden information (Safehouse - masked board space)",
+      "Time pressure (Combahee - strict time limit; Safehouse - 10 turn limit)"
+    ],
+    "technological_platforms": [
+      "Physical board games (primary medium for student designs)",
+      "Card games (Barnga)",
+      "Physical/embodied activities (Learning Edges, Sim City simulation)",
+      "Craft supplies for game fabrication",
+      "Digital games analyzed in class (Playing History: Slave Trade, Mission US: Flight to Freedom, National Geographic's Underground Railroad, Scholastic's Underground Railroad, Brian Meyer's Freedom)",
+      "Some student memoir games were digital"
+    ],
+    "instructional_strategies": [
+      "Intergroup dialogue with four sequential stages across the semester",
+      "Multipartial facilitation and power-balancing techniques",
+      "Experiential learning activities rooted in games",
+      "Community agreements co-created by students",
+      "Critical game analysis through dialogue (analyzing representations of slavery in games)",
+      "Semester-long small group design project (Harriet Tubman board games for public exhibition)",
+      "Co-facilitation by two instructors (game designer and dialogue facilitator)",
+      "Collaboration with external historian expert (Professor Janell Hobson, Tubman expert)",
+      "Integration of historical reading materials (Kate Clifford Larson's Tubman biography, Sarah Bradford's 1869 book, Sarah Juliet Lauro's 2020 research on slavery in games)",
+      "Reflective dialogue processing after each game/activity",
+      "Small group reflection followed by large group sharing",
+      "Memoir game design assignment for personal storytelling",
+      "Public exhibition as authentic assessment and audience",
+      "Longitudinal follow-up with former students (two years later)",
+      "Active listening and affirming inquiry techniques (LARA)",
+      "Social identity exploration activities (Social Identity Terminology, Identity Profiles, Cycle of Socialization, Social Identity Timelines)"
+    ],
+    "content_integration": "Historical content was deeply integrated with game mechanics through a multi-layered approach. First, students played and critically analyzed existing commercial and educational games about slavery and the Underground Railroad through dialogic facilitation, examining how game mechanics create meaning (procedural rhetoric) and whether they honor or exploit enslaved people's experiences. Second, students researched Harriet Tubman's history, the Combahee River Raid, the Underground Railroad, and the broader context of slavery, then designed original board games that translated this historical knowledge into playable mechanics. For example, the student game 'Combahee' recreated the Combahee River Raid as a 1v1 turn-based strategy game with historically accurate geography; 'Guided' simulated the Underground Railroad escape experience using blindfolds and musical codes to represent oral tradition; 'Family or Foe?' used a historically accurate 1850s US map with chance-based slave catcher cards to represent the brutality and uncertainty of escape. The course produced four 'powerful shifts' in game design: shifting focus from new to old (historical material), from white to Black identity, from male to female identity, and from simplification to complexity. The figure of Harriet Tubman served as a 'generative and critical catalyst' that pushed 'the buttons of the field in meaningful ways.'"
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Student resistance to engaging with uncomfortable topics about race, privilege, and oppression in games",
+      "Some students maintained that games are 'just for fun' and serious historical topics should not be part of game design",
+      "Student disengagement: one white male student left the classroom for a quarter of an hour during a dialogue",
+      "Sexist resistance from male class members to accept female co-facilitators' experiences",
+      "Predominantly male and predominantly white student demographics created consistent power imbalance challenges",
+      "Structural whiteness in the games classroom (Wu, 2022) creating barriers to critical engagement",
+      "Difficulty for some students in finding a connection to the Harriet Tubman topic, reflecting dominant views that many areas of culture are 'outside the purview of games'",
+      "Institutional and structural power dynamics present in the class affecting dialogue",
+      "Some students unable to successfully create original and meaningful games on the topic of Tubman (4 of 8 teams failed to meet exhibition quality)",
+      "The 'viscerally aggressive' reactions toward critical perspectives (Wu, 2022) and resistance to 'announcing the illegitimacy of anything illegible'"
+    ],
+    "methodology_limitations": [
+      "No quantitative learning outcome measures or pre-test/post-test design",
+      "No control group or comparative condition",
+      "Small sample size (19 students in the detailed 2019 iteration)",
+      "Single institution (Rensselaer Polytechnic Institute) limiting generalizability",
+      "Reflective/narrative methodology based primarily on instructor observations and selected dialogue excerpts",
+      "Only two former students responded to the longitudinal follow-up two years later",
+      "Selection bias in presented dialogue excerpts - authors chose which dialogues to include",
+      "Self-reported student reflections may be influenced by social desirability",
+      "No systematic coding framework or formal qualitative analysis methodology described",
+      "Authors acknowledge their own positionality as white female co-facilitators may have affected the Harriet Tubman project experience"
+    ],
+    "negative_effects": [
+      "Some students experienced pain and discomfort in recognizing privilege during Sim City activity: 'It hurts me to think society is like this because I am privileged'",
+      "Student resistance and lack of engagement when confronted with critical perspectives on race in games",
+      "Potential for students to reinforce harmful perspectives: one white male student suggested women harassed in multiplayer games 'should just use the mute button' instead of being 'harsh'",
+      "Risk of students experiencing alienation, as Black students in white-dominated field found the industry 'already alienating'",
+      "Facilitators acknowledged 'our limitations and our inability to fully prevent harm to any students within our class'",
+      "Some dialogue experiences were 'challenging' with 'resistance' - failed or stunted dialogues that were 'charged' for facilitators",
+      "Students who created unsuccessful games had 'struggled with finding a connection to the Tubman topic' suggesting possible disengagement or alienation from the material"
+    ],
+    "mitigation_strategies": [
+      "Using multipartial facilitation techniques to balance power dynamics and make space for counter-narratives",
+      "Building classroom community through four sequential stages of dialogue before tackling difficult topics",
+      "Creating community agreements at start of course",
+      "Collaboration with external Black feminist scholar and Tubman expert (Professor Janell Hobson) as guest lecturer",
+      "Bringing in readings and materials from Black perspectives to center marginalized voices",
+      "Framing failed or stunted dialogues as valuable learning experiences through the lens of dialogic pedagogy",
+      "Power-balancing facilitation to ensure marginalized students were heard",
+      "Conscious self-reflection by facilitators about their own white racial identity and potential biases",
+      "The practice of 'stepping back from dialogue to reflect, as a group, on the process of the dialogue'",
+      "Making the facilitator/teacher 'included, learning alongside the students' rather than positioned as authority"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "unclear",
+      "q1_evidence": "The paper describes participants as 'nineteen students, mostly first-semester freshmen in a game design program' who were 'gathered around a large square configuration of tables, facing each other' for an in-class dialogue. These were students enrolled in the 'History and Culture of Games' course at Rensselaer Polytechnic Institute. No explicit selection criteria are provided beyond enrollment in the course. It is unclear whether this was a required or elective course, or how students came to be enrolled. The 2019 iteration 'included two sections of students' but the relationship between sections is not clarified.",
+      "q2_representativeness": "no",
+      "q2_evidence": "The sample consists of students from a single elite private institution (Rensselaer Polytechnic Institute) in a game design program. The authors note 'our course was predominantly male' and acknowledge their institution 'is predominantly white, despite the racial and ethnic diversity we had in our course.' The 19 students represent a very specific population (first-semester freshmen game design students at a US technical university) and are not representative of broader student populations. Only two former students responded to the longitudinal follow-up, further limiting representativeness of reported outcomes.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "Data collection involved multiple qualitative sources: 'student work, survey responses, and instructor observations' as well as dialogue transcripts and longitudinal student reflections collected two years later. However, no details are provided about the survey instrument (questions, validity, reliability), the systematic nature of observations, or how dialogue excerpts were recorded and selected. The authors state they 'recorded observations in notebooks' during dialogues. No established qualitative data collection protocols or validated instruments are described. The longitudinal follow-up appears to have been informal ('we also reached out to former students and asked for their longer-term reflections').",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "No formal data analysis methods are described. The paper presents selected dialogue excerpts, instructor reflections, and two student testimonials without describing any systematic coding, thematic analysis, or qualitative analysis framework. The authors explicitly state their assessment approach is not focused on traditional evaluation: 'our assessment and outcomes are not focused on the evaluation of something our students produce as an end in itself (a research paper, a project, etc.). Instead, we are observing for evidence of deep connections within the group.' While this is consistent with dialogic pedagogy, it means there is no described or justified analytical method for drawing the conclusions presented.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The authors' interpretations are generally consistent with the evidence presented. They honestly report both successes and failures: four of eight student games met exhibition quality (50%), some dialogues were clearly successful while others involved resistance and disengagement. They do not overstate their findings, acknowledging that 'not all students were able to deeply engage the critical concepts we were asking them to reflect on' and that 'despite our dialogic pedagogy approach, not all students were able to successfully create original and meaningful games on the topic of Tubman.' Their conclusion that 'through dialogue we ultimately increased the capacity of everyone in the course, students and co-facilitators, to engage in an uncomfortable design process' is qualified and hedged appropriately.",
+      "q6_limitations_discussed": "yes",
+      "q6_evidence": "The authors acknowledge several limitations, particularly their own positionality: 'Our own identities as white female co-facilitators affected the experience of the course for both ourselves and our students,' 'we hold privilege within that identity as the institution is predominantly white,' and 'we acknowledge our limitations and our inability to fully prevent harm to any students within our class as well as the role of institutional and structural power dynamics present in the class which we have reflected on (Corron & Rouse, 2022).' They also cite Wu (2022) to contextualize the resistance they encountered. However, methodological limitations (small sample, no systematic analysis) are not explicitly discussed as such.",
+      "judgment": "Unclear"
+    },
+    "overall": "High",
+    "overall_justification": "The overall risk of bias is high primarily due to methodological concerns in Domains 1 and 2. Domain 1 (selection): participants are from a single elite institution with no clear selection criteria and a very small, non-representative sample (19 students, only 2 longitudinal respondents). Domain 2 (data collection/analysis): while multiple qualitative data sources are mentioned, no validated instruments, systematic data collection protocols, or formal qualitative analysis methods are described; the authors explicitly frame their assessment as non-instrumentalized observation. Domain 3 (interpretation) is more favorable as the authors honestly acknowledge both successes and failures and discuss their own positionality and limitations, but the lack of systematic analysis means interpretations rest on selectively presented evidence. The study is best understood as a reflective pedagogical article sharing practitioner insights rather than a rigorous empirical study, which is consistent with its venue and stated aims but limits the strength of its evidence claims."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "study_id": 8,
+  "pdf_filename": "An Exploration of Computer Game-Based Instruction in the World History Class in Secondary Education: A Comparative Study in China.pdf",
+  "bibtex_key": "8Yu2014",
+  "bibliographic": {
+    "title": "An Exploration of Computer Game-Based Instruction in the \"World History\" Class in Secondary Education: A Comparative Study in China",
+    "authors": [
+      "Zhonggen Yu",
+      "Wei Hua Yu",
+      "Xiaohui Fan",
+      "Xiao Wang"
+    ],
+    "year": 2014,
+    "publication_type": "journal article",
+    "venue": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0096865",
+    "volume": "9",
+    "pages": "e96865",
+    "publisher": "Public Library of Science"
+  },
+  "study_characteristics": {
+    "countries": [
+      "China"
+    ],
+    "country_of_application": "China",
+    "education_level": "secondary education (senior high school, ages 17-18)",
+    "sample_size": 103,
+    "sample_description": "103 second-grade senior high school students (52 boys and 51 girls, aged 17-18, mean age 17.54, SD = 0.50) from two randomly selected classes (out of 13 classes) in a senior high school in Nanjing, capital of Jiangsu Province, China. Class A (CGBI) and Class B (NCGBI).",
+    "study_design": "quasi-experimental pretest/posttest comparative study with mixed methods (quantitative and qualitative)",
+    "game_type": "commercial off-the-shelf (COTS) real-time strategy computer game",
+    "game_name": "The Age of Empires: The Conquerors Expansion",
+    "aim": "To identify the effectiveness of computer game-based instruction (CGBI) by answering two research questions: (1) Will CGBI significantly stimulate motivation and improve learning achievement compared with non-computer game-based instruction (NCGBI)? (2) Will boys obtain significantly more learning achievement and be more motivated than girls in the CGBI class?",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study uses a commercial strategy game (Age of Empires) rather than a purpose-built educational game, but the game was explicitly used for history education instruction with aligned learning materials and assessment. The game content is mapped to world history curriculum.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes computer game-based instruction (CGBI) as using commercial computer games as the primary instructional medium in a classroom setting. CGBI is presented as a blended learning approach where students access history learning through game playing, with the game integrated into the formal curriculum. The authors reference Prensky's concept of 'Digital Game-Based Learning' (DGBL). Six design elements are adopted to govern learning with computer games: (a) rules, (b) definite goals, (c) catalysts activating participation, (d) levels of achieving goals, (e) control over participation, (f) unknown results, and (g) feedback in time.",
+    "theoretical_frameworks": [
+      "Digital Game-Based Learning (DGBL) per Prensky (2003)",
+      "Blended learning framework combining game play with traditional instruction",
+      "Motivational dimensions framework: overall appeal, availability of learning materials, educational value"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Pretest/posttest world history knowledge test (30 multiple-choice questions); posttest feedback questionnaire with 9 items on 5-point Likert scale measuring three motivational dimensions (overall appeal, availability of learning materials, educational value); open-ended qualitative questions on CGBI perceptions.",
+    "statistical_results": "Hypothesis 1 (Learning achievement): Pretest means not significantly different (CGBI M=13.53 vs NCGBI M=13.21, t=0.51, p=.61). Posttest CGBI (M=18.22) significantly higher than NCGBI (M=16.92, t=2.01, p=.05). Hypothesis 2 (Motivation): Overall motivation CGBI (M=22.34) significantly higher than NCGBI (M=21.37, t=2.05, p=.04). Availability of learning materials dimension significantly higher in CGBI (M=7.71 vs M=6.83, p=.00). Overall appeal and educational value not significantly different. Hypothesis 3 (Gender achievement): No significant gender differences in learning achievement in either class (CGBI: female M=17.53, male M=18.98, t=-1.48, p=.14; NCGBI: female M=17.45, male M=16.68, t=1.01, p=.31). Hypothesis 4 (Gender motivation): Boys significantly more motivated by CGBI than girls in both Class A (male M=24.15, female M=20.79, t=5.32, p=.04) and Class B (male M=22.85, female M=19.98, t=3.48, p=.002).",
+    "comparative_methodology": "Paired samples t-tests for comparing CGBI vs NCGBI on biographic data, pretest/posttest scores, and motivational dimensions. Independent samples t-tests for comparing gender differences in learning achievement and motivation within each class. SPSS used for quantitative analysis. Qualitative data from open-ended questions analyzed through summarizing and reasoning.",
+    "key_outcomes": "CGBI produced significantly greater learning achievement than NCGBI. Participants were significantly more motivated by CGBI compared with NCGBI, particularly in the availability of learning materials dimension. No significant gender differences in learning achievement were found. Boys were significantly more motivated by CGBI than girls in both classes.",
+    "engagement_results": "Qualitative data showed strong engagement: male students were familiar with the game, felt excited about using it for education, and valued its role in memorizing historical events. Female students, though less familiar with the game, expressed curiosity and interest when games were applied to education, and nearly universally agreed that games could make education less tedious and improve learning. Both genders eagerly longed for future learning via gaming."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Six levels of difficulty (easiest, easy, moderate, difficult, more difficult, most difficult)",
+      "Multiple civilizations with unique economic and military technologies (Aztecs, Huns, Koreans, Mayans, Spanish, etc.)",
+      "Combat rules and military/economic units (Conquistadors, Eagle Warriors, Halberdiers, etc.)",
+      "Unique unit or team bonus for each civilization",
+      "Medieval fights and empire construction",
+      "Rules governing learning with computer games",
+      "Definite goals",
+      "Catalysts activating participation",
+      "Levels of achieving goals",
+      "Control over participation",
+      "Unknown results",
+      "Feedback in time"
+    ],
+    "technological_platforms": [
+      "PC/Computer (The Age of Empires: The Conquerors Expansion by Ensemble Studios Corp. for Microsoft Corporation)",
+      "Multimedia projector system (for NCGBI class)",
+      "Blackboard and chalk (for NCGBI class)"
+    ],
+    "instructional_strategies": [
+      "Blended learning combining game play with history content",
+      "Formal training session (6 hours over 2 days) on how to play the game before the intervention",
+      "Same instructor taught both CGBI and NCGBI classes",
+      "Same teaching outline, learning objectives, materials, and contents for both groups",
+      "Preview before gaming and review after gaming",
+      "Assignments completed mainly during game play in class",
+      "Participants encouraged to play before and after classes for familiarization",
+      "Peer tutoring: good players helped unfamiliar participants",
+      "Game oriented to neutral rather than gender-specific content to minimize gender bias",
+      "Violence, indulgence, and pornography-oriented content minimized",
+      "Intervention duration: 2 hours per week for 16 weeks (one semester)"
+    ],
+    "content_integration": "The game content was directly aligned with the World History curriculum designed by the Ministry of Education of China. The 30-question knowledge test was based on learning materials contained in the game (e.g., unique military technology, historic events). Students needed to learn about military, agriculture, industry, economy, religion, and technologies of different nations through gameplay. The goal-reaching process in the game was described as 'no less than a world knowledge acquisition class.' All informational content in the test was contained in the game's learning materials."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Game initially set at 'difficult' level exceeded the restricted 2-hour weekly teaching period; had to be adjusted to 1-hour sessions",
+      "Some participants were unfamiliar with the game after training, leading to time-consuming operation",
+      "Same teacher taught both classes using different teaching styles, which may have caused confusion or mixing of approaches",
+      "Very few studies conducted on CGBI in China, making it a relatively unexplored context",
+      "Few female students had experience playing the game; they preferred small-scale games over large-scale ones with violence",
+      "Commercial game not specifically designed for educational purposes"
+    ],
+    "methodology_limitations": [
+      "Same teacher taught both CGBI and NCGBI classes, potentially mixing teaching styles and approaches",
+      "Questionnaires should have undergone further validation and reliability testing despite being designed by experienced instructors",
+      "Many other variables may influence results besides the game (previous gaming experience, student attitudes, actual enjoyment, motivation for participation, instructional quality)",
+      "Small sample from a single school limits generalizability",
+      "Only two classes compared, selected from 13 available",
+      "No long-term follow-up to assess retention of learning gains"
+    ],
+    "negative_effects": [
+      "Violence, attack, and thrillingness in the game were characteristics that female students found unappealing",
+      "Gender differences in motivation: boys significantly more motivated than girls by CGBI, suggesting potential inequity",
+      "Despite higher motivation, boys did not achieve significantly higher learning outcomes than girls, suggesting motivation from gaming may not directly translate to academic achievement"
+    ],
+    "mitigation_strategies": [
+      "Game difficulty was adjusted from 'difficult' to a lower level to fit the teaching period",
+      "Game content oriented to neutral rather than gender-specific to minimize gender bias",
+      "Violence, indulgence, and pornography-oriented content were minimized",
+      "Good players were encouraged to help unfamiliar participants as peer tutors",
+      "Participants were encouraged to practice the game before and after classes",
+      "Formal 6-hour training session provided before the intervention began"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly describes the selection criteria: two randomly selected classes from 13 classes in a senior high school in Nanjing, China. Participants were second-grade senior high school students learning world history. Inclusion was based on enrollment in these classes. The biographic data comparison (Table 2) confirmed no significant differences between groups on gaming frequency, liking, and experience.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample is from a single senior high school in Nanjing, Jiangsu Province, China. Only 103 students from 2 classes out of 13 were included. The sample is limited to one geographic location and one school, which severely limits generalizability to other Chinese schools or other cultural contexts. No information on socioeconomic diversity or school characteristics provided.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Moderate concern",
+      "q3_evidence": "The world history knowledge test (30 multiple-choice questions) was designed by researchers and reviewed by experienced high school teachers. The posttest feedback questionnaire used 9 Likert-scale items measuring three motivational dimensions (overall appeal, availability of learning materials, educational value). However, the authors acknowledge that the questionnaires should have undergone further validation and reliability testing. No Cronbach's alpha or other reliability/validity measures are reported for any instrument.",
+      "q4_analysis_methods": "Low concern",
+      "q4_evidence": "Paired samples t-tests and independent samples t-tests were used appropriately for the comparisons made. SPSS was used for analysis. Biographic data were compared to establish baseline equivalence. Both quantitative and qualitative methods were employed. Statistical significance level was set at .05. However, effect sizes were not reported.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Moderate concern",
+      "q5_evidence": "The findings are generally interpreted consistently with the data. However, the borderline significance of the posttest achievement comparison (p = .05 exactly) is presented as clearly significant without discussion of the marginal nature. The authors interpret the lack of gender differences in achievement alongside gender differences in motivation thoughtfully, proposing a 'dynamic balance' explanation. Some interpretations of qualitative data are somewhat subjective.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The authors explicitly discuss several limitations: the same teacher teaching both classes with potentially mixed approaches, the need for further validation of questionnaires, and the influence of confounding variables (previous experience, attitudes, motivation, instructional quality). They also note the broader limitation of few CGBI studies in China.",
+      "judgment": "Moderate"
+    },
+    "overall": "High",
+    "overall_justification": "The study has notable risk of bias concerns. The sample is drawn from a single school with only two classes, limiting representativeness and generalizability. The measurement instruments (knowledge test and motivational questionnaire) lack reported validity and reliability data. The same teacher instructing both groups introduces potential contamination. The borderline statistical significance (p = .05 exactly) for the primary outcome is not discussed. No effect sizes are reported. While limitations are openly discussed and baseline equivalence was established, the combination of unvalidated instruments and limited sampling leads to an overall high risk of bias assessment."
+  }
+}

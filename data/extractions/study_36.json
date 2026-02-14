@@ -1,0 +1,159 @@
+{
+  "study_id": 36,
+  "pdf_filename": "Gamifying History Designing and Implementing a Game-Based Learning Course Design Framework.pdf",
+  "bibtex_key": "36Scholz2021",
+  "bibliographic": {
+    "title": "Gamifying History: Designing and Implementing a Game-Based Learning Course Design Framework",
+    "authors": [
+      "Kyle W. Scholz",
+      "Jolanta N. Komornicka",
+      "Andrew Moore"
+    ],
+    "year": 2021,
+    "publication_type": "journal article",
+    "venue": "Teaching & Learning Inquiry",
+    "doi": "10.20343/teachlearninqu.9.1.9",
+    "volume": "9",
+    "pages": "99-116",
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "Canada"
+    ],
+    "country_of_application": "Canada",
+    "education_level": "Higher education (third-year undergraduate)",
+    "sample_size": 15,
+    "sample_description": "15 students in a third-year history seminar course on the Black Death at the University of Waterloo (a large public research institution in Ontario, Canada). 14 participants provided insight; 12 agreed to have their data used. 11 were enrolled in the Faculty of Arts, 1 in the Faculty of Math. Six identified as female, six as male. The course was an elective open to students from any Faculty.",
+    "study_design": "Mixed-methods (pre-/post-questionnaires, two focus groups, and two in-class observations by a third-party research assistant)",
+    "game_type": "Game-based learning course design framework (gamified course structure with embedded role-playing game)",
+    "game_name": "Custom game-based learning course design framework applied to a Black Death history course (includes a two-week role-playing game component)",
+    "aim": "To analyze the development and implementation of a game-based learning course design framework structured around four core gamified elements (narrative assignment design, learner discovery, team-based collaboration and competition, and choice through quests), and to evaluate how it functions as a teaching approach and whether it increases student engagement.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Small sample size (n=15, with only 12 consenting to data use). Single institution, single course implementation. The study focuses on a game-based learning course design framework rather than a standalone digital game, but it incorporates gamification elements and game-based learning principles into history education.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "The authors distinguish between gamification and game-based learning: 'gamification referring to the addition of game-based elements\u2014such as points and leaderboards, conflict, or competition (Whitton 2014)\u2014onto an already established learning activity or assessment. Game-based learning, then, is the integration of game-based principles into the design of a learning activity or assessment.' They also define engagement as 'a learner's active participation in not only class and team discussions, but also in one's willingness to go above and beyond in the course, completing additional assignments... or accessing external material that is not being assessed.'",
+    "has_explicit_definition": true,
+    "conceptualization": "The authors conceptualize game-based learning as distinct from gamification. While gamification adds game elements onto existing activities, game-based learning integrates game principles into the design itself. Their framework merges existing course design frameworks with game-based learning principles to structure an entire course. The four core elements of their framework\u2014narrative assignment design, learner discovery, team-based collaboration and competition, and choice through quests\u2014are intended to benefit student engagement rather than directly improve grades. The framework draws inspiration from task-based learning (Willis 1996) and backward course design (Wiggins and McTighe 2005).",
+    "theoretical_frameworks": [
+      "Task-based learning (Willis 1996)",
+      "Backward course design (Wiggins and McTighe 2005)",
+      "Community of Inquiry framework (Garrison, Anderson, and Archer 2000)",
+      "Multiplayer classroom concept (Sheldon 2011)",
+      "LEGA framework (Baldeon, Rodriguez, and Puig 2016)",
+      "Gameful Pedagogy (University of Michigan)",
+      "Mapping of game mechanics to learning mechanics (Arnab et al. 2015)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Pre- and post-questionnaires measuring student perceptions of teaching approaches. Table 2 presents percentages of students who found certain teaching approaches helpful: Lectures (89% extremely helpful), Large class discussions (45% extremely helpful), Small group discussions (33% extremely helpful), Group work (22% extremely helpful), Individual work (33% extremely helpful), Demonstrations (56% extremely helpful), Technology enabled learning (44% extremely helpful). 90% of students selected lectures as the most helpful learning type in the pre-questionnaire, while group work was rated least helpful.",
+    "statistical_results": "No formal statistical tests were reported. Findings are primarily qualitative with descriptive percentages from questionnaires. 80% of pre-questionnaire students chose the course for the topic/time period interest; 20% for scheduling. Six of 12 participating students completed at least one optional side-quest. By end of semester, all respondents ranked the role-playing game as the most engaging course element.",
+    "comparative_methodology": "Pre-/post-questionnaire comparison of student perceptions before and after the gamified course. The study compared student stated preferences (e.g., for lectures) with observed in-class behavior (e.g., engagement during team activities). No control group was used.",
+    "key_outcomes": "Team-based nature and embedded gameplay elements were most effective at improving engagement. The two-week role-playing game was universally ranked as the most engaging part of the course. Students expressed strong interest in historical empathy through role-play. Initial confusion about gamified terminology (assignments, format/schedule, creature names) declined substantially over time. Students who stated they preferred lectures were observed to be consistently engaged during team-based activities. Extrinsic rewards (team prize of a plushie) had limited motivational impact; the team-based competition itself was more motivating. Side-quests had inconclusive engagement results\u2014some students found them motivating while others needed stronger incentivization.",
+    "engagement_results": "Engagement increased through team-based collaboration and competition, with students reporting a heightened sense of belonging and willingness to exceed expectations. The role-playing game component generated the highest engagement. Students were least engaged during team presentations to other teams. Observations showed students stopped taking detailed notes within 10 minutes but remained consistently engaged during collaborative activities. By end of course, students wished there had been more team-based game activities and expressed desire for more gamified elements."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Narrative assignment design (overarching Plague Hospital narrative throughout the course)",
+      "Learner discovery (problem-based, learner-driven resolution rather than instructor-supplied solutions)",
+      "Team-based collaboration and competition (Plague Hospitals competing via points/metrics)",
+      "Choice through quests (optional side-quests for bonus team points)",
+      "Points system (Potions for positive, Poisons for negative, represented by physical pins)",
+      "Team flags and visual displays in classroom",
+      "Game manual (reimagined syllabus)",
+      "Assignment cards (printed on a deck of playing cards)",
+      "Character sheets for role-playing game (biography, objectives, win/loss conditions)",
+      "Two-week role-playing game (town council members facing the Black Death)",
+      "Team identity creation (naming Hospitals, selecting team colours)",
+      "Respawning monsters (ability to redo assignments)",
+      "Debriefing sessions after role-playing game",
+      "Celebration of learner successes"
+    ],
+    "technological_platforms": [
+      "Non-digital / physical classroom implementation (no specific technology platform; physical cards, pins, flags)"
+    ],
+    "instructional_strategies": [
+      "Task-based learning approach",
+      "Team-based seminar structure (teams of 4-5 students)",
+      "Weekly collaborative learning tasks during two contact hours",
+      "Independent research in third contact hour",
+      "Problem-based learning (starting with a core historical problem)",
+      "Role-playing game (two-week immersive activity)",
+      "Learner choice in assignment selection",
+      "Pre-/post-questionnaires for reflection",
+      "Focus groups for feedback",
+      "Debriefing sessions after game activities",
+      "Individual final paper synthesizing team research"
+    ],
+    "content_integration": "The framework was applied to a third-year history course on the Black Death at the University of Waterloo. Historical content was deeply embedded in all game elements: the overarching narrative cast students as Plague Physicians in Plague Hospitals; assignments were framed as quests and adventures related to the Black Death; the role-playing game had students take on characters as medieval town council members facing plague; character sheets included historical biographies and supplemental readings. The course maintained weekly readings and research components while wrapping them in game-based framing. The framework's six-step process (core problem, learning outcomes, engaging narrative, build teams, provide choice, celebrate success) ensured historical learning objectives were met through gamified delivery."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Initial student confusion about gamified terminology and course structure (assignment names, format/schedule, creature names in the monster guide)",
+      "Students' preconceived preference for lectures conflicting with active learning approaches",
+      "Small sample size limiting generalizability (n=12 with consent for data use)",
+      "Results from a single institution only",
+      "Resource and logistical support requirements may be unrealistic for some instructors or institutions",
+      "Game-based nature of course was unknown to students when enrolling, creating initial surprise",
+      "Extrinsic rewards (team prizes) proved insufficiently motivating",
+      "Side-quests lacked sufficient incentivization for all students"
+    ],
+    "methodology_limitations": [
+      "Very small sample size (n=15 class, n=12 consenting participants)",
+      "Single course implementation at one institution",
+      "No control group for comparison",
+      "Engagement operationalized only within this class context, not as a pre-existing construct",
+      "Reliance on self-reported data alongside limited observations (only two observation sessions)",
+      "Student stated preferences (lectures) contradicted observed behavior (engagement in team activities), complicating interpretation",
+      "No formal statistical analysis reported"
+    ],
+    "negative_effects": [
+      "Initial confusion and trepidation among students confronted with unconventional teaching paradigm",
+      "Some students felt the gamified elements became less prominent as the course progressed",
+      "Group presentations to other teams were perceived as the least engaging activity",
+      "Some students did not find side-quests sufficiently motivating without tangible rewards",
+      "Ambiguity of the team prize reduced its motivational impact",
+      "Students initially viewed the team-based format negatively, associating it with generic 'group work'"
+    ],
+    "mitigation_strategies": [
+      "Instructor provided a separate traditional course outline alongside the gamified syllabus (game manual) to reduce confusion",
+      "Confusion about gamification declined substantially over time as students became accustomed to the framework",
+      "Building team identity through naming, colours, and flags helped overcome negative perceptions of group work",
+      "The framework is designed to be adaptable to different disciplines, class sizes, and institutional contexts",
+      "Authors suggest considering allowing students to 'opt out' of an assessment by completing enough side-quests, thus making side-quests more rewarding",
+      "Authors recommend not swaying from gamified course direction despite initial student resistance"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly describes participants: 15 students in a third-year elective history seminar at the University of Waterloo, with 14 providing insight and 12 consenting to data use. Inclusion was straightforward\u2014all enrolled students were eligible. Ethics clearance was obtained (ORE: 23218).",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Very small sample (n=15 class, n=12 with consent). Single elective course at one institution. Students self-selected into the course for topic interest, not for gamification. The sample is not representative of broader student populations. 11 of 12 from Faculty of Arts, only 1 from Math.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Some concerns",
+      "q3_evidence": "Multiple data collection methods were used (pre-/post-questionnaires, two focus groups, two classroom observations). Coding followed open coding process (Strauss and Corbin 1990) with six primary codes and sub-codes checked by multiple researchers. However, no validated instruments are referenced for the questionnaires, and the observation protocol is described only briefly.",
+      "q4_analysis_methods": "Some concerns",
+      "q4_evidence": "Qualitative analysis used open coding with researcher verification. Descriptive percentages are reported from questionnaires but no formal statistical analysis was conducted. The mixed-methods approach is appropriate for the exploratory research questions, but the lack of quantitative rigor limits the strength of conclusions.",
+      "judgment": "Moderate"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Low concern",
+      "q5_evidence": "Findings are presented in a nuanced manner. The authors note contradictions between stated student preferences (lectures) and observed behavior (engagement in team activities). They acknowledge that engagement results for side-quests were inconclusive. They distinguish clearly between different aspects of the framework and their effectiveness.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The authors explicitly acknowledge: small sample size (n=12), single institution, need for future research across disciplines and class sizes, resource and logistical challenges for adoption, and the ambiguous impact of extrinsic rewards. They note the answer to whether the framework increases engagement 'remains unclear' and call for further study.",
+      "judgment": "Low"
+    },
+    "overall": "Moderate",
+    "overall_justification": "The study has a well-designed mixed-methods approach with transparent reporting and thoughtful discussion of limitations. However, significant concerns arise from the very small, non-representative sample (n=12-15), single-institution design, lack of validated measurement instruments, absence of a control group, and no formal statistical analysis. The qualitative findings are rich and consistently interpreted, but the generalizability of results is severely limited. The authors are appropriately cautious in their conclusions."
+  }
+}

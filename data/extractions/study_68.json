@@ -1,0 +1,118 @@
+{
+  "study_id": 68,
+  "pdf_filename": "The End Game in Kuhlthau\u2019s ISP Model Knowledge Construction for Grade 8 Students Researching an Inquiry-Based History Project.pdf",
+  "bibtex_key": "68cole2015end",
+  "bibliographic": {
+    "title": "The End Game in Kuhlthau's ISP Model: Knowledge Construction for Grade 8 Students Researching an Inquiry-Based History Project",
+    "authors": [
+      "Charles Cole",
+      "Jamshid Beheshti",
+      "Dhary Abuhimed",
+      "Isabelle Lamoureux"
+    ],
+    "year": 2015,
+    "publication_type": "journal_article",
+    "venue": "Journal of the Association for Information Science and Technology",
+    "doi": "10.1002/asi.23300",
+    "volume": "66(11)",
+    "pages": "2249-2266",
+    "publisher": "Wiley / ASIS&T"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Canada"
+    ],
+    "country_of_application": "Canada",
+    "education_level": "secondary",
+    "sample_size": 10,
+    "sample_description": "10 volunteer Grade 8 students (5 boys and 5 girls, approximately 14 years old) from a private Canadian school, a subset of a larger study group of 44 Grade 8 students (41% girls, 59% boys). The students were researching self-selected history topics for an inquiry-based class history assignment over a 12-week period (February-May 2011).",
+    "study_design": "qualitative",
+    "game_type": "design_framework",
+    "game_name": null,
+    "aim": "To define an end game for the ISP model by investigating how Grade 8 students' feelings, thoughts, and information behavior combine to enable knowledge construction on their school history assignment topic, answering three research questions: (1) Do the data support Kuhlthau's ISP model stages? (2) Do the data support the evolution of the ISP model's feelings, thoughts, and actions? (3) How can we chart the study participants' implicit-to-explicit knowledge construction as it evolves over ISP stages?",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": false,
+    "concerns": "CRITICAL: This study does NOT involve gamification or game-based learning in any form. The term 'End Game' in the title is a metaphorical/theoretical concept referring to the final outcome or culmination of knowledge construction within Kuhlthau's Information Search Process (ISP) model. The 'end game' is defined by the authors as 'the addition to or modification of the students' belief system as a result of completing the class assignment' and 'the students' actualization of their belief system through the new topic information they seek, find, and use over the course of completing the assignment.' The study is a qualitative field study of information-seeking behavior using grounded theory analysis of student interviews -- there are no games, no game elements, no gamification mechanics, no digital games, and no game-based learning interventions whatsoever. This is an information science study about how students construct knowledge while doing a history research assignment. It was likely included in the review's candidate set due to the word 'Game' appearing in the title, which is a false positive.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": false
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Not applicable. This study does not address gamification. The study conceptualizes Kuhlthau's Information Search Process (ISP) model and knowledge construction theory. The 'end game' concept refers to the culmination of the knowledge construction process: 'we define the end game of the student's knowledge construction process as the actualization of self-knowledge of their belief system about the world, but particularly their assignment topic (i.e., rendering it explicit so that is consciously available to the student) by adding to and/or modifying their belief system.' The theoretical framework draws on constructivist learning theory (Piaget, Vygotsky, Bruner, Dewey, Kelly), Polanyi's theory of implicit-to-explicit knowledge conversion, and Kuhlthau's 7-stage ISP model.",
+    "theoretical_frameworks": [
+      "Kuhlthau's 7-stage Information Search Process (ISP) model",
+      "Constructivist learning theory (Piaget, Vygotsky, Bruner, Dewey, Kelly)",
+      "Polanyi's theory of tacit/implicit knowledge and explicit knowledge conversion",
+      "Ausubel's subsumption theory and progressive differentiation",
+      "Glaser and Strauss's grounded theory methodology"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "Not applicable -- this study does not evaluate gamification effectiveness. The study's qualitative findings indicate: (1) Data generally support Kuhlthau's ISP model stages, with exceptions for stage 1 (initiation) and stage 5 (collection); (2) Students front-loaded their knowledge construction and information seeking activities in the first 4 weeks rather than in the middle stages as predicted by the ISP model; (3) A three-phase model of knowledge construction was proposed: Phase 1 'making questions' from previous knowledge, Phase 2 'asking questions' as topic information raises new questions, Phase 3 'answering questions' using newly found topic information; (4) In the assessment stage (interview 6), students became more introspective and able to articulate their thoughts and actions.",
+    "engagement_results": null
+  },
+  "rq3": {
+    "game_design_elements": [],
+    "technological_platforms": [],
+    "instructional_strategies": [
+      "Inquiry-based history project with self-selected topics",
+      "Topic-to-thesis structure for constructivist perspective teaching",
+      "Multiple presentation formats (documentary video, newscast, skit, art exhibit, historical re-enactment, PowerPoint)",
+      "Research process emphasized over final product (60% of grade for research/proposal, 40% for presentation)",
+      "Students encouraged to develop personal perspective/thesis on self-selected history topic"
+    ],
+    "content_integration": "Not applicable -- no game mechanics were used. The history content was integrated through an inquiry-based assignment where Grade 8 students selected their own history topics (examples mentioned include the Mafia, the Titanic, chess and warfare, terrorist attacks, child labor), researched them over 12 weeks using diverse sources, developed a thesis statement, and presented their findings in various formats."
+  },
+  "rq4": {
+    "implementation_barriers": [],
+    "methodology_limitations": [
+      "Qualitative exploratory study with small sample (n=10) -- purpose was to create a coding scheme for future studies",
+      "Self-selected convenience sample from a private school where tuition fees may limit access, reducing external validity",
+      "The optimal nature of the study participants' school and parental learning environments compared to larger population of North American 14 year olds limits generalizability",
+      "Intercoder reliability not established -- noted as important for future studies",
+      "Only 23% of 14 year olds may have reached Piaget's formal operational stage (Eylon & Linn, 1988), questioning whether participants could engage in the abstract thinking required",
+      "Coding scheme limitations concerning validity and reliability acknowledged",
+      "Atlas.ti software facilitates but does not ensure objective counting of coding categories"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Use of Atlas.ti (v.7) qualitative data analysis software for systematic coding",
+      "Three-step grounded theory coding process (open, axial, selective) for rigor",
+      "Six interview points over 12-week period to capture temporal evolution",
+      "Semi-structured interview schedule with multiple dimensions (feelings, thoughts, actions)",
+      "Building on prior published work from same research project (Beheshti et al., 2015; Cole et al., 2013)"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "yes",
+      "q1_evidence": "Selection is described: 'In 2010, from a total of five Grade 8 history classes at the school, two classes were chosen by the teachers to participate in the assignment.' From the larger study group of 44 students, '10 volunteer study participants for the study we report on in this article were a subset of the larger total study group of 44 Grade 8 students.' Consent procedures are described in detail, including parental consent forms and voluntary participation with option to withdraw.",
+      "q2_representativeness": "no",
+      "q2_evidence": "The 10 study participants were volunteers (self-selected) from a private Canadian school. The authors themselves acknowledge the limitation: 'the 10 study participants in the present study were a self-selected sample of Grade 8 students in a private school where tuition fees may limit access. The optimal nature of the study participants' school and parental learning environments compared to the larger population of North American 14 year olds increases the percentage of study participants who have achieved the Piaget formal operational stage of cognitive development. The results of this study therefore cannot be considered statistically representative of any larger population.'",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "Data was collected through semi-structured interviews lasting approximately 10 minutes each, conducted at six time points over 12 weeks. The interview schedule included broad questions about feelings ('How do you feel about your history assignment at this point?'), thoughts ('How did you come up with your topic?'), and actions ('How did you search for information on your topic?'). However, no formal validity or reliability information is reported for the interview instrument. The authors acknowledge: 'For limitations of the coding scheme, particularly concerning validity and reliability, the reader is directed to the Limitations section of this article.'",
+      "q4_analysis_methods": "yes",
+      "q4_evidence": "Analysis methods are clearly described and justified: Glaser and Strauss's (1967) grounded theory approach was used, with Atlas.ti (v.7) for coding and analysis. The three-step coding process is well documented: Step 1 open coding (first-, second-, third-order coding based on ISP stages, feelings/thoughts/actions, and descriptive terms), Step 2 axial coding around the core category of knowledge construction with fourth-order coding, and Step 3 selective coding. The rationale for grounded theory ('designed to lead to middle-range model/theory making in an exploratory or new area of study') is clearly justified.",
+      "judgment": "Unclear"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "Interpretations are generally consistent with the qualitative data presented. The authors use language like 'tentatively indicate,' 'speculatively,' and 'we conjecture' when making interpretive claims that go beyond the direct data. For example: 'Study findings tentatively indicate that knowledge construction results from an iterative process between the student and information.' The proposed three-phase model of knowledge construction (making questions, asking questions, answering questions) is supported with illustrative student quotes from the interviews. Results that contradict the ISP model (e.g., front-loading of activities in first 4 weeks rather than middle stages) are also honestly reported.",
+      "q6_limitations_discussed": "yes",
+      "q6_evidence": "A dedicated Limitations section acknowledges key weaknesses: 'This was a qualitative, exploratory study. Its purpose was to create a coding scheme for future studies utilizing the same data collection instrument. Reliability, particularly intercoder agreement, is of utmost importance in these future studies. Concerning external validity, the 10 study participants in the present study were a self-selected sample of Grade 8 students in a private school where tuition fees may limit access.' The authors also note that the results 'cannot be considered statistically representative of any larger population.'",
+      "judgment": "Low"
+    },
+    "overall": "Unclear",
+    "overall_justification": "The study has mixed risk of bias characteristics. Domain 1 (selection) is rated High due to the small, self-selected convenience sample from a single private school, which the authors themselves acknowledge limits generalizability. Domain 2 (data collection/analysis) is rated Unclear because while the grounded theory methodology is well-described and systematic, the interview instrument lacks formal validity/reliability testing and intercoder reliability was not established. Domain 3 (interpretation) is rated Low because the authors are appropriately cautious in their interpretations, use hedging language for speculative claims, honestly report contradictory findings, and include a dedicated limitations section. However, it must be noted that this study is INELIGIBLE for the systematic review as it does not involve gamification or game-based learning -- the 'End Game' in the title refers to the culmination of the knowledge construction process in Kuhlthau's ISP model, not to any actual game or gamification intervention."
+  }
+}

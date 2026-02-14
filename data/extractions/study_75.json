@@ -1,0 +1,134 @@
+{
+  "study_id": 75,
+  "pdf_filename": "Using the Rutgers Oral History Archives and Historical Games to Teach Undergraduates Concepts in American Immigration History.pdf",
+  "bibtex_key": "75trajano2014using",
+  "bibliographic": {
+    "title": "Using the Rutgers Oral History Archives and Historical Games to Teach Undergraduates Concepts in American Immigration History",
+    "authors": [
+      "Nicholas Trajano Molnar"
+    ],
+    "year": 2014,
+    "publication_type": "journal_article",
+    "venue": "Journal of American Ethnic History",
+    "doi": "10.5406/jamerethnhist.33.4.0081",
+    "volume": "33",
+    "pages": "81-86",
+    "publisher": "University of Illinois Press"
+  },
+  "study_characteristics": {
+    "countries": [
+      "United States"
+    ],
+    "country_of_application": "United States",
+    "education_level": "higher_education",
+    "sample_size": null,
+    "sample_description": "Undergraduate students in a writing-intensive history course covering American immigration history. Teams of up to six students per side participated. No specific sample size, demographic breakdown, or number of course sections reported.",
+    "study_design": "descriptive",
+    "game_type": "board_game",
+    "game_name": "European Immigration Game",
+    "aim": "To describe a classroom activity using the Rutgers Oral History Archives (ROHA) and a custom turn-based board game ('European Immigration Game') to teach undergraduate students rudimentary concepts in American immigration history, including ethnic enclave formation and immigration restriction policies",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is a descriptive practitioner report rather than a rigorous empirical study. It contains no quantitative or qualitative data collection, no formal assessment of learning outcomes, no student feedback data, and no systematic evaluation methodology. The paper is essentially a teaching practice description with no empirical evidence of effectiveness. It is a borderline case for inclusion as a 'primary study' since it describes an implemented classroom activity but provides no collected data or formal research findings.",
+    "is_history_education": true,
+    "is_primary_study": false,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study does not use the term 'gamification' explicitly. Instead, it describes a 'historical game' approach \u2014 a custom-designed turn-based board game integrated into a writing-intensive undergraduate history course. The game is conceptualized as a tactile, team-based classroom activity that uses physical game components (gridded historical map, figurines, dice) combined with primary source oral history documents to create an engaging pedagogical experience. The approach is game-based learning where the game mechanics (movement, enclave establishment, scoring) are designed to simulate and teach historical processes (immigration, ethnic enclave formation, and immigration restriction). The author describes it as an activity that 'pique[s] student interest in immigration history in a tactile way' while allowing 'a real assessment of student research and writing skills in the process.'",
+    "theoretical_frameworks": []
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "No formal assessment of learning outcomes is reported. The author makes anecdotal claims about the activity's value, stating: 'Not only does the \"European Immigration Game\" pique student interest in immigration history in a tactile way, but it allows a real assessment of student research and writing skills in the process.' The author also claims: 'core concepts and events in American immigration history can be conveyed, and more importantly, assessed in a tangible way.' However, no empirical evidence (test scores, survey data, student work analysis) is provided to substantiate these claims.",
+    "engagement_results": "No formal engagement data collected. The author makes qualitative claims that the activity is engaging: 'Of the greatest value, of course, is that undergraduate students are actively engaged with a rich archive of primary source material in an enjoyable way.' No student survey, interview, or observational data is reported."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Turn-based gameplay with three rounds representing different historical periods",
+      "Team competition (two teams of up to six students each)",
+      "Gridded historical map of the Atlantic Seaboard as a game board (two-foot-by-three-foot with one inch squares)",
+      "Physical figurines (1:72 scale, 24 total) representing immigrants",
+      "Dice-based movement mechanic (roll determines number of spaces moved)",
+      "Enclave establishment mechanic (must roll four or above to establish an enclave on a grid square)",
+      "Point scoring system (one point per enclave in round one; two points for enclaves adjacent to existing enclaves in round two)",
+      "Rule changes across rounds to simulate historical policy changes (open immigration in round one; enclave bonuses in round two; immigration restriction with no new figurines in round three)",
+      "Extra credit reward for winning team on the research essay",
+      "Individual worksheets for recording actions in each round",
+      "Moderator role for instructor"
+    ],
+    "technological_platforms": [
+      "Rutgers Oral History Archives (ROHA) online digital archive (oralhistory.rutgers.edu)",
+      "Physical board game components (historical map, grid overlay, figurines, dice)",
+      "ROHA website with full-text oral history interviews in HTML and PDF formats with keyword search"
+    ],
+    "instructional_strategies": [
+      "Integration of primary source documents (oral history transcripts) with game-based activity",
+      "Writing-intensive group exercise with individual accountability (individual worksheets and individual research essays)",
+      "Three-round game structure that progressively introduces historical concepts (open immigration, ethnic enclave advantages, immigration restriction)",
+      "Scaffolded learning: game activity followed by guided questions followed by independent research essay",
+      "Open-ended reflection questions after each round (e.g., 'What movements did you make in this round, and why?')",
+      "Compare-and-contrast writing assignment requiring students to use game worksheet as evidence",
+      "Independent archival research assignment using ROHA's searchable online collection",
+      "Role-playing as immigrant groups (Polish vs. Italian) to build empathy and historical understanding",
+      "Team-based collaborative learning with competitive element"
+    ],
+    "content_integration": "Historical content and game mechanics were tightly integrated across three rounds. Round 1 simulated pre-restriction era open immigration: students moved freely across the map, establishing 'ethnic enclaves' anywhere on the Atlantic Seaboard, with each enclave worth one point. Round 2 incorporated oral history excerpts from ROHA interviews with Polish and Italian immigrants (e.g., Matthew Drag's account of Polish community in Putnam, Connecticut; Peter Sarraiocco's account of Italian enclave in Port Richmond, Philadelphia). After reading these primary sources, students moved new figurines with the added rule that enclaves adjacent to existing ones were worth two points, representing the historical advantages of ethnic networks for new immigrants. Round 3 implemented immigration restriction rules (no new figurines introduced), simulating the Immigration Restriction Act of 1921 and the Immigration Act of 1924. Open-ended questions prompted reflection on the causes and consequences of restriction. The culminating research essay required students to compare Polish/Italian game experiences with a Hungarian immigration narrative (Julius Fabos, post-1956 revolution) and a self-selected ROHA immigration narrative."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Requires physical materials: two-foot-by-three-foot historical map, grid overlay, 24 figurines (1:72 scale), dice",
+      "Activity can only be conducted in-person in the classroom, limiting applicability in online learning environments",
+      "Requires instructor to serve as moderator during game play",
+      "Limited to specific historical topics where oral history materials are available (relies heavily on ROHA collection)",
+      "Group activity drawbacks acknowledged: 'one student shouldering the academic burden, or random absences'"
+    ],
+    "methodology_limitations": [
+      "No empirical data collected \u2014 entirely descriptive practitioner report",
+      "No sample size, demographics, or participant characteristics reported",
+      "No formal assessment of learning outcomes or student performance data",
+      "No control group or comparison condition",
+      "No student feedback, surveys, or interview data reported",
+      "No measure of engagement, motivation, or satisfaction beyond anecdotal claims",
+      "No discussion of how many times the activity has been implemented or in how many course sections",
+      "Effectiveness claims are entirely based on the author's subjective impressions"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Individual research essays ensure individual accountability despite group game activity, eliminating drawbacks of group grading",
+      "Worksheet design incentivizes note-taking during game for use in later essay",
+      "Open-access nature of ROHA materials eliminates physical and economic barriers to student research"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "no",
+      "q1_evidence": "No participant selection criteria are described. The paper does not report who the participants were beyond 'undergraduates' and 'students.' No sample size, number of course sections, semesters of implementation, inclusion/exclusion criteria, or any demographic information is provided. The paper describes the activity design but not its implementation with specific participants.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "No information is provided about the sample. The author describes the activity in general terms ('When I play the game with my students') without specifying any particular implementation instance, sample characteristics, or participant demographics. It is impossible to assess representativeness when no sample is described.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "no",
+      "q3_evidence": "No data collection tools are described. The paper mentions individual worksheets and research essays as classroom assignments, but these are not used as research instruments. No surveys, tests, rubrics, observation protocols, interview guides, or any other data collection instruments are reported. There is no systematic data collection of any kind.",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "No data analysis methods are described because no data was collected. The paper contains no quantitative analysis, no qualitative coding, no thematic analysis, and no systematic evaluation. All claims about the activity's effectiveness are based solely on the author's impressionistic account (e.g., 'it allows a real assessment of student research and writing skills').",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "unclear",
+      "q5_evidence": "Since no empirical data is presented, there are no 'results' to interpret. The author makes broad positive claims about the activity (e.g., 'Of the greatest value, of course, is that undergraduate students are actively engaged with a rich archive of primary source material in an enjoyable way') without any supporting evidence. These claims cannot be verified as consistent or inconsistent with findings because no findings exist.",
+      "q6_limitations_discussed": "no",
+      "q6_evidence": "No limitations of the activity or the paper itself are discussed. The author briefly acknowledges drawbacks of group activities in general ('one student shouldering the academic burden, or random absences') and notes that the individual essay component addresses this, but does not discuss any limitations of the game-based approach, the lack of empirical evaluation, potential biases, or constraints on generalizability.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "This paper has a high overall risk of bias across all three domains. It is a descriptive practitioner report that presents no empirical data whatsoever \u2014 no sample description, no data collection instruments, no outcome measurements, no statistical or qualitative analysis, and no formal evaluation of the intervention's effectiveness. All claims about the educational value of the 'European Immigration Game' are based entirely on the author's subjective impressions without supporting evidence. No limitations are acknowledged. The paper is essentially a teaching activity description rather than a research study, which fundamentally limits its ability to provide reliable evidence about the effectiveness of game-based learning in history education. Its inclusion in a systematic review should be noted with the caveat that it provides design ideas but no empirical evidence."
+  }
+}

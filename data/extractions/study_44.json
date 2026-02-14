@@ -1,0 +1,123 @@
+{
+  "study_id": 44,
+  "pdf_filename": "Investigating elementary students' epistemological beliefs, game preference by applying game-based learning to a history course.pdf",
+  "bibtex_key": "44Shiue2016",
+  "bibliographic": {
+    "title": "Investigating elementary students' epistemological beliefs, game preference by applying game-based learning to a history course",
+    "authors": [
+      "Ya-Ming Shiue",
+      "Yu-Chiung Hsu",
+      "Yu-Chen Liang"
+    ],
+    "year": 2016,
+    "publication_type": "conference paper",
+    "venue": "Proceedings of the IEEE International Conference on Advanced Materials for Science and Engineering (IEEE-ICAMSE 2016)",
+    "doi": "10.1109/ICAMSE.2016.7840358",
+    "volume": null,
+    "pages": "460-462",
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Taiwan"
+    ],
+    "country_of_application": "Taiwan",
+    "education_level": "elementary school (5th grade)",
+    "sample_size": 112,
+    "sample_description": "112 fifth grade students in an elementary school in Taiwan who participated in a four-week digital history game learning activity",
+    "study_design": "survey-based quantitative study using structural equation modeling (PLS-SEM)",
+    "game_type": "digital history game (custom-designed educational game integrating historical events)",
+    "game_name": "Not explicitly named; a custom-designed digital game integrating historical events for elementary history course",
+    "aim": "To extend the Technology Acceptance Model (TAM) by incorporating epistemological beliefs to explore factors related to game-based learning user behaviors, specifically examining how epistemological beliefs influence game preferences and intention to use digital games for history learning",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses on acceptance and preference factors (TAM model) rather than directly measuring learning outcomes in history; it is a short conference paper (3 pages) with limited methodological detail",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Game-based learning is conceptualized as the use of digital games to enhance the learning experience while maintaining a balance between content and games. The study frames it through the Technology Acceptance Model (TAM), focusing on perceived ease of use, perceived usefulness, epistemological beliefs, game preferences, and behavioral intention to use. The game integrates historical events and requires students to search for clues and ask key persons for assistance.",
+    "theoretical_frameworks": [
+      "Technology Acceptance Model (TAM)",
+      "Epistemological beliefs theory (Perry 1970; Schommer 1990)",
+      "Digital game acceptance framework (Bourgonjon et al. 2010)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Path coefficients from PLS-SEM analysis: H1 (Ease of use -> usefulness) = 0.34*, SE=0.225; H2 (Ease of use -> preference) = 0.21*, SE=0.020; H3 (Usefulness -> preference) = 0.32*, SE=0.025; H4 (Sophisticated beliefs -> preference) = 0.31*, SE=0.036; H5 (Preference -> intention) = 0.38*, SE=0.132. All significant at p<.05.",
+    "statistical_results": "All five hypotheses were confirmed. Perceived ease of use significantly predicted usefulness (0.34) and preference (0.21). Usefulness significantly predicted preference (0.32). Sophisticated epistemological beliefs significantly predicted preference (0.31). Preference significantly predicted intention to use (0.38).",
+    "comparative_methodology": null,
+    "key_outcomes": "All TAM hypotheses were confirmed. Perceived usefulness had the strongest influence on game preference among TAM variables. Sophisticated epistemological beliefs positively affected preference for digital games. Preference for digital games positively influenced behavioral intention to use digital game-based learning. Student-centered game-based learning can better attract students than traditional teacher-centered methods.",
+    "engagement_results": "Game-based learning in history was found to involve a higher level of learning activities and engagements, supported by reference to Cozar-Gutierrez & Saez-Lopez (2016). The role of game features in fostering students' learning and motivation was also confirmed."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Historical event integration into game narrative",
+      "Clue-searching mechanics",
+      "Key person/NPC interaction for assistance",
+      "Multiple viewpoints and resources for open-ended exploration",
+      "Assignment-based progression"
+    ],
+    "technological_platforms": [
+      "Custom digital game (platform not specified beyond screenshots showing a 2D/isometric computer game)"
+    ],
+    "instructional_strategies": [
+      "Student-centered learning through game-based exploration",
+      "Four-week structured history course integration",
+      "Open-ended exploration with multiple viewpoints and resources",
+      "Assignment-driven gameplay requiring clue searching and NPC interaction"
+    ],
+    "content_integration": "The digital game was designed to integrate historical events from the elementary history curriculum in Taiwan. Students explored historical content by searching for clues and interacting with key persons within the game environment, providing multiple viewpoints and open-ended exploration of history topics over a four-week period."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Traditional teacher-centered history instruction in Taiwan creates passive learners who lack analytical skills",
+      "Relationships between epistemological beliefs and learning processes in game-based learning have received surprisingly little scholarly attention",
+      "Pedagogical principles alone cannot constitute an interesting and attractive game that motivates people to play"
+    ],
+    "methodology_limitations": [
+      "Relatively small sample size acknowledged by authors (reason for using PLS over other SEM methods)",
+      "Very short conference paper (3 pages) with limited methodological detail",
+      "No control group or pre-post comparison design",
+      "No direct measurement of learning outcomes or knowledge gains",
+      "Survey-based self-report data only",
+      "Limited description of the digital game itself and its specific historical content",
+      "No reliability or validity statistics reported for measurement instruments"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Educators should recognize and enhance students' epistemological beliefs when implementing game-based learning",
+      "Using extended TAM model that incorporates epistemological beliefs to better understand acceptance factors"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "No inclusion/exclusion criteria described for participant selection. The study mentions 112 fifth graders but provides no details on how or why these students were selected, whether participation was voluntary, or how the school was chosen.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Single elementary school in Taiwan with no discussion of representativeness. No demographic details beyond grade level. No information on response rate or whether all invited students participated.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "No reliability or validity statistics (Cronbach's alpha, factor loadings, AVE, CR) are reported for any measurement instruments. The paper states items were based on prior literature (TAM, epistemological beliefs) but provides no specifics about the instrument items, adaptation process, or psychometric properties.",
+      "q4_analysis_methods": "Moderate concern",
+      "q4_evidence": "PLS-SEM was used with SmartPLS 2.0, which is an appropriate method for small samples. Path coefficients and significance levels are reported. However, model fit indices, R-squared values, effect sizes, and measurement model evaluation (convergent/discriminant validity) are not reported.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Moderate concern",
+      "q5_evidence": "Results are interpreted in line with the hypotheses and supported by relevant literature citations. However, claims about game-based learning effectiveness in history are partly drawn from cited literature rather than the study's own empirical findings, which only measured acceptance and preference, not learning outcomes.",
+      "q6_limitations_discussed": "High concern",
+      "q6_evidence": "No explicit limitations section. The only acknowledged limitation is the small sample size (mentioned as justification for using PLS). No discussion of threats to validity, generalizability concerns, or suggestions for future research to address methodological shortcomings.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high overall risk of bias due to: (1) no description of participant selection criteria or representativeness; (2) no reported psychometric properties for measurement instruments; (3) no model fit indices or measurement model evaluation beyond path coefficients; (4) no limitations discussion; and (5) being a very short conference paper (3 pages) that lacks the detail needed to fully assess methodological rigor. The study measures acceptance/preference rather than actual learning outcomes, and conflates its acceptance findings with claims about learning effectiveness."
+  }
+}

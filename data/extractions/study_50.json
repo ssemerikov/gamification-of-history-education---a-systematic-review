@@ -1,0 +1,140 @@
+{
+  "study_id": 50,
+  "pdf_filename": "Learning History Through Computer Game Authoring.pdf",
+  "bibtex_key": "50Lye2013",
+  "bibliographic": {
+    "title": "Learning History Through Computer Game Authoring",
+    "authors": [
+      "Lim Eng Lye",
+      "Mas Idayu Binti Md Sabri"
+    ],
+    "year": 2013,
+    "publication_type": "conference paper",
+    "venue": "The 8th International Conference on Computer Science & Education (ICCSE 2013)",
+    "doi": "10.1109/ICCSE.2013.6554007",
+    "volume": null,
+    "pages": "746-750",
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Malaysia"
+    ],
+    "country_of_application": "Malaysia",
+    "education_level": "higher education (college freshmen)",
+    "sample_size": 5,
+    "sample_description": "Five college new faces (freshmen), four males and one female, with no prior experience in computer game authoring, who voluntarily participated in the RPG authoring workshop",
+    "study_design": "qualitative case study with interviews and open-ended discussion",
+    "game_type": "2D Role-Playing Game (RPG) authoring / game-making (constructionist approach)",
+    "game_name": "RPGMaker 2003 (authoring tool by Enterbrain, Inc.)",
+    "aim": "To explore the feasibility of using RPGMaker as a game authoring tool for creating historical RPGs to foster history learning, and to examine participants' learning experiences and user experience with the authoring tool",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Very small sample size (n=5); qualitative study with no control group; uses game authoring (constructionist) approach rather than game playing, which is a broader interpretation of gamification",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes learning history through computer game authoring as a constructionist approach where learners create 2D RPGs about historical events using authoring tools. Rather than playing games, students design and build games that embed historical content, thereby engaging deeply with historical facts, events, characters, and narratives. The approach leverages the popularity of computer games among youth to make history learning more enjoyable and engaging.",
+    "theoretical_frameworks": [
+      "Constructionism (Papert/Kafai)",
+      "Learning by design / learning through making"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "Four out of five participants completed their historical RPGs. Qualitative findings from open-ended discussions and interviews showed: (1) participants found learning history through RPG authoring more enjoyable than traditional methods; (2) participants reported being more engaged with the subject matter; (3) participants viewed the method as innovative and practically engaging; (4) the interaction between participants during presentation and discussion led to different perspectives toward historical events, fostering historical thinking; (5) participants changed their initial storyboard plans during authoring because they generated more ideas during the process, indicating deep engagement with content.",
+    "engagement_results": "Participants reported positive engagement. Sample comments included: 'I like the latter method; it makes learning history become more enjoyable', 'I am more engaged to the subject being learned', and 'I see it is an innovative way in learning history. It could practically engage me to the topic that I have to learn.' Participants promoted group work and peer collaboration during the workshop."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Role-playing game (RPG) genre",
+      "Character design with historical attributes (motives, background, characteristics, missions)",
+      "Interactive dialogues embedding historical facts",
+      "Map/environment design reflecting historical settings",
+      "Plot planning with protagonists and antagonists",
+      "Combat/battle mode",
+      "Weather change function for historical climate realism",
+      "Storyboard planning and narrative construction",
+      "Tile sets for visual environment creation"
+    ],
+    "technological_platforms": [
+      "RPGMaker 2003 (by Enterbrain, Inc.) - 2D RPG authoring tool"
+    ],
+    "instructional_strategies": [
+      "Constructionism-based workshop (8 sessions, 60-75 minutes each, one session per week)",
+      "Structured game authoring workshop with sequential phases: group discussion, tool introduction, subject matter study, character/game design, plot planning, RPG authoring, presentation",
+      "Collaborative learning through group discussion and peer feedback",
+      "Subject matter research using Internet, textbooks, and videos",
+      "Storyboard sketching before digital authoring",
+      "Presentation and peer review of completed RPGs",
+      "Researcher available as facilitator throughout the workshop"
+    ],
+    "content_integration": "Participants researched historical topics using multiple sources (Internet, textbooks, videos), established storylines based on findings, designed characters reflecting historical figures with culturally appropriate attributes, transformed historical facts into interactive game dialogues, designed game environments matching historical settings, and used weather functions to match historical climates. The process of creating the game required deep engagement with historical content, and discussions at the end of sessions promoted different perspectives on historical events."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Limited time for sessions - participants suggested more time was needed to complete RPGs",
+      "One out of five participants did not complete the RPG within the workshop timeframe",
+      "Low resolution game display produced by RPGMaker lowered participant motivation",
+      "2D graphics were less appealing - two participants preferred 3D RPG over 2D RPG for realism",
+      "Default RPGMaker villains (monsters, vampires) were irrelevant to real-world historical contexts, requiring import of custom character sets",
+      "Traditional storyboard planning could not fully reflect interactive dialogues and battle modes that appear in the RPG",
+      "Computer game authoring is inherently complex, traditionally requiring programming and mathematics skills",
+      "Limited research exists on feasibility of game authoring tools for history learning specifically"
+    ],
+    "methodology_limitations": [
+      "Very small sample size (n=5) limits generalizability",
+      "No control group or comparative condition",
+      "Qualitative data only - no quantitative measures of learning outcomes",
+      "Participants were self-selected volunteers enthusiastic about game authoring, introducing selection bias",
+      "No pre-test/post-test assessment of historical knowledge gains",
+      "Short-term workshop study (8 weeks) with no follow-up on long-term retention or transfer",
+      "Single group of college freshmen - results may not generalize to other age groups or educational levels"
+    ],
+    "negative_effects": [
+      "Low resolution display of RPGMaker lowered some participants' motivation",
+      "Preference for 3D over 2D suggests potential dissatisfaction with tool limitations",
+      "Participants deviated from planned storyboards during authoring, which could be seen as both creative flexibility and planning inefficiency"
+    ],
+    "mitigation_strategies": [
+      "Participants imported custom character sets to replace irrelevant default villains",
+      "Participants helped each other resolve obstacles during the workshop (peer support)",
+      "Researcher was available as facilitator throughout the workshop to help with technical problems",
+      "Authors suggest amending the conceptual framework to accommodate changes during the RPG authoring phase",
+      "Authors suggest exploring incorporation of game authoring method into classroom curriculum"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly describes the target population (college freshmen with no prior game authoring experience) and provides demographic details (4 males, 1 female). However, the selection was based on voluntary participation of enthusiastic students, which introduces selection bias.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Sample of only 5 self-selected volunteers who were enthusiastic about game authoring is not representative of the broader student population. The small convenience sample severely limits generalizability.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "Data collection relied on open-ended discussions and interviews at the end of the workshop. No validated instruments or standardized measures were used. No pre-test/post-test design. No quantitative assessment of learning outcomes. The interview questions (shown in Table I) are basic and not validated.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "The analysis methods are not clearly described. The paper presents sample comments from participants but does not describe a systematic qualitative analysis methodology (e.g., thematic analysis, coding procedures). Results are presented descriptively without rigorous analytical framework.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "High concern",
+      "q5_evidence": "The conclusions about learning benefits are drawn from a very small qualitative dataset without systematic analysis. Claims about engagement and enjoyment are based on a few sample quotes. The study does not distinguish between enjoyment of the game authoring activity itself and actual history learning outcomes.",
+      "q6_limitations_discussed": "Some concern",
+      "q6_evidence": "The paper briefly acknowledges some issues (time constraints, 2D vs 3D preferences, low resolution display) but does not formally discuss methodological limitations such as sample size, lack of control group, or absence of learning outcome measures. The paper does not include a dedicated limitations section.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high overall risk of bias due to: (1) very small, self-selected convenience sample (n=5); (2) no validated instruments or quantitative measures of learning; (3) no control group or comparative design; (4) lack of systematic qualitative analysis methodology; (5) conclusions about learning benefits not adequately supported by the evidence presented; (6) limited discussion of methodological limitations. While the study provides useful exploratory insights into game authoring for history education, the evidence quality is low."
+  }
+}

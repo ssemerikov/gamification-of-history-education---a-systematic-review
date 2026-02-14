@@ -1,0 +1,153 @@
+{
+  "study_id": 26,
+  "pdf_filename": "Ethics against Chemistry Solving a Crime Using Chemistry Concepts and Storytelling in a History of Science-Based Interactive Game for Middle School Students.pdf",
+  "bibtex_key": "26Dias2021",
+  "bibliographic": {
+    "title": "\"Ethics against Chemistry\": Solving a Crime Using Chemistry Concepts and Storytelling in a History of Science-Based Interactive Game for Middle School Students",
+    "authors": [
+      "Dora Dias",
+      "Jose Ferraz-Caetano",
+      "Joao Paiva"
+    ],
+    "year": 2021,
+    "publication_type": "journal article",
+    "venue": "Journal of Chemical Education",
+    "doi": "10.1021/acs.jchemed.0c01469",
+    "volume": "98",
+    "pages": "1681-1690",
+    "publisher": "American Chemical Society"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Portugal"
+    ],
+    "country_of_application": "Portugal",
+    "education_level": "Middle school (7th and 8th grade, students under 14 years old)",
+    "sample_size": 280,
+    "sample_description": "Approximately 280 middle school students from all over Portugal and some European countries who signed into a week-long summer program (Universidade Junior) at the University of Porto in July 2019. Each day a different class of 16-20 students participated, divided into four teams of 3-4 students each, for a total of about 80 teams over 20 sequential working days.",
+    "study_design": "Exploratory pilot study with mixed-methods evaluation (game reports, 10-question quiz, voluntary individual inquiry with Likert scale)",
+    "game_type": "Physical board game with digital presentation elements, hands-on chemistry laboratory activities, and storytelling/role-playing",
+    "game_name": "Ethics against Chemistry",
+    "aim": "To design and evaluate an interdisciplinary edutainment activity that combines gamification, hands-on chemistry activities, history of science storytelling, and ethics education for middle school students, using a 19th century Portuguese forensic murder case as the narrative framework",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": false,
+    "concerns": "This study is fundamentally about chemistry/science education that uses a historical narrative (a 19th century Portuguese forensic case) as a storytelling device. The primary educational goals are chemistry curricular objectives (precipitation reactions, oxidation-reduction, acid-base classification, catalysis, etc.) and science ethics, NOT history education. The 'history of science' component serves as a narrative wrapper to make chemistry learning engaging, not as a subject being taught. Students are not assessed on historical knowledge or historical thinking skills. The learning outcomes measured are chemistry content knowledge, scientific reasoning, ethical judgment, and activity satisfaction -- not historical understanding.",
+    "is_history_education": false,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes gamification as the application of game logic to a nongame context, referencing Deterding et al. (2011). It frames gamification as one component of an 'edutainment' approach that combines game mechanics (board game, team competition, points, prizes) with hands-on science activities and storytelling. The game is described as a science-based activity inspired by the board game 'Clue', with characteristics including: students face new concepts while participating, intrinsic motives like exploration and curiosity, the process of playing being more educationally important than the outcome, and active engagement through conducting embedded game experiences.",
+    "theoretical_frameworks": [
+      "Gamification (Deterding et al. 2011)",
+      "Edutainment",
+      "Problem-based learning",
+      "Storytelling in science communication",
+      "Henricks' definition of game as scientific activity"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Three evaluation instruments: (1) Team game reports assessed via rubric with three performance levels (good, average, insufficient) based on sample identification (>75%, >50%, <50%), murderer/poison identification, and ethical implication recognition; (2) 10-question quiz on activity content; (3) Likert scale (1-5) voluntary individual inquiry on activity satisfaction",
+    "statistical_results": "Performance distribution (N=80 teams): approximately half achieved 'good' performance. Of good-performing teams, 52% solved the crime successfully, 48% did not. Of average/insufficient teams, only 28% solved correctly, 72% did not. On ethical dilemma influence: 33% of teams changed their answer after the ethical dilemma was introduced; of those who initially had the correct answer, 82% maintained it and 18% changed; of those who changed to an incorrect answer, 92% made incorrect changes. Quiz retention: average 8.7/10 correct answers (n=72). Activity satisfaction: mean rating 4.77/5 (n=160).",
+    "comparative_methodology": null,
+    "key_outcomes": "Students showed high information retention (8.7/10 on quiz), positive attitudes toward the activity (4.77/5 satisfaction), and mixed performance on crime-solving tasks. The ethical dilemma component influenced 33% of teams to change their answers, with 92% of those changes being incorrect, showing susceptibility to non-scientific persuasion. Students identified major learning categories: history of science, investigation skills, chemistry/compound identification, positive attitudes toward science, and social skills.",
+    "engagement_results": "Participants rated the activity 4.77 out of 5 on a Likert scale (n=160). Students identified innovation and entertaining features as the most relevant aspects of their gaming experience. Word analysis of student reports revealed positive attitudes toward chemistry/science, with students describing the activity as interesting and likable. Teams were extremely participative, particularly during discussion stations."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Board game with team pins and stations",
+      "Team-based competition (4 teams per session)",
+      "Role-playing as scientists/investigators",
+      "Character cards for suspects",
+      "Digital animated storytelling presentations",
+      "Game report (digital document filled throughout)",
+      "Prize for winning team",
+      "Progressive station-based structure (5 stations)",
+      "Conference-like final presentation station",
+      "Scoring rubric for team performance"
+    ],
+    "technological_platforms": [
+      "Physical board game",
+      "Digital presentation/animation for storytelling",
+      "Smartphone-based online webpage for assessment",
+      "Hands-on chemistry laboratory equipment"
+    ],
+    "instructional_strategies": [
+      "Problem-based learning (solving a murder mystery)",
+      "Storytelling based on real historical case (Crime of Flores Street, 19th century Portugal)",
+      "Hands-on laboratory experiments (6 chemistry experiments)",
+      "Collaborative/cooperative learning in teams",
+      "Ethical dilemma discussions (conflict of interest in science)",
+      "Scientific method practice (hypothesis, experiment, conclusion)",
+      "Role-playing as investigators",
+      "Conference-style presentation of findings",
+      "Interdisciplinary integration (chemistry, ethics, history of science)"
+    ],
+    "content_integration": "Chemistry curriculum content (7th and 8th grade Portuguese curricular goals) is integrated through six hands-on laboratory experiments embedded within a narrative about a real 19th century Portuguese murder case (the 'Crime of Flores Street' or 'Urbino de Freitas Case'). Each experiment both advances the murder mystery plot and teaches specific chemistry concepts (precipitation reactions, flame tests, dye tests, catalysis, redox reactions, non-Newtonian fluids). The historical narrative provides context and motivation, while ethical dilemmas about conflicts of interest in scientific practice are woven into the storyline. History of science serves as the storytelling vehicle rather than the primary educational content."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Students lacked previous laboratory training and could not identify most reagents and appliances",
+      "Time management for discussions was challenging, especially with highly participative teams",
+      "Students frequently paired with unfamiliar classmates, affecting group dynamics",
+      "Managing heterogeneous classes with different writing skills and chemistry backgrounds",
+      "Adapting the activity to different class dynamics each day (some more engaged than others)",
+      "Students becoming distracted by the narrative and creating incoherent hypotheses",
+      "Non-formal summer program setting reduced student motivation to put effort into written reports"
+    ],
+    "methodology_limitations": [
+      "Pilot/exploratory study with no control group or pre-post comparison",
+      "Non-formal summer program context (no real classroom evaluation or pressure to succeed) likely influenced results",
+      "No assessment of long-term information retention",
+      "No evaluation of previous chemistry knowledge before the activity",
+      "Sample was self-selected (students chose to participate in the summer program)",
+      "Evaluation was semiquantitative with small effective sample for some measures",
+      "No standardization across the 20 different daily implementations",
+      "Students from different backgrounds and socioeconomic status, making performance comparison difficult"
+    ],
+    "negative_effects": [
+      "33% of teams changed their answer due to ethically irrelevant dramatic revelation, with 92% of those changes being incorrect -- showing students were easily influenced by drama over scientific evidence",
+      "Some students attributed the murder to outside characters, hypothesized suicide, or created theories incoherent with the narrative",
+      "Some teams showed insufficient performance with inability to identify basic sample compositions",
+      "Students sometimes forgot laboratory safety rules during experiments"
+    ],
+    "mitigation_strategies": [
+      "Proposed prior introduction of the laboratory component to address student unpreparedness",
+      "Suggested future editions use classes with similar chemistry knowledge levels",
+      "Recommended altering digital animation to include guiding questions (e.g., 'Who could obtain the poison?')",
+      "Proposed reconsidering parts of the game report to manage timeline with heterogeneous classes",
+      "Recommended future iterations pair students who are already familiar with each other",
+      "Suggested standardization of the activity for more robust results",
+      "Provided complete materials in Supporting Information for reproducibility"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study describes its context clearly: middle school students under 14 who enrolled in the University of Porto Junior University summer program in July 2019. However, the sample is self-selected (students who chose this activity from multiple options), making it a convenience sample.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Participants were self-selected summer program attendees from Portugal and some European countries, not representative of typical middle school populations. The non-formal setting (no grades, no pressure) likely biased engagement and satisfaction results upward. Students chose to participate in a chemistry activity voluntarily.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "Assessment tools were custom-designed for this activity with no reported validation. The team performance rubric uses broad categories (good/average/insufficient) with thresholds (>75%, >50%, <50%) that are not justified. The 10-question quiz and voluntary inquiry are not described in detail in the main text. The satisfaction measure uses a single Likert item. No established instruments were used.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Analysis is primarily descriptive with percentages and averages. No inferential statistics are reported. Word analysis of student reports is mentioned but not systematically described. The semiquantitative approach is acknowledged as exploratory but limits the strength of conclusions.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Low concern",
+      "q5_evidence": "The authors present both positive and negative findings honestly. They acknowledge that the ethical dilemma confused many students and that many teams performed at average or insufficient levels. They discuss the complexity of interpreting quiz performance versus game report performance.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The authors extensively discuss limitations including the non-formal setting, lack of previous laboratory training, self-selected sample, absence of pre-assessment, need for standardization, and the exploratory nature of the study. They propose specific improvements for future iterations.",
+      "judgment": "Low"
+    },
+    "overall": "High",
+    "overall_justification": "The study is an exploratory pilot with significant methodological limitations: self-selected convenience sample in a non-formal summer program, no control group, no validated instruments, no pre-post design, and only descriptive statistics. While the authors are transparent about these limitations and the study provides useful qualitative insights for activity design, the evidence for effectiveness claims is weak. Additionally, the study is primarily about chemistry/science education rather than history education, using history of science only as a narrative framing device."
+  }
+}

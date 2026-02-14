@@ -1,0 +1,153 @@
+{
+  "study_id": 55,
+  "pdf_filename": "Replaying History: Engaging Urban Underserved Students in Learning World History Through Computer Simulation Games.pdf",
+  "bibtex_key": "55Squire2004",
+  "bibliographic": {
+    "title": "Replaying History: Engaging Urban Underserved Students in Learning World History Through Computer Simulation Games",
+    "authors": [
+      "Kurt Squire",
+      "Sasha Barab"
+    ],
+    "year": 2004,
+    "publication_type": "conference paper",
+    "venue": "Proceedings of the 6th International Conference on Learning Sciences (ICLS 2004)",
+    "doi": null,
+    "volume": null,
+    "pages": "505-512",
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "United States"
+    ],
+    "country_of_application": "United States",
+    "education_level": "High school (9th grade retained students)",
+    "sample_size": 18,
+    "sample_description": "18 students at a Media and Technology Charter School in a large Northeastern city, designed for inner-city youth. The class was comprised entirely of students who had failed ninth grade the previous year and were being held back. Roughly 75% were African-American, 15% were Latino, and 10% were of European descent. Five of these students participated in a one-week, 15-hour extension camp at the end of the unit.",
+    "study_design": "Qualitative case study within a design experiment methodology",
+    "game_type": "Commercial computer simulation game (turn-based strategy)",
+    "game_name": "Civilization III",
+    "aim": "To examine what classroom practices emerge and how learning occurs when Civilization III is used as the basis for learning about world history in a Humanities enrichment course in an inner-city school",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Purely qualitative study with no quantitative outcome measures; pre and post tests were designed but students refused to complete the pre-test, making quantitative comparisons impossible",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes using a commercial simulation game (Civilization III) as a tool for learning history. Engagement in gameplay is framed as a complex process of appropriation and resistance, recruiting students' identities and intentions. The game is positioned as a rich semiotic system requiring mastery of geographic facts, historical concepts, and interrelationships among geographical, political, economic, and historical systems. Learning through the game transforms history from memorizing facts to exploring emergent properties of a simulated system.",
+    "theoretical_frameworks": [
+      "Appropriation theory (Wertsch, 1998)",
+      "Design experiment methodology (Barab & Squire; Brown, 1992; Cobb et al., 2001)",
+      "Case study techniques (Stake, 1995)",
+      "Constant comparative method (Glaser & Strauss, 1967)",
+      "Attribution theory (Bandura, 1976/1986)",
+      "Motivation framework of fantasy, control, challenge, and curiosity (Cordova & Lepper, 1996)",
+      "Identity resources and cultural tools (Wertsch, 1998; de Certeau, 1984)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "Students developed deeper understandings of relationships among history, geography, economics, and politics through gameplay. Key learning outcomes included: (1) understanding interconnections between geography, economics, and political systems; (2) developing multi-factor causal explanations for historical phenomena such as colonization (population density, strategic resources, relations with other civilizations, access to trade networks); (3) learning geographic facts (locations of Egypt, Nova Scotia, Greenland); (4) understanding the role of natural resources in civilization development; (5) ability to construct and test historical hypotheticals (e.g., reversing European colonization of the Americas); (6) recognizing that 'you can't separate geography from economics from politics.' Learning was highly interpretive, driven by students' own goals and mediated by classroom discourse. Powerful systemic-level understandings emerged through gameplay for some students (e.g., Tony) only after approximately 30 hours of play.",
+    "engagement_results": "Engagement was a complex process of appropriation and resistance. Many students initially rejected the activity (days 1-4), finding Civilization III too complex. By day 4, when students realized they could use the game to 'replay history' and explore hypothetical scenarios, they began to appropriate it. Identity was central to engagement - students were most engaged when the game allowed them to express ideas they believed in or investigate questions tied to their identities (e.g., African-American students wanting to reverse colonization and make the Americas African). Motivation was multi-dimensional, occurring at the intersection of personal goals, fantasies, the possibility space of the simulation, desire to learn world history, and social pressure. Failure in the game drove recursive cycles of problem-solving that led to frustration but also engagement and learning."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Historical simulation with deep geographic, political, and economic systems",
+      "Turn-based strategy gameplay",
+      "Civilization building and management",
+      "Resource management and trade",
+      "Diplomatic relations and alliances",
+      "Military strategy and conflict",
+      "Technology research trees",
+      "Maps, charts, and graphs as in-game analytical tools",
+      "Multiple civilizations with unique characteristics",
+      "Failure and restart mechanics driving recursive learning cycles"
+    ],
+    "technological_platforms": [
+      "Civilization III (PC game)"
+    ],
+    "instructional_strategies": [
+      "Design experiment with iterative refinement",
+      "Instructor-researcher as participant-observer",
+      "Drawing connections between game world and real-world map on the board",
+      "Just-in-time lectures connecting game events to historical content",
+      "Using historical narratives as explanatory devices for understanding game events (e.g., causes of World War I)",
+      "Encouraging historical hypotheticals ('What if you reverse colonization?')",
+      "Student journals documenting gameplay decisions",
+      "Post-gameplay reflection and presentation to other classes",
+      "Extension camp for deeper engagement (one week, 15 hours)",
+      "Framing game as tool for replaying and exploring history"
+    ],
+    "content_integration": "Civilization III was used as the basis for an interdisciplinary world cultures course over a six-week period (three times per week, 45 minutes per class). The game served as a platform for exploring world history topics including colonization, the rise and fall of civilizations, geographic determinism, trade networks, and political systems. Teachers made explicit links between game events and historical curriculum by drawing world maps on the board showing where students' in-game civilizations corresponded to real locations. Historical narratives were introduced as explanatory devices for understanding game mechanics (e.g., causes of WWI). Students explored hypothetical historical scenarios (e.g., 'Why did the Europeans colonize the Americas as opposed to the reverse?') and developed multi-factor causal models for historical phenomena like colonization."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Students initially rejected the activity and the game (days 1-4), similar to how they rejected school-based history education generally",
+      "Civilization III was perceived as very complex and too difficult to learn",
+      "Students did not initially see how the game could help them in school or real life",
+      "Even gamer students took several days to appropriate the game as a learning tool",
+      "Time constraints limited the partnering teacher's ability to fully integrate the game into instruction",
+      "Students refused to complete pre-tests (even under threat of grade reduction), making quantitative assessment impossible",
+      "The game was not designed as an educational tool, requiring significant pedagogical scaffolding",
+      "Space allotments prevented inclusion of the full case study in the paper"
+    ],
+    "methodology_limitations": [
+      "Qualitative case study design limits generalizability",
+      "Small sample size (18 students, with 5 in the extension camp)",
+      "No pre-test/post-test comparison possible due to student refusal",
+      "Participant-observer role of the researcher may introduce bias",
+      "Single classroom context in a specific charter school serving underserved students",
+      "Six-week intervention period with only three sessions per week may be insufficient",
+      "Systemic-level understanding emerged only after ~30 hours of play, raising scalability concerns",
+      "Full case study omitted due to space constraints, limiting the evidence presented"
+    ],
+    "negative_effects": [
+      "Initial frustration and resistance from students who saw the game as too complex",
+      "Students frequently perceived early failures as bad game design rather than learning opportunities",
+      "Some students became embittered by failure, attributing causes externally",
+      "The game at times was frustrating or even uninteresting for some students",
+      "Risk of students developing materialist or geographically deterministic readings of history (e.g., 'great man' theory)"
+    ],
+    "mitigation_strategies": [
+      "Teachers drew connections between in-game civilizations and real-world map to scaffold understanding",
+      "Just-in-time lectures and historical narratives were used to contextualize game events",
+      "Suggesting historical hypotheticals (e.g., reversing colonization) to recruit student identity and interest",
+      "Helping students construct narratives for unfolding play that brought knowledge of geography or history as tools for gameplay",
+      "Extension camp provided additional time for deeper engagement and learning",
+      "Triangulation of data through observations, interviews, journals, and document analysis"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly defines its context: a Media and Technology Charter School in a large Northeastern city serving inner-city youth. The sample of 18 students who had failed ninth grade is explicitly described. The case study approach (Stake, 1995) is appropriate for the research questions. The three research questions are clearly stated.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample is a single classroom of 18 students who had all failed ninth grade, in a specific charter school context. This is a highly specific population (urban underserved, retained students) that is not representative of typical history classrooms. The study acknowledges this is a particular context but does not discuss external validity or generalizability limitations explicitly.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Some concerns",
+      "q3_evidence": "Data collection included observations, transcribed interviews, student journals, and student artifacts - appropriate qualitative methods. Nine participants received semi-structured interviews with performance tasks. However, the planned pre and post tests were abandoned because students refused to take the pre-test. The constant comparative method (Glaser & Strauss, 1967) was used for analysis. Data triangulation from multiple sources strengthens validity.",
+      "q4_analysis_methods": "Some concerns",
+      "q4_evidence": "The constant comparative method was applied to approximately 300 pages of primary data. Two researchers analyzed data independently and verified patterns informally. Analysis focused on emergent themes and patterns. However, the first researcher served as instructor-researcher and participant-observer, creating potential bias. Inter-rater reliability is not formally reported. The full case study was omitted due to space constraints, limiting readers' ability to assess the evidence base.",
+      "judgment": "Moderate"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Some concerns",
+      "q5_evidence": "Findings are richly described with extensive student quotes and detailed narratives. The interpretations about appropriation, identity, and learning through failure are well-supported by the presented evidence. However, the study emphasizes positive outcomes and engaged students (particularly Tony) while giving less attention to students who remained disengaged. The framing of the game as a colonial simulation was largely student-driven, which is acknowledged.",
+      "q6_limitations_discussed": "Some concerns",
+      "q6_evidence": "The study acknowledges that engagement was complex and not universally positive - the game was 'at times engaging, and at times frustrating (or even uninteresting).' It notes that systemic understanding required approximately 30 hours of play. However, the study does not explicitly discuss generalizability limitations, researcher bias from the dual instructor-researcher role, or the implications of the failed pre/post-test design. The Educational Implications section is relatively brief.",
+      "judgment": "Moderate"
+    },
+    "overall": "Moderate",
+    "overall_justification": "The study provides rich qualitative data from a well-designed case study using established methods (Stake, 1995; Glaser & Strauss, 1967). Data triangulation from multiple sources (observations, interviews, journals, artifacts) strengthens validity. However, several concerns exist: (1) the dual instructor-researcher role creates potential bias; (2) the very small, non-representative sample (18 retained 9th graders at a specific charter school) limits generalizability; (3) the failure of the pre/post-test design eliminates any quantitative evidence of learning outcomes; (4) the full case study was omitted for space, limiting the evidence base; and (5) limitations and researcher positionality are not thoroughly discussed. Overall, the study offers valuable exploratory insights but with methodological constraints typical of early design-based research in game-based learning."
+  }
+}

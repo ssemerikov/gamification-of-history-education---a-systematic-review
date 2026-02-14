@@ -1,0 +1,134 @@
+{
+  "study_id": 16,
+  "pdf_filename": "Code Book The development of an Adventure Action Game for History Instruction and the Evaluation of Flow State, Learning Performance and Gender Difference.pdf",
+  "bibtex_key": "16Chen201447",
+  "bibliographic": {
+    "title": "Code Book\u00a9- The development of an Adventure Action Game for History Instruction and the Evaluation of Flow State, Learning Performance and Gender Difference",
+    "authors": [
+      "Hao-Wei Chen",
+      "Huei-Tse Hou",
+      "Yi-Shiuan Chou"
+    ],
+    "year": 2014,
+    "publication_type": "conference_paper",
+    "venue": "Proceedings of the 22nd International Conference on Computers in Education (ICCE 2014)",
+    "doi": null,
+    "volume": null,
+    "pages": "46-48",
+    "publisher": "Asia-Pacific Society for Computers in Education"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Taiwan"
+    ],
+    "country_of_application": "Taiwan",
+    "education_level": "higher_education",
+    "sample_size": 38,
+    "sample_description": "38 college students from one institute of technology in Taiwan; 11 males and 27 females, aged 19-22 years old",
+    "study_design": "pre-experimental (one-group pretest-posttest)",
+    "game_type": "first-person adventure action game",
+    "game_name": "Code Book\u00a9",
+    "aim": "To develop a first-person adventure action game (Code Book) for history learning, explore learners' flow state in history learning through this action game, evaluate learners' learning performance, and analyze gender differences",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Short conference paper (3 pages) with limited methodological detail; single-group design without control group limits causal inference",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Game-based learning (GBL) applied to history education through a custom-developed first-person adventure action game. The game integrates historical content (Opium Wars, 1840-1842) into a WWII espionage narrative with role-playing, puzzle-solving missions, battle scenarios, and scaffolded historical information prompts. Learners play as a secret agent searching for confidential files in a German Army headquarters.",
+    "theoretical_frameworks": [
+      "Role-playing theory (Shaftel & Shaftel, 1967)",
+      "Scaffolding theory (Wood, Bruner, & Ross, 1976)",
+      "Flow theory (Kiili, 2006)",
+      "Experiential gaming model (Kiili, 2006)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Pre-test and post-test scores (5 history questions); flow questionnaire (23 items, 5-point Likert scale with two dimensions: flow antecedents and flow experience); Cronbach's alpha = 0.93",
+    "statistical_results": "Paired-samples t-test: pretest M=1.32 (SD=1.25) vs posttest M=2.68 (SD=1.45), t=-5.33, p<0.001. Flow antecedents M=3.63 (SD=0.67); Flow experience M=3.73 (SD=0.59). Gender differences: flow antecedents t=0.12, p=0.906; flow experience t=-0.29, p=0.774; pretest t=1.30, p=0.201; posttest t=0.85, p=0.400 (all non-significant)",
+    "comparative_methodology": "Within-subjects comparison (pretest vs posttest); between-subjects comparison by gender (male n=11 vs female n=27)",
+    "key_outcomes": "Significant improvement in history knowledge after game-based learning (p<0.001). Learners reached high flow state (all dimension means above median 3.00). No significant gender differences in flow state or learning performance, suggesting the game is suitable for both genders.",
+    "engagement_results": "High flow state achieved: flow antecedents M=3.63, flow experience M=3.73 (both above median 3.00). Highest flow antecedent sub-dimensions: feedback (M=3.68) and playability (M=3.68). Highest flow experience sub-dimensions: concentration (M=3.80) and time distortion (M=3.79), indicating high learner attention and immersion."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Role-playing (playing as a secret agent)",
+      "Missions and quests (finding confidential files, escaping headquarters)",
+      "3D first-person perspective",
+      "Battle and combat scenarios",
+      "Puzzle-solving missions",
+      "Narrative/storyline (WWII espionage theme with Opium Wars history)",
+      "Scaffolding prompts with historical information",
+      "Clues hidden behind history knowledge",
+      "Challenging scenarios (chasing and escaping from enemies)",
+      "Immediate feedback"
+    ],
+    "technological_platforms": [
+      "FPS Game Creator (game development tool)",
+      "NTUST MEG (National Taiwan University of Science and Technology Multimedia Entertainment and Games research team)"
+    ],
+    "instructional_strategies": [
+      "Role-playing pedagogy - learners assume the identity of a secret agent",
+      "Scaffolding - historical information provided as prompts alongside game files",
+      "Embedded assessment through history knowledge clues needed to complete missions",
+      "Pre-test and post-test assessment design"
+    ],
+    "content_integration": "Historical content about the Opium Wars (1840-1842, a diplomatic event in China) is integrated into a WWII espionage narrative. Players must find and analyze historical information embedded in books and confidential files hidden in different locations within a German Army headquarters. Historical knowledge clues are required to accomplish missions and progress through the game."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Short gameplay session (25 minutes) may limit depth of learning",
+      "Small sample size (n=38) from a single institution limits generalizability",
+      "Unbalanced gender distribution (11 males vs 27 females)",
+      "Participants were mostly from multimedia design discipline, potentially biasing comfort with 3D game environments"
+    ],
+    "methodology_limitations": [
+      "No control group - single-group pretest-posttest design limits causal inference",
+      "Short conference paper format provides limited methodological detail",
+      "Only 5 questions used for the knowledge test",
+      "Flow measured only via self-report questionnaire",
+      "No delayed post-test to assess retention",
+      "Sample from one institute of technology in Taiwan limits external validity"
+    ],
+    "negative_effects": [
+      "Initial hypothesis that males would show higher involvement in 3D first-person action game was violated - no significant gender difference found (though this is presented as a positive finding)"
+    ],
+    "mitigation_strategies": [
+      "Used validated flow scale (Kiili, 2006) translated and revised by Hou & Chou (2012) with high reliability (Cronbach's alpha = 0.93)",
+      "Included both battle and puzzle-solving missions to appeal to diverse player preferences",
+      "Knowledge test questions designed by a history expert",
+      "Authors suggest future research with larger-scale experiments and behavioral pattern analysis"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "high_concern",
+      "q1_evidence": "No explicit inclusion/exclusion criteria for participants beyond being college students from one institute of technology. Convenience sampling from a single institution.",
+      "q2_representativeness": "high_concern",
+      "q2_evidence": "Sample of 38 students from one institute of technology in Taiwan with unbalanced gender (11 males, 27 females). Most participants from multimedia design discipline, not representative of general college population. No randomization or control group.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "low_concern",
+      "q3_evidence": "Flow questionnaire based on validated Kiili (2006) scale, translated and revised by Hou & Chou (2012), with reported Cronbach's alpha of 0.93. Knowledge test designed by a history expert with 5 items.",
+      "q4_analysis_methods": "some_concern",
+      "q4_evidence": "Appropriate use of paired-samples t-test for pre-post comparison and independent t-tests for gender comparison. However, limited to basic statistical analyses with no effect sizes reported. Only 5 questions on the knowledge test may limit measurement sensitivity.",
+      "judgment": "Moderate"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "some_concern",
+      "q5_evidence": "Interpretations generally consistent with data. The violation of their gender hypothesis is honestly discussed. However, the strong conclusion about learning effectiveness is drawn from a design without a control group, which is not fully acknowledged as a limitation.",
+      "q6_limitations_discussed": "some_concern",
+      "q6_evidence": "Some limitations acknowledged implicitly (sample composition from multimedia design discipline). Future research directions mentioned (larger-scale experiments, behavioral pattern analysis). However, key limitations such as lack of control group, small sample size, and short intervention duration are not explicitly discussed as study limitations.",
+      "judgment": "Moderate"
+    },
+    "overall": "High",
+    "overall_justification": "High risk of bias primarily due to the single-group pre-experimental design without a control group, small convenience sample (n=38) from one institution, unbalanced gender distribution, and participants predominantly from multimedia design backgrounds. While validated instruments were used and basic statistics were appropriate, the lack of a control group and limited sample severely constrain the internal and external validity of the findings. The short conference paper format (3 pages) also means important methodological details may be missing."
+  }
+}

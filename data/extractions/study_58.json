@@ -1,0 +1,148 @@
+{
+  "study_id": 58,
+  "pdf_filename": "Sustaining mobile learning with pervasive game An example of cultural history exploration.pdf",
+  "bibtex_key": "58Shih2015173",
+  "bibliographic": {
+    "title": "Sustaining mobile learning with pervasive game: An example of cultural history exploration",
+    "authors": [
+      "Ju-Ling Shih",
+      "Jyun-Fong Guo",
+      "Cheng-ping Chen"
+    ],
+    "year": 2015,
+    "publication_type": "book_chapter",
+    "venue": "Mobile Learning: A Handbook for Developers, Educators, and Learners",
+    "doi": null,
+    "volume": null,
+    "pages": "173-192",
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "Taiwan"
+    ],
+    "country_of_application": "Taiwan",
+    "education_level": "higher_education",
+    "sample_size": 30,
+    "sample_description": "Thirty college students divided into five groups of six, exploring the historic site Provintia in Tainan, Taiwan",
+    "study_design": "pre-experimental (one-group pretest-posttest)",
+    "game_type": "pervasive game with augmented reality",
+    "game_name": "Cultural History Exploration Pervasive Game (Provintia exploration game)",
+    "aim": "To establish a pervasive game framework to design an exploratory game that allows participants to explore historical locations to learn about interrelated cultural history knowledge, and to investigate the effectiveness and sustainability of this approach",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study uses a one-group pretest-posttest design without a control group, which limits causal inference. The chapter is part of an edited book rather than a peer-reviewed journal article.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "A pervasive game (PG) is a mobile game that seamlessly integrates the physical environment with virtual scenarios. According to Walther (2005), a PG implies a mixed-reality gaming space; that is, the gameplay connects the virtual world with the tangible world.",
+    "has_explicit_definition": true,
+    "conceptualization": "Pervasive gaming is conceptualized as an extension of mobile learning (mlearning) that blurs the boundary between games and real life. The Instructional Pervasive Game (IPG) approach combines mobile technology, augmented reality, location-based exploration, social networking, and cooperative game mechanics to create a seamless learning environment where students explore authentic historical sites. The framework includes six factors: user, environment, information, context, mobility, and gamist.",
+    "theoretical_frameworks": [
+      "Instructional Pervasive Game (IPG) framework (Chen & Shih, 2012)",
+      "GameFlow Model (Sweetser & Wyeth, 2005)",
+      "Pervasive Game Flow Model (Jegers, 2009)",
+      "Technology integration model for game-based pervasive learning (Laine et al., 2010)",
+      "Walther's four axes of pervasive games (distribution, mobility, persistence, transmediality)",
+      "Inquiry-based learning"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Pre-test and post-test scores on Provintia history and culture understanding (14 riddle-based questions); pervasive game effectiveness evaluation questionnaire covering four aspects: game rules, game mechanism, game interaction, and game content (using Likert-scale items)",
+    "statistical_results": "Learning effectiveness: pre-test mean=31.33 (SD=12.65), post-test mean=88.50 (SD=7.44), t=22.46, p<.001 -- significant improvement. Game rules: pre-test m=25.36, post-test m=25.86, t=-0.803, p=.429 (not significant). Game mechanism: pre-test m=23.73, post-test m=23.56, t=0.22, p=.821 (not significant). Game interaction: pre-test m=29.30, post-test m=29.23, t=0.100, p=.921 (not significant). Game content: pre-test m=12.90, post-test m=20.96, t=-9.950, p<.001 (significant).",
+    "comparative_methodology": "One-group pretest-posttest design with paired t-tests to compare pre- and post-test scores on both learning effectiveness and game effectiveness evaluation",
+    "key_outcomes": "Participants showed highly significant improvement in understanding of Provintia history and culture after the pervasive game activity (pre-test 31.33 to post-test 88.50). Participants performed better on geographical (93.3%) and architectural (92.3%) aspects than on historical (89.4%) and cultural (82.7%) aspects. Game content evaluation showed significant improvement, indicating participants gained more understanding of the site. Game rules, mechanism, and interaction aspects showed no significant differences, meaning the game met participants' expectations in these areas.",
+    "engagement_results": "Participants reported feeling excited and happy when able to solve riddles, which enhanced their sense of achievement. AR storytelling was noted as making site exploration more interesting. Participants said they would cooperate and share with group members and preferred AR content over textual tourist sign descriptions. The bingo Q&A competition at the end was effective for refreshing memories. Facebook was used for group cooperation, information management, and sharing, though participants preferred shorthand note-taking over smartphone typing."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Riddle-solving (14 riddles based on historical content)",
+      "Location-based exploration of authentic historical site (Provintia)",
+      "Augmented reality content (AR presentations showing historical clips and talking figures)",
+      "Group competition and cooperation (5 groups of 6)",
+      "Bingo Q&A competition (49 questions on history, artefacts, observations, environments)",
+      "Social networking integration (Facebook for group communication and sharing)",
+      "Mission completion structure",
+      "Tourist brochure distribution as game scaffolding"
+    ],
+    "technological_platforms": [
+      "Smartphones with wireless Internet connections",
+      "AURASMA (augmented reality application)",
+      "Facebook (social networking service for group spaces)",
+      "GPS and location-sensing technologies",
+      "Mobile cameras for AR content recognition"
+    ],
+    "instructional_strategies": [
+      "Inquiry-based learning through riddle-solving at historical site",
+      "Cooperative learning in small groups (6 members per group)",
+      "Augmented reality for multimedia cognitive support",
+      "Social networking for collaborative documentation and sharing",
+      "Pre-test and post-test assessment",
+      "Group bingo Q&A for knowledge consolidation",
+      "Guided exploration with research observers providing task guidance",
+      "Four-aspect content design: historical, geographical, architectural, and cultural"
+    ],
+    "content_integration": "Learning content was collected from historical literature, books, textbooks, web information, Tainan government tourist bureau information, field study, tour guides, and oral history interviews. Content covered four aspects of Provintia: (1) historical - stories about the fort, ordnance depot, hospitals, and schools across various historical periods; (2) geographical - importance of location and position during wartime; (3) architectural - objects and features such as stone lions and sculptures; (4) cultural - historical monuments such as tombstones and wells. The content was embedded in 14 riddles that participants solved by physically exploring the site and using AR on their smartphones to access multimedia historical narratives."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Hardware factors influenced participant motivation (e.g., AR image recognition failures due to sunlight, shadows, or photo-taking angles)",
+      "Need for a rich image database to increase interaction fluency",
+      "Participants preferred shorthand note-taking over typing on smartphones, reducing Facebook engagement",
+      "Technical challenges with AR content recognition in outdoor environments",
+      "Sustainability concerns regarding making mobile learning widespread without requiring high-level technical knowledge",
+      "Need for budget support and knowledge of applicable instructional strategies for teachers to adopt mobile technologies"
+    ],
+    "methodology_limitations": [
+      "One-group pretest-posttest design without a control group limits causal inference",
+      "Small sample size (n=30)",
+      "Single site and single session study limits generalizability",
+      "No long-term follow-up to assess retention of learning",
+      "Game effectiveness evaluation post-test scores were sometimes lower than pre-test (game interaction, game mechanism), suggesting expectation mismatch",
+      "Qualitative data from interviews not systematically analyzed with established qualitative methods"
+    ],
+    "negative_effects": [
+      "Game mechanism aspect (use of smartphone, AR, and Facebook) did not significantly influence gaming behaviours and attitudes beyond expectations",
+      "Game interaction post-test was slightly lower than pre-test, suggesting technology may have reduced rather than enhanced some interactions",
+      "Facebook content was mostly photos or short notes rather than substantive documentation due to inconvenience of smartphone typing",
+      "Some participants found historical and cultural content more difficult to grasp because it was more conceptual and abstract"
+    ],
+    "mitigation_strategies": [
+      "Use of markless AR to create seamless learning environments combining virtual and real settings",
+      "Design a quick upload mechanism with keywords or icons to enhance Facebook usage motivation",
+      "Provide AR cognitive support (short clips as clues) for more abstract conceptual content",
+      "Include research observers in each group for task guidance and hardware/software problem-solving",
+      "Distribute tourist brochures as supplementary scaffolding material",
+      "Use bingo Q&A activity to consolidate learning and refresh memories after exploration"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "Low concern",
+      "q1_evidence": "The study clearly describes participants as 30 college students who were invited to participate, divided into 5 groups of 6. However, no explicit inclusion/exclusion criteria or recruitment process details are provided.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "The sample consists of only 30 college students from a single institution in Taiwan. No information about how students were selected or whether they are representative of a broader population. The convenience sample limits generalizability.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Some concern",
+      "q3_evidence": "Pre-test and post-test were based on the same 14 riddle questions used in the game, and a pervasive game effectiveness evaluation questionnaire was used. However, no information about validity or reliability of the instruments is provided. The riddle-based test may conflate game-specific knowledge with broader historical understanding.",
+      "q4_analysis_methods": "Some concern",
+      "q4_evidence": "Paired t-tests were appropriately used for pre-post comparisons. Means, SDs, t-values, and p-values are reported. However, no effect sizes are reported. The one-group design without a control group limits the ability to attribute changes to the intervention. Qualitative data from interviews and Facebook observations are discussed but not systematically analyzed.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Some concern",
+      "q5_evidence": "The authors generally interpret findings consistently with data. They acknowledge non-significant results (game rules, mechanism, interaction) and discuss possible explanations. However, they frame non-significant differences positively (as meeting expectations) rather than as potential limitations. The conclusion somewhat overstates the evidence given the weak research design.",
+      "q6_limitations_discussed": "Some concern",
+      "q6_evidence": "The authors discuss some practical limitations such as AR recognition difficulties and smartphone typing inconvenience. However, they do not explicitly discuss the major methodological limitations of the one-group pretest-posttest design, the small sample size, or the absence of a control group. The sustainability discussion is mostly aspirational rather than evidence-based.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high risk of bias due to: (1) weak research design (one-group pretest-posttest without control group), making it impossible to rule out maturation, testing effects, or other threats to internal validity; (2) small convenience sample (n=30) from a single institution; (3) lack of validated instruments with no reported reliability or validity; (4) no effect sizes reported; (5) insufficient discussion of methodological limitations; and (6) potential conflation of game-specific knowledge with genuine historical learning outcomes."
+  }
+}

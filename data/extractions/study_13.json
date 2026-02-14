@@ -1,0 +1,144 @@
+{
+  "study_id": 13,
+  "pdf_filename": "Battle Card, Card Game for Teaching the History of the Incas Through Intelligent Techniques.pdf",
+  "bibtex_key": "13Humpire2022",
+  "bibliographic": {
+    "title": "Battle Card, Card Game for Teaching the History of the Incas Through Intelligent Techniques",
+    "authors": [
+      "Javier Apaza Humpire",
+      "Maria Guerra Vidal",
+      "Miguel Tupayachi Moina",
+      "Milagros Vega Colque",
+      "Jos\u00e9 Sulla-Torres"
+    ],
+    "year": 2022,
+    "publication_type": "conference_paper",
+    "venue": "SAI 2022 - Lecture Notes in Networks and Systems (LNNS)",
+    "doi": "10.1007/978-3-031-10467-1_21",
+    "volume": "508",
+    "pages": "331-346",
+    "publisher": "Springer Nature Switzerland"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Peru"
+    ],
+    "country_of_application": "Peru",
+    "education_level": "Primary (ages 10-12)",
+    "sample_size": null,
+    "sample_description": "Schoolchildren between the ages of 10 and 12 at the primary level who participated in interviews and pre-test/post-test surveys to evaluate the video game",
+    "study_design": "Design-based research with acceptance testing (pre-test/post-test surveys and interviews with schoolchildren)",
+    "game_type": "Digital card game (battle card game)",
+    "game_name": "Battle Card",
+    "aim": "To develop a card game called Battle Card based on the Inca empire that teaches history of the Incas through artificial intelligence algorithms, and to identify the influence of a video game as a pedagogical tool in student learning",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study is primarily a software engineering/game development paper with limited formal educational evaluation. The sample size is not explicitly reported. The evaluation relies mainly on game quality metrics and informal satisfaction surveys rather than rigorous educational outcome measures.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes the card game as an interactive and effective way to learn history, replacing the traditional memorization model. Each card represents an Inca historical figure with attributes (name, description of historical role, power values, element type). The game contextualizes students about the period's most significant events and characters. History education through games is framed as promoting patriotism and making learning dynamic rather than boring.",
+    "theoretical_frameworks": [
+      "Game-based learning (implicit)",
+      "Quality criteria for serious games (Caserman et al., referencing serious game part, game part, and balance)",
+      "Game quality metrics framework (Amacifuen Cerna - pedagogical and technological metrics for measuring quality of online games)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Game quality metrics: Effectiveness 71.8% (target effectiveness X=83.33%, goal completeness X=0.83); Efficiency 60% (finish time X=7 min, efficiency relative to user level X=0.6); Flexibility 0% (accessibility X=0); Safety 100%; Fault tolerance 90%; Satisfaction 80%",
+    "statistical_results": "Satisfaction survey results: 80% found the game attractive; 60% clearly understood the dynamics of the game; 100% of schoolchildren commented they would play it again. Performance test: game loading time 5.386 seconds. Unit tests: 3 specs, 0 failures.",
+    "comparative_methodology": null,
+    "key_outcomes": "The game was evaluated through unit tests (all passed), performance tests (5.386s loading time), and acceptance tests using game quality metrics. Satisfaction surveys with schoolchildren showed positive reception: 80% found it attractive, 60% understood the dynamics, and 100% would play again. The overall results showed educators and specialists could use Battle Cards as a pedagogical tool in student learning.",
+    "engagement_results": "80% of schoolchildren found the game attractive; 100% stated they would play it again; students suggested improvements to graphic design and visual effects, indicating engagement with the game"
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Card-based battle mechanics (each card represents an Inca historical figure)",
+      "Three card element types (water, fire, ice) with rock-paper-scissors style advantages",
+      "Four power attributes per card (attack and defense values)",
+      "Three progressive difficulty levels corresponding to Inca geographic regions (coast, mountain, jungle)",
+      "Decreasing available cards per level (6, 5, 3) to increase difficulty",
+      "Score tracking system",
+      "Player vs. AI opponent structure",
+      "State machine for card behavior (deck, on board/idle, on hold/selected, attack, attacked, destroyed)",
+      "Historical character names and descriptions on cards (e.g., Sinchi Roca, Manco Capac, Lloque Yupanqui)",
+      "Battle rules between card types"
+    ],
+    "technological_platforms": [
+      "Phaser.io (JavaScript game framework for desktop and mobile platforms)",
+      "JavaScript programming language",
+      "Jasmine (unit testing framework)",
+      "Puppeteer (Node.js library for performance testing)",
+      "Trello (project management)"
+    ],
+    "instructional_strategies": [
+      "Embedding historical content within card characters and their descriptions",
+      "Contextualizing Inca history through game levels named after geographic regions of the Tahuantinsuyo (coast, mountain, jungle)",
+      "Progressive difficulty to maintain engagement and challenge",
+      "Player vs. AI gameplay to simulate strategic thinking about historical figures",
+      "In-game instructions explaining card types, battle rules, and level progression"
+    ],
+    "content_integration": "Historical content is integrated directly into the game cards: each card features an Inca historical figure (e.g., Sinchi Roca, Manco Capac, Lloque Yupanqui) with their name, a brief historical description of their role (in Spanish), and game attributes. The three game levels correspond to the natural regions of the Tahuantinsuyo (the Inca empire): coast, mountains, and jungle, linking game progression to geographic/historical knowledge of the Inca civilization."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Flexibility metric scored 0% - no alternative forms of interaction are available beyond the default, limiting accessibility",
+      "Game interface and card design need improvement according to student feedback",
+      "Visual effects require enhancement based on user feedback",
+      "Currently limited to desktop and web platforms; not yet adapted for mobile devices (Android and iOS)",
+      "No multiplayer option available (only player vs. AI)"
+    ],
+    "methodology_limitations": [
+      "No explicit sample size reported for the evaluation",
+      "No control group or comparative experimental design",
+      "Evaluation relies on game quality metrics rather than formal learning outcome assessments",
+      "No standardized pre-test/post-test measuring historical knowledge gains",
+      "Satisfaction surveys are informal and lack psychometric validation",
+      "The study is primarily a software development report rather than an educational research study"
+    ],
+    "negative_effects": [
+      "40% of schoolchildren did not clearly understand the dynamics of the game",
+      "Zero flexibility/accessibility score indicates the game cannot accommodate diverse learner needs"
+    ],
+    "mitigation_strategies": [
+      "Suggested future work: improve card design and appearance",
+      "Suggested future work: develop for mobile devices (Android and iOS)",
+      "Suggested future work: add a virtual assistant to help explain the game",
+      "Suggested future work: add multiplayer option (two players against the machine)",
+      "Suggested future work: add more rivals and online play functionality",
+      "Suggested future work: apply other AI algorithms to optimize search and selection operations",
+      "Suggested future work: add more difficulty levels"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "No explicit selection criteria for participants are described. The paper mentions schoolchildren between ages 10 and 12 at the primary level were involved in interviews and surveys, but does not explain how they were selected or recruited.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Sample size is not reported. No information about the school, class, or demographic characteristics of participants. No discussion of whether the sample is representative of the target population.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "The study uses game quality metrics (from Amacifuen Cerna, 2017) to evaluate the game, not validated educational measurement instruments. Satisfaction surveys are described informally without reporting the instrument, number of items, or psychometric properties. Pre-test and post-test surveys are mentioned but results are not reported in detail.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Analysis is limited to simple percentages from game quality metrics and satisfaction survey responses. No statistical tests are applied. No formal analysis of pre-test/post-test data is presented despite mentioning these surveys were conducted.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "High concern",
+      "q5_evidence": "The paper concludes that educators and specialists could use Battle Cards as a pedagogical tool based on satisfaction survey results and game quality metrics, but there is no direct evidence of learning outcomes. The leap from 80% satisfaction to pedagogical effectiveness is not well justified.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The paper acknowledges several limitations through its future work section: need for improved card design, lack of mobile platform support, absence of multiplayer, and need for better AI algorithms. However, methodological limitations of the evaluation are not explicitly discussed.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high risk of bias across all domains. It is primarily a software development and game design paper rather than a rigorous educational research study. The participant selection is undocumented, sample size is unreported, evaluation instruments lack validation, analysis methods are rudimentary (simple percentages with no statistical testing), and conclusions about pedagogical value are drawn from satisfaction data rather than measured learning outcomes. The pre-test/post-test data that was reportedly collected is not presented in the results."
+  }
+}

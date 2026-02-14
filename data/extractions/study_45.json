@@ -1,0 +1,130 @@
+{
+  "study_id": 45,
+  "pdf_filename": "Jingnan Campaign-Using Game-Based Assessment with the Mechanism of Strategy Games for History Teaching System Development and Learning Evaluation.pdf",
+  "bibtex_key": "45Yu2016727",
+  "bibliographic": {
+    "title": "Jingnan Campaign\u00a9-Using Game-Based Assessment with the Mechanism of Strategy Games for History Teaching: System Development and Learning Evaluation",
+    "authors": [
+      "Hsin-Hung Yu",
+      "Jhih-Kai Yang",
+      "Hao-Wei Chen",
+      "Huei-Tse Hou",
+      "Tsai-Fang Yu"
+    ],
+    "year": 2015,
+    "publication_type": "conference paper",
+    "venue": "2015 IIAI 4th International Congress on Advanced Applied Informatics",
+    "doi": "10.1109/IIAI-AAI.2015.199",
+    "volume": null,
+    "pages": "727-728",
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Taiwan"
+    ],
+    "country_of_application": "Taiwan",
+    "education_level": "higher education (college)",
+    "sample_size": 29,
+    "sample_description": "Twenty-nine college students from northern Taiwan (18 males, 11 females)",
+    "study_design": "pre-experimental (single group pre-post test with survey)",
+    "game_type": "strategy game with game-based assessment",
+    "game_name": "Jingnan Campaign",
+    "aim": "To develop a game-based history assessment system integrating strategy game mechanisms with scaffolding theory, and to investigate learners' technology acceptance, flow state, and learning achievement",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Very short paper (2 pages); limited methodological detail; small sample size with no control group",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Game-based assessment applied to history teaching, integrating simulated historical campaign context with strategy game mechanisms. The game combines situated learning with game elements such as commanding armies, answering history questions through a 'Jiaozhen' (challenge) mechanism, intelligence clues as scaffolding, and multiple-choice assessments embedded within gameplay. The approach leverages game feedback, repetitive practice, and trials to strengthen motivation and achievement.",
+    "theoretical_frameworks": [
+      "Scaffolding theory (Wood, Bruner & Ross, 1976)",
+      "Technology Acceptance Model (Davis, 1989)",
+      "Flow theory (Kiili, 2006; Hou & Chou, 2012)",
+      "Situated learning"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Pre-post test (36 multiple-choice items on Jingnan Campaign history knowledge, Cronbach's alpha = 0.79); Flow state scale (Cronbach's alpha = 0.91, two dimensions: flow antecedent and flow experience); Technology acceptance model questionnaire (Cronbach's alpha = 0.79, two dimensions: perceived usefulness and perceived ease of use)",
+    "statistical_results": "Paired t-test on pre-post test: t = 7.72, p < .05 (significant progress in history knowledge). Post-test correlated with flow antecedent: r = 0.39, p = .037. Post-test correlated with entire flow state: r = 0.37, p = .047. Regression: entire flow state significantly explained variance of post-test (beta = 0.39, p < .05). No significant gender differences in technology acceptance, flow state, or learning achievement.",
+    "comparative_methodology": "Single group pre-post test comparison (no control group); gender comparison (no significant differences found)",
+    "key_outcomes": "Significant learning achievement gains after using the game-based assessment system; positive perceptions of perceived usefulness (mean above median of 3); perceived ease of use slightly below median (M = 2.87); flow state positively associated with learning achievement and explained its variability to a certain extent",
+    "engagement_results": "Perceived usefulness and flow state means were above the median (3 points), indicating positive engagement. Flow state was significantly positively correlated with learning achievement. Perceived ease of use did not reach the median, possibly due to learners' lack of experience with strategy games."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Strategy game mechanics (commanding armies in battle)",
+      "Jiaozhen (challenge) mechanism - question-answer duels between generals when armies meet",
+      "Intelligence clues as scaffolding for answering questions",
+      "Multiple-choice questions embedded in gameplay",
+      "Immediate corrective feedback (correct answer boosts morale; wrong answer results in attack by opponent)",
+      "Repetitive practice and retry opportunities (replay levels on failure)",
+      "Simulated historical campaign context (Jingnan Campaign, Ming Dynasty civil war)"
+    ],
+    "technological_platforms": [
+      "Custom-developed game system by Mini Educational Game Group of National Taiwan University of Science and Technology (http://www.ntustmeg.net)"
+    ],
+    "instructional_strategies": [
+      "Situated learning in historical context",
+      "Scaffolding through intelligence clues that guide reasoning rather than rote memorization",
+      "Game-based assessment integrating learning and evaluation",
+      "Immediate feedback on correct/incorrect answers",
+      "Higher-order cognitive thinking promoted through analysis of intelligence clues"
+    ],
+    "content_integration": "The game is set in the context of the Jingnan Campaign, a civil war in the early Ming Dynasty in China. Historical content about the campaign is drawn from a database and presented as short descriptions shouted by generals during the Jiaozhen challenge. Intelligence clues related to the historical content are provided as scaffolding. The pre-post test contained 36 multiple-choice items specifically about Jingnan Campaign history, designed by two history professionals."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Perceived ease of use did not reach the median (M = 2.87), suggesting the game interface/mechanics may be difficult for some learners",
+      "Learners' lack of experience with strategy games may hinder ease of use",
+      "Very limited empirical research on game-based assessment for history instruction"
+    ],
+    "methodology_limitations": [
+      "Small sample size (n = 29)",
+      "No control group (single group pre-post design)",
+      "Short paper with limited methodological detail",
+      "No discussion of effect sizes",
+      "Gender imbalance (18 males, 11 females) though no significant gender differences found",
+      "Participants from a single region (northern Taiwan) limiting generalizability"
+    ],
+    "negative_effects": [
+      "Perceived ease of use below median suggests usability challenges"
+    ],
+    "mitigation_strategies": [
+      "Authors suggest future research to investigate whether game experience influences ease of use",
+      "Authors suggest exploring learners' behavioral patterns during gameplay"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "high",
+      "q1_evidence": "No clear selection criteria described beyond 'college students from northern Taiwan.' No inclusion/exclusion criteria specified. Recruitment method not detailed.",
+      "q2_representativeness": "high",
+      "q2_evidence": "Small convenience sample of 29 students from a single region in Taiwan. No discussion of how participants were selected or whether they are representative of any broader population.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "low",
+      "q3_evidence": "Flow state scale adopted from established instruments (Kiili, 2006; Hou & Chou, 2012) with Cronbach's alpha = 0.91. Technology acceptance model questionnaire based on Davis (1989) with alpha = 0.79. Pre-post test designed by two history professionals with alpha = 0.79.",
+      "q4_analysis_methods": "unclear",
+      "q4_evidence": "Paired t-test, correlation, and regression analysis are appropriate for the design. However, with n = 29, statistical power is limited. No effect sizes reported. The very short paper format limits reporting of analytical details.",
+      "judgment": "Unclear"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "unclear",
+      "q5_evidence": "Results are briefly reported and interpretations are generally consistent with findings. However, the extremely brief format (2 pages) prevents thorough interpretation. Claims about flow state affecting learning are based on modest correlations (r = 0.37-0.39).",
+      "q6_limitations_discussed": "high",
+      "q6_evidence": "Very minimal discussion of limitations. The paper does not explicitly acknowledge the lack of a control group, small sample size, or threats to validity. Only brief suggestions for future research are provided.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "High risk of bias due to: (1) no control group making it impossible to attribute learning gains solely to the game-based assessment; (2) very small sample size (n=29) with convenience sampling; (3) extremely brief paper (2 pages) providing insufficient methodological detail; (4) no discussion of study limitations or threats to validity; (5) no effect sizes reported. While measurement instruments show acceptable reliability, the overall study design and reporting are weak."
+  }
+}

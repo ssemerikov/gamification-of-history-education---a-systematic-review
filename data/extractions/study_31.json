@@ -1,0 +1,112 @@
+{
+  "study_id": 31,
+  "pdf_filename": "Game based technology to enhance the learning of history and cultural heritage.pdf",
+  "bibtex_key": "31DeAmicis2009451",
+  "bibliographic": {
+    "title": "Game based technology to enhance the learning of history and cultural heritage",
+    "authors": [
+      "Raffaele De Amicis",
+      "Gabrio Girardi",
+      "Michele Andreolli",
+      "Giuseppe Conti"
+    ],
+    "year": 2009,
+    "publication_type": "conference_paper",
+    "venue": "ACM Conference on Advances in Computer Entertainment Technology (ACE 2009)",
+    "doi": null,
+    "volume": null,
+    "pages": "451",
+    "publisher": "ACM",
+    "isbn": "978-1-60558-86-5"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Italy"
+    ],
+    "country_of_application": "Italy, Germany, Poland",
+    "education_level": "not_specified",
+    "sample_size": 100,
+    "sample_description": "More than a hundred users with very diverse cultural backgrounds, including families, elderly people, and students",
+    "study_design": "descriptive",
+    "game_type": "vr_ar",
+    "game_name": "NETConnect virtual heritage application",
+    "aim": "To present a game engine-based application where virtual environments and interactions promote learning the history of three European archaeological sites (Lokroi, Glauberg, Biskupin)",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Primarily a system/design description paper with only brief mention of user testing. No formal empirical evaluation reported beyond 'positive feedback' from 100+ users. Borderline for inclusion as it lacks formal outcome measures.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Game technology conceptualized as a means to support the learning process within Cultural Heritage sites through realistic virtual environments, discovery-based exploration of Points of Interest (POIs), and interactive navigation metaphors that amplify the role of discovery in learning.",
+    "theoretical_frameworks": []
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "System tested by more than 100 users with diverse backgrounds; received positive feedback. No formal quantitative or qualitative outcome data reported.",
+    "engagement_results": null
+  },
+  "rq3": {
+    "game_design_elements": [
+      "3D virtual environment exploration",
+      "Hotspot-based Points of Interest (POIs) with multimedia content",
+      "Discovery-based information gathering",
+      "Environmental effects (fog, sky, water, particles)",
+      "Interactive navigation metaphors"
+    ],
+    "technological_platforms": [
+      "Unity3D game engine",
+      "Nintendo Wiimote and Nunchuck controllers",
+      "Web-based deployment (Unity web plugin)",
+      "Standalone application for museum premises"
+    ],
+    "instructional_strategies": [
+      "Discovery-based learning through hotspot exploration",
+      "Multimedia content integration (video, images, 3D models, text)",
+      "Immersive virtual reconstruction of archaeological sites"
+    ],
+    "content_integration": "Three archaeological sites (Lokroi/Magna Graecia in Italy, Glauberg in Germany, Biskupin in Poland) were virtually reconstructed with a video game visual style. Historical information organized as Points of Interest containing multimedia material becomes accessible through exploration and discovery."
+  },
+  "rq4": {
+    "implementation_barriers": [],
+    "methodology_limitations": [
+      "No formal evaluation methodology described",
+      "Only reports 'positive feedback' without quantitative or systematic qualitative data",
+      "Short paper format limits methodological detail"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": []
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "no",
+      "q1_evidence": "No participant selection criteria described. Paper only states 'tested by more than a hundred users with very diverse cultural backgrounds.'",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "Users described as having 'very diverse cultural backgrounds' including 'families, elderly people, students' but no formal sampling strategy described.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "no",
+      "q3_evidence": "No data collection instruments described. Paper only mentions 'positive feedback' without specifying how feedback was collected or measured.",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "No data analysis methods described. Results limited to a single sentence about positive feedback.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "unclear",
+      "q5_evidence": "The claim of 'positive feedback' cannot be verified as no data is presented to support it.",
+      "q6_limitations_discussed": "no",
+      "q6_evidence": "No limitations of the study or system evaluation are discussed.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "High risk across all three domains due to absence of formal evaluation methodology, no participant selection criteria, no validated data collection tools, no described analysis methods, and no discussion of limitations."
+  }
+}

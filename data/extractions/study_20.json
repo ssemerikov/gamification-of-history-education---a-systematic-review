@@ -1,0 +1,143 @@
+{
+  "study_id": 20,
+  "pdf_filename": "Designing Computer Simulation Game for Learning the History of the Kingdom of Majapahit.pdf",
+  "bibtex_key": "20Erandaru2014",
+  "bibliographic": {
+    "title": "Designing Computer Simulation Game for Learning the History of the Kingdom of Majapahit",
+    "authors": [
+      "Erandaru",
+      "Liliana",
+      "Silvia Rostianingsih"
+    ],
+    "year": 2014,
+    "publication_type": "conference paper",
+    "venue": "Conference (exact venue not specified in paper; published November 2014)",
+    "doi": null,
+    "volume": null,
+    "pages": null,
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "Indonesia"
+    ],
+    "country_of_application": "Indonesia",
+    "education_level": "Primary/secondary education (Indonesian curriculum context; game also designed with undergraduate student involvement)",
+    "sample_size": null,
+    "sample_description": "No empirical evaluation with participants was conducted. Undergraduate students at Universitas Kristen Petra served as visual artists creating game assets, but no formal user study or testing with learners is reported.",
+    "study_design": "Design-based research (game design and development, first stage only; no empirical evaluation)",
+    "game_type": "Computer simulation/strategy game (turn-based education-strategy hybrid)",
+    "game_name": "Unnamed Majapahit simulation game (no formal title given)",
+    "aim": "To design a computer simulation game for learning the history of the Kingdom of Majapahit (13th-14th century Java, Indonesia), using archaeological studies to create historically accurate visual reconstructions and gameplay scenarios based on real historical events.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is a design paper (stage 1 of a two-stage project) describing game concept, design methodology, and asset creation. No empirical evaluation of learning outcomes or user testing with students is reported. The second stage (prototype development and evaluation) was planned but not yet completed at time of publication.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Computer games are conceptualized as an e-learning tool that can build student interest in history by providing intriguing facts as narrative merged within gameplay, engaging students with imaginative virtual worlds and simulation of real-world environments and hypothetical situations. The game is positioned as a supplementary learning tool to be used beyond the classroom, enabling students to voluntarily add study time through multitasking (learning while playing). The authors draw on Gee's five principles of game-based learning (active and creative learning, design learning, semiotic learning, semiotic domains, and metalevel thinking) and Francis's four models for game-based learning (situated learning in virtual environments, overt instructions and reflective discussions, practical media production, and critical framing).",
+    "theoretical_frameworks": [
+      "Gee's five basic principles of learning in games (active and creative learning, design learning, semiotic learning, semiotic domains, learning metalevel thinking of semiotic domains)",
+      "Francis's four models for game-based learning in formal education (situated learning in virtual environment, overt instructions and reflective discussions, practical media production, critical framing)",
+      "Gentile's perspective on video games designed for learning purposes",
+      "Benjamin's concept of authenticity in relation to time and space"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": null,
+    "statistical_results": null,
+    "comparative_methodology": null,
+    "key_outcomes": "No empirical evaluation was conducted. The paper presents a design-phase project only. Expected outcomes described conceptually include: increased student interest in Majapahit history, ability to challenge known conceptions through experimentation and observation, emotional engagement with historical narrative, development of analytical thinking through strategy gameplay, and providing students with a different perspective compared to course books.",
+    "engagement_results": null
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Turn-based strategy gameplay with AI opponent",
+      "Historical narrative structure divided into 3 dramatic stages (Beginning: 1292-1319 AD, Golden Era: 1320-1389 AD, Fall: 1390-1406 AD)",
+      "Two levels of play (global strategic map level for territorial expansion via military/diplomacy, and tactical battle level for military engagements)",
+      "Player choice between military conquest and diplomatic agreement strategies",
+      "Archaeologically-based visual reconstruction of characters, environments, and architecture",
+      "Main and supporting character classifications (narrative: protagonist/antagonist; gameplay: playable/NPC)",
+      "Character visual design based on archaeological artifacts, relief carvings, statues, and historical records",
+      "Game environments based on archaeological research (natural and man-made environments)",
+      "Multiple architectural styles (old Javanese, old Majapahit, new Majapahit)",
+      "Infographics, images (still and moving), text, and UI as visual elements",
+      "Narrative-driven gameplay providing context and motivation for player actions"
+    ],
+    "technological_platforms": [
+      "Computer (PC) platform",
+      "3D modeling for game characters and environments"
+    ],
+    "instructional_strategies": [
+      "Experience-based learning through gameplay (analyze challenges, devise strategies, test, implement, draw conclusions)",
+      "Virtual reconstruction for observational learning of historically accurate environments",
+      "Narrative-driven learning transforming historical facts into interactive story",
+      "Simulation of historical events with variable outcomes encouraging experimentation",
+      "Strategy-based problem solving requiring analysis and critical thinking",
+      "Situated learning in virtual environment (Francis model)",
+      "Critical framing through historical scenario engagement"
+    ],
+    "content_integration": "Historical content is deeply integrated into both gameplay mechanics and visual design. The game narrative follows the actual chronological history of Majapahit (1292-1406 AD). Game scenarios are based on real historical events, territorial maps reflect actual kingdom boundaries from archaeological research, character designs are based on archaeological studies of carvings, relief, statues, and historical records (clothing, fashion, social stratification). Building architecture follows documented old Javanese, old Majapahit, and new Majapahit styles. Natural environments are based on present-day Trowulan geography. The game allows alternative historical outcomes through player choices while maintaining relevance to historical facts."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Time constraints of formal education system make classroom integration of computer games difficult (50 minutes to 1 hour standard class duration is insufficient)",
+      "Commercial games not designed for classroom time frames",
+      "Game can only be applied beyond the classroom as supplementary learning",
+      "Difficulty implementing emotional-approach-based learning within the mechanized structure of formal education",
+      "Incomplete historical records of Majapahit require subjective interpretation to fill gaps",
+      "Authenticity cannot be fully achieved due to temporal distance (Benjamin's concept) \u2014 players cannot truly experience the past"
+    ],
+    "methodology_limitations": [
+      "Paper presents only the first stage (design); no prototype evaluation or empirical testing conducted",
+      "Visual reconstruction relies on fragmentary archaeological evidence requiring subjective interpretation",
+      "Facial features of characters based on illustrator's subjective preferences rather than archaeological evidence",
+      "Source references rarely found intact, requiring degrees of subjective interpretation",
+      "No complete historical document of Majapahit exists to validate accuracy",
+      "Second level of gameplay (battle mode) was still under development at time of writing"
+    ],
+    "negative_effects": [
+      "Research indicates gameplay with excessive violence and/or distorted gender representation can negatively affect player behavior, especially at early age (cited from Gentile)",
+      "Commercial games do not provide means for players to reflect on learning activities \u2014 players become too focused on play",
+      "Virtual reconstruction may not provide enough room for imagination"
+    ],
+    "mitigation_strategies": [
+      "Designing gameplay specifically for learning purposes rather than using commercial games",
+      "Integrating Francis's four models (situated learning, overt instructions/reflective discussions, practical media production, critical framing) to maintain educational relevance",
+      "Using archaeological studies as basis for visual design to maintain historical accuracy",
+      "Guiding players' perception to remain relevant with historical facts through narrative and visual stimuli",
+      "Positioning game as beyond-classroom supplement rather than trying to fit within class time constraints"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "No empirical study was conducted; there is no participant selection, sampling, or eligibility criteria described. The paper is purely a game design description.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "No sample of participants was studied. Undergraduate students were involved as visual artists for asset creation, but there is no learner evaluation sample.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "No measurement instruments or data collection tools were used. No assessment of learning outcomes, engagement, or usability was conducted.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "No data analysis was performed. The paper presents design rationale and game concept without any empirical data or systematic analysis of effectiveness.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "High concern",
+      "q5_evidence": "Claims about the game's potential benefits (increasing interest, emotional engagement, analytical thinking) are speculative and not supported by empirical evidence. Conclusions are aspirational rather than evidence-based.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "The paper does acknowledge several limitations: difficulty of integrating games in formal education time constraints, incompleteness of historical records requiring subjective interpretation, the inherent impossibility of achieving full historical authenticity, and the need for further research on implementation within formal education.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "This is a design-phase paper presenting game concept, methodology, and visual asset development for a Majapahit history simulation game. No empirical evaluation, user testing, or learning outcome assessment was conducted. All claims about educational benefits are theoretical/aspirational. The study represents Stage 1 of a two-stage project, with the evaluation stage (Stage 2) not yet completed. While the design rationale is well-articulated and grounded in educational game design theory (Gee, Francis, Gentile), the absence of any empirical evidence makes the risk of bias for any effectiveness claims very high."
+  }
+}

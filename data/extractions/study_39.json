@@ -1,0 +1,136 @@
+{
+  "study_id": 39,
+  "pdf_filename": "HistoryLand: a Serious Game for History Learning in Primary Education.pdf",
+  "bibtex_key": "39Tegos2014838",
+  "bibliographic": {
+    "title": "HistoryLand: a Serious Game for History Learning in Primary Education",
+    "authors": [
+      "Stergios Tegos",
+      "Maria Kioumousidou",
+      "Maria Vavami",
+      "Dimitra Kioutsiouki",
+      "Dimitris Gkoumas",
+      "Thrasyvoulos Tsiatsos"
+    ],
+    "year": 2014,
+    "publication_type": "conference paper",
+    "venue": "Unknown (conference/workshop proceedings)",
+    "doi": null,
+    "volume": null,
+    "pages": "838-843",
+    "publisher": null
+  },
+  "study_characteristics": {
+    "countries": [
+      "Greece"
+    ],
+    "country_of_application": "Greece",
+    "education_level": "Primary education (5th grade, ages 11-12)",
+    "sample_size": 34,
+    "sample_description": "34 fifth-grade Greek students (15 males and 19 females) aged 11 to 12 years old, from a primary school class on Modern History",
+    "study_design": "One-shot pre-post questionnaire study (no control group)",
+    "game_type": "Serious game (online, web-based)",
+    "game_name": "HistoryLand",
+    "aim": "To explore the impact of the HistoryLand game on students' immersion, collaboration, knowledge improvement, and enjoyment when used as a complementary tool for teaching Modern History in Greek primary education",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "Short pilot study with no control group; one-shot design raises novelty effect concerns acknowledged by the authors; prototype game (work-in-progress)",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study frames HistoryLand as a 'serious game' for game-based learning, designed as a complementary tool for teaching Modern History. It follows the model for serious educational games proposed by Annetta (2010). The game combines individual card-collection gameplay with collaborative story composition, integrating a conversational agent for scaffolding discussions. The conceptualization positions games as motivating and engaging learning environments that complement traditional instruction rather than replacing it.",
+    "theoretical_frameworks": [
+      "Annetta (2010) framework for serious educational game design",
+      "Game-based learning theory (Prensky 2005; Van Eck 2006)",
+      "Collaborative learning (dyad-based story composition with conversational agent scaffolding)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Likert-scale questionnaires (1-5) measuring four dimensions: Enjoyment (Cronbach alpha=0.893, M=4.41, SD=0.37), Immersion (Cronbach alpha=0.813, M=4.18, SD=0.64), Collaboration (Cronbach alpha=0.947, M=4.73, SD=0.67), and Knowledge improvement (Cronbach alpha=0.903, M=4.59, SD=0.26). Pre-post comparison using Wilcoxon Signed-ranks tests and Spearman rank correlation coefficients.",
+    "statistical_results": "Three significant pre-post differences: (1) Pedagogical value of computer-based activities: Z=-1.97, p=0.04, r=-0.24 (pre M=2.84, SD=1.46; post M=3.41, SD=1.42); (2) Concentration levels/distraction: Z=-2.61, p=0.00, r=-0.32 (game M=2.38, SD=1.59 vs typical lesson M=3.25, SD=1.52); (3) Preference for group work: Z=-3.57, p=0.00, r=-0.43 (pre M=3.65, SD=1.54; post M=4.65, SD=0.92). Significant correlations: immersion-enjoyment r=0.914, p=0.000; immersion-knowledge improvement r=0.793, p=0.000; collaboration-knowledge improvement r=0.887, p=0.000.",
+    "comparative_methodology": "Pre-post questionnaire comparison using Wilcoxon Signed-ranks test (non-parametric, as normality and homogeneity of variance criteria were not satisfied). No control group comparison.",
+    "key_outcomes": "Students perceived the game favorably across all four dimensions (enjoyment, immersion, collaboration, knowledge improvement), with all mean scores above 4.0 on a 5-point scale. Students rated computer-supported learning activities as significantly more useful after playing the game. Distraction levels during the game were significantly lower than during typical History lessons. Preference for collaborative group work significantly increased after the game activity.",
+    "engagement_results": "Enjoyment M=4.41 (SD=0.37); Immersion M=4.18 (SD=0.64); students felt highly involved in the game (M=4.85, SD=0.49); forgot about time passing (M=4.73, SD=0.78); the game grabbed attention (M=4.76, SD=0.76)"
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Item card collection mechanics (historical facts/figures on cards)",
+      "Three progressive levels representing historical periods (Balkan Wars, WWI, WWII)",
+      "Lives system (three chances per level to find the correct card)",
+      "Dynamic scoring based on number of mistakes",
+      "Collaborative story composition phase (dyads combining collected cards)",
+      "Conversational agent providing guidance and scaffolding discussions",
+      "Avatar-based interface with themed game environment"
+    ],
+    "technological_platforms": [
+      "Web-based (HTML5, CSS3, JavaScript, MySQL)",
+      "Online game deployed in school computer lab"
+    ],
+    "instructional_strategies": [
+      "Individual gameplay phase followed by collaborative phase",
+      "Card identification requiring historical period discrimination (finding irrelevant card)",
+      "Collaborative story writing about a historical event (Asia Minor Campaign)",
+      "Scaffolded peer discussion via conversational agent",
+      "Game as complement to traditional classroom instruction (not replacement)",
+      "Integration with existing curriculum (Modern History course content)"
+    ],
+    "content_integration": "The game content is directly integrated with the Greek primary school Modern History curriculum. Three levels cover the Balkan Wars, World War I, and World War II. The collaborative phase focuses on the Asia Minor Campaign (1922). Students must apply prior classroom knowledge to identify cards and compose historically accurate stories, reinforcing content discussed in class."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Prototype/work-in-progress status of the game limits generalizability",
+      "Limited game content covering only select historical periods",
+      "Requirement for school computer lab infrastructure",
+      "One-shot study design constraining evidence strength"
+    ],
+    "methodology_limitations": [
+      "No control group for comparison",
+      "Small sample size (N=34) from a single class",
+      "One-shot design (single 90-minute session) does not allow assessment of long-term effects",
+      "Self-reported questionnaire data only (no objective learning outcome measures such as test scores)",
+      "Potential novelty effect acknowledged by authors",
+      "Non-parametric statistics needed due to violation of normality and homogeneity of variance assumptions"
+    ],
+    "negative_effects": [
+      "Some students reported distraction during game play (M=3.82, SD=1.54 for 'I cannot recall any distraction')",
+      "Variable awareness of surroundings during immersion (M=3.35, SD=1.59)",
+      "Potential novelty effect may inflate positive perceptions"
+    ],
+    "mitigation_strategies": [
+      "Authors plan to conduct a more robustly designed in-depth study over an extended period to address novelty effect concerns",
+      "Future work planned to extend analysis of conversational agent effectiveness",
+      "Plans to enrich game content to include more historical periods"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "No explicit inclusion/exclusion criteria for participants. All students from a single primary school class were included (convenience sampling). No information about how or why this particular class was selected.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Sample of 34 students from a single Greek primary school class. No discussion of representativeness. Single school, single class, single country limits generalizability significantly.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "Some concerns",
+      "q3_evidence": "Pre- and post-task questionnaires with Likert scales. Internal consistency reported for post-task dimensions (Cronbach alpha ranging 0.813-0.947, all acceptable). However, no validated instrument cited; questionnaire based on Sisson (2011) for comparison dimensions. No objective learning measures (e.g., knowledge tests) used.",
+      "q4_analysis_methods": "Some concerns",
+      "q4_evidence": "Appropriate non-parametric statistics used (Wilcoxon Signed-ranks test, Spearman correlation) given violated normality assumptions. Descriptive statistics reported. However, analysis relies entirely on self-report data with no triangulation from objective measures. Effect sizes reported (r values).",
+      "judgment": "Moderate"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Some concerns",
+      "q5_evidence": "Conclusions are generally consistent with the data presented. Authors appropriately describe findings as 'preliminary' and 'pilot'. However, some conclusions about knowledge improvement are based solely on self-report rather than measured learning outcomes.",
+      "q6_limitations_discussed": "Low concern",
+      "q6_evidence": "Authors explicitly acknowledge the novelty effect concern, the need for a more robustly designed study, and the preliminary nature of their findings. They outline concrete plans for future research to address limitations.",
+      "judgment": "Moderate"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high risk of bias primarily due to its study design (one-shot pilot with no control group, convenience sample of 34 students from a single class). While the questionnaire instruments show acceptable reliability and appropriate non-parametric statistics are used, the reliance entirely on self-report measures without objective learning assessments, combined with the small convenience sample and single-session design susceptible to novelty effects, contribute to an overall high risk of bias. The authors commendably acknowledge these limitations."
+  }
+}

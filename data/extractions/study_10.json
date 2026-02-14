@@ -1,0 +1,124 @@
+{
+  "study_id": 10,
+  "pdf_filename": "Application of Virtual Reality and Gamification in the Teaching of Art History.pdf",
+  "bibtex_key": "10Huaman2019220",
+  "bibliographic": {
+    "title": "Application of Virtual Reality and Gamification in the Teaching of Art History",
+    "authors": [
+      "Evelyn Marilyn Riveros Huaman",
+      "Roni Guillermo Apaza Aceituno",
+      "Olha Sharhorodska"
+    ],
+    "year": 2019,
+    "publication_type": "conference paper",
+    "venue": "HCI International 2019 (HCII 2019), Learning and Collaboration Technologies (LNCS 11591)",
+    "doi": "10.1007/978-3-030-21817-1_17",
+    "volume": "11591",
+    "pages": "220-229",
+    "publisher": "Springer Nature Switzerland AG"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Peru"
+    ],
+    "country_of_application": "Peru",
+    "education_level": "Higher education (university-level art students, ages 17-22)",
+    "sample_size": 15,
+    "sample_description": "15 higher education students (ages 17-22, 60% male, 40% female) studying Painting at the top-level, at Universidad Nacional de San Agustin de Arequipa; all had prior gaming experience with virtual reality and other types",
+    "study_design": "Single-group post-test only (user elicitation study with questionnaire-based evaluation)",
+    "game_type": "Virtual reality educational game (virtual museum with gamification elements)",
+    "game_name": "Virtual museum VLE (unnamed prototype built in Unity3D)",
+    "aim": "To implement a virtual reality game using gamification elements to improve the teaching of Art History by simulating a virtual museum with predefined stages exposing works from different artistic currents",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study focuses on Art History rather than general history education; the gamification elements are not deeply specified beyond scoring and stage progression; the study uses a very small sample (n=15) with no control group and only post-test measures",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "Gamification is implicitly conceptualized as the use of video game elements (scores, stages, interactive challenges) applied to a virtual learning environment to enhance educational engagement and motivation. The paper mentions 'gamification by elements of video games' and references 'principles of gamification' from prior literature but does not provide a formal definition.",
+    "theoretical_frameworks": [
+      "No explicit theoretical framework cited; references prior work on gamification principles for collaborative learning in engineering education (Gasca-Hurtado et al. 2015)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Two questionnaires evaluated: (1) Usability of Virtual Reality (11 criteria, Likert-type scale, means ranging from 3.47 to 4.20 on a 5-point scale), (2) Virtual Learning Environment (11 criteria, means ranging from 1.67 to 2.27 on what appears to be a lower scale). Cronbach's Alpha = 0.753 for the instrument. Coefficient of Variation computed for all criteria. Correlation matrices computed for both instruments.",
+    "statistical_results": "Cronbach's Alpha = 0.753 (acceptable internal consistency). VR Usability: highest mean scores for Application ease of use (4.20) and Realism (4.13); lowest for Organization (3.47). CV for VR usability ranged from 0.099 to 0.192 (good, under 20%). VLE evaluation: highest mean for Easy manipulation (2.27) and Learning (2.13); lowest for Utility (1.67). CV for VLE ranged from 0.12 to 0.43. Strongest correlations in VR usability: Task-Navigation (0.715), Navigation-Movement (0.717). No significant correlations found in VLE evaluation.",
+    "comparative_methodology": null,
+    "key_outcomes": "Students achieved good interaction with the application; the VR usability was rated positively with means mostly above 3.5 on a 5-point scale; the application improved learning in Art History and motivated students; strong correlations found between task completion, navigation, and movement in VR usability; no single dominant variable in VLE evaluation",
+    "engagement_results": "Students reported positive interaction with the virtual museum; motivation in learning scored a mean of 1.87 (on VLE scale); satisfaction scored 2.07; sense of belonging in the virtual environment scored 1.93; intention to use the application scored 1.93. The authors concluded the application achieved 'more active learning'."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Scores/points (displayed at end of tour through chambers)",
+      "Predefined stages/levels (5 rooms representing different artistic currents)",
+      "Exploration and navigation through virtual museum chambers",
+      "Interactive objects (paintings, sculptures, characters, animations, sounds)",
+      "Progress tracking through room completion"
+    ],
+    "technological_platforms": [
+      "Unity3D (virtual reality development engine)",
+      "Desktop PC (computer-based VR, not head-mounted display)"
+    ],
+    "instructional_strategies": [
+      "Virtual museum simulation with thematic rooms (Surrealism, Impressionism, Symbolism, Abstract art, Sculptures)",
+      "Self-paced exploration of artistic currents and their representative works",
+      "Interactive simulation allowing students to interact with objects, characters, animations, and sounds",
+      "Brief pre-experiment training on application characteristics and interaction possibilities"
+    ],
+    "content_integration": "Art History content was integrated through 5 themed museum rooms: 4 rooms for painting movements (Surrealism, Impressionism, Symbolism, Abstract art) each containing 4 paintings with their main representations, and a 5th room exposing representative sculptures from different authors. Each room provided contextual information about the artistic current and its works."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Small sample size (only 15 students) limiting generalizability",
+      "Students presented certain difficulties during interaction, though these were overcome",
+      "Application limited to desktop PC VR (no head-mounted display integration)"
+    ],
+    "methodology_limitations": [
+      "No control group or pre-test/post-test design",
+      "Very small sample (n=15) with no power analysis",
+      "No standardized learning assessment; only usability and perception questionnaires",
+      "VLE evaluation scale appears to use a different (smaller) scale than VR usability, but this is not clearly documented",
+      "No significant correlations found in the VLE evaluation, suggesting weak relationships between measured variables",
+      "Coefficient of variation for some VLE criteria exceeded 40% (Utility: 0.43, Ease: 0.41), indicating high variability in responses"
+    ],
+    "negative_effects": [
+      "Some disadvantages noted in the application (not specified in detail by authors)",
+      "Students presented certain difficulties during initial interaction with the application"
+    ],
+    "mitigation_strategies": [
+      "Brief pre-experiment training provided to students on application characteristics and interaction possibilities",
+      "Future work proposed to add new rooms with current artists and integrate augmented reality technology to improve interaction"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "No clear inclusion/exclusion criteria for participant selection. The study states 15 students from a Painting program participated but does not explain how they were selected or recruited. Convenience sampling is implied.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Sample of only 15 art students from a single university in Peru (Universidad Nacional de San Agustin de Arequipa). Very limited demographic diversity (ages 17-22, single institution, single discipline). Not representative of broader higher education populations.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "Two questionnaires were used but their validation is not clearly established. The authors cite prior works for the questionnaire design but do not report on the questionnaires' psychometric properties beyond Cronbach's Alpha (0.753). The VLE evaluation appears to use a different scale than VR usability, but this is not documented. No standardized learning outcome measures were used.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Only descriptive statistics (means, standard deviations, coefficient of variation) and correlation matrices were computed. No inferential statistics, no hypothesis testing, no effect sizes reported. No pre-test/post-test comparison. The claim of 'improved learning' is not supported by comparative data. The coefficient of variation analysis is basic and the interpretation is simplistic.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "High concern",
+      "q5_evidence": "The conclusions claim the application 'improved the learning' and achieved 'more active learning' but these claims are not supported by the data presented (no learning assessment, no comparison group, no pre/post measures). The paper overstates findings from descriptive usability data.",
+      "q6_limitations_discussed": "High concern",
+      "q6_evidence": "No explicit limitations section is provided. The conclusions briefly mention 'certain difficulties' and 'some disadvantages' but do not discuss methodological limitations such as the lack of a control group, small sample size, or absence of learning outcome measures.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high risk of bias across all domains. It uses a very small convenience sample (n=15) with no control group and no pre-test/post-test design. There are no standardized learning assessments, only perception questionnaires. The statistical analysis is limited to descriptive statistics and correlations with no inferential testing. The conclusions overstate the findings by claiming learning improvement without supporting comparative evidence. Methodological limitations are not discussed."
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "study_id": 47,
+  "pdf_filename": "Learning Chinese History through Digital Game.pdf",
+  "bibtex_key": "47Clara2010156",
+  "bibliographic": {
+    "title": "Learning Chinese History through Digital Game",
+    "authors": [
+      "Hui Chung Yan, Clara",
+      "Frankie Tam"
+    ],
+    "year": 2010,
+    "publication_type": "conference paper",
+    "venue": "2010 IEEE International Conference on Digital Game and Intelligent Toy Enhanced Learning (DIGITEL)",
+    "doi": "10.1109/DIGITEL.2010.49",
+    "volume": null,
+    "pages": "156-160",
+    "publisher": "IEEE"
+  },
+  "study_characteristics": {
+    "countries": [
+      "China (Hong Kong)"
+    ],
+    "country_of_application": "China (Hong Kong)",
+    "education_level": "Secondary school",
+    "sample_size": 428,
+    "sample_description": "428 secondary school students (58% male, 42% female; 90% aged 12-14, 10% aged 15-18) and their teachers from 3 secondary schools in Hong Kong who used the game as a teaching tool. An additional preliminary survey of 40 students (37 males, 3 females aged 15-20) was also conducted.",
+    "study_design": "Case study with survey-based evaluation",
+    "game_type": "Digital strategy/simulation game (web-based)",
+    "game_name": "Mongolian Conquests",
+    "aim": "To present a case study of digital game-based learning in a history class, examining how a digital game about the three Mongolian conquests is designed, produced, applied in the classroom, and what impacts and feedback teachers and students provide.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "The study uses descriptive survey data without a control group or statistical testing. The methodology is relatively informal for a research study.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The authors conceptualize digital game-based learning as using digital games as effective tools for 21st century education. They frame digital games as transforming traditional classrooms into constructivist environments that produce improved skills in question formulating, hypothesis generation, and problem solving. Games are seen as matching the learning characteristics of the new generation: speed, parallel information processing, active engagement, quick adaptation, problem solving, and immediate reward.",
+    "theoretical_frameworks": [
+      "Constructivism",
+      "Digital game-based learning (Prensky)",
+      "21st century learning skills"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Survey responses from 428 students: 83% liked the game; 74% said the game gave them better learning motivation; 70% reported they learned history from the game; 81% liked the game-based learning approach; 62% thought computer games are a good way to learn. Play count data: full version played 6336 times; 1st conquest 1329 times; 2nd conquest 395 times; 3rd conquest 353 times.",
+    "statistical_results": "Descriptive statistics only (percentages from survey responses). No inferential statistical tests were performed.",
+    "comparative_methodology": null,
+    "key_outcomes": "Students reported positive perceptions of game-based learning for history. The majority felt the game improved their learning motivation (74%), that they learned history content from the game (70%), and that they liked this game-based learning approach (81%). Teachers reported positive changes in students' learning attitudes, noting students were more interested and concentrated in class. Teachers indicated they would continue adopting the game-based approach.",
+    "engagement_results": "83% of students liked the game. Students commented that 'it attracts me to play', 'it is nice to learn in a happy way', 'we like games, so education mixing games is good', and 'it is easier for me to learn through games'. Teachers observed students were more interested and concentrated during lessons. The game was played over 6336 times in one year on the HKEdCity platform."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Strategy-based gameplay (army building, recruiting soldiers, feeding, training, assigning tasks)",
+      "Historical narrative integration (three Mongolian conquests)",
+      "Role-playing as army commander",
+      "Save game feature for continuity across sessions",
+      "Supplementary after-game historical materials",
+      "Multiple conquest levels/scenarios",
+      "Interactive battle gameplay"
+    ],
+    "technological_platforms": [
+      "Web-based game hosted on HKEdCity (www.hkedcity.net)",
+      "Supplementary website with background information and teaching plans",
+      "Computer room deployment (one computer per student)"
+    ],
+    "instructional_strategies": [
+      "Teacher-game designer collaboration for content alignment",
+      "15-20 minute game sessions per lesson",
+      "Post-game teacher-led recap and debriefing",
+      "Student discussion of in-game experiences",
+      "Supplementary historical reading materials",
+      "Suggested teaching plans for teachers",
+      "Reflective questions and activities for after-game discussions",
+      "After-game assessment and reinforcement"
+    ],
+    "content_integration": "Historical content about the three Mongolian conquests is integrated directly into the game flow. Players build armies based on real Chinese and Western history. Historical information about the Mongolian conquests is brought up during gameplay according to the game narrative. A supplementary website provides detailed historical background, people, and places involved in the conquests. Teachers provided the content information which game designers and programmers then implemented into the game mechanics."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "History curriculum syllabus does not cover all historical content teachers wish to share",
+      "Traditional classroom methods (read from textbook) fail to engage students",
+      "Need for computer room with one computer per student",
+      "Technical support requirements for schools",
+      "One-year production period needed for game development",
+      "Funding requirements (Incentive Scheme for Developing Instructional Software from HKSAR Education Bureau)"
+    ],
+    "methodology_limitations": [
+      "No control group or comparison condition",
+      "Survey-based evaluation only with no pre/post testing",
+      "No inferential statistics or rigorous quantitative analysis",
+      "Self-reported data only from students and teachers",
+      "Small number of participating schools (3 secondary schools)",
+      "Authors acknowledge that more detailed and formal researches are needed",
+      "Preliminary survey had unbalanced gender ratio (37 males, 3 females out of 40)"
+    ],
+    "negative_effects": [
+      "17% of students reported they did not learn history from the game",
+      "13% of students were not sure if they learned history from the game",
+      "After-game assessment and reinforcement found to be essential, suggesting learning does not occur automatically from play alone",
+      "Drop-off in play counts across conquests (6336 full, 1329 first, 395 second, 353 third) suggests declining engagement"
+    ],
+    "mitigation_strategies": [
+      "Teacher-led recap and debriefing after each game session to reinforce learning",
+      "After-game assessment and reinforcement to strengthen memory",
+      "Supplementary historical reading materials provided alongside the game",
+      "Reflective questions and activities for post-game discussions",
+      "Free technical support provided to schools",
+      "Game made freely available on educational platform (HKEdCity)"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "No explicit eligibility or selection criteria described for the participating schools or students. The 3 secondary schools appear to have been selected based on convenience (teachers who co-operated with the authors). The preliminary survey sample of 40 had highly unbalanced gender representation (37 males, 3 females).",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Only 3 secondary schools in Hong Kong participated. No discussion of how representative these schools are of the broader population. The sample is limited to Hong Kong, making generalizability limited.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "The survey instrument is not described in detail and there is no mention of validation or reliability testing. Questions appear to be simple yes/no/not sure format, which limits the depth of data collected. No standardized learning outcome measures were used.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Analysis consists only of descriptive percentages from survey responses. No inferential statistical analysis was performed. No pre-post comparison, no control group. The authors acknowledge the need for more detailed and formal research.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Some concern",
+      "q5_evidence": "The interpretations generally align with the survey data presented, though the authors tend to emphasize positive findings. The declining play counts across conquest levels are not discussed as a potential concern. The authors appropriately note that after-game assessment is essential for learning.",
+      "q6_limitations_discussed": "Some concern",
+      "q6_evidence": "The authors acknowledge that 'more detailed and formal researches are needed in this area' but do not provide a systematic discussion of limitations. There is no explicit limitations section. Potential biases in self-reported data are not discussed.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study presents a case study with significant methodological limitations: no control group, no standardized outcome measures, no inferential statistics, convenience sampling of only 3 schools, and reliance entirely on self-reported survey data with simple yes/no/not sure questions. While it provides useful descriptive insights into a game-based learning implementation for Chinese history, the evidence quality is limited by the informal research design. The authors themselves acknowledge the need for more rigorous research."
+  }
+}

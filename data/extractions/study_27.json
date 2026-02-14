@@ -1,0 +1,141 @@
+{
+  "study_id": 27,
+  "pdf_filename": "Experiences of Game-Based Learning and Reviewing History of the Experience Using Player's Emotions.pdf",
+  "bibtex_key": "27Sumi2022",
+  "bibliographic": {
+    "title": "Experiences of Game-Based Learning and Reviewing History of the Experience Using Player's Emotions",
+    "authors": [
+      "Kaoru Sumi",
+      "Shusuke Sato"
+    ],
+    "year": 2022,
+    "publication_type": "journal article",
+    "venue": "Frontiers in Artificial Intelligence",
+    "doi": "10.3389/frai.2022.874106",
+    "volume": "5",
+    "pages": "874106",
+    "publisher": "Frontiers Media"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Japan"
+    ],
+    "country_of_application": "Japan",
+    "education_level": "higher education (university)",
+    "sample_size": 18,
+    "sample_description": "18 male university students majoring in computer science, ages 22-25, from Future University Hakodate, none familiar with equivalent systems",
+    "study_design": "pilot experimental study with questionnaire and semantic differential (SD) method evaluation",
+    "game_type": "custom game-based experiential learning system with automatic story generation in virtual space",
+    "game_name": "Game-Based Story Generation System Using Player's Emotions (custom prototype)",
+    "aim": "To examine whether the history of a learning experience containing action and emotion information is useful for review of the experience in game-based learning using virtual space, and to evaluate the generated stories' fun, operability, and future usefulness",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": false,
+    "concerns": "This study is NOT about history education. The word 'history' in the title refers to the operational/action history (log of player actions and emotions over time) during a game-based learning experience, not to history as a school subject. The game involves using a 'magical tool' to extract objects from a desk and vending machine in a virtual office environment. There is no historical content, no history curriculum, and no history learning objectives. The study focuses on experiential learning review through emotion-annotated action logs, which is a general game-based learning / affective computing study.",
+    "is_history_education": false,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes game-based learning as a method of learning while playing a game, referencing Kapp (2012) and Plass et al. (2020). The system combines game-based experiential learning with automatic story generation. The 'game' involves using a virtual magical tool in a virtual office space with Oculus Touch controllers while the system captures real-time facial emotions and generates narrative scripts based on the player's actions and emotions. The focus is on experiential learning and reflection through reviewing action-emotion histories, not on gamification of history education.",
+    "theoretical_frameworks": [
+      "Game-based learning (Kapp 2012; Plass et al. 2020)",
+      "Affective computing / emotion recognition via FACS (Ekman and Friesen 1977)",
+      "Emotional memory research (Brierley et al. 2007; Ferre et al. 2015; Schmidt 2012)",
+      "Experiential learning through virtual spaces",
+      "Automatic story/narrative generation"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Questionnaire items scored on 5-point Likert scale (1=strongly disagree to 5=strongly agree); SD method scored on 7-point scale (-3 to +3); Univariate chi-square tests on questionnaire responses; Factor analysis (ProMax rotation, unweighted least-squares method) on SD method results using IBM SPSS Statistics 25",
+    "statistical_results": "Q1 Story is interesting: chi2=20.89, df=4, p<0.05 (66% agree/strongly agree); Q3 Scene imagination with emotion: chi2=14.22, df=1, p<0.05 (94% preferred emotion-inclusive stories); Q6 Easy to make story: chi2=12.67, df=3, p<0.05 (89% agree/strongly agree); Q7 Story from own actions: chi2=21.56, df=3, p<0.05 (83% agree/strongly agree); Q8 Want to make story again: chi2=9.00, df=2, p<0.05 (83% agree/strongly agree); Q9 Want story in another situation: chi2=13.00, df=2, p<0.05 (94% agree/strongly agree). Three factors extracted from SD method: non-immersivity (31.0%), non-novelty (15.4%), narrativity (10.4%), cumulative 56.9%",
+    "comparative_methodology": "Comparison between stories with emotion information vs. stories without emotion information (Q3 item), showing 94% preference for emotion-inclusive stories",
+    "key_outcomes": "Subjects found the generated stories interesting because they were based on the player's experience and included behavioral history and emotions. 94% of subjects found that stories with emotion information gave better scene imagination than stories without. The system was considered easy to use for story creation. Three narrative quality factors were identified: non-immersivity (the virtual space lacked immersion), non-novelty (the office setting lacked novelty), and narrativity (stories had natural flow and consistency). Historical information including real-time actions and emotions was considered useful for review in learning.",
+    "engagement_results": "High engagement reported: 83% wanted to make a story again (Q8), 94% wanted to try another virtual space situation (Q9). SD method showed 'funny', 'dynamic', 'unique', and 'active' impressions were high, suggesting the experiential learning experience was enjoyable. Free responses included 'It was interesting that my actions were written and read objectively' and 'It was fun to look back on my actions'."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Emotion-based story generation (real-time facial emotion recognition affecting narrative output)",
+      "Virtual space exploration (office and break room environment)",
+      "Interactive objects with emotion-dependent outcomes (desk and vending machine yield different items based on detected emotion)",
+      "Magical tool mechanic (black circle paper enabling extraction of objects)",
+      "Multiple story endings (three branching conditions)",
+      "Dramatic narrative structure (introduction, player-driven middle, system-provided ending)",
+      "Action-emotion history log as learning review tool",
+      "First-person viewpoint experience"
+    ],
+    "technological_platforms": [
+      "Unity (game engine)",
+      "Oculus Touch (hand controller for motion recognition)",
+      "Webcam with Affdex SDK (facial emotion recognition using FACS)",
+      "Knowledge-based system (for mapping emotions/actions to game responses)",
+      "Display (no head-mounted display used, to allow facial expression capture)"
+    ],
+    "instructional_strategies": [
+      "Experiential learning through virtual space simulation",
+      "Reflection through reviewing emotion-annotated action history",
+      "Trial-and-error learning in consequence-free virtual environment",
+      "Self-reflection on ethical decision-making (e.g., recognizing character flaws through reviewing actions like stealing)",
+      "Emotional memory reinforcement through emotion-tagged narratives"
+    ],
+    "content_integration": "The study does NOT integrate history education content. The virtual space simulates an everyday office and break room. Players use a magical tool to interact with a desk (yielding documents, books, or snacks depending on emotion) and a vending machine (yielding cola, money, or a cockroach depending on emotion). The learning content concerns self-reflection on one's own actions and emotions during the virtual experience, not any historical subject matter."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Tutorial operation practice did not match the operation method in the actual virtual space, causing subject confusion",
+      "Some subjects did not know how to perform non-tool actions such as grabbing, throwing, and eating",
+      "No head-mounted display could be used because the system needed to capture facial expressions via camera, limiting immersion",
+      "The system was a prototype and has not been tested for general learning support systems"
+    ],
+    "methodology_limitations": [
+      "Small sample size (n=18) with only male participants, limiting generalizability",
+      "All participants were computer science students aged 22-25, not representative of broader populations",
+      "No control group or pre-post learning measurement",
+      "Descriptive statistics and chi-square tests only; no rigorous experimental design",
+      "Ethical review and approval was not required per local legislation (self-reported)",
+      "No validated learning outcome measures; only subjective questionnaire and SD method evaluations",
+      "Experiments on general learning support systems have not yet been conducted",
+      "No investigation of what granularity and timing of emotional expressions are effective for learning content"
+    ],
+    "negative_effects": [
+      "Non-immersivity factor: the narrative generated by player's actions did not feel immersive",
+      "Non-novelty factor: the office virtual space lacked novelty and variety in scene/behavior",
+      "Story naturalness (Q2) was not statistically significant, with 44% disagreeing/strongly disagreeing that the story was natural",
+      "Ease of operation (Q5) was not statistically significant, with 33% disagreeing"
+    ],
+    "mitigation_strategies": [
+      "Authors recommend the tutorial should allow players to practice ALL possible actions",
+      "Creation of new/different virtual space scenes to improve novelty",
+      "Improving the virtual space to allow more types of actions to enhance immersion",
+      "Future work planned on investigating effective granularity and timing of emotional expressions for learning"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "The study does not describe systematic selection criteria for participants. 18 male students majoring in computer science were 'recruited' with a reward, but no inclusion/exclusion criteria are specified, and no demographic diversity exists (all male, all same major, narrow age range 22-25).",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "Sample is entirely male computer science students from a single university (Future University Hakodate), ages 22-25. This is not representative of any broader population. No randomization or sampling strategy is described.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "The questionnaire and SD method scales were custom-designed for this study with no reported validation. No standardized learning outcome measures were used. The questionnaire uses simple 5-point Likert items and a custom SD method with 10 adjective pairs. No reliability or validity data are reported for these instruments.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "Only descriptive statistics (means, SDs) and univariate chi-square tests are reported. Factor analysis was applied to SD method results with only 18 subjects and 10 variables, which is well below recommended sample-to-variable ratios. No effect sizes are reported. No control group exists for comparison. The chi-square tests are applied to percentages without clear reporting of expected frequencies.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "Moderate concern",
+      "q5_evidence": "The authors interpret results as supporting the usefulness of emotion-inclusive action histories for learning review, but no actual learning outcomes were measured. The leap from 'subjects found stories interesting' to 'historical information is useful for learning' is not empirically supported. The discussion appropriately references emotional memory literature but does not directly test learning effects.",
+      "q6_limitations_discussed": "Moderate concern",
+      "q6_evidence": "The authors acknowledge several limitations: tutorial mismatch, need for more virtual space variety, need for further investigation on general learning systems, and the need to examine granularity/timing of emotional expressions. However, they do not discuss the small sample size, all-male composition, lack of validated instruments, or absence of actual learning outcome measures as limitations.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "This study has high overall risk of bias. It is a small pilot study (n=18) with an all-male, single-discipline sample from one university, using non-validated custom instruments, no control group, no learning outcome measures, and limited statistical analysis. Most critically for this systematic review, the study is NOT about history education at all -- the word 'history' in the title refers to action/event logs (operational history), not to history as an academic subject. The study examines general game-based experiential learning with emotion-based story generation in a virtual office environment. It does not meet the eligibility criteria for a systematic review on gamification of history education."
+  }
+}

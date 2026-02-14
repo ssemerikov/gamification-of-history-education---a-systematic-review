@@ -1,0 +1,140 @@
+{
+  "study_id": 70,
+  "pdf_filename": "The Game-based Learning Activity Integrating Board Game and Mobile Online Searching Tasks for History Learning.pdf",
+  "bibtex_key": "70Hou201519",
+  "bibliographic": {
+    "title": "The Game-based Learning Activity Integrating Board Game and Mobile Online Searching Tasks for History Learning",
+    "authors": [
+      "Huei-Tse Hou",
+      "Yi-Hui Lin"
+    ],
+    "year": 2015,
+    "publication_type": "conference_paper",
+    "venue": "Proceedings of the 23rd International Conference on Computers in Education (ICCE 2015)",
+    "doi": null,
+    "volume": null,
+    "pages": "19-21",
+    "publisher": "Asia-Pacific Society for Computers in Education"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Taiwan"
+    ],
+    "country_of_application": "Taiwan",
+    "education_level": "secondary",
+    "sample_size": 74,
+    "sample_description": "74 students (41 males and 33 females) from 9th grade classes in one high school in Taoyuan city. All participants had not played this board game before.",
+    "study_design": "pre_post",
+    "game_type": "mixed",
+    "game_name": "Historical Battleship (using the board game 'Voyage with Taiwan')",
+    "aim": "To explore students' flow experience in a game-based learning activity integrating a board game and mobile devices with online searching tasks for history learning, and to compare students' perceived learning processes at two stages (board game only vs. board game with mobile devices) to understand the influence of mobile devices on students' perceived learning process.",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is a short conference paper (3 pages) with limited methodological detail. The study uses a within-subjects comparison of two stages rather than a traditional pre-post or experimental-control design. No actual learning achievement test was administered -- only self-reported perceived learning process indicators were measured. The statistical tests used (paired t-tests implied) are not explicitly named. No effect sizes are reported. The study is preliminary in nature, as acknowledged by the authors ('preliminary findings').",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The study conceptualizes game-based learning (GBL) rather than gamification per se. GBL is framed as an approach that integrates board games and mobile devices to support history learning. The study draws on the 'mini-flipped GBL' model proposed by Hou, Chou, & Chen (2014), which designs GBL activities for 5-20 minutes that integrate learner autonomy and cognitive evaluation to promote learning motivation. The board game 'Voyage with Taiwan' was designed according to 'Taiwan historical education curriculum guideline, cognitive theories, scaffolding strategies, and social interaction theories.' The activity combined physical board game play with mobile-device-supported online information searching to enhance discussion, engagement, and history knowledge construction.",
+    "theoretical_frameworks": [
+      "Mini-flipped GBL model (Hou, Chou, & Chen, 2014)",
+      "Flow theory (Csikszentmihalyi, via Kiili's Flow Scale for Games, 2006)",
+      "Cognitive theories",
+      "Scaffolding strategies",
+      "Social interaction theories",
+      "Flipped-classroom pedagogy"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Four perceived learning process indicators (self-reported, 1-5 scale): attention, cognitive engagement, discussion within group, and usefulness of history learning. Nine sub-dimensions of flow state measured via the Flow Scale for Games (Kiili, 2006) on a 5-point Likert scale (Cronbach's alpha = 0.93): challenge, goal, feedback, control, playability, concentration, time distortion, autotelic experience, and loss of self-consciousness.",
+    "statistical_results": "Perceived learning process (Initiate Game Playing Stage vs. Mobile Devices Intervention Stage): Attention: M=3.41 (SD=1.281) vs. M=3.80 (SD=1.135), t=-2.776, p<0.05; Cognitive Engagement: M=2.88 (SD=1.170) vs. M=3.43 (SD=1.304), t=-2.907, p<0.05; Discussion within Groups: M=3.68 (SD=1.336) vs. M=4.08 (SD=1.070), t=-2.722, p<0.05; Usefulness of History Learning: M=3.45 (SD=1.240) vs. M=3.74 (SD=1.159), t=-2.191, p<0.05. Flow state scores (all above 3.0 median): Challenge M=3.85 (SD=0.81); Goal M=4.06 (SD=0.74); Feedback M=3.73 (SD=0.80); Control M=3.77 (SD=0.92); Playability M=3.47 (SD=0.76); Concentration M=3.84 (SD=0.77); Time distortion M=3.87 (SD=1.06); Autotelic experience M=3.85 (SD=0.84); Loss of self-consciousness M=3.09 (SD=0.99).",
+    "comparative_methodology": "Within-subjects comparison of two stages of the same game activity: Stage 1 (initial game playing stage, 9 minutes, board game only) vs. Stage 2 (mobile devices intervention stage, 1 minute, board game with mobile device online searching). Paired t-tests were used to compare perceived learning process scores between the two stages. Flow experience was assessed descriptively by comparing all dimension means against the scale median (3.0).",
+    "key_outcomes": "Students at the mobile devices intervention stage had significantly higher perceived attention, cognitive engagement, discussion within group, and usefulness of history learning compared with the initial game playing stage (all p<0.05). Students demonstrated flow scores higher than 3.0 (the median of the five-point Likert-type scale) across all nine flow dimensions, indicating high overall flow experience during the combined board game and mobile device activity.",
+    "engagement_results": "Students demonstrated high flow experience when playing the board game combined with mobile devices, with all nine flow dimensions scoring above the scale median (3.0). The highest flow dimension was Goal (M=4.06), followed by Time distortion (M=3.87), Challenge and Autotelic experience (both M=3.85), Concentration (M=3.84), Control (M=3.77), Feedback (M=3.73), Playability (M=3.47), and Loss of self-consciousness (M=3.09). Discussion within group also increased significantly from M=3.68 to M=4.08 when mobile devices were introduced."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Board game (physical card-based game 'Voyage with Taiwan')",
+      "Historical event cards (front: event name; back: date and story)",
+      "Chronological ordering task (arranging cards in correct historical sequence)",
+      "Group competition (teams compete for highest scores)",
+      "Time constraint (10-minute total game period)",
+      "Two-stage game structure (9 minutes board game only, 1 minute with mobile devices)",
+      "Score-based assessment (scores calculated based on card arrangement accuracy)",
+      "Mobile device integration for online information searching",
+      "Collaborative group discussion mechanics"
+    ],
+    "technological_platforms": [
+      "Physical board game ('Voyage with Taiwan' by TwoPlus Studio)",
+      "Mobile devices (for online information searching)",
+      "Web-based online searching (via mobile devices)"
+    ],
+    "instructional_strategies": [
+      "Game-based learning (GBL)",
+      "Mini-flipped GBL model (short 5-20 minute GBL activities integrating learner autonomy and cognitive evaluation)",
+      "Collaborative learning through group discussion and card arrangement",
+      "Scaffolded information access (restricting mobile search to the final minute to promote prior knowledge activation first)",
+      "Competition-based motivation (inter-group competition)",
+      "Active learning through physical manipulation of cards and discussion",
+      "Integration of self-directed online searching with board game play",
+      "Social knowledge construction through interpersonal interaction"
+    ],
+    "content_integration": "Historical content was integrated into the board game through event cards based on the Taiwan historical education curriculum. Each card featured the name of a historical event on the front and the date and story on the back. Players had to use their existing knowledge and group discussion to arrange events chronologically without initially seeing the answers (back of cards). In the final minute, mobile devices allowed students to search online for information to verify or correct their arrangements, blending physical game-based collaboration with technology-supported information seeking. The game design was based on Taiwan's historical education curriculum guidelines, ensuring alignment between game content and educational objectives."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Empirical research focusing on GBL that integrates board games, mobile learning, and online searching tasks is scarce, limiting available design guidance",
+      "Flipped-classroom implementation faces challenges in promoting students' self-learning motivation",
+      "The mobile device intervention stage was limited to only 1 minute, constraining the depth of online searching"
+    ],
+    "methodology_limitations": [
+      "Short conference paper (3 pages) with very limited methodological detail",
+      "No actual learning achievement test administered -- only self-reported perceived learning process indicators",
+      "Within-subjects comparison of two stages with unequal durations (9 minutes vs. 1 minute), potentially confounding time and novelty effects",
+      "No control group for comparison",
+      "Statistical test type not explicitly named (paired t-tests implied but not stated)",
+      "No effect sizes reported",
+      "Self-reported measures may not reflect actual cognitive engagement or learning",
+      "No reliability or validity information reported for the perceived learning process indicators (only flow scale Cronbach's alpha reported)",
+      "Sample drawn from a single high school in one city (Taoyuan), limiting generalizability",
+      "Authors acknowledge findings are 'preliminary'",
+      "No description of how groups were composed or whether group-level effects were accounted for in the analysis",
+      "The perceived learning process indicators were developed by the current study without reference to validation procedures"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Future research recommended to record and analyze students' learning process to investigate behavioral patterns using sequential analysis (e.g., Hou, 2015)",
+      "The mini-flipped GBL model was proposed as a strategy to address the challenge of promoting self-learning motivation in flipped classrooms"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "unclear",
+      "q1_evidence": "The paper states 'The participants for this study were 74 students (including 41 males and 33 females) from 9th grade classes in one high school in Taoyuan city. All participants had not played this board game before.' While grade level, gender composition, location, and prior game experience are mentioned, no formal inclusion/exclusion criteria are articulated. It is unclear how or why this particular high school or these particular classes were selected. The phrase 'The students of one class were first divided into six groups randomly' suggests only one class was used, but the total of 74 students seems too large for a single class, creating ambiguity about whether one or multiple classes were involved.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "The sample of 74 ninth-grade students from a single high school in Taoyuan city, Taiwan, provides some demographic information but representativeness is unclear. The sample is a convenience sample from one school. No information about the school type (public/private), academic level, socioeconomic context, or how typical these students are of the broader population of Taiwanese 9th graders is provided. The sample size (n=74) is reasonable for a single-school study but limited for generalization.",
+      "judgment": "Unclear"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "Two instruments were used: (1) perceived learning process indicators developed by the current study with four dimensions (attention, cognitive engagement, discussion within group, usefulness of history learning) scored 1-5, for which no reliability or validity data are reported; and (2) the Flow Scale for Games developed by Kiili (2006) with nine sub-dimensions on a five-point Likert scale, for which a Cronbach's alpha of 0.93 is reported. The flow scale is a published instrument with reported reliability, but the perceived learning process indicators appear to be ad hoc measures without established psychometric properties.",
+      "q4_analysis_methods": "unclear",
+      "q4_evidence": "The results present means, standard deviations, and t-values with significance levels (p<0.05) for the comparison of two stages, implying paired-samples t-tests were used, but the statistical test is never explicitly named. For the flow scale, only descriptive statistics (means and SDs) are reported. No effect sizes, confidence intervals, or assumption checks are reported. The unit of analysis is individual students, but students worked in groups, potentially violating the independence assumption of t-tests -- this is not discussed.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "yes",
+      "q5_evidence": "The interpretations in the abstract and conclusion are consistent with the statistical results presented. The authors correctly report that 'students at the stage using board game with mobile device for online searching had more perceived attention, cognitive engagement, discussion within group, and usefulness of history learning, compared with the stage using the board game only' and that 'students also had high flow experience when playing this board game combined with mobile devices.' The conclusion appropriately characterizes the findings as 'preliminary' and does not overstate the results.",
+      "q6_limitations_discussed": "no",
+      "q6_evidence": "No formal limitations section is included in this short conference paper. The authors briefly acknowledge the findings are 'preliminary' and suggest future research directions ('Future research can record and analyze students' learning process to investigate their behavioral patterns using sequential analysis'), but no explicit discussion of methodological limitations is provided. Key limitations such as the lack of a control group, the use of self-reported rather than objective learning measures, the unequal stage durations, the lack of validation of the perceived learning process indicators, and the single-school convenience sample are not acknowledged.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The overall risk of bias is rated High primarily due to concerns in Domains 2 and 3. Domain 1 (selection) is Unclear because the sample is described with basic demographics but lacks formal selection criteria and representativeness information. Domain 2 (data collection/analysis) is High because one of the two instruments (perceived learning process indicators) lacks any reported validity or reliability, the statistical methods are not explicitly named, no effect sizes are reported, and the nested data structure (students within groups) is not accounted for. Domain 3 (interpretation) is High because, although interpretations are consistent with results, no limitations are discussed despite significant methodological weaknesses (no control group, self-reported measures only, no actual learning achievement test, unequal stage durations, single school, ad hoc instruments). The brevity of this 3-page conference paper inherently limits the methodological detail that can be provided, but critical information about instrument validity and analytical choices is absent."
+  }
+}

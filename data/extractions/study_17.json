@@ -1,0 +1,146 @@
+{
+  "study_id": 17,
+  "pdf_filename": "DESIGN OF A SMARTART CLASSROOM IN ART HISTORY A LEARNING EXPERIENCE WITH SELF-REGULATED SERIOUS GAMES.pdf",
+  "bibtex_key": "17Manzanares2019",
+  "bibliographic": {
+    "title": "Design of a SmartArt Classroom in Art History: A Learning Experience with Self-Regulated Serious Games",
+    "authors": [
+      "M.C. Saiz Manzanares",
+      "M.J. Zaparain Y\u00e1\u00f1ez",
+      "S. Rodr\u00edguez Arribas",
+      "A. Bustillo Iglesias"
+    ],
+    "year": 2019,
+    "publication_type": "conference paper",
+    "venue": "Proceedings of INTED2019 Conference (13th International Technology, Education and Development Conference)",
+    "doi": "10.21125/inted.2019.0565",
+    "volume": null,
+    "pages": "1998-2006",
+    "publisher": "IATED"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Spain"
+    ],
+    "country_of_application": "Spain",
+    "education_level": "Higher education (undergraduate)",
+    "sample_size": null,
+    "sample_description": "University students from multiple undergraduate programs at the University of Burgos: History and Heritage Degree, Media Communication Degree, Tourism Degree, and non-regular students in university extracurricular courses",
+    "study_design": "Design-based research (system design and description, no empirical evaluation with participants)",
+    "game_type": "Serious game / graphic adventure videogame with gamification elements",
+    "game_name": "SmartArt",
+    "aim": "To design a Virtual and Intelligent Classroom called SmartArt, adaptable to different types of students interested in learning the History of Art, using self-regulated serious games integrated with Moodle",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is primarily an art history education study rather than general history education. The study is a design paper describing the SmartArt system without empirical evaluation data from actual participants. It focuses on Classical Greek Sculpture as the content domain. No sample size or empirical results are reported from a formal study with students.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": null,
+    "has_explicit_definition": false,
+    "conceptualization": "The authors conceptualize gamification through the lens of serious games, describing it as a gamified learning structure that uses digital tools to facilitate interactive learning through simulation with embedded learning aids. They link gamification with Self-Regulated Learning (SRL) and Intelligent Tutoring Systems (ITS). They reference Clark (1970) and identify four basic principles of serious games: experimentation/learning by doing, interaction and immediate feedback, reducing fear of error to build meaningful learning, and transferring the main role to the player. The paper treats serious games and gamification as closely related but does not provide a standalone explicit definition of gamification.",
+    "theoretical_frameworks": [
+      "Self-Regulated Learning (SRL) (Zimmerman and Moylan 2009)",
+      "Intelligent Tutoring Systems (ITS)",
+      "Flipped Learning (FL)",
+      "Advanced Learning Technologies (ALTs)",
+      "MetaTutoring",
+      "Bloom's Taxonomy",
+      "MIX Taxonomy of Instructional Experience (Margulieux, McCracken, Catrambone 2016)",
+      "Serious Games (Clark 1970)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "No original quantitative data reported. The authors cite prior research (Gallego-Dur\u00e1n et al. 2014) finding that gamified teaching explains 72% of the variance in learning outcomes, simulators explain 62%, and quiz/puzzle games explain 45%.",
+    "statistical_results": "No original statistical results. Referenced finding: gamified teaching explains 72% of the variance in learning outcomes (from cited meta-analysis by Gallego-Dur\u00e1n et al. 2014).",
+    "comparative_methodology": null,
+    "key_outcomes": "This is a design paper presenting the SmartArt virtual classroom. No empirical outcomes from actual implementation are reported. The paper claims, based on literature review, that the combination of serious games with SRL increases motivation, creativity, and deep learning. The design is intended to facilitate self-regulated learning of art history content.",
+    "engagement_results": null
+  },
+  "rq3": {
+    "game_design_elements": [
+      "Avatar/animated character guides (teacher avatar and historical figure Phidias)",
+      "Graphic adventure narrative structure",
+      "Mini-games and quizzes (clue games, word games, crossword puzzles, sorting/matching tasks)",
+      "Three difficulty levels (Beginner, Intermediate, Advanced)",
+      "Process-oriented feedback with justification for success/failure",
+      "Prior knowledge assessment",
+      "Interactive glossary",
+      "Evaluation rubrics with Likert scale (1-5, Excellent to Not Acceptable)",
+      "Collaborative gamified tasks (team-based clue matching)",
+      "Individual gamified tasks (sorting clues on a board)",
+      "Educational forum debate as gamified consolidation activity",
+      "Sequential task structure with successive approximations to goal"
+    ],
+    "technological_platforms": [
+      "Moodle (UBUVirtual - University of Burgos virtual platform)",
+      "Unreal Engine (2D game engine implementation)",
+      "B-Learning environment"
+    ],
+    "instructional_strategies": [
+      "Self-Regulated Learning (SRL) with metacognitive strategies",
+      "Flipped Learning methodology",
+      "Process-oriented feedback (redirecting to correct content upon error)",
+      "Prior knowledge activation and analysis",
+      "Successive approximations to learning goals",
+      "Collaborative learning through interactive forum discussions",
+      "Evaluation rubrics serving both assessment and instructional functions",
+      "Self-regulated inquiry questions at each learning milestone",
+      "Metacognitive strategy scaffolding: task orientation, planning, monitoring, and reflection"
+    ],
+    "content_integration": "The SmartArt classroom integrates art history content (specifically Classical Greek Sculpture focusing on Ancient and Medieval Ages) through a narrative-driven graphic adventure. Historical figure Phidias serves as an avatar guiding students through learning milestones about Greek sculptors (Miron, Policleto, Fidias, Praxiteles, Escopas, Lisipo). Content is embedded in interactive activities: matching sculptor characteristics with names, crossword puzzles about classical sculpture, collaborative clue-based team activities, and a consensual glossary. The content is presented through hypermedia resources integrated into the Moodle platform alongside the serious game."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Designing serious games requires a delicate narrative design accompanied by precise technical design",
+      "Need to avoid problems inherent to the development of large computer games (authors designed own graphic adventure to mitigate this)",
+      "Mere use of automatic tutoring in LMS does not ensure effectiveness without careful design and monitoring",
+      "Adaptation needed for different student populations with varying levels (regulated vs non-regulated students)"
+    ],
+    "methodology_limitations": [
+      "No empirical evaluation with actual participants is reported",
+      "No sample size or participant data provided",
+      "Paper presents only the design without implementation results",
+      "No pre/post-test or control group comparison",
+      "Effectiveness claims are based on cited literature rather than original data",
+      "Content limited to one specific topic (Classical Greek Sculpture) without evidence of generalizability"
+    ],
+    "negative_effects": [],
+    "mitigation_strategies": [
+      "Used own graphic adventure design to avoid complexity of developing a large computer game",
+      "United mini-games under a single storyline to maintain coherence",
+      "Included process-oriented feedback rather than product-oriented feedback to enhance SRL",
+      "Included evaluation rubrics to provide both evaluative and instructional guidance",
+      "Designed three difficulty levels to accommodate different learner proficiency"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "High concern",
+      "q1_evidence": "No participant selection criteria are described. The study is a design paper that describes the SmartArt system without reporting any empirical study with participants. Target populations are mentioned (undergraduate students in History and Heritage, Media Communication, Tourism, and extracurricular courses) but no actual sample was recruited or studied.",
+      "q2_representativeness": "High concern",
+      "q2_evidence": "No sample was actually recruited. The paper describes the intended target audience but provides no data on actual participants or their representativeness.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "High concern",
+      "q3_evidence": "No measurement instruments were used to collect empirical data. The design includes evaluation rubrics with a Likert scale (1-5), but these are presented as part of the system design rather than as validated research instruments. No learning outcome measures, motivation scales, or other assessment tools are described or validated.",
+      "q4_analysis_methods": "High concern",
+      "q4_evidence": "No data analysis methods are described because no empirical data were collected. The claims about effectiveness (e.g., 72% variance explained) are drawn from cited meta-analysis literature (Gallego-Dur\u00e1n et al. 2014), not from original analysis.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "High concern",
+      "q5_evidence": "The conclusions present the design features as beneficial without empirical evidence from the SmartArt system itself. Claims about increased motivation, creativity, and deep learning are extrapolated from general literature on serious games and SRL rather than demonstrated through the presented system.",
+      "q6_limitations_discussed": "High concern",
+      "q6_evidence": "No limitations of the study or the design are discussed. The paper does not acknowledge the absence of empirical testing or the limitations of presenting a design without evaluation data.",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "This is a design paper that describes the conceptual and technical architecture of the SmartArt virtual classroom for art history education. It provides no empirical data, no participant sample, no measurement instruments, and no original analysis. All effectiveness claims are derived from cited literature rather than from evaluation of the proposed system. The study does not discuss any limitations. While the design itself is detailed and well-grounded in educational theory (SRL, ITS, Flipped Learning), the absence of any empirical evaluation makes it impossible to assess the actual effectiveness of the intervention, resulting in high overall risk of bias."
+  }
+}

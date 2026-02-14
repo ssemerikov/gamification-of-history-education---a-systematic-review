@@ -1,0 +1,146 @@
+{
+  "study_id": 65,
+  "pdf_filename": "The Development of History Educational Game as a Revision Tool for Malaysia School Education.pdf",
+  "bibtex_key": "65Razak201139",
+  "bibliographic": {
+    "title": "The Development of History Educational Game as a Revision Tool for Malaysia School Education",
+    "authors": [
+      "A.A.R. Hadi",
+      "Wan Mohd Fazdli Wan Daud",
+      "Nurul Huda Ibrahim"
+    ],
+    "year": 2011,
+    "publication_type": "conference_paper",
+    "venue": "International Visual Informatics Conference (IVIC 2011), Part II, LNCS 7067",
+    "doi": null,
+    "volume": "7067",
+    "pages": "39-49",
+    "publisher": "Springer-Verlag Berlin Heidelberg"
+  },
+  "study_characteristics": {
+    "countries": [
+      "Malaysia"
+    ],
+    "country_of_application": "Malaysia",
+    "education_level": "secondary",
+    "sample_size": 20,
+    "sample_description": "A sample of twenty students from various gender selected to participate in the PUEU survey after playing the game prototype; the game targets Form 3 students in Malaysia Secondary School",
+    "study_design": "descriptive",
+    "game_type": "digital_custom",
+    "game_name": "History of Japanese Occupation in Malaya (educational game prototype)",
+    "aim": "To develop an educational computer game prototype as a revision tool for history subject in Malaysia secondary school, dedicated to the topic of Japanese invasion on Malaya (Form 3 history syllabus of SMA), and to test its functionality and perceived usefulness/ease of use",
+    "databases": []
+  },
+  "eligibility": {
+    "meets_criteria": true,
+    "concerns": "This is primarily a design/development paper with only a descriptive usability evaluation (PUEU survey with 20 students). There is no experimental or quasi-experimental design, no pre-post test, and no control group. The evaluation focuses on perceived usefulness and ease of use rather than learning outcomes. The study is more of a prototype development report than an effectiveness study.",
+    "is_history_education": true,
+    "is_primary_study": true,
+    "has_gamification": true
+  },
+  "rq1": {
+    "explicit_definition": "An educational game, one designed for learning, is a subset of both play and fun. It is a melding of educational content, learning principles, and computer games [13]. An educational game is combining the element of joy and learns in a playable situation.",
+    "has_explicit_definition": true,
+    "conceptualization": "The study conceptualizes educational games as a revision tool for history learning. The game is framed as a medium to overcome the 'boring phenomenon' in history education and to integrate fun into learning. The authors describe their game as a first-person perspective educational game where students walk in the game room, encounter enemies (Japanese army characters), and must answer multiple-choice history questions to shoot the enemies. The game merges entertainment (first-person shooter mechanics) with educational content (history quiz questions about Japanese invasion of Malaya). The conceptual approach positions the game as a supplementary revision tool for home use rather than a replacement for classroom instruction, noting 'The prototype can be used as teaching aid in class or as a revision tool at home.'",
+    "theoretical_frameworks": [
+      "Multimedia Design and Planning Pyramid (MUDPY) model (Sharda, 2004)",
+      "Prensky's Digital Game Based Learning (2001)",
+      "Concept of serious games (Arvers, 2009; Zyda, 2005)"
+    ]
+  },
+  "rq2": {
+    "quantitative_metrics": "Perceived Usefulness and Ease of Use (PUEU) test consisting of 12 questions on a 7-point Likert scale (unlikely to likely). Questions 1-6 measured perceived usefulness; questions 7-12 measured ease of use. Descriptive statistics (mean, standard error, median, mode) computed using Microsoft Excel.",
+    "statistical_results": "Perceived Usefulness (7-point scale): Question 1 Mean=6.25, SE=0.25, Median=7, Mode=7; Question 2 Mean=5.9, SE=0.26, Median=6, Mode=7; Question 3 Mean=5.31, SE=0.41, Median=6, Mode=6; Question 4 Mean=5.75, SE=0.28, Median=6, Mode=7; Question 5 Mean=5.8, SE=0.32, Median=6.5, Mode=7; Question 6 Mean=6.31, SE=0.26, Median=7, Mode=7. Ease of Use: Question 7 Mean=5.15, SE=0.43, Median=5, Mode=7; Question 8 Mean=4.57, SE=0.53, Median=6, Mode=7; Question 9 Mean=5.85, SE=0.34, Median=6, Mode=7; Question 10 Mean=5.63, SE=0.32, Median=6, Mode=7; Question 11 Mean=5.2, SE=0.40, Median=6, Mode=6; Question 12 Mean=5.89, SE=0.43, Median=7, Mode=7.",
+    "comparative_methodology": "No comparative methodology; single-group descriptive survey design with no control group or pre-post comparison. Only a post-use PUEU questionnaire was administered.",
+    "key_outcomes": "The average score from the prototype is around 4.5 to 6.3 on a 7-point scale. The authors state: 'From the result we can concluded that the average score from the prototype is around 4.5 to 6.3. This is because the users are unfamiliar with the game environment and new to the system. The median of every question is around five to seven.' The highest rated item was Question 6 (perceived usefulness, M=6.31) and the lowest was Question 8 (ease of use, M=4.57). From user feedback, 'the most positive aspect is about the effectiveness of the game to help the users to revise the history subject. They can revise the subject quickly and much more fun compare to the conventional methods.'",
+    "engagement_results": "From qualitative feedback: 'the most positive aspect is about the effectiveness of the game to help the users to revise the history subject. They can revise the subject quickly and much more fun compare to the conventional methods.' However, 'the most negative aspect is the violent and the use of gun in the game and it's not really appreciated by the users.' The perceived usefulness scores (M range 5.31-6.31) were generally higher than ease of use scores (M range 4.57-5.89), suggesting the game was seen as useful but somewhat difficult to use."
+  },
+  "rq3": {
+    "game_design_elements": [
+      "First-person perspective gameplay",
+      "Shooting/combat mechanics (player shoots enemies by answering quiz questions)",
+      "Multiple-choice quiz questions (pop-up questions when encountering enemies)",
+      "Scoring system (bonus mark for correct first answer, normal score for correct second try, health deduction for wrong answers)",
+      "Health system (health value decreases with wrong answers; game over at zero)",
+      "Progressive levels (10 enemies/questions to complete the game)",
+      "Two-chance retry mechanic (player gets two attempts per question)",
+      "Final score display at end of game",
+      "Character design (antagonist: Japanese army; protagonist: Malay army)",
+      "Narrative/storyline (Japanese invasion of Malaya theme)",
+      "Linear navigation structure"
+    ],
+    "technological_platforms": [
+      "Game Maker 8.0 (primary development tool)",
+      "Windows platform (desktop)",
+      "Adobe Photoshop (character and picture editing)",
+      "Audacity Software (sound editing)",
+      "Sony Sound Forge (sound editing)",
+      "Microsoft Excel (PUEU data analysis)"
+    ],
+    "instructional_strategies": [
+      "Game-based revision/review of history content",
+      "Multiple-choice question-answer assessment embedded in gameplay",
+      "Immediate feedback through scoring (bonus marks for correct answers, health deduction for wrong answers)",
+      "Content derived from Form 3 history syllabus (KBSM) on Japanese invasion of Malaya",
+      "Multimedia Design and Planning Pyramid (MUDPY) model for development process",
+      "Three-phase development cycle: Plan, Design, Produce",
+      "Requirements gathering through e-brainstorming, teacher interviews, and classroom observation",
+      "Integration of educational content with entertainment (first-person shooter genre)"
+    ],
+    "content_integration": "Historical content about the Japanese invasion of Malaya was integrated into the game as multiple-choice quiz questions. The educational objectives were: (1) State the reasons for Japan's expanding power, (2) Describe the arrival of the Japanese to Malaya, and (3) List the success factors of Japan dominates Malaya. Players navigate through a jungle-themed environment (reflecting the wartime setting) and encounter enemy characters (Japanese army). To shoot enemies, players must correctly answer history questions via pop-up quiz interfaces. The antagonist character was pictured as Japanese army who invaded Malaya while the protagonist character was pictured as Malay army that secured the Malaya. Content was gathered through Internet sources and history textbooks, then integrated using Game Maker 8.0."
+  },
+  "rq4": {
+    "implementation_barriers": [
+      "Students were unfamiliar with the game environment and new to the system, leading to moderate scores",
+      "Teachers reported lack of teaching aids and difficulty finding good multimedia resources for history class",
+      "Violence in the game (use of guns) was the most negative aspect reported by users",
+      "Platform-specific requirements (Windows only, requires Intel Pentium 4, 1MB RAM, 500KB disk, CD-ROM)"
+    ],
+    "methodology_limitations": [
+      "Very small sample size (n=20) for the PUEU evaluation",
+      "No experimental or quasi-experimental design; only descriptive statistics",
+      "No learning outcome measurement (no pre-test/post-test for knowledge gains)",
+      "No control group or comparison condition",
+      "No inferential statistics performed (only means, standard errors, medians, modes)",
+      "No reliability or validity data reported for the PUEU instrument",
+      "No demographic details of participants beyond 'various gender'",
+      "Self-reported perceptions only; no objective learning metrics",
+      "Black box testing used for functionality but details not reported",
+      "Selection method for the 20 student participants not described"
+    ],
+    "negative_effects": [
+      "Violence and use of guns in the game were the most negative aspect identified by users: 'the most negative aspect is the violent and the use of gun in the game and it's not really appreciated by the users'",
+      "Ease of use scores were lower than usefulness scores, with Question 8 scoring lowest (M=4.57), suggesting usability issues"
+    ],
+    "mitigation_strategies": [
+      "Authors express confidence the game can contribute to history revision: 'With this feedback, we are confident that this game can make a contribution to help the student to do revision for history subject in school'",
+      "Requirements gathering phase included teacher interviews and classroom observations to align game with actual classroom needs",
+      "Two-chance retry mechanism provides scaffolding for incorrect answers rather than immediate punishment"
+    ]
+  },
+  "risk_of_bias": {
+    "domain1": {
+      "q1_selection_criteria": "no",
+      "q1_evidence": "No selection criteria are described for the 20 participants in the PUEU evaluation. The paper states only: 'A sample of twenty students was selected from various gender to participate in this survey.' No information on how students were recruited, from which school, what age/form they were, or any inclusion/exclusion criteria. The game is designed for Form 3 students but there is no confirmation that participants were Form 3 students.",
+      "q2_representativeness": "unclear",
+      "q2_evidence": "The sample of 20 students is described with almost no demographic detail beyond 'various gender.' The target population is Form 3 secondary school students in Malaysia, but it is unclear whether the 20 participants belonged to this target group. The sample size of 20 is very small. No information about age, school, academic level, or prior gaming experience is provided, making representativeness impossible to assess.",
+      "judgment": "High"
+    },
+    "domain2": {
+      "q3_valid_tools": "unclear",
+      "q3_evidence": "The PUEU (Perceived Usefulness and Ease of Use) questionnaire consists of 12 questions with a 7-point Likert scale. However, no source, validation, or reliability information is provided for this instrument. It is unclear whether this is based on the well-known Davis (1989) Technology Acceptance Model PUEU instrument or a custom tool. No Cronbach's alpha or other psychometric properties are reported. The black box testing for functionality is mentioned but no details are provided about test cases or results.",
+      "q4_analysis_methods": "no",
+      "q4_evidence": "Only descriptive statistics (mean, standard error, median, mode) were computed using Microsoft Excel. No inferential statistical analysis was conducted. No justification is given for the choice of descriptive-only analysis. The analysis is limited to reporting central tendency measures for each of the 12 questions individually, with no aggregate scores, no statistical tests, and no effect sizes. The authors' conclusion that scores of 4.5-6.3 on a 7-point scale indicate the game 'will help paced the history revision' is not statistically supported.",
+      "judgment": "High"
+    },
+    "domain3": {
+      "q5_consistent_interpretation": "unclear",
+      "q5_evidence": "The authors interpret the PUEU results as positive: 'From the result we can conclude that this game will help paced the history revision and the system was easy to use in the process.' However, some scores were moderate (e.g., Question 8 M=4.57 on a 7-point scale), and the authors themselves acknowledge 'the users are unfamiliar with the game environment and new to the system' as an explanation for lower scores. The claim that the game is effective for history revision is based only on perceived usefulness ratings, not on any actual learning outcome measurement, which represents an overreach in interpretation.",
+      "q6_limitations_discussed": "no",
+      "q6_evidence": "The paper does not include a limitations section or explicitly discuss any methodological limitations. There is no acknowledgment of the small sample size, lack of experimental design, absence of learning outcome measures, or limitations of using only descriptive statistics. The conclusion makes broad claims without qualifying them: 'Using PUEU test, the result shows that this educational game has fulfilled the user requirement, easy to be use by the user and it is usefull to the student in learning.'",
+      "judgment": "High"
+    },
+    "overall": "High",
+    "overall_justification": "The study has high overall risk of bias due to multiple critical weaknesses: (1) no participant selection criteria described and minimal sample demographics, (2) very small sample size (n=20) with no justification, (3) no experimental design -- only a post-use descriptive survey with no pre-test, post-test, or control group, (4) no actual learning outcome measurement (only perceived usefulness/ease of use), (5) no validity or reliability data for the PUEU instrument, (6) only descriptive statistics with no inferential analysis, (7) overreaching conclusions about learning effectiveness based solely on usability perceptions, and (8) no discussion of limitations whatsoever. The paper is primarily a prototype development report with a minimal, methodologically weak evaluation component."
+  }
+}
