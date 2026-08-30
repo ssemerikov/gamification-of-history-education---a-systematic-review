@@ -216,8 +216,10 @@ def emit_table(rows):
                'sampling error only; they do not incorporate risk of bias, which is rated '
                'separately in the final column and is high for all but one study listed here.}')
     out.append('\\label{tab:effect_sizes}')
-    # 8 columns x 2 tabcolsep: the 6pt default overruns \textwidth by ~21pt.
-    out.append('\\small\\setlength{\\tabcolsep}{4pt}')
+    # NB: \tabcolsep is already 1.5pt here (an earlier relative \setlength in
+    # paper.tex leaks), so an absolute 4pt would *widen* the table.  At \small
+    # the 8 columns overrun \textwidth by 21pt; \footnotesize brings them in.
+    out.append('\\footnotesize\\setlength{\\tabcolsep}{2pt}')
     # Bordered style, matching the other tables in the manuscript.
     out.append('\\begin{tabular}{|l|c|c|r|l|c|c|c|}')
     out.append('\\hline')
