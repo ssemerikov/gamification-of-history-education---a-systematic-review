@@ -1,0 +1,30 @@
+# Screening / eligibility prompt (Claude~3.5~Sonnet)
+# Verbatim prompt used in: Gamification of history education: a systematic review
+# Reproduced from Appendix F of the manuscript.
+
+I would like to assess a set of papers on the following eligibility criteria:
+
+1. Language: paper published in English or Ukrainian.
+2. Publication status: peer-reviewed journal article, conference paper or book chapter. 
+3. Setting: the study was conducted in formal educational settings (e.g., classrooms, 
+online courses) or informal learning environments (e.g., museums, historical sites).
+4. Study designs: empirical studies using quantitative, qualitative, or mixed methods, 
+including experimental, quasi-experimental, and observational designs; literature reviews, 
+conceptual papers, and opinion pieces must be excluded.
+5. Outcomes: studies that measure learning outcomes (e.g., knowledge acquisition, 
+retention, engagement, motivation, or attitudes) or student perceptions of the 
+gamification intervention.
+6. Intervention: studies that investigate the use of gamification techniques, elements, or 
+strategies in history education.
+7. Population: studies involving students in primary, secondary, or higher education 
+settings who are learning history.
+
+The answer to every question should be 1 (yes) or 0 (no) without any comments. 
+Example of answer:
+1
+1
+0
+1
+1
+1
+1

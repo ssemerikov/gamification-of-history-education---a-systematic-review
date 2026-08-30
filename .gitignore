@@ -1,0 +1,8 @@
+# Outputs written by analysis/gen_effect_size_table.py when run from the repo
+# root. The committed copy of its effect-size output lives in analysis/.
+/effect_sizes.csv
+/numbers.tex
+/tables/
+/figures/
+__pycache__/
+*.pyc

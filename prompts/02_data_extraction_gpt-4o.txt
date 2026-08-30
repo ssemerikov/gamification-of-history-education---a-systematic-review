@@ -1,0 +1,31 @@
+# Data-extraction prompt (GPT-4o)
+# Verbatim prompt used in: Gamification of history education: a systematic review
+# Reproduced from Appendix F of the manuscript.
+
+Describe the paper attached using the following scheme. Only give the answer; answers 
+should be sent in a column:
+
+1. Article type: conference papers, peer-reviewed journal articles, and book chapters.
+2. Article title
+3. Publishing year 
+4. Countries in which institutions affiliated with authors are located
+5. Article aim
+6. Article sample size
+7. Sample’s education level 
+8. What explicit definitions of gamification are presented in the research?
+9. How is gamification uniquely conceptualized within history education?
+10. What theoretical frameworks underpin these definitions?
+11. What quantitative learning outcome metrics were measured?
+12. What were the statistically significant results regarding student engagement?
+13. What comparative methodologies were used to assess effectiveness?
+14. What were the most notable improvements in learning performance?
+15. What game design elements were most frequently utilized?
+16. What technological platforms supported gamification?
+17. What specific instructional design strategies were employed?
+18. How were historical content and game mechanics integrated?
+19. What implementation barriers were identified?
+20. What limitations emerged in research methodologies?
+21. What potential mitigation strategies were proposed?
+
+Form the answer in the table of 2 lines for 21 columns, where in the first line place the 
+question, and in the second line place the answers

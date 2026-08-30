@@ -1,0 +1,54 @@
+# Database search strategies
+# Gamification of history education: a systematic review
+# Databases: Scopus, Web of Science, Dimensions. Searched from inception to 17 July 2024.
+# Reproduced verbatim from the Methods (Search strategy).
+
+TITLE ( 
+ history 
+ AND 
+ ( 
+ game* 
+ OR 
+ gamification 
+ ) 
+ AND 
+ ( 
+ education 
+ OR 
+ teaching 
+ OR 
+ learning 
+ OR 
+ student* 
+ OR 
+ instruction 
+ ) 
+) 
+AND 
+(
+ PUBYEAR > 1999 
+ AND 
+ PUBYEAR < 2025 
+) 
+AND 
+( 
+ LIMIT-TO ( LANGUAGE , "English" ) 
+ OR 
+ LIMIT-TO ( LANGUAGE , "Ukrainian" ) 
+) 
+AND 
+( 
+ LIMIT-TO ( DOCTYPE , "cp" ) 
+ OR 
+ LIMIT-TO ( DOCTYPE , "ar" ) 
+ OR 
+ LIMIT-TO ( DOCTYPE , "ch" ) 
+)
+
+----------------------------------------------------------------------
+
+history AND (game* OR gamification) AND 
+(education OR teaching OR learning OR student* OR instruction) (Title) 
+and 2000-2024 (Year Published) 
+and English OR Ukrainian (Language) 
+and Article OR Book Chapter OR Proceedings Paper (Document Type)

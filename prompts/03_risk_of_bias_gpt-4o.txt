@@ -1,0 +1,21 @@
+# Risk-of-bias prompt (GPT-4o)
+# Verbatim prompt used in: Gamification of history education: a systematic review
+# Reproduced from Appendix F of the manuscript.
+
+Provide unambiguous answers to each of the questions: yes, no, unclear:
+
+1. Are the criteria for selecting study participants clearly described?
+2. Is the sample of participants representative of the target population of the study?
+3. Were valid and reliable tools used for data collection?
+4. Are the methods of data analysis described and justified? 
+5. Are the interpretations and conclusions consistent with the results obtained?
+6. Are the limitations of the study acknowledged and discussed?
+
+The answer should consist of only 6 words, each of which  is output on a new line. 
+Example answer:
+yes
+no 
+yes
+unclear
+unclear
+yes
