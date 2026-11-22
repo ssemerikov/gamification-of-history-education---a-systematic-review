@@ -52,3 +52,15 @@ history AND (game* OR gamification) AND
 and 2000-2024 (Year Published) 
 and English OR Ukrainian (Language) 
 and Article OR Book Chapter OR Proceedings Paper (Document Type)
+----------------------------------------------------------------------
+
+Dimensions (full text and title/abstract), exported to XLSX and then filtered
+by title with the program code in the article's appendix:
+
+history
+AND (game* OR gamification)
+AND (education OR teaching OR learning
+     OR student* OR instruction)
+
+Records identified (17 July 2024): Scopus 119; Web of Science Core Collection 78;
+Dimensions 3,799 (23 matched the title expression). Total 3,996.

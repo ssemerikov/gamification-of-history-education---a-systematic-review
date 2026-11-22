@@ -26,7 +26,7 @@ DESIGN NOTES (documented for reproducibility and the manuscript Methods):
 Outputs: effect_sizes.csv, tables/effect_size_table.tex, figures/forest_plot.tex,
          numbers.tex (headline macros).
 """
-import csv, json, math, os, glob, re, statistics as st
+import csv, json, math, os, glob, re, sys, statistics as st
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.dirname(HERE)
@@ -85,36 +85,72 @@ def ci_from_g(g, var_d, j):
     se = math.sqrt((j ** 2) * var_d)
     return se, g - 1.96 * se, g + 1.96 * se
 
-# --- Transcribed estimable studies: primary history-knowledge/achievement outcome ---
-# family: 'change' (single-group pre-post) or 'between' (controlled contrast)
+# --- Transcribed studies with a quantitative outcome ---
+# family: 'change' (single-group pre-post standardized mean change, d_z),
+#         'between' (controlled between-group post-test contrast, d), or
+#         'within'  (within-subject contrast of two conditions, d_z; not pre-post).
 # Each entry documents the reported statistic and the computation path.
+# R3 (Reviewer #4, Q3.2-3.6): every row was re-checked against its PDF
+# (R3_work/A1a_effect_sizes.md, A1b_effect_sizes.md, main_66_71.md). Corrections:
+#   1, 39, 63  paired Wilcoxon signed-rank Z now converted as d_z = |Z|/sqrt(n_pairs),
+#              consistent with the paired-t rows (was the independent-groups r->d formula);
+#   66         outcome is ENGAGEMENT (post-test only, 33 vs 33), not knowledge; exact
+#              two-group F conversion; no gender analysis exists in the study;
+#   71         not estimable (individual percentage gains only, no statistic);
+#   24         randomised 16 vs 20; W=0 refers to the game arm only; not estimable;
+#   28         the reported test is t=0.562, p=.289 (not significant), not "p<.05";
+#   52         same experiment as 67 (conference and journal reports of one study);
+#              represented once, by the journal report 67;
+#   70         within-subject contrast of two game conditions, not a pre-post change;
+#   72         arm sizes for the cognitive test are not reported (24/24 taken from the
+#              attitude tables): split assumed; the quoted critical t implies df=24;
+#   67, 79     exact p printed.
 STUDIES = {
- 1:  dict(fam='change',  path='wilcoxon', Z=2.226, N=17, stat=r"""$Z=-2.226$, $p=.026$""", note='Wilcoxon Z; r->d (approx)'),
+ 1:  dict(fam='change',  path='wilcoxon_paired', Z=2.226, N=17, stat=r"""$Z=-2.226$, $p=.026$""",
+      note='Wilcoxon signed-rank (paired), 17 pupils; d_z = |Z|/sqrt(n)'),
  8:  dict(fam='between', path='indep_t',  t=2.01, n1=51.5, n2=51.5, split='assumed',
-      stat=r"""$t=2.01$, $p=.05$ (post-test)""", note='post-test achievement CGBI vs NCGBI, t; per-arm class sizes not reported (N=103), equal split assumed'),
+      stat=r"""$t=2.01$, $p=.05$ (post-test)""",
+      note='post-test achievement CGBI vs NCGBI; per-arm n, df and SDs not reported (N=103), equal split assumed; t from an SPSS output labelled paired'),
  9:  dict(fam='change',  path='paired_t', t=8.196, n=27, stat=r"""$t=8.196$, $p<.001$""", note='learning effectiveness pre-post'),
  16: dict(fam='change',  path='paired_t', t=5.33, n=38, stat=r"""$t=-5.33$, $p<.001$""", note='historical knowledge pre-post'),
  19: dict(fam='change',  path='paired_t', t=9.58, n=66, stat=r"""$t=9.58$, $p<.001$""", note='knowledge pre-post'),
- 24: dict(fam='change',  path='wilcoxon', Z=None, W=0, N=36, stat=r"""$W=0$, $p\leq.01$ (game phase)""", note='Wilcoxon W (game phase); reported p<.01'),
- 28: dict(fam='between', path='means',    m1=75.62, s1=17.107, n1=21, m2=72.78, s2=16.368, n2=23, stat=r"""$M=75.62$ vs $72.78$, $p<.05$""", note='post-test achievement E vs C (21 experimental, 23 control)'),
- 39: dict(fam='change',  path='wilcoxon', Z=1.97, N=34, stat=r"""$Z=-1.97$, $p=.04$, $r=-.24$""", note='pedagogical value (attitude); r reported .24'),
+ 24: dict(fam='between', path='none', N=36, stat=r"""$W=0$ ($n=16$), $p\leq.01$""",
+      reason='randomised, 16 game vs 20 traditional; only a within-arm signed-rank W is reported, with no Z, dispersion or between-group test',
+      note='not estimable'),
+ 28: dict(fam='between', path='means',    m1=75.62, s1=17.107, n1=21, m2=72.78, s2=16.368, n2=23,
+      stat=r"""$t=0.56$, $p=.29$ (n.s.)""", note='post-test achievement E vs C (21 experimental, 23 control); not significant'),
+ 39: dict(fam='change',  path='wilcoxon_paired', Z=1.97, N=34, stat=r"""$Z=-1.97$, $p=.04$""",
+      note='single attitude item (pedagogical value), Wilcoxon signed-rank (paired), 34 pupils'),
  45: dict(fam='change',  path='paired_t', t=7.72, n=29, stat=r"""$t=7.72$, $p<.05$""", note='history knowledge pre-post'),
- 52: dict(fam='between', path='means',    m1=91.4545, s1=None, n1=11, m2=96.2105, s2=None, n2=19, stat=r"""$t(10)$, $p=.010$ (low achievers)""", note='post-test; SDs not reported -> from gain t below', tchange=None),
- 58: dict(fam='change',  path='paired_t', t=22.46, n=30, stat=r"""$t=22.46$, $p<.001$""", note='learning effectiveness pre-post (outlier)'),
- 63: dict(fam='change',  path='wilcoxon', Z=2.77, N=12, stat=r"""$Z=-2.77$, $p=.006$""", note='Wilcoxon Z; r->d (approx)'),
+ 58: dict(fam='change',  path='paired_t', t=22.46, n=30, stat=r"""$t=22.46$, $p<.001$""", note='learning effectiveness pre-post (outlier; identical pre/post items)'),
+ 63: dict(fam='change',  path='wilcoxon_paired', Z=2.77, N=12, stat=r"""$Z=-2.77$, $p=.006$""",
+      note='Wilcoxon signed-rank (paired), 12 pupils; d_z = |Z|/sqrt(n)'),
  64: dict(fam='change',  path='paired_t', t=15.52, n=40, stat=r"""$t=15.52$, $p<.001$""", note='history score pre-post'),
- 66: dict(fam='between', path='F',        F=4.408, dfe=64, n1=33, n2=33, stat=r"""$F(1,64)=4.408$, $p=.040$""", note='one-way ANOVA F(1,64); 33 experimental, 33 control'),
- 67: dict(fam='change',  path='paired_t', t=3.194, n=11, stat=r"""$t=3.194$, $p<.05$ (exp.\ pre--post)""", note='experimental-group pre-post gain t (control non-sig)'),
- 70: dict(fam='change',  path='paired_t', t=2.907, n=74, stat=r"""$t=-2.907$, $p<.05$""", note='cognitive engagement (engagement construct)'),
- 71: dict(fam='change',  path='approx',   d=0.50, N=25, stat=r"""All 25 improved (no test)""", note='ARG %-gain, approximated (qual scores)'),
- 72: dict(fam='between', path='indep_t',  t=3.101, n1=24, n2=24, stat=r"""$t=3.101>t_{\mathrm{crit}}=1.711$""", note='cognitive post-test E vs C, t'),
- 79: dict(fam='change',  path='paired_t', t=6.113, n=38, stat=r"""$t=6.113$, $p<.05$""", note='knowledge pre-post (controlled arm compares delivery mode, not gamification)'),
+ 66: dict(fam='between', path='F',        F=4.408, dfe=64, n1=33, n2=33, stat=r"""$F(1,64)=4.408$, $p=.040$""",
+      fn='#', note='post-test-only engagement questionnaire, Quizizz game vs discovery learning (33 vs 33); the report also prints the pairwise post-test contrast as p=.069'),
+ 67: dict(fam='change',  path='paired_t', t=3.194, n=11, stat=r"""$t(10)=3.194$, $p=.010$ (exp.\ arm)""",
+      fn='||', note='experimental (low-pretest) arm pre-post; the comparison arm was formed from high pretest scorers, so no valid controlled contrast; same experiment as study 52'),
+ 70: dict(fam='within',  path='paired_t', t=2.907, n=74, stat=r"""$t=-2.907$, $p<.05$""",
+      note='self-rated cognitive engagement, board game vs board game with mobile search (within-subject)'),
+ 71: dict(fam='change',  path='none', N=25, stat=r"""All 25 improved (no test)""",
+      reason='only individual percentage gains are reported; no test statistic, means or SDs', note='not estimable'),
+ 72: dict(fam='between', path='indep_t',  t=3.101, n1=24, n2=24, split='assumed',
+      stat=r"""$t=3.101>t_{\mathrm{crit}}=1.711$""",
+      note='cognitive post-test E vs C; arm sizes for this test not reported (24/24 from the attitude tables); the quoted critical value implies df=24'),
+ 79: dict(fam='change',  path='paired_t', t=6.113, n=38, stat=r"""$t(37)=6.113$, $p<.001$""", note='knowledge pre-post (the second arm compares delivery mode, not gamification)'),
 }
+# Second report of an included study: represented by its fuller journal report.
+SAME_STUDY = {52: 67}
 # construct tag for the estimable set (primary outcome)
 CONSTRUCT = {1:'knowledge',8:'knowledge',9:'knowledge',16:'knowledge',19:'knowledge',
- 24:'knowledge',28:'knowledge',39:'attitude',45:'knowledge',52:'knowledge',58:'knowledge',
- 63:'knowledge',64:'knowledge',66:'knowledge',67:'knowledge',70:'engagement',71:'knowledge',
+ 24:'knowledge',28:'knowledge',39:'attitude',45:'knowledge',58:'knowledge',
+ 63:'knowledge',64:'knowledge',66:'engagement',67:'knowledge',70:'engagement',71:'knowledge',
  72:'knowledge',79:'knowledge'}
+# Footnote texts keyed by the marker used in STUDIES[..]['fn'].
+FOOTNOTES = {
+ '#': r"""$^{\#}$Post-test-only engagement contrast; the primary report also prints its own pairwise post-test comparison as $p=.069$ and lists pre-test cells in a post-hoc table despite a post-test-only design, so the estimate is fragile.""",
+ '||': r"""$^{\|}$Experimental arm only; the comparison arm was formed from the highest pretest scorers, so no valid controlled contrast exists. \citet{52Lin2011265} reports the same experiment and is represented by this row.""",
+}
 
 def compute(sid, s):
     """Return (d, g, N, se, lo, hi, ci_kind).
@@ -134,11 +170,13 @@ def compute(sid, s):
         se, lo, hi = ci_from_g(g, var_d_between(d, n1, n2), J(n1 + n2 - 2))
         return d, g, round(n1 + n2), se, lo, hi, s.get('split', 'exact')
     if p == 'F':
-        d, g = g_from_F(s['F'], s['dfe'])
         n1, n2 = s.get('n1'), s.get('n2')
         if n1 and n2:
-            se, lo, hi = ci_from_g(g, var_d_between(d, n1, n2), J(s['dfe']))
+            # exact two-group conversion: t = sqrt(F), d = t*sqrt(1/n1 + 1/n2)
+            d, g = g_from_indep_t(math.sqrt(s['F']), n1, n2)
+            se, lo, hi = ci_from_g(g, var_d_between(d, n1, n2), J(n1 + n2 - 2))
             return d, g, n1 + n2, se, lo, hi, 'exact'
+        d, g = g_from_F(s['F'], s['dfe'])
         # fall back to an equal split of the ANOVA-implied total
         N = s['dfe'] + 2; h = N / 2.0
         se, lo, hi = ci_from_g(g, var_d_between(d, h, h), J(s['dfe']))
@@ -150,20 +188,42 @@ def compute(sid, s):
             se, lo, hi = ci_from_g(g, var_d_between(d, n1, n2), J(n1 + n2 - 2))
             return d, g, n1 + n2, se, lo, hi, 'exact'
         return None, None, (s.get('n1',0)+s.get('n2',0)), None, None, None, 'none'
+    if p == 'wilcoxon_paired':
+        # Wilcoxon signed-rank on paired (pre/post) scores. The standardized
+        # mean change is approximated as d_z = |Z|/sqrt(n_pairs): Z plays the
+        # role of the paired t (asymptotic relative efficiency of the signed-rank
+        # test vs the t test is 3/pi ~ 0.955), which keeps these rows on the same
+        # d_z metric as the paired-t rows. (Until R2 the independent-groups
+        # conversion d = 2r/sqrt(1-r^2) was applied here, which roughly doubled
+        # these estimates.) Rank statistics saturate at small n, so the rows stay
+        # flagged 'approx'.
+        N = s['N']; d = abs(s['Z']) / math.sqrt(N); g = d * J(N - 1)
+        se, lo, hi = ci_from_g(g, var_d_change(d, N), J(N - 1))
+        return d, g, N, se, lo, hi, 'approx'
     if p == 'wilcoxon':
+        # Wilcoxon rank-sum on two independent groups: r = |Z|/sqrt(N), d = 2r/sqrt(1-r^2)
         if s.get('Z'):
-            N = s['N']; r = r_from_Z(s['Z'], N); d = d_from_r(r); g = d * J(N - 1)
-            # normal-theory variance applied to a rank-derived d: approximate only
-            se, lo, hi = ci_from_g(g, var_d_change(d, N), J(N - 1))
+            N = s['N']; r = r_from_Z(s['Z'], N); d = d_from_r(r); g = d * J(N - 2)
+            n1 = n2 = N / 2.0
+            se, lo, hi = ci_from_g(g, var_d_between(d, n1, n2), J(N - 2))
             return d, g, N, se, lo, hi, 'approx'
         return None, None, s.get('N'), None, None, None, 'none'
-    if p == 'approx':
-        # eyeballed from a reported percentage gain; no test statistic, no J
-        # correction applied -- this value cannot carry an honest CI.
-        return s['d'], s['d'], s.get('N'), None, None, None, 'none'
+    if p == 'none':
+        # not estimable: the reason is recorded in s['reason']
+        return None, None, s.get('N'), None, None, None, 'none'
     return None, None, None, None, None, None, 'none'
 
-FAMLAB = {'change': 'Pre--post', 'between': 'Controlled'}
+FAMLAB = {'change': 'Pre--post', 'between': 'Controlled', 'within': 'Within'}
+XMAX = 1.6   # forest-plot axis limit; the same threshold flags capped values in the table
+
+def load_rob():
+    """Overall risk of bias per study from scripts/gen_rob.py (pre-specified rule)."""
+    f = os.path.join(SRC, 'tables', 'rob_lookup.json')
+    if not os.path.exists(f):
+        sys.exit('run scripts/gen_rob.py first (tables/rob_lookup.json missing)')
+    look = json.load(open(f))
+    return {int(k): v['overall'] + ('$^{u}$' if v['three_level'] == 'Unclear only' else '')
+            for k, v in look.items()}
 
 def norm_design(s):
     """Normalise the free-text design strings transcribed from the primary studies
@@ -195,6 +255,7 @@ def emit_table(rows):
     74 studies in Appendix~\\ref{app:characteristics}.
     """
     sel = [r for r in rows if r[0] in STUDIES]
+    n_low = sum(1 for r in sel if r[4].startswith('Low'))
     # controlled designs first, then descending effect size; non-estimable last
     def key(r):
         fam = 0 if r[6] == 'between' else 1
@@ -208,13 +269,17 @@ def emit_table(rows):
     out.append('\\caption{Reported statistics and author-computed standardized effect sizes '
                '(Hedges\' $g$) with 95\\% confidence intervals, for every study whose reporting '
                'permitted quantitative appraisal. Pre--post = single-group standardized mean '
-               'change ($d_z$); Controlled = between-group post-test contrast; the two families '
+               'change ($d_z$); Controlled = between-group post-test contrast; Within = '
+               'within-subject contrast of two game conditions in the same pupils; the families '
                'are never averaged together. Effect sizes were computed by the authors from the '
                'statistics reported in each primary study (Section~\\ref{sec:Methodology}), not '
                'by any language model. The remaining studies were not estimable (descriptive, '
-               'qualitative, or design/development reports). Confidence intervals express '
+               'qualitative, or design/development reports). $N$ is the number of participants '
+               'contributing to the statistic. Confidence intervals express '
                'sampling error only; they do not incorporate risk of bias, which is rated '
-               'separately in the final column and is high for all but one study listed here.}')
+               'separately in the final column (pre-specified rule; $^{u}$ = high only through '
+               'unclear reporting) and is high for ' + ('every study' if n_low == 0 else f'all but {n_low}') +
+               ' listed here.}')
     out.append('\\label{tab:effect_sizes}')
     # NB: \tabcolsep is already 1.5pt here (an earlier relative \setlength in
     # paper.tex leaks), so an absolute 4pt would *widen* the table.  At \small
@@ -240,7 +305,8 @@ def emit_table(rows):
                 ci += '$^{\\S}$'
         else:
             ci = '--$^{\\P}$'
-        gcell = f'{r[8]}{cap}' if r[8] else 'n.e.$^{\\P}$'
+        fn = f'$^{{\\{s["fn"]}}}$' if s.get('fn') == '#' else ('$^{\\|}$' if s.get('fn') == '||' else '')
+        gcell = (f'{r[8]}{cap}' if r[8] else 'n.e.$^{\\P}$') + fn
         construct = (r[5] or '').capitalize()
         out.append(f'\\citet{{{r[1]}}} & {FAMLAB.get(r[6],r[6])} & {construct} & {r[2]} & '
                    f'{s.get("stat","")} & {gcell} & {ci} & {r[4]} \\\\')
@@ -254,9 +320,10 @@ def emit_table(rows):
                'equal split of the reported total. '
                '$^{\\S}$Effect size derived from a rank-based (Wilcoxon) statistic; the '
                'normal-theory interval is an approximation. '
-               '$^{\\P}$n.e.\\ = not estimable: the study reports a significance test without '
-               'the test statistic, dispersion, or group means needed to standardize an effect, '
-               'so neither a defensible point estimate nor an interval can be computed.')
+               '$^{\\P}$n.e.\\ = not estimable: the study reports no test statistic, or a '
+               'significance test without the dispersion or group means needed to standardize an '
+               'effect, so neither a defensible point estimate nor an interval can be computed. '
+               + ' '.join(FOOTNOTES[k] for k in ('#', '||')))
     out.append('\\end{minipage}')
     out.append('\\end{table}')
     open(os.path.join(SRC, 'tables', 'effect_size_table.tex'), 'w').write('\n'.join(out))
@@ -267,14 +334,13 @@ def emit_forest(know):
     between = [r for r in know if r[6]=='between']
     change.sort(key=lambda r: float(r[8]))
     between.sort(key=lambda r: float(r[8]))
-    XMAX = 1.6
     def author(key):
         m = re.match(r'\d*([A-Za-z]+)(\d{4})', key)
         return f'\\citeauthor{{{key}}}' if m else key
     def panel(items, y0, fill):
         L=[]
         for i, r in enumerate(items):
-            g = min(float(r[8]), 1.5); n = r[2] or 20
+            g = min(float(r[8]), XMAX); n = r[2] or 20
             y = y0 - i*0.62
             rad = 2.0 + 3.5*(math.sqrt(float(n))-math.sqrt(4))/(math.sqrt(200)-math.sqrt(4))
             rad = max(1.8, min(6.0, rad))
@@ -297,7 +363,7 @@ def emit_forest(know):
                 else:
                     L.append(f'\\draw[{fill},line width=0.5pt,->] ({xhi-0.18:.2f},{y:.2f}) -- ({xhi+0.10:.2f},{y:.2f});')
             L.append(f'\\fill[{fill}] ({x:.2f},{y:.2f}) circle ({rad:.1f}pt);')
-            capmark = '$>$' if float(r[8])>1.5 else ''
+            capmark = '$>$' if float(r[8]) > XMAX else ''
             ciTxt = f' [{r[12]}, {r[13]}]' if r[12] and r[13] else ''
             # place the value label clear of the whisker's right-hand end
             xlab = x
@@ -346,22 +412,35 @@ def emit_forest(know):
     lines += axis(ybot2, ytop2, labels=False)
     lines.append(f'\\node[font=\\scriptsize,anchor=north] at (4,{yb-0.75:.2f}) {{Estimated effect size (Hedges\' $g$); marker area $\\propto \\sqrt{{n}}$; bars are 95\\% CIs}};')
     lines.append('\\end{tikzpicture}')
+    NUM = {0: 'no', 1: 'one', 2: 'two', 3: 'three', 4: 'four', 5: 'five', 6: 'six'}
+    def word(k):
+        return NUM.get(k, str(k))
+    n_over = sum(1 for r in know if float(r[8]) > XMAX)
+    n_ci_over = sum(1 for r in know if r[13] and float(r[13]) > XMAX and float(r[8]) <= XMAX)
+    n_zero = sum(1 for r in between if r[12] and float(r[12]) <= 0.0)
+    over_txt = (f'{word(n_over)} pre--post point estimate{"s" if n_over != 1 else ""} '
+                f'exceed{"s" if n_over == 1 else ""} this and '
+                f'{"is" if n_over == 1 else "are"} plotted at the axis limit with the true value '
+                f'prefixed by ``$>$\'\'')
     lines.append('\\caption{Author-computed effect sizes (Hedges\' $g$) with 95\\% confidence '
                  'intervals for history-knowledge and achievement outcomes, for the '
-                 '\\nKnowledgeES{} of 74 studies whose reported statistics permitted estimation, '
+                 '\\nKnowledgeES{} studies whose reported statistics permitted estimation, '
                  'separated by study design. Markers are point estimates with area proportional '
                  'to $\\sqrt{n}$; horizontal bars are 95\\% confidence intervals, which reflect '
-                 'sampling error only and not risk of bias. The axis is truncated at 1.6: four '
-                 'pre--post estimates exceed this and are plotted at the axis limit with their '
-                 'true value prefixed by ``$>$\'\'; arrowheads mark intervals that extend beyond '
-                 'the plotted range, including one controlled estimate whose interval includes '
-                 'zero. Single-group pre--post estimates (top, median '
-                 '$g$=\\medGChange{}) are markedly larger than controlled between-group estimates '
-                 '(bottom, median $g$=\\medGBetween{}), consistent with the absence of a '
-                 'counterfactual inflating uncontrolled designs. Dashed lines mark empirical '
+                 'sampling error only and not risk of bias. The axis is truncated at '
+                 f'{XMAX}: {over_txt}; arrowheads mark intervals that run beyond the plotted '
+                 f'range (the intervals of {word(n_ci_over)} further pre--post estimates extend past '
+                 f'{XMAX}, and {word(n_zero)} controlled interval{"s" if n_zero != 1 else ""} '
+                 f'include{"s" if n_zero == 1 else ""} zero). '
+                 'Pre--post estimates (top, median $g$=\\medGChange{}) are larger than controlled '
+                 'between-group estimates (bottom, median $g$=\\medGBetween{}). The two panels use '
+                 'different metrics~-- a standardized mean change ($d_z$) and a between-group '
+                 'standardized difference~-- that are not directly equivalent, and the controlled '
+                 'panel rests on \\nBetween{} studies, so the gap is consistent with, but does not '
+                 'establish, inflation of uncontrolled estimates. Dashed lines mark empirical '
                  'benchmarks for field-based education interventions '
-                 '\\citep{Kraft2020,Hattie2009}. Two further estimable studies measuring attitude '
-                 'and engagement outcomes appear in Table~\\ref{tab:effect_sizes} but not here.}')
+                 '\\citep{Kraft2020,Hattie2009}. Estimable effects on attitude and engagement '
+                 'outcomes appear in Table~\\ref{tab:effect_sizes} but not here.}')
     lines.append('\\label{fig:forest}')
     lines.append('\\end{figure}')
     open(os.path.join(SRC, 'figures', 'forest_plot.tex'), 'w').write('\n'.join(lines))
@@ -394,23 +473,29 @@ def reason_not_estimable(m):
 
 def main():
     meta = load_meta()
+    rob = load_rob()
+    for sid in meta:
+        meta[sid]['rob'] = rob.get(sid, meta[sid]['rob'])
     rows = []
     for sid in sorted(meta):
         m = meta[sid]
         if sid in STUDIES:
             s = STUDIES[sid]; d, g, nn, se, lo, hi, ck = compute(sid, s)
             if g is None:
-                rows.append([sid, m['key'], m['n'], m['design'], m['rob'],
+                rows.append([sid, m['key'], nn or m['n'], m['design'], m['rob'],
                              CONSTRUCT.get(sid,''), s['fam'], '', '', 'not_estimable',
-                             s['note'], '', '', '', 'none'])
+                             s.get('reason', s['note']), '', '', '', 'none'])
             else:
-                cap = g if abs(g) <= 1.5 else math.copysign(1.5, g)
-                rows.append([sid, m['key'], m['n'], m['design'], m['rob'],
+                rows.append([sid, m['key'], nn, m['design'], m['rob'],
                              CONSTRUCT.get(sid,''), s['fam'], f'{d:.2f}', f'{g:.2f}',
-                             'estimable', s['note'] + ('; capped at 1.5 for plot' if abs(g)>1.5 else ''),
+                             'estimable', s['note'] + (f'; capped at {XMAX} for plot' if abs(g) > XMAX else ''),
                              f'{se:.3f}' if se is not None else '',
                              f'{lo:.2f}' if lo is not None else '',
                              f'{hi:.2f}' if hi is not None else '', ck])
+        elif sid in SAME_STUDY:
+            rows.append([sid, m['key'], m['n'], m['design'], m['rob'], '', '', '', '',
+                         'same_study', f'second report of the experiment in study {SAME_STUDY[sid]}',
+                         '', '', '', 'none'])
         else:
             rows.append([sid, m['key'], m['n'], m['design'], m['rob'], '', '', '', '',
                          'not_estimable', reason_not_estimable(m), '', '', '', 'none'])
@@ -435,6 +520,17 @@ def main():
         q3 = st.median(x[(len(x)+1)//2:]) if len(x)>1 else x[0]
         return (f'{st.median(x):.2f}', f'{q1:.2f}', f'{q3:.2f}', f'{min(x):.2f}--{max(x):.2f}')
     mk = med_iqr(gk); mc = med_iqr(change); mb = med_iqr(between)
+    n_reports = len(rows)
+    n_studies = n_reports - sum(1 for r in rows if r[9] == 'same_study')
+    # Sensitivity 1: pre-post median without the rank-based (approximate) rows
+    change_exrank = [float(r[8]) for r in know if r[6] == 'change' and r[14] != 'approx']
+    # Sensitivity 2 (risk of bias): studies in which no domain was judged high
+    look = json.load(open(os.path.join(SRC, 'tables', 'rob_lookup.json')))
+    nohigh = {int(k) for k, v in look.items() if v['three_level'] != 'High-risk domain'}
+    ch_nh = [float(r[8]) for r in know if r[6] == 'change' and r[0] in nohigh]
+    be_nh = [float(r[8]) for r in know if r[6] == 'between' and r[0] in nohigh]
+    def med(x):
+        return f'{st.median(x):.2f}' if x else '--'
 
     emit_table(rows)
     emit_forest(know)
@@ -453,6 +549,14 @@ def main():
           f'\\newcommand{{\\medGBetween}}{{{mb[0]}}}',
           f'\\newcommand{{\\nChange}}{{{len(change)}}}',
           f'\\newcommand{{\\nBetween}}{{{len(between)}}}',
+          f'\\newcommand{{\\nStudiesUnique}}{{{n_studies}}}   % {n_reports} reports of {n_studies} studies',
+          f'\\newcommand{{\\nNotEstimable}}{{{n_studies - len(est)}}}',
+          f'\\newcommand{{\\nChangeExRank}}{{{len(change_exrank)}}}',
+          f'\\newcommand{{\\medGChangeExRank}}{{{med(change_exrank)}}}',
+          f'\\newcommand{{\\nChangeNoHigh}}{{{len(ch_nh)}}}',
+          f'\\newcommand{{\\medGChangeNoHigh}}{{{med(ch_nh)}}}',
+          f'\\newcommand{{\\nBetweenNoHigh}}{{{len(be_nh)}}}',
+          f'\\newcommand{{\\medGBetweenNoHigh}}{{{med(be_nh)}}}',
           '% <<< ES', '']
     open(nums, 'w').write(base + '\n'.join(es))
 
@@ -460,7 +564,9 @@ def main():
     print('  knowledge/achievement:', len(know), f'(median g={mk[0]}, IQR {mk[1]}-{mk[2]}, range {mk[3]})')
     print('  change-family g       :', len(change), f'median {mc[0]}')
     print('  between-family g       :', len(between), f'median {mb[0]}')
-    print('Not estimable          :', 74 - len(est))
+    print('Not estimable          :', n_studies - len(est), f'of {n_studies} studies ({n_reports} reports)')
+    print('Sensitivity: pre-post without rank rows', len(change_exrank), med(change_exrank),
+          '| no-high-domain: change', len(ch_nh), med(ch_nh), sorted(ch_nh), 'between', len(be_nh), med(be_nh), sorted(be_nh))
     print('\nValidation vs thesis seeds (t-based should match):')
     for sid, seed in [(16,0.86),(19,1.18),(45,1.43),(8,0.40),(66,0.52)]:
         r = next(r for r in rows if r[0]==sid)
